@@ -23,3 +23,5 @@ ManyBabies gratefully acknowledges funding from:
 + The Association for Psychological Science, through a grant from the Laura and John Arnold Foundation
 
 If you are interested in participating or leading a new ManyBabies project, please contact mcfrank (at) stanford dot edu.
+
+[We are hosting a workshop! Click here for more information.](/docs/CDSworkshop.md)
