@@ -24,4 +24,4 @@ ManyBabies gratefully acknowledges funding from:
 
 If you are interested in participating or leading a new ManyBabies project, please contact mcfrank (at) stanford dot edu.
 
-[We are hosting a workshop! Click here for more information.](/CDSworkshop.md)
+[We are hosting a workshop! Click here for more information.](/mgd-edits/CDSworkshop.md)
