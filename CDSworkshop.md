@@ -1,3 +1,4 @@
+
 ### Collaborative Replication in Developmental Psychology
 
 **Organizers:**
@@ -23,3 +24,6 @@ Time | Presenter | Topic
 2:25-2:40 | Wood | *Replication in the Comparative Setting.* Wood is a developmental and comparative psychologist and will present insights from the large scale replication projects he is carrying out to look at controlled rearing studies with chicks.
 2:40-3:00 | N/A | Coffee break
 3:00-4:00 | Guided Discussion | *What's Next for ManyBabies.* The final portion of the workshop will be devoted to discussion and planning of new ManyBabies studies and other large-scale collaborative projects. In preparation for this discussion, we will circulate a survey to confirmed workshop attendees asking for suggestions for projects that they would like to discuss. A pre-emptive survey has confirmed attendance and interest from over a dozen research labs. We will then compile ares of particular interest, and brea participants into groups to discuss these interests (e.g., a replication study of social cognition, or a new consortium study of word learning) and report back to the group. The goal would be for participants to come away with new connections for large scale collaborative projects (whether they are under the ManyBabies umbrella or otherwise).
+=======
+info will go here
+
