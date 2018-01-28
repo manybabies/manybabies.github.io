@@ -25,3 +25,5 @@ To apply, please send to [dkellier@stanford.edu](mailto:dkellier@stanford.edu) w
 * Links to shared analytic materials that demonstrate qualifications (e.g., github page, OSF link), and
 * Names for 2-3 references.
 
+**Application review will begin February 15th**
+
