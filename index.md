@@ -21,7 +21,7 @@ If you are interested in participating or leading a new ManyBabies project, plea
 ### Governance and Funding
 
 The ManyBabies Governing Board is the group of individuals responsible for governance decisions in the ManyBabies project, including decisions about funding, new projects, and other project-wide concerns.
-+ Christina Bergmann (École Normale Supérieure)
++ Christina Bergmann (Max Planck Institute for Psycholinguistics)
 + Krista Byers-Heinlein (Concordia University)
 + Michael C. Frank (Stanford University)
 + Kiley Hamlin (University of British Columbia)
