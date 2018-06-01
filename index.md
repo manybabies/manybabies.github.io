@@ -4,9 +4,8 @@ ManyBabies is a collaborative project for replication and best practices in deve
 
 ### News 
 
-+ **[Starting January 2018, we are accepting applications for a postdoctoral fellowship!](postdoc.html)**
 + [We hosted a workshop at the Cognitive Development Society in Fall 2017.](CDSworkshop.html)
-+ [We have a special issue in Infant Behavior and Development, due date April 1, 2018, on the topic of "Replication, Collaboration, and Best Practices in Infancy Research"](https://www.journals.elsevier.com/infant-behavior-and-development/call-for-papers/call-for-papers-replication-collaboration-and-best-practices)
++ [We have a special issue in Infant Behavior and Development, due date April 1, 2018, on the topic of "Replication, Collaboration, and Best Practices in Infancy Research"](https://www.journals.elsevier.com/infant-behavior-and-development/call-for-papers/call-for-papers-replication-collaboration-and-best-practices) - Submissions are now under review.
 
 ### Projects
 
