@@ -1,1 +1,27 @@
-theme: jekyll-theme-slate
+# Site settings
+title: ManyPrimates
+subtitle: 
+email: manyprimates@gmail.com
+description: The ManyPrimates project aims to build an infrastructure that facilitates collaboration across study sites in primate cognition research.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://manyprimates.github.io" # the base hostname & protocol for your site
+author: ManyPrimates
+lang: en_US
+
+# Social
+twitter:
+  username: ManyPrimates
+  card: summary
+
+# Social settings
+github_url: https://github.com/ManyPrimates
+slack_url: https://manyprimates.slack.com
+twitter_url: https://twitter.com/ManyPrimates
+osf_url: https://osf.io/tr6q3/
+
+# Build settings
+markdown: kramdown
+
+# Plugins
+plugins:
+  - jekyll-seo-tag

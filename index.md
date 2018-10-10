@@ -1,39 +1,73 @@
-## The ManyBabies Project
+---
+layout: default
+---
 
-ManyBabies is a collaborative project for replication and best practices in developmental psychology research. Our goal is to bring labs together to address difficult outstanding theoretical and methodological questions about the nature of early development and how it is studied.
+<!-- Section -->
+<section>
+	<header class="major">
+		<h2>Get involved</h2>
+	</header>
+	<div class="features">
+		<article>
+			<span class="icon fa-bullhorn"></span>
+			<div class="content">
+				<h3>News</h3>
+				<p><strong>Aug 2018</strong>: The project was officially launched at the 27th International Primatological Society Congress in Nairobi, Kenya!</p>
+			</div>
+		</article>
+		<article>
+			<span class="icon fa-pencil"></span>
+			<div class="content">
+				<h3><a href="{{ 'authorship.html' | absolute_url }}">Authorship Guidelines</a></h3>
+				<p>As a large scientific collaboration that aims to be inclusive, we are currently developing guidelines and criteria for how to assign authorship to individuals involved in ManyPrimates projects.</p>
+			</div>
+		</article>
+		<article>
+			<span class="icon fa-balance-scale"></span>
+			<div class="content">
+				<h3><a href="{{ 'ethics.html' | absolute_url }}">Ethics Guidelines</a></h3>
+				<p>We are currently developing ethical guidelines for cognitive research with captive primates in general as well as for specific concerns that sanctuaries may have about the use of primates in research.</p>
+			</div>
+		</article>
+		<article>
+			<span class="icon fa-paper-plane"></span>
+			<div class="content">
+				<h3><a href="mailto:{{ site.email }}" target="_blank">Contact</a></h3>
+				<p>We encourage everyone who is interested in primate cognition to get involved. Access to primates is <strong>NOT</strong> a prerequisite.</p>
+			</div>
+		</article>
+	</div>
+</section>
 
-### News 
-
-+ **[Starting January 2018, we are accepting applications for a postdoctoral fellowship!](postdoc.html)**
-+ [We hosted a workshop at the Cognitive Development Society in Fall 2017.](CDSworkshop.html)
-+ [We have a special issue in Infant Behavior and Development, due date April 1, 2018, on the topic of "Replication, Collaboration, and Best Practices in Infancy Research"](https://www.journals.elsevier.com/infant-behavior-and-development/call-for-papers/call-for-papers-replication-collaboration-and-best-practices)
-
-### Projects
-
-We currently have three ongoing projects:
-
-+ ManyBabies 1: [Infant-Directed Speech Preference](https://osf.io/re95x/). Data collection began 5/1/17. (Lead: Mike Frank).
-+ ManyBabies 1B: [The Infant-Directed Speech Preference in Bilingual Infants](https://osf.io/zauhq/). Data collection began 5/1/17. (Lead: Krista Byers-Heinlein).
-+ ManyBabies 2: [Theory of Mind in Infancy](https://osf.io/jmuvd/). Currently in the planning stages. (Lead: Hannes Rakoczy). 
-
-If you are interested in participating or leading a new ManyBabies project, please contact mcfrank (at) stanford dot edu.
-
-### Governance and Funding
-
-The ManyBabies Governing Board is the group of individuals responsible for governance decisions in the ManyBabies project, including decisions about funding, new projects, and other project-wide concerns.
-+ Christina Bergmann (Max Planck Institute for Psycholinguistics)
-+ Krista Byers-Heinlein (Concordia University)
-+ Michael C. Frank (Stanford University)
-+ Kiley Hamlin (University of British Columbia)
-+ Melissa Kline (Harvard University)
-+ Casey Lew-Williams (Princeton University)
-+ Melanie Soderstrom (University of Manitoba)
-
-ManyBabies gratefully acknowledges funding from: 
-+ The Association for Psychological Science, through a grant from the Laura and John Arnold Foundation
-
-### References
-
-To learn more about the ManyBabies, approach, you can read our paper:	
-
-Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., Hamlin, J. K., Hannon, E. E., Kline, M., Levelt, C., Lew-Williams, C., Nazzi, T., Panneton, R., Rabagliati, H., Soderstrom, M., Sullivan, J., Waxman, S., Yurovsky, D. (in press). [A collaborative approach to infant research: Promoting reproducibility, best practices, and theory-building.](https://osf.io/27b43/) _Infancy._
+<!-- Section -->
+<section>
+	<header class="major">
+		<h2>Projects</h2>
+	</header>
+	<div class="posts">
+		<article>
+			<a href="{{ 'pilot.html' | absolute_url }}" class="image"><img src="assets/images/pic01.jpg" alt="" /></a>
+			<h3>Pilot</h3>
+			<p>As a proof of concept, this study was a first step towards building an infrastructure that facilitates large-scale collaboration in primate cognition research. In this pilot study, we conducted a short-term memory task with 187 primates from 12 species and 13 sites. </p>
+			<ul class="actions">
+				<li><a href="{{ 'pilot.html' | absolute_url }}" class="button">Learn more</a></li>
+			</ul>
+		</article>
+		<article>
+			<a href="{{ 'project1.html' | absolute_url }}" class="image"><img src="assets/images/pic04.jpg" alt="" /></a>
+			<h3>ManyPrimates 1: Short-Term Memory</h3>
+			<p>The first ManyPrimates project is a continuation of our <a href="{{ 'pilot.html' | absolute_url }}">pilot study</a>. We hope to increase the number of species and individuals per species in order to make meaningful inferences about the evolution of short-term memory abilities in the primate lineage.</p>
+			<ul class="actions">
+				<li><a href="{{ 'project1.html' | absolute_url }}" class="button">Learn more</a></li>
+			</ul>
+		</article>
+		<article>
+			<a href="{{ 'project2.html' | absolute_url }}" class="image"><img src="assets/images/pic02.jpg" alt="" /></a>
+			<h3>ManyPrimates 2</h3>
+			<p>We are currently collecting ideas for the second ManyPrimates project. If you are interested in joining the project, please <a href="mailto:{{ site.email }}" target="_blank">get in touch</a>.</p>
+			<ul class="actions">
+				<li><a href="{{ 'project2.html' | absolute_url }}" class="button">Learn more</a></li>
+			</ul>
+		</article>
+	</div>
+</section>
