@@ -16,7 +16,7 @@ The ManyBabies Governing Board is the group of individuals responsible for gover
 + Krista Byers-Heinlein (Concordia University)
 + Michael C. Frank (Stanford University)
 + Kiley Hamlin (University of British Columbia)
-+ Melissa Kline (Harvard University)
++ Melissa Kline (Center for Open Science)
 + Casey Lew-Williams (Princeton University)
 + Melanie Soderstrom (University of Manitoba)
 
