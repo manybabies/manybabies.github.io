@@ -4,6 +4,12 @@ title: The ManyBabies Project
 subtitle: ManyBabies is a collaborative project for replication and best practices in developmental psychology research. Our goal is to bring labs together to address difficult outstanding theoretical and methodological questions about the nature of early development and how it is studied.
 ---
 
+### Definitions, Roles, and Ways to Contribute
+
+Documentation detailing (1) what the general aims of ManyBabies are; (2) what a ManyBabies project is; (3) which roles and responsibilities exist within ManyBabies; and (4) what our code of conduct is can be downloaded [here (pdf)](https://docs.google.com/document/d/1UYSevbWnBQwd_eaBe1oKkOBX-8sMsBfiPz2kwNp7Ttc/export?format=pdf). 
+
+Note that this is a living document, and comments and questions are explicitly encouraged. [Here is a version of the document that allows (anonymous) comments](https://docs.google.com/document/d/1UYSevbWnBQwd_eaBe1oKkOBX-8sMsBfiPz2kwNp7Ttc/edit).
+
 ### Projects
 
 Check out the ongoing [projects]({{site.baseurl}}/projects/).
