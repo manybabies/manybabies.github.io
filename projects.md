@@ -22,17 +22,37 @@ Status: Completed.
 
 Links: [OSF Project](https://osf.io/re95x/). [Listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1).
 
-### MB1 longitudinal vocabulary followup
+### MB1B: The Infant-Directed Speech Preference in Bilingual Infants
+
+Topic: Is the preference for infant-directed speech modulated by bilingual language exposure?
+
+Leads: Krista Byers-Heinlein
+
+Status: Final post-data collection manuscript preparation. 
+
+Links: [OSF Project](https://osf.io/zauhq/). [Listserv](https://groups.google.com/forum/#!forum/manybabies-bilingual).
+
+### MB1L: longitudinal vocabulary followup
 
 Topic: Followup study to MB1 measuring the relationship between infant-directed speech preference and later vocabulary.
 
 Leads: Melanie Soderstrom
 
-Status: Completed.
+Status: Data collection ongoing.
 
 Links: [OSF Project](https://osf.io/2qamd/). 
 
-### MB1 test-retest followup
+### MB1: native language comparison 
+
+Topic: How does IDS preference to NA English in MB1 compare to IDS preference measured in non-English speaking babies' native language?
+
+Leads: Melanie Soderstrom
+
+Status: Stimulus creation and data collection.
+
+Links: Contact leads for more information.
+
+### MB1: test-retest followup
 
 Topic: How reliable is the looking-time measure collected in MB1? 
 
@@ -42,7 +62,7 @@ Status: Final post-data collection manuscript preparation.
 
 Links: Contact leads for more information.
 
-### MB1 Africa
+### MB1: Africa
 
 Topic: Do infants growing up in a range of African nations show a preference for infant-direcvted speech?
 
@@ -56,16 +76,6 @@ Links: Contact leads for more information.
 
 * Comparison to meta-analytic data (lead: Christina Bergmann)
 * Analysis of supplemental demographic variables (lead: Melissa Kline)
-
-## MB1B: The Infant-Directed Speech Preference in Bilingual Infants
-
-Topic: Is the preference for infant-directed speech modulated by bilingual language exposure?
-
-Leads: Krista Byers-Heinlein
-
-Status: Final post-data collection manuscript preparation. 
-
-Links: [OSF Project](https://osf.io/zauhq/). [Listserv](https://groups.google.com/forum/#!forum/manybabies-bilingual).
 
 ## MB2: Theory of Mind in Infancy
 
