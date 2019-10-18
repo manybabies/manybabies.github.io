@@ -13,7 +13,10 @@ Note that this is a living document, and comments and questions are explicitly e
 ### Projects
 
 Check out the ongoing [projects]({{site.baseurl}}/projects/).
-If you are interested in participating or leading a new ManyBabies project, please contact mcfrank (at) stanford dot edu.
+
+### Listserv
+
+To stay up to date about ManyBabies, join our general listserv by subscribing [here](https://mailman.stanford.edu/mailman/listinfo/manybabies). Each ManyBabies project also has its own project-specific listserv, which you can find on our [projects]({{site.baseurl}}/projects/) page.
 
 ### Governance and Funding
 
@@ -26,6 +29,8 @@ The ManyBabies Governing Board is the group of individuals responsible for gover
 + Casey Lew-Williams (Princeton University)
 + Melanie Soderstrom (University of Manitoba)
 
-ManyBabies gratefully acknowledges funding from: 
-+ The Association for Psychological Science, through a grant from the Laura and John Arnold Foundation
+You can get in touch with the Governing Board by e-mailing manybabies-gb (at) mailman.stanford.edu.
 
+ManyBabies gratefully acknowledges funding from: 
++ The [Association for Psychological Science](https://www.psychologicalscience.org), through a grant from the [Laura and John Arnold Foundation](http://www.laaf.org/ljaf).
++ A grant from the [Jacobs Foundation](https://jacobsfoundation.org).
