@@ -22,8 +22,6 @@ Status: Completed.
 
 Links: [OSF Project](https://osf.io/re95x/). [Listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1).
 
-Listserv: 
-
 ### MB1 longitudinal vocabulary followup
 
 Topic: Followup study to MB1 measuring the relationship between infant-directed speech preference and later vocabulary.
