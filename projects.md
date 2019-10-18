@@ -6,6 +6,8 @@ title: Our Projects
 
 The broader goals of ManyBabies come together in a set of collaborative projects. This page gives an (incomplete) overview of past and ongoing ManyBabies projects. 
 
+To get general updates, join our [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies) by visiting the link and putting in your email address.
+
 ## ManyBabies Theory Paper
 
 A statement of our broader goals as a group, available at [https://psyarxiv.com/27b43/]().
@@ -18,7 +20,9 @@ Leads: Michael Frank and Melanie Soderstrom
 
 Status: Completed.
 
-Links: [OSF Project](https://osf.io/re95x/).
+Links: [OSF Project](https://osf.io/re95x/). [Listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1).
+
+Listserv: 
 
 ### MB1 longitudinal vocabulary followup
 
@@ -57,14 +61,13 @@ Links: Contact leads for more information.
 
 ## MB1B: The Infant-Directed Speech Preference in Bilingual Infants
 
-
 Topic: Is the preference for infant-directed speech modulated by bilingual language exposure?
 
 Leads: Krista Byers-Heinlein
 
 Status: Final post-data collection manuscript preparation. 
 
-Links: [OSF Project](https://osf.io/zauhq/)
+Links: [OSF Project](https://osf.io/zauhq/). [Listserv](https://groups.google.com/forum/#!forum/manybabies-bilingual).
 
 ## MB2: Theory of Mind in Infancy
 
@@ -74,7 +77,7 @@ Leads: Hannes Rakoczy, Tobias Schuwerk, Dora Kampis, Michael Frank
 
 Status: Pilot data collection completed.
 
-Links: [OSF project page](https://osf.io/jmuvd/)
+Links: [OSF project page](https://osf.io/jmuvd/). [Listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies2).
 
 ## MB3: Rule Learning
 
@@ -84,7 +87,7 @@ Leads: Ingmar Visser, Clartje Levelt
 
 Status: Stimulus creation ongoing. 
 
-Links: [OSF Project](https://osf.io/kqu9v/)
+Links: [OSF Project](https://osf.io/kqu9v/). [Listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies3).
 
 ## MB4: Moral Evaluation
 
@@ -94,7 +97,7 @@ Leads: Kelsey Lucca, Kiley Hamlin
 
 Status: Pilot data collection is completed.
 
-Links: [OSF Project](https://osf.io/xe2pj/)
+Links: [OSF Project](https://osf.io/xe2pj/). [Listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies4).
 
 ## New Projects
 
