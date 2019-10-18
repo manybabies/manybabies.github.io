@@ -1,17 +1,101 @@
 ---
 layout: page
-title: Projects
+title: Our Projects
 ---
 
 
-Our ongoing projects include:
+The broader goals of ManyBabies come together in a set of collaborative projects. This page gives an (incomplete) overview of past and ongoing ManyBabies projects. 
 
-+ ManyBabies 1: [Infant-Directed Speech Preference](https://osf.io/re95x/). Data collection began 5/1/17. (Lead: Michael Frank).
-  + [MB1 longitudinal vocabulary followup](https://osf.io/2qamd/). (Lead: Melanie Soderstrom).
-  + MB1 test-retest followup. (Lead: Melanie Schreiner).
-+ ManyBabies 1B: [The Infant-Directed Speech Preference in Bilingual Infants](https://osf.io/zauhq/). Data collection began 5/1/17. (Lead: Krista Byers-Heinlein).
-+ ManyBabies 2: [Theory of Mind in Infancy](https://osf.io/jmuvd/). Pilot data collection is ongoing. (Leads: Hannes Rakoczy, Tobias Schuwerk, Dora Kampis, Michael Frank). 
-+ ManyBabies 3: [Rule Learning](https://osf.io/kqu9v/). Stimulus creation is ongoing. (Leads: Ingmar Visser, Clartje Levelt). 
-+ ManyBabies 4: [Moral Evaluation](https://osf.io/xe2pj/). Pilot data collection is completed. (Leads: Kelsey Lucca, Kiley Hamlin). 
+## ManyBabies Theory Paper
 
-If you are interested in participating or leading a new ManyBabies project, please contact mcfrank (at) stanford dot edu.
+A statement of our broader goals as a group, available at [https://psyarxiv.com/27b43/]().
+
+## MB1: Infant-Directed Speech Preference
+
+Topic: Do infants have a preference for infant-directed speech? How does this preference vary across age, method, and native language background?
+
+Leads: Michael Frank and Melanie Soderstrom
+
+Status: Completed.
+
+Links: [OSF Project](https://osf.io/re95x/).
+
+### MB1 longitudinal vocabulary followup
+
+Topic: Followup study to MB1 measuring the relationship between infant-directed speech preference and later vocabulary.
+
+Leads: Melanie Soderstrom
+
+Status: Completed.
+
+Links: [OSF Project](https://osf.io/2qamd/). 
+
+### MB1 test-retest followup
+
+Topic: How reliable is the looking-time measure collected in MB1? 
+
+Leads: Melanie Schreiner
+
+Status: Final post-data collection manuscript preparation. 
+
+Links: Contact leads for more information.
+
+### MB1 Africa
+
+Topic: Do infants growing up in a range of African nations show a preference for infant-direcvted speech?
+
+Leads: Angeline Tsui, Casey Lew-Williams, Michael Frank
+
+Status: Planning and training prior to data collection.
+
+Links: Contact leads for more information.
+
+### MB1: Other followups
+
+* Comparison to meta-analytic data (lead: Christina Bergmann)
+* Analysis of supplemental demographic variables (lead: Melissa Kline)
+
+## MB1B: The Infant-Directed Speech Preference in Bilingual Infants
+
+
+Topic: Is the preference for infant-directed speech modulated by bilingual language exposure?
+
+Leads: Krista Byers-Heinlein
+
+Status: Final post-data collection manuscript preparation. 
+
+Links: [OSF Project](https://osf.io/zauhq/)
+
+## MB2: Theory of Mind in Infancy
+
+Topic: Do infants show anticipatory looking that reflects the false belief of another agent?
+
+Leads: Hannes Rakoczy, Tobias Schuwerk, Dora Kampis, Michael Frank
+
+Status: Pilot data collection completed.
+
+Links: [OSF project page](https://osf.io/jmuvd/)
+
+## MB3: Rule Learning
+
+Topic: Do infants learn and generalize identity-based rules from speech stimuli?
+
+Leads: Ingmar Visser, Clartje Levelt
+
+Status: Stimulus creation ongoing. 
+
+Links: [OSF Project](https://osf.io/kqu9v/)
+
+## MB4: Moral Evaluation
+
+Topic: Do infants prefer agents who are seen to help over those who are seen to hinder?
+
+Leads: Kelsey Lucca, Kiley Hamlin
+
+Status: Pilot data collection is completed.
+
+Links: [OSF Project](https://osf.io/xe2pj/)
+
+## New Projects
+
+If you are interested in leading a new ManyBabies project, please contact the ManyBabies governing board at [manybabies-gb@lists.stanford.edu](mailto://manybabies-gb@lists.stanford.edu).
