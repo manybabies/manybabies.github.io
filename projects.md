@@ -64,7 +64,7 @@ Links: Contact leads for more information.
 
 ### MB1: Africa
 
-Topic: Do infants growing up in a range of African nations show a preference for infant-direcvted speech?
+Topic: Do infants growing up in a range of African nations show a preference for infant-directed speech?
 
 Leads: Angeline Tsui, Casey Lew-Williams, Michael Frank
 
@@ -74,7 +74,7 @@ Links: Contact leads for more information.
 
 ### MB1: Other followups
 
-* Comparison to meta-analytic data (lead: Christina Bergmann)
+* Comparison to meta-analytic data (leads: Christina Bergmann, Riccardo Fusaroli)
 * Analysis of supplemental demographic variables (lead: Melissa Kline)
 
 ## MB2: Theory of Mind in Infancy
