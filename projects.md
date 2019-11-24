@@ -20,7 +20,7 @@ Leads: Michael Frank and Melanie Soderstrom
 
 Status: Completed.
 
-Links: [OSF Project](https://osf.io/re95x/). [Listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1).
+Links: [OSF Project with Materials, Protocols, and Documentation](https://osf.io/re95x/). [Listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1). [Data and Code on Github](https://github.com/manybabies/mb1-analysis-public). 
 
 ### MB1B: The Infant-Directed Speech Preference in Bilingual Infants
 
