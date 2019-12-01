@@ -32,7 +32,7 @@ Status: Final post-data collection manuscript preparation.
 
 Links: [OSF Project](https://osf.io/zauhq/). [Listserv](https://groups.google.com/forum/#!forum/manybabies-bilingual).
 
-### MB1L: longitudinal vocabulary followup
+### MB1L: Longitudinal Vocabulary Followup
 
 Topic: Followup study to MB1 measuring the relationship between infant-directed speech preference and later vocabulary.
 
@@ -42,17 +42,17 @@ Status: Data collection ongoing.
 
 Links: [OSF Project](https://osf.io/2qamd/). 
 
-### MB1: native language comparison 
+### MB1: Native Languages Follow-up Study
 
-Topic: How does IDS preference to NA English in MB1 compare to IDS preference measured in non-English speaking babies' native language?
+Topic: How does IDS preference to NA English in MB1 compare to IDS preference measured in non-English speaking babies’ native language?
 
-Leads: Melanie Soderstrom
+Leads: Natalia Kartushina & Virginie Durier
 
 Status: Stimulus creation and data collection.
 
-Links: Contact leads for more information.
+Links: https://osf.io/9j87t/
 
-### MB1: test-retest followup
+### MB1: Test-Retest Followup
 
 Topic: How reliable is the looking-time measure collected in MB1? 
 
