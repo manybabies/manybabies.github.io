@@ -109,4 +109,4 @@ Links: [OSF Project](https://osf.io/xe2pj/). [Listserv](https://mailman.stanford
 
 ## New Projects
 
-If you are interested in leading a new ManyBabies project, please look at the [project proposal form](https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit?usp=sharing) and/or contact the ManyBabies governing board at [manybabies-gb@lists.stanford.edu](mailto://manybabies-gb@lists.stanford.edu).
+If you are interested in leading a new ManyBabies project (either a main project or a spin-off that would involve data collection across multiple labs), please look at the [project proposal form](https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit?usp=sharing) and/or contact the ManyBabies governing board at [manybabies-gb@lists.stanford.edu](mailto://manybabies-gb@lists.stanford.edu).
