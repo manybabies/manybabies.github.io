@@ -10,7 +10,7 @@ To get general updates, join our [listserv](https://mailman.stanford.edu/mailman
 
 ## ManyBabies Theory Paper
 
-A statement of our broader goals as a group, available at [https://psyarxiv.com/27b43/]().
+A statement of our broader goals as a group, available at [https://psyarxiv.com/27b43/](https://psyarxiv.com/27b43/).
 
 ## MB1: Infant-Directed Speech Preference
 
@@ -20,7 +20,7 @@ Leads: Michael Frank and Melanie Soderstrom
 
 Status: Completed.
 
-Links: [OSF Project with Materials, Protocols, and Documentation](https://osf.io/re95x/). [Listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1). [Data and Code on Github](https://github.com/manybabies/mb1-analysis-public). 
+Links: [Project with Materials, Protocols, and Documentation](https://osf.io/re95x/). [Listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1). [Data and Code on Github](https://github.com/manybabies/mb1-analysis-public). 
 
 ### MB1B: The Infant-Directed Speech Preference in Bilingual Infants
 
@@ -28,9 +28,9 @@ Topic: Is the preference for infant-directed speech modulated by bilingual langu
 
 Leads: Krista Byers-Heinlein
 
-Status: Final post-data collection manuscript preparation. 
+Status: Stage 2 Registered Report under review. 
 
-Links: [OSF Project](https://osf.io/zauhq/). [Listserv](https://groups.google.com/forum/#!forum/manybabies-bilingual).
+Links: [OSF Project](https://osf.io/zauhq/). [Data and Code on Github](https://github.com/manybabies/mb1b-analysis-public). [Listserv](https://groups.google.com/forum/#!forum/manybabies-bilingual).
 
 ### MB1L: Longitudinal Vocabulary Followup
 
@@ -50,7 +50,7 @@ Leads: Natalia Kartushina & Virginie Durier
 
 Status: Stimulus creation and data collection.
 
-Links: https://osf.io/9j87t/
+Links: [OSF Project](https://osf.io/9j87t/)
 
 ### MB1: Test-Retest Followup
 
@@ -83,9 +83,9 @@ Topic: Do infants show anticipatory looking that reflects the false belief of an
 
 Leads: Hannes Rakoczy, Tobias Schuwerk, Dora Kampis, Michael Frank
 
-Status: Pilot data collection completed.
+Status: Stage 1 Registered Report under revision.
 
-Links: [OSF project page](https://osf.io/jmuvd/). [Listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies2).
+Links: [OSF Project](https://osf.io/jmuvd/). [Listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies2).
 
 ## MB3: Rule Learning
 
@@ -103,9 +103,15 @@ Topic: Do infants prefer agents who are seen to help over those who are seen to 
 
 Leads: Kelsey Lucca, Kiley Hamlin
 
-Status: Pilot data collection is completed.
+Status: Pilot data collection complete.
 
 Links: [Main Website](https://sites.google.com/view/manybabies4/home). [OSF Project](https://osf.io/xe2pj/). [Listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies4).
+
+## Lessons Learned from ManyBabies 1
+
+This paper shares lessons learned over the course of ManyBabies 1 and articulates our vision for the role of large-scale collaborations in the field.
+
+Links: [Preprint](https://psyarxiv.com/dmhk2/).
 
 ## New Projects
 
