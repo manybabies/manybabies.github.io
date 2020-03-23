@@ -4,7 +4,7 @@ title: Our Projects
 ---
 
 
-The broader goals of ManyBabies come together in a set of collaborative projects. This page gives an (incomplete) overview of past and ongoing ManyBabies projects. 
+The broader goals of ManyBabies come together in a set of collaborative projects. This page gives an (incomplete) overview of past and major ongoing ManyBabies projects, and [this spreadsheet](https://docs.google.com/spreadsheets/d/1esnJTsPB0NJ2PP0fwmWIhSxShKLIN99Ga8ehCDyz3rQ/edit?usp=sharing) provides more complete list our different activities and initiatives. To add new activities and initiatives to the spreadsheet, please complete [this form](https://forms.gle/qaynWvpYLP1J4eYd6).
 
 To get general updates, join our [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies) by visiting the link and putting in your email address.
 
