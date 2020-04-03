@@ -107,6 +107,14 @@ Status: Pilot data collection complete.
 
 Links: [Main Website](https://sites.google.com/view/manybabies4/home). [OSF Project](https://osf.io/xe2pj/). [Listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies4).
 
+## MB5: The Hunter & Ames model
+
+Topic: What factors shape infants’ preferences for familiar and novel stimuli?
+
+Leads: Jessica Kosie, Martin Zettersten, Christina Bergmann, and Casey Lew-Williams
+
+Status: Nothing has happened yet. This summer, we'll send out a call for participation.
+
 ## Lessons Learned from ManyBabies 1
 
 This paper shares lessons learned over the course of ManyBabies 1 and articulates our vision for the role of large-scale collaborations in the field.
