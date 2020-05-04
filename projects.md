@@ -115,6 +115,17 @@ Leads: Jessica Kosie, Martin Zettersten, Christina Bergmann, and Casey Lew-Willi
 
 Status: Nothing has happened yet. This summer, we'll send out a call for participation.
 
+
+## ManyBabies-AtHome
+
+Topic: Work towards solutions for testing infants in their home, with a focus on meaduring looks. 
+
+Leads: Lorijn Zaadnoordijk, Sho Tsuji, Christina Bergmann, Rhodri Cusack
+
+Status: Planning and surveys of the community's needs and existing solutions, choosing a first collaborative study.
+
+Links:[Google List](https://groups.google.com/forum/#!forum/infantlooksathome), [Slack (ask one of the leads for an invite)](https://infantlooksathome.slack.com/), [Google Drive Folder](https://drive.google.com/drive/folders/1IW0daOJMG37FdoGkX1l12zhjPYSmPcD5)
+
 ## Lessons Learned from ManyBabies 1
 
 This paper shares lessons learned over the course of ManyBabies 1 and articulates our vision for the role of large-scale collaborations in the field.
