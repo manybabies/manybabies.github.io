@@ -118,9 +118,9 @@ Status: Nothing has happened yet. This summer, we'll send out a call for partici
 
 ## ManyBabies-AtHome
 
-Topic: Work towards solutions for testing infants in their home, with a focus on meaduring looks. 
+Topic: Work towards solutions for testing infants in their home, with a focus on measuring looks. 
 
-Leads: Lorijn Zaadnoordijk, Sho Tsuji, Christina Bergmann, Rhodri Cusack
+Leads: Helen Buckler, Lorijn Zaadnoordijk, Sho Tsuji, Christina Bergmann, Rhodri Cusack
 
 Status: Planning and surveys of the community's needs and existing solutions, choosing a first collaborative study.
 
