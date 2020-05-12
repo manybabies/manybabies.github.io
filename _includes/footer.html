@@ -14,11 +14,47 @@
             {%- else -%}
               <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}">
             {%- endif -%}
+
+          <!-- list of the icons we are using-->
+            {%- if curkey == 'osf' -%}
+              <span class="ai-stack ai-lg" aria-hidden="true">
+              <i class="ai {{ element.icon }} ai-1x" style="color: black"></i> <!--- this adds squares to the icons--->
+              </span>
+            {%- endif -%}
+
+            {%- if curkey == 'github' -%}
+              <span class="fa-stack fa-lg" aria-hidden="true">
+              <i class="fa {{ element.icon }} fa-1x" style="color: black"></i> <!--- this adds squares to the icons--->
+              </span>
+            {%- endif -%}
+
+            {%- if curkey == 'twitter' -%}
+              <span class="fa-stack fa-lg" aria-hidden="true">
+              <i class="fa {{ element.icon }} fa-1x" style="color: black"></i> <!--- this adds squares to the icons--->
+              </span>
+            {%- endif -%}
+
+            {%- if curkey == 'email' -%}
+              <span class="fa-stack fa-lg" aria-hidden="true">
+              <i class="fa {{ element.icon }} fa-1x" style="color: black"></i> <!--- this adds squares to the icons--->
+              </span>
+            {%- endif -%}
+
+            {%- if curkey == 'slack' -%}
+              <span class="fa-stack fa-lg" aria-hidden="true">
+              <i class="fa {{ element.icon }} fa-1x" style="color: black"></i> <!--- this adds squares to the icons--->
+              </span>
+            {%- endif -%}
+
+            <!-- "dinamic" icons disabled, in conflict with academicons. I listed all above
+
                 <span class="fa-stack fa-lg" aria-hidden="true">
                   <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa {{ element.icon }} fa-stack-1x fa-inverse"></i>
+                  <i class="fa {{ element.icon }} fa-1x" style="color: black"></i>
                 </span>
                 <span class="sr-only">{{ element.name }}</span>
+                -->
+
               </a>
             </li>
           {%- endfor -%}
@@ -40,6 +76,13 @@
         {% endif %}
       {% endif%}
       </p>
+
+      <!-- Images source -->
+      <p class="theme-by text-muted">
+        Images from
+        <a href="https://pixabay.com/">pixabay</a>
+      </p>
+
           <!-- Please don't remove this, keep my open source work credited :) -->
     <p class="theme-by text-muted">
       Theme by

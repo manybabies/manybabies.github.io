@@ -14,6 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
+#title: ManyBabies
 title: ManyBabies
 
 # Short description of your site
@@ -23,19 +24,19 @@ description: Multi-lab replications of classic developmental psychology experime
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
-  Projects: "projects"
-#    - MB1 Infant-directed Speech Preference: "MB1"
-#    - MB1B Infant-directed Speech in Bilinguals: "MB1B"
-#    - MB2 Theory of Mind in Infancy: "MB2"
-  References: "references"
-  Resources:
-    - MetaLab: "http://metalab.stanford.edu"
-    - Language & Cognition Lab: "http://langcog.stanford.edu/"
+  Menu:
+    - About: "about"
+    - News: "news"
+    - Projects: "projects"
+    - Get involved: "get_involved"
+    - Authorship: "authorship"
+    - Publications: "publications"
+    - Resources: "resources"
+  Sign up/Log in: "sign_up_log_in"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/avatar-icon_cb.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -48,7 +49,7 @@ avatar: "/img/avatar-icon.png"
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+#page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
@@ -60,25 +61,26 @@ footer-link-col: "#404040"
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Michael C. Frank
+  name: Michael C. Frank & Rodrigo Dal Ben #should I add my name?
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: false
+  #rss: false
   email: "mcfrank@stanford.edu"
   github: manybabies
   twitter: mcxfrank
-
+  slack: https://manybabies.slack.com/#/
+  osf: rpw6d #fix icon on footer.html
 
 # Select which share links to show in posts
 share-links-active:
@@ -88,7 +90,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "manybabies.stanford.edu"  
+url-pretty: "manybabies.stanford.edu"
 
 # --- Web Statistics Section --- #
 
@@ -143,6 +145,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/news/page:num/"
 
 kramdown:
   input: GFM

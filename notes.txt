@@ -1,0 +1,115 @@
+
+***
+PROJECTS LAYOUT
+
+---
+layout: page
+title: MB1L
+subtitle: Infant-directed Speech Preference in Bilingual Infants
+#bigimg: /img/feet-619399.jpg
+---
+
+<!--
+To-do:
+- fix header image
+- news release?
+- Short description of the study (justification, methods, results WITH images/plots)
+  - model: https://manyprimates.github.io/pilot/
+-->
+
+<!-- Description (300-word?) intro + method + result -->
+
+ADD METHODS, RESULTS, PHOTOS
+
+### Leads
+
+### Status
+
+
+
+### Links
+
+* **Materials, Protocols, and Documentation**: [MB1B-OSF](https://osf.io/zauhq/).
+* **Data and code**: [MB1B-GitHub](https://github.com/manybabies/mb1b-analysis-public).
+* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1).
+
+### Publications
+
+<!-- Update -->
+**News release**: See also the news releases by
+
+***
+
+Add this to the sign-inf form
+[project proposal form](https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit?usp=sharing) and/or
+
+***
+
+BUTTTON with image
+[![button](http://www.presentationpro.com/images/product/medium/slide/PPP_CGENE_LT3_Presentation-PowerPoint-Slide-Graphic_Push_Button_Up.jpg)](https://mattermost.com)
+
+***
+
+<!---
+Something from this? ABOUT PAGE
+
+Crucially, ManyBabies does not engage in direct replication efforts, where a study is chosen from the literature and replicated exactly. Instead, the focus of ManyBabies is on testing key theoretical claims in the infancy literature by designing the best possible test of a claim -- whether or not it has been utilized before (i.e. conceptual replication). Further, we aim to examine sources of variation in effects across laboratories, methods, and populations. In other words, a central goal is to examine not only the reliability of a claim, but its generalizability and robustness across contexts. Typically and ideally, the main manipulations adopted for the “best test” of a phenomenon are developed based on a consensus of contributors, particularly those with different theoretical perspectives in order to ensure that the findings are accepted as conclusive by a wide variety of researchers."
+--->
+
+***
+Accross N [projects](), more than N questions are being investigated!
+
+- MB1
+1. What is the magnitude of the IDS preference?
+2. How does IDS preference vary across ages?
+3. How does IDS preference vary with linguistic experience and language community?
+4. What is the impact of methodology on measurement of infants’ preference?
+5. What are the effects of testing infants in multiple experiments during a single lab visit?
+6. What should expectations be regarding replicability and statistical power in studies of infancy?
+7. How should researchers think about the relationships among experimental design, statistical significance, and developmental change?
+
+- MB1B
+1. How does bilingualism affect infants’ interest in IDS relative to ADS?
+2. How does the amount of exposure to NAE-IDS affect bilingual infants’ listening preferences?
+
+- M1 Gaze-following
+1. Does the challenging nature of bilingual language-learning environments enhances bilingual infants’ attention to the eye gaze of a social partner?
+2. Does gaze following improves with age?
+
+- MB1 - Test and retest
+1. How reliable is infants’ performance across two different test days (within a range of 30 days)?
+2. Does time between test and retest influence the reliability of the preference measure?
+3. Are there age-related differences in test-retest reliability?
+4. Does test-retest reliability vary across method?
+5. Are there any differences in reliability for native and nonnative speakers of English?
+
+- MB1 - Languages
+1. Do NAE infants show a preference for infant-directed speech in non-NAE languages (i.e. language-independent preference)?
+2. Do NAE infants show a stronger preference effect in their native language than in the other languages (tuning effect and/or perceptual distance effect if English has the largest acoustic difference between IDS and ADS)?
+3. Do NAE infants show differences in the strength of the preference to IDS across languages (perceptual distance effect)?
+
+- MB1 - Lab Factors
+1. Does "incidental" factors significantly impact whether infants (1) make it through the study (without fussing out) and (2) attend properly to stimuli/display an expected pattern of looking?
+
+- MB1: Vocabulary development (CDI)
+1. To what extent does infants’ preference for IDS as measured in a laboratory setting predict their vocabulary at 18 and 24 months?
+2. Does the relation between IDS preference and vocabulary size change over development?
+3. Are there systematic differences in the strength of this relationship across the language communities in our sample (exploratory)?
+
+- MB1: Africa
+1. Do infants growing up in a range of African nations show a preference for infant-directed speech?
+
+- MB2: Theory of Mind in Infancy
+Topic: Do infants show anticipatory looking that reflects the false belief of another agent?
+
+- MB3: Rule Learning
+1. Do infants learn and generalize identity-based rules from speech stimuli?
+
+- MB4: Moral Evaluation
+1. Do infants prefer agents who are seen to help over those who are seen to hinder?
+
+- MB5: The Hunter & Ames model
+1. What factors shape infants’ preferences for familiar and novel stimuli?
+
+- MB: AtHome
+Topic: Work towards solutions for testing infants in their home, with a focus on meaduring looks.

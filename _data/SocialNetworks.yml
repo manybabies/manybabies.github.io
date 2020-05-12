@@ -90,3 +90,14 @@ yelp:
   name: "Yelp"
   baseURL: "https://{{ site.author.yelp }}.yelp.com"
   icon: "fa-yelp"
+
+# fix icon
+osf:
+  name: "Open Science Framework"
+  baseURL: "https://osf.io/"
+  icon: "ai-osf"
+
+slack:
+  name: "Slack"
+  baseURL: "https://manybabies.slack.com/#/"
+  icon: "fa-slack"
