@@ -8,7 +8,7 @@ url: https://rodrigodalben.github.io/manybabies.github.io/. #"https://manybabies
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://langcog.github.io/MBwebsite"
+#url: https://rodrigodalben.github.io/manybabies.github.io/ #"http://langcog.github.io/MBwebsite" Undo before pulling
 #baseurl: "/MBwebsite"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
