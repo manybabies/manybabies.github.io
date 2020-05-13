@@ -80,7 +80,7 @@ social-network-links:
   github: manybabies
   twitter: mcxfrank
   slack: https://manybabies.slack.com/#/
-  osf: rpw6d #fix icon on footer.html
+  osf: rpw6d
 
 # Select which share links to show in posts
 share-links-active:
@@ -239,3 +239,4 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+remote_theme: daattali/beautiful-jekyll
