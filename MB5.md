@@ -2,7 +2,7 @@
 layout: page
 title: MB5
 subtitle: The Hunter & Ames model
-bigimg: /img/feet-619399_cb6.jpg
+#bigimg: /img/feet-619399_cb6.jpg
 ---
 
 <!--

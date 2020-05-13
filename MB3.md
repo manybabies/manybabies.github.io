@@ -2,7 +2,7 @@
 layout: page
 title: MB3
 subtitle: Rule Learning
-bigimg: /img/feet-619399_cb3.jpg
+#bigimg: /img/feet-619399_cb3.jpg
 ---
 
 <!--

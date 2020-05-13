@@ -16,12 +16,16 @@ Organized in alphabetical order
 ### Infant research
 
 * [Centre for Infant Cognition at UBC](https://cic.psych.ubc.ca/)
+* [Children Helping Science](https://childrenhelpingscience.com/)
 * [Concordia Infant Research Lab](http://infantresearch.ca/)
+* [Lookit](https://lookit.mit.edu/)
 * [Max Planck Institute for Psycholinguistics](https://www.mpi.nl/)
 * [MetaLab](http://metalab.stanford.edu)
+* [Panda](https://www.discoveriesinaction.org/accounts/home/)
 * [Princeton Baby Lab](http://babylab.princeton.edu/)
-* [UM Baby Language Lab](https://babylanguagelab.org/)
 * [Stanford Language & Cognition Lab](http://langcog.stanford.edu/)
+* [The Child Lab](https://www.thechildlab.com/for-researchers)
+* [UM Baby Language Lab](https://babylanguagelab.org/)
 * [Web CDI](https://webcdi.stanford.edu/)
 
 ### Open software

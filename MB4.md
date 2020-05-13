@@ -2,11 +2,11 @@
 layout: page
 title: MB4
 subtitle: Moral Evaluation
-bigimg: /img/feet-619399_cb7.jpg
+#bigimg: /img/feet-619399_cb7.jpg
 ---
 
 <!--
-- add Contributors (header) 
+- add Contributors (header)
 
 To-do:
 - publication/news release?

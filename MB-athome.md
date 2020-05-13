@@ -1,8 +1,8 @@
 ---
 layout: page
-title: MB6
+title: MB
 subtitle: AtHome
-bigimg: /img/feet-619399_cb2.jpg
+#bigimg: /img/feet-619399_cb2.jpg
 ---
 
 <!--

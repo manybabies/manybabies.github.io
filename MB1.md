@@ -2,7 +2,7 @@
 layout: page
 title: MB1
 subtitle: Infant-directed Speech Preference
-bigimg: /img/feet-619399_cb1.jpg
+#bigimg: /img/feet-619399_cb1.jpg
 ---
 
 <!--
