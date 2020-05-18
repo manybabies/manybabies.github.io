@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: ManyBabies
 subtitle: Multi-lab replications of influential experiments in developmental psychology
 use-site-title: true
