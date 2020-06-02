@@ -13,9 +13,10 @@ To-do:
   - model: https://manyprimates.github.io/pilot/
 -->
 
-# Comparison to meta-analytic data
+# Comparison of the ManyBabies 1 results to meta-analytic data
 <!-- Description (300-word?) intro + method + result -->
-ADD METHODS, RESULTS, PHOTOS
+
+Meta-analyses are often considered to be the most reliable source of information when it comes to deciding whether a phenomenon is real, and how strong the effect is. However, large-scale collaborations, such as ManyBabies, often yield different results than published meta-analyses. To better understand how the two ways to collect and analyze large datasets are related (or not), we update the meta-analysis on infant-directed speech preference and subject it to a joint analysis. 
 
 ### Leads
 
@@ -23,11 +24,12 @@ ADD METHODS, RESULTS, PHOTOS
 
 ### Status
 
-?
+Meta-analysis update (sourced from [MetaLab](http://metalab.stanford.edu/dataset/idspref.html) and first analyses. If you have (unpublished) data on infant-directed speech preference, please get in touch with Christina Bergmann. 
 
 ### Links
 
-?
+- Meta-analysis data sourced from [MetaLab](http://metalab.stanford.edu/dataset/idspref.html)
+
 <!--
 * **Materials, Protocols, and Documentation**: [MB1B-OSF](https://osf.io/zauhq/).
 * **Data and code**: [MB1B-GitHub](https://github.com/manybabies/mb1b-analysis-public).
@@ -38,7 +40,7 @@ ADD METHODS, RESULTS, PHOTOS
 
 We encourage everyone who is interested in developmental research to get involved!
 
-To contribute, please [sign up]({{site.baseurl}}/sign_up_log_in/) to **MB** and follow the instructions. Aternatively (not recommended), you can contact the project leads by e-mailing: Christina.Bergmann [at] mpi.nl, fusaroli [at] cas.au.dk.
+To contribute, please [sign up]({{site.baseurl}}/sign_up_log_in/) to **MB** and follow the instructions. If you are interested in this specific project, you can contact the project leads by e-mailing: Christina.Bergmann [at] mpi.nl, fusaroli [at] cas.au.dk.
 
 <!--
 ### Publications
