@@ -9,22 +9,35 @@ To-do:
 - add information (+ pictures...), links etc.
 -->
 
-# Comparison to meta-analytic data
-In this ongoing secondary analysis we compare the results from MB1 to a meta-analysis of the literature. We aim to better understand moderating factors and variables that impact infant preference for Infant Directed Speech.
+# Comparison of the ManyBabies 1 results to meta-analytic data
+<!-- Description (300-word?) intro + method + result -->
+
+Meta-analyses are often considered to be the most reliable source of information when it comes to deciding whether a phenomenon is real, and how strong the effect is. However, large-scale collaborations, such as ManyBabies, often yield different results than published meta-analyses. To better understand how the two ways to collect and analyze large datasets are related (or not), we update the meta-analysis on infant-directed speech preference and subject it to a joint analysis. 
+
 
 ### Leads
 [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), [Riccardo Fusaroli](https://pure.au.dk/portal/en/persons/riccardo-fusaroli(3f72f2a1-e93a-4689-872c-c11c9703c1cc).html)
 
-<!--
+
 ### Status
+Meta-analysis update (sourced from [MetaLab](http://metalab.stanford.edu/dataset/idspref.html) and first analyses. If you have (unpublished) data on infant-directed speech preference, please get in touch with [Christina Bergmann](mailto:Christina.Bergmann@mpi.nl). 
+
 ### Links
-### Publications
+* Meta-analysis data sourced from [MetaLab](http://metalab.stanford.edu/dataset/idspref.html)
+
+<!--
+* **Materials, Protocols, and Documentation**: [MB1B-OSF](https://osf.io/zauhq/).
+* **Data and code**: [MB1B-GitHub](https://github.com/manybabies/mb1b-analysis-public).
+* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1).
 -->
 
 ### Contribute 
 We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: Christina.Bergmann [at] mpi.nl, fusaroli [at] cas.au.dk
 
-Please note that access to infants/infant lab is **not** a prerequisite.
+<!--
+### Publications
+**News release**: See also the news releases by
+-->
 
 ***
 
