@@ -12,7 +12,7 @@ To-do:
 # Comparison of the ManyBabies 1 results to meta-analytic data
 <!-- Description (300-word?) intro + method + result -->
 
-Meta-analyses are often considered to be the most reliable source of information when it comes to deciding whether a phenomenon is real, and how strong the effect is. However, large-scale collaborations, such as ManyBabies, often yield different results than published meta-analyses. To better understand how the two ways to collect and analyze large datasets are related (or not), we update the meta-analysis on infant-directed speech preference and subject it to a joint analysis. 
+Meta-analyses are often considered to be the most reliable source of information when it comes to deciding whether a phenomenon is real, and how strong the effect is. However, large-scale collaborations, such as ManyBabies, often yield different results than published meta-analyses. To better understand how the two ways to collect and analyze large datasets are related (or not), we update the meta-analysis on infant-directed speech preference and subject it to a joint analysis.
 
 
 ### Leads
@@ -20,10 +20,10 @@ Meta-analyses are often considered to be the most reliable source of information
 
 
 ### Status
-Meta-analysis update (sourced from [MetaLab](http://metalab.stanford.edu/dataset/idspref.html) and first analyses. If you have (unpublished) data on infant-directed speech preference, please get in touch with [Christina Bergmann](mailto:Christina.Bergmann@mpi.nl). 
+Meta-analysis update sourced from [MetaLab](http://metalab.stanford.edu/dataset/idspref.html) and first analyses. If you have (unpublished) data on infant-directed speech preference, please get in touch with [Christina Bergmann](mailto:Christina.Bergmann@mpi.nl).
 
 ### Links
-* Meta-analysis data sourced from [MetaLab](http://metalab.stanford.edu/dataset/idspref.html)
+* **Data**: [MetaLab](http://metalab.stanford.edu/dataset/idspref.html)
 
 <!--
 * **Materials, Protocols, and Documentation**: [MB1B-OSF](https://osf.io/zauhq/).
@@ -31,7 +31,7 @@ Meta-analysis update (sourced from [MetaLab](http://metalab.stanford.edu/dataset
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1).
 -->
 
-### Contribute 
+### Contribute
 We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: Christina.Bergmann [at] mpi.nl, fusaroli [at] cas.au.dk
 
 <!--
