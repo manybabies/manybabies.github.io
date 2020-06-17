@@ -21,7 +21,7 @@ In this ongoing secondary analysis we compare the results from MB1 to a meta-ana
 ### Publications
 -->
 
-### Contribute
+### Contribute 
 We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: Christina.Bergmann [at] mpi.nl, fusaroli [at] cas.au.dk
 
 Please note that access to infants/infant lab is **not** a prerequisite.
