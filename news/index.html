@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: home
 title: News
-use-site-title: true
-bigimg: /img/baby-1249626.jpg
+cover-img: /assets/img/baby-1249626.jpg
 ---
-<!--- base code, if needed https://jekyllrb.com/docs/posts/
+<!---
+- "layout: home" should do the trick;
+    base code, if needed https://jekyllrb.com/docs/posts/
 
 <ul>
   {% for post in site.posts %}
@@ -15,74 +16,14 @@ bigimg: /img/baby-1249626.jpg
 </ul>
 --->
 
-Here you find the latest <b>ManyBabies</b> news!
-To stay up to date, also consider joining our
+<h3>Updates</h3>
+If you are a <b>ManyBabies</b> collaborator, don't forget to keep an updated record of your MB-related activities and initiatives (e.g., workshops, talks etc.).
+In this <a href="https://docs.google.com/spreadsheets/d/1esnJTsPB0NJ2PP0fwmWIhSxShKLIN99Ga8ehCDyz3rQ/edit?usp=sharing">spreadsheet</a> you can check a more complete list of <b>MB</b> activities and initiatives.
+To add new activities and initiatives, please complete <a href="https://forms.gle/qaynWvpYLP1J4eYd6">this form.</a>
+
+<br>
+
+To stay up to date, also join our
 general <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies">listserv</a>,
-and following updates on <a href="https://twitter.com/mcxfrank">Twitter</a>
+and follow updates on <a href="https://twitter.com/mcxfrank">Twitter</a>
 and <a href="https://manybabies.slack.com/#/">Slack</a>.
-
-<div class="posts-list">
-  {% for post in site.posts %}
-  <article class="post-preview">
-    <a href="{{ post.url | relative_url }}">
-	  <h2 class="post-title">{{ post.title }}</h2>
-
-	  {% if post.subtitle %}
-	  <h3 class="post-subtitle">
-	    {{ post.subtitle }}
-	  </h3>
-	  {% endif %}
-    </a>
-
-    <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
-    </p>
-
-    <div class="post-entry-container">
-      {% if post.image %}
-      <div class="post-image">
-        <a href="{{ post.url | relative_url }}">
-          <img src="{{ post.image }}">
-        </a>
-      </div>
-      {% endif %}
-      <div class="post-entry">
-        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
-        {% assign excerpt_word_count = post.excerpt | number_of_words %}
-        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | relative_url }}" class="post-read-more">[Read&nbsp;More]</a>
-        {% endif %}
-      </div>
-    </div>
-
-    {% if post.tags.size > 0 %}
-    <div class="blog-tags">
-      Tags:
-      {% if site.link-tags %}
-      {% for tag in post.tags %}
-      <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
-      {% endfor %}
-      {% else %}
-        {{ post.tags | join: ", " }}
-      {% endif %}
-    </div>
-    {% endif %}
-
-   </article>
-  {% endfor %}
-</div>
-
-{% if paginator.total_pages > 1 %}
-<ul class="pager main-pager">
-  {% if paginator.previous_page %}
-  <li class="previous">
-    <a href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer Posts</a>
-  </li>
-  {% endif %}
-  {% if paginator.next_page %}
-  <li class="next">
-    <a href="{{ paginator.next_page_path | relative_url }}">Older Posts &rarr;</a>
-  </li>
-  {% endif %}
-</ul>
-{% endif %}

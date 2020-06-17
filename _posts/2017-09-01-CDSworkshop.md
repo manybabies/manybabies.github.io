@@ -2,7 +2,7 @@
 layout: post
 title: Collaborative Replication in Developmental Psychology
 subtitle: Workshop at CDS
-bigimg: /img/path.jpg
+cover-img: /assets/img/path.jpg
 tags: [CDS, workshop, replication]
 ---
 

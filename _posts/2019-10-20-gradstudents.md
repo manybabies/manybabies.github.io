@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ManyBabies is seeking Graduate Students for admission Fall 2020 - December 2019 deadlines for application
-tags: [graduate-students]
+tags: [graduate-students, MB]
 ---
 
 ManyBabies is currently soliciting applications from prospective graduate students interested in contributing to large-scale collaborative infancy research, for a Fall 2020 start date.

@@ -1,54 +1,36 @@
 ---
 layout: page
 title: MB5
-subtitle: The Hunter & Ames model
-#bigimg: /img/feet-619399_cb6.jpg
+subtitle: The Hunter & Ames Model of Infant Looking Preference
 ---
 
 <!--
-- add Contributors (header)
-
 To-do:
-- check status
-- news release?
-- Short description of the study (justification, methods, results WITH images/plots)
-  - model: https://manyprimates.github.io/pilot/
+- replace image placeholders.
+- add collaborators map.
 -->
 
-<!-- Description (300-word?) intro + method + result -->
-What factors shape infants’ preferences for familiar and novel stimuli?
-
-ADD METHODS, RESULTS, PHOTOS
+Familiarity and novelty effects are the cornerstone of many infant behavioral methods <img style="float: right;" src="/assets/img/infant_in_lab_300px.png"> (e.g., habituation, head-turn preference, preferential looking / looking-while-listening, eye tracking). In this ongoing project we investigate [Hunter and Ames’ (1988)](https://psycnet.apa.org/record/1988-98065-003) model of infants’ preference for familiar and novel stimuli. We aim to empirically test whether infant age, task difficulty, and familiarization time interact to predict the direction of infants’ preference for familiar vs. novel stimuli.
 
 ### Leads
+[Jessica Kosie](https://jkosie.github.io/), [Martin Zettersten](https://martinzettersten.weebly.com/), [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), and [Casey Lew-Williams](https://psych.princeton.edu/person/casey-lew-williams)
 
-[Jessica Kosie](http://babylab.princeton.edu/articles/people#272), [Martin Zettersten](https://martinzettersten.weebly.com/), [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), and [Casey Lew-Williams](https://psych.princeton.edu/person/casey-lew-williams).
+For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
+    <source src="/assets/img/dashboard_studies.mp4" type="video/mp4">  
+    </video>
+
+<!-- Flourish
+<div class="flourish-embed flourish-map" data-src="visualisation/2520309" data-url="https://flo.uri.sh/visualisation/2520309/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+-->
 
 ### Status
+Evaluating potential experimental designs; preparing a call for participation.
 
-Nothing has happened yet. This summer, we’ll send out a call for participation.
+<!-- ### Links -->
 
-### Links
-?
+### Contribute
+We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: jkosie [at] princeton.edu, zettersten [at] wisc.edu, Christina.Bergmann [at] mpi.nl, caseylw [at] princeton.edu.
 
-### Get involved & Contribute
+Please note that access to infants/infant lab is **not** a prerequisite.
 
-We encourage everyone who is interested in developmental research to get involved! Please note that access to infants/infant lab is **not** a prerequisite.  
-
-To contribute, please [sign up]({{site.baseurl}}/sign_up_log_in/) to **MB** and follow the instructions. Aternatively (not recommended), you can contact the project leads by e-mailing: jkosie [at] princeton.edu, zettersten [at] wisc.edu, Christina.Bergmann [at] mpi.nl, caseylw [at] princeton.edu.
-
-
-
-<!--
-* **Materials, Protocols, and Documentation**: [MB2-OSF](https://osf.io/jmuvd/).
-* **Data and code**: [MB2-GitHub](https://github.com/manybabies/mb2-analysis).
-* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies2)
-
-
-### Publications
-
-Check out the [preregistration](https://osf.io/jmuvd/).
-
-
-**News release**: See also the news releases by
--->
+<!-- ### Publications -->

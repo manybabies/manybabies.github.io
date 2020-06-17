@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ManyBabies 1 wins SIPS Mission Award
-tags: [award]
+tags: [award, MB1]
 ---
 
 

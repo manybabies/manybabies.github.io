@@ -1,45 +1,46 @@
 ---
 layout: page
 title: MB1N
-subtitle: Native Languages Follow-up Study
-#bigimg: /img/feet-619399.jpg
+subtitle: Native Languages Follow-up
 ---
 
 <!--
 To-do:
-- add Contributors (header)
-- news release?
-- Short description of the study (justification, methods, results WITH images/plots)
-  - model: https://manyprimates.github.io/pilot/
+- replace image placeholders.
+- add collaborators map.
 -->
 
-<!-- Description (300-word?) intro + method + result -->
-How does IDS preference to NA English in MB1 compare to IDS preference measured in non-English speaking babies’ native language?   
-
-ADD METHODS, RESULTS, PHOTOS
+All infants from MB1, regardless of their linguistic background, heard stimuli recorded in North American English. <img style="float: right;" src="/assets/img/placeholder.png"> In this ongoing project we ask how does Infant Directed Speech (IDS) preference to North American English in MB1 compare to IDS preference measured in non-English speaking babies’ native language. Infants who are primary exposed to either French, Dutch, Norwegian, Czech, or Turkish will be tested in their native languages using the same procedure from MB1.
 
 ### Leads
+[Natalia Kartushina](https://www.sv.uio.no/psi/english/people/aca/natalkar/) and [Virginie Durier](https://ethos.univ-rennes1.fr/interlocuteurs/virginie-durier)
 
-[Natalia Kartushina](https://www.sv.uio.no/psi/english/people/aca/natalkar/) & [Virginie Durier](https://ethos.univ-rennes1.fr/interlocuteurs/virginie-durier)
+### Collaborators
+For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
+    <source src="/assets/img/dashboard_studies.mp4" type="video/mp4">  
+    </video>
+
+<!-- Flourish
+<div class="flourish-embed flourish-map" data-src="visualisation/2520226" data-url="https://flo.uri.sh/visualisation/2520226/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+-->
 
 ### Status
-
 Stimulus creation and data collection.
 
 ### Links
-
 * **Materials, Protocols, and Documentation**: [MB1N-OSF](https://osf.io/9j87t/).
 * **Data and code**: To be released.
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1).
+* **News**: [MB1N-news]({{site.baseurl}}/tags/#MB1N).
 
-### Get involved & Contribute
+### Contribute
+We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: natalia.kartushina [at] psykologi.uio.no, virginie.durier [at] univ-rennes1.fr
 
-We encourage everyone who is interested in developmental research to get involved! Please note that access to infants/infant lab is **not** a prerequisite.  
-
-To contribute, please [sign up]({{site.baseurl}}/sign_up_log_in/) to **MB** and follow the instructions. Aternatively (not recommended), you can contact the project leads by e-mailing: natalia.kartushina [at] psykologi.uio.no, virginie.durier [at] univ-rennes1.fr.
+Please note that access to infants/infant lab is **not** a prerequisite.  
 
 ### Publications
 ?
+Registration under embargo?
 
 <!-- Registration under embargo on OSF - Should be included?
 

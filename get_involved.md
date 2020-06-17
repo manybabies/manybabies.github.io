@@ -1,27 +1,13 @@
 ---
 layout: page
 title: Get Involved
-bigimg: /img/hands-1797401.jpg
+cover-img: /assets/img/hands-1797401.jpg
 ---
 
-We encourage everyone who is interested in developmental research to get involved! Please note that access to infants/infant lab is **not** a prerequisite.
+Everyone, from undergraduate students to senior researchers, who is interested in developmental research is welcome! You can contribute by:
 
-### News
+1. *Planning and writing*: All steps and procedures, from literature review to data analyses, are defined in collaboration before the start of data collection (leading to [pre-registrations](https://www.cos.io/prereg) and/or [registred-reports](https://www.cos.io/rr)).
+2. *Creating analyses, materials, and methods*: Adaptation and/or creation of methods, materials, and analyses are usually necessary (e.g., [MB-AtHome]({{site.baseurl}}/MB-athome/)).
+3. *Collecting data*: Following standard research protocols. Which usually require adaptation of the labs' routine and staff training.
 
-To stay up to date about **ManyBabies**, check the latest [news]({{site.baseurl}}/news/), join our general [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies) (please note that each project also has its own [project-specific listserv]({{site.baseurl}}/projects/)), and follow **MB** updates on [Twitter](https://twitter.com/mcxfrank) and [Slack](https://manybabies.slack.com/#/).
-
-### Core principles
-
-Learn more about **ManyBabies** [core principles and code of conduct]({{site.baseurl}}/about/).
-
-### Authorship guidelines
-
-Learn more about ways to contribute by checking our [authorship guidelines]({{site.baseurl}}/authorship/).
-
-### OSF & GitHub
-
-**ManyBabies** materials, protocols, and documentation are openly available at [OSF](https://osf.io/rpw6d/). Data and code are openly available at [GitHub](https://github.com/manybabies).
-
-### Contact
-
-You can get in touch with the Governing Board by e-mailing manybabies-gb [at] mailman.stanford.edu.
+[Authorship]({{site.baseurl}}/authorship/) is granted to anyone who had a sustained intellectual contribution on any of these tasks. [Join the team today]({{site.baseurl}}/sign_up_log_in/) and/or get in touch with the [Governing Board](mailto:manybabies-gb@mailman.stanford.edu).
