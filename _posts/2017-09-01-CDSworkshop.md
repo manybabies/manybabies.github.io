@@ -2,11 +2,11 @@
 layout: post
 title: Collaborative Replication in Developmental Psychology
 subtitle: Workshop at CDS
-bigimg: /img/path.jpg
+cover-img: /assets/img/path.jpg
 tags: [CDS, workshop, replication]
 ---
 
-**Workshop Goals:** 
+**Workshop Goals:**
 The goals of the workshop are both to situate the ManyBabies project amongst other ongoing collaborative projects and to provide specific guidance (in the form of dos-and-don’ts) for researchers from students to PIs who are interested in getting involved with large-scale collaborations. Attendees will leave with better understanding of several efforts currently underway for expanding collaboration and replicability efforts across areas of developmental science, and actionable steps for taking advantage of resources and knowledge often siloed in individual labs.
 
 **Organizers:**
@@ -30,5 +30,3 @@ Time | Presenter | Topic
 10:25-10:40 | [Justin Wood](http://dornsife.usc.edu/cf/psyc/psyc_faculty_display.cfm?person_id=1022651) | *Replication in the Comparative Setting.* Wood is a developmental and comparative psychologist and will present insights from the large scale replication projects he is carrying out to look at controlled rearing studies with chicks.
 10:40-11:00 | N/A | Coffee break
 11:00-12:00 | Guided Discussion | *What's Next for ManyBabies.* The final portion of the workshop will be devoted to discussion and planning of new ManyBabies studies and other large-scale collaborative projects. In preparation for this discussion, we will circulate a survey to confirmed workshop attendees asking for suggestions for projects that they would like to discuss. A pre-emptive survey has confirmed attendance and interest from over a dozen research labs. We will then compile ares of particular interest, and break participants into groups to discuss these interests (e.g., a replication study of social cognition, or a new consortium study of word learning) and report back to the group. The goal would be for participants to come away with new connections for large scale collaborative projects (whether they are under the ManyBabies umbrella or otherwise).
-
-

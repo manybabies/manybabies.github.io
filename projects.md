@@ -1,137 +1,59 @@
 ---
 layout: page
-title: Our Projects
+title: Projects
+cover-img: /assets/img/blocks-503109.jpg
 ---
-
-
-The broader goals of ManyBabies come together in a set of collaborative projects. This page gives an (incomplete) overview of past and major ongoing ManyBabies projects, and [this spreadsheet](https://docs.google.com/spreadsheets/d/1esnJTsPB0NJ2PP0fwmWIhSxShKLIN99Ga8ehCDyz3rQ/edit?usp=sharing) provides more complete list our different activities and initiatives. To add new activities and initiatives to the spreadsheet, please complete [this form](https://forms.gle/qaynWvpYLP1J4eYd6).
-
-To get general updates, join our [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies) by visiting the link and putting in your email address.
-
-## ManyBabies Theory Paper
-
-A statement of our broader goals as a group, available at [https://psyarxiv.com/27b43/](https://psyarxiv.com/27b43/).
-
-## MB1: Infant-Directed Speech Preference
-
-Topic: Do infants have a preference for infant-directed speech? How does this preference vary across age, method, and native language background?
-
-Leads: Michael Frank and Melanie Soderstrom
-
-Status: Completed.
-
-Links: [Project with Materials, Protocols, and Documentation](https://osf.io/re95x/). [Listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1). [Data and Code on Github](https://github.com/manybabies/mb1-analysis-public). 
-
-### MB1B: The Infant-Directed Speech Preference in Bilingual Infants
-
-Topic: Is the preference for infant-directed speech modulated by bilingual language exposure?
-
-Leads: Krista Byers-Heinlein
-
-Status: Stage 2 Registered Report under review. 
-
-Links: [OSF Project](https://osf.io/zauhq/). [Data and Code on Github](https://github.com/manybabies/mb1b-analysis-public). [Listserv](https://groups.google.com/forum/#!forum/manybabies-bilingual).
-
-### MB1L: Longitudinal Vocabulary Followup
-
-Topic: Followup study to MB1 measuring the relationship between infant-directed speech preference and later vocabulary.
-
-Leads: Melanie Soderstrom
-
-Status: Data collection ongoing.
-
-Links: [OSF Project](https://osf.io/2qamd/). 
-
-### MB1: Native Languages Follow-up Study
-
-Topic: How does IDS preference to NA English in MB1 compare to IDS preference measured in non-English speaking babies’ native language?
-
-Leads: Natalia Kartushina & Virginie Durier
-
-Status: Stimulus creation and data collection.
-
-Links: [OSF Project](https://osf.io/9j87t/)
-
-### MB1: Test-Retest Followup
-
-Topic: How reliable is the looking-time measure collected in MB1? 
-
-Leads: Melanie Schreiner
-
-Status: Final post-data collection manuscript preparation. 
-
-Links: Contact leads for more information.
-
-### MB1: Africa
-
-Topic: Do infants growing up in a range of African nations show a preference for infant-directed speech?
-
-Leads: Angeline Tsui, Casey Lew-Williams, Michael Frank
-
-Status: Planning and training prior to data collection.
-
-Links: Contact leads for more information.
-
-### MB1: Other followups
-
-* Comparison to meta-analytic data (leads: Christina Bergmann, Riccardo Fusaroli)
-* Analysis of supplemental demographic variables (lead: Melissa Kline)
-
-## MB2: Theory of Mind in Infancy
-
-Topic: Do infants show anticipatory looking that reflects the false belief of another agent?
-
-Leads: Hannes Rakoczy, Tobias Schuwerk, Dora Kampis, Michael Frank
-
-Status: Stage 1 Registered Report under revision.
-
-Links: [OSF Project](https://osf.io/jmuvd/). [Listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies2).
-
-## MB3: Rule Learning
-
-Topic: Do infants learn and generalize identity-based rules from speech stimuli?
-
-Leads: Ingmar Visser, Clartje Levelt
-
-Status: Stimulus creation ongoing. 
-
-Links: [OSF Project](https://osf.io/kqu9v/). [Listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies3).
-
-## MB4: Moral Evaluation
-
-Topic: Do infants prefer agents who are seen to help over those who are seen to hinder?
-
-Leads: Kelsey Lucca, Kiley Hamlin
-
-Status: Pilot data collection complete.
-
-Links: [Main Website](https://sites.google.com/view/manybabies4/home). [OSF Project](https://osf.io/xe2pj/). [Listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies4).
-
-## MB5: The Hunter & Ames model
-
-Topic: What factors shape infants’ preferences for familiar and novel stimuli?
-
-Leads: Jessica Kosie, Martin Zettersten, Christina Bergmann, and Casey Lew-Williams
-
-Status: Nothing has happened yet. This summer, we'll send out a call for participation.
-
-
-## ManyBabies-AtHome
-
-Topic: Work towards solutions for testing infants in their home, with a focus on meaduring looks. 
-
-Leads: Lorijn Zaadnoordijk, Sho Tsuji, Christina Bergmann, Rhodri Cusack
-
-Status: Planning and surveys of the community's needs and existing solutions, choosing a first collaborative study.
-
-Links:[Google List](https://groups.google.com/forum/#!forum/infantlooksathome), [Slack (ask one of the leads for an invite)](https://infantlooksathome.slack.com/), [Google Drive Folder](https://drive.google.com/drive/folders/1IW0daOJMG37FdoGkX1l12zhjPYSmPcD5)
-
-## Lessons Learned from ManyBabies 1
-
-This paper shares lessons learned over the course of ManyBabies 1 and articulates our vision for the role of large-scale collaborations in the field.
-
-Links: [Preprint](https://psyarxiv.com/dmhk2/).
-
-## New Projects
-
-If you are interested in leading a new ManyBabies project (either a main project or a spin-off that would involve data collection across multiple labs), please look at the [project proposal form](https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit?usp=sharing) and/or contact the ManyBabies governing board at [manybabies-gb@lists.stanford.edu](mailto://manybabies-gb@lists.stanford.edu).
+<!---
+To-do:
+- add link to internal title (Secondary Analysis 2).
+
+Suggestions:
+- Home Spin-offs as bullets right below their main project as spin-off numbers increase.
+
+Notes.
+- research questions in "notes.txt"
+- alphabetical order
+--->
+
+The broader goals of **ManyBabies (MB)** come together through collaborative projects. They can be:
+
+1. *Main projects*: Test a question about infant development of key theoretical or methodological interest. They are numbered sequentially (e.g., MB1, MB2).
+2. *Spin-off projects*: Build on the methods or data from the main projects. For example, extending the study to a different population of infants (e.g., bilinguals) or follow-up data collection (e.g., longitudinal correlation with CDIs). They are identified with a letter following the main project abbreviation (e.g., MB1B, for bilinguals; MB1L, for longitudinal);
+3. *Secondary analyses*: Conducted on publicly-available **MB** data. In some cases, these analysis may include additional data not collected as part of **MB**. For example if an individual lab investigates relationships between their lab’s **MB** data and other data collected by their lab.
+
+***
+
+### Main projects
+#### Empirical
+* [**MB1: Infant-Directed Speech Preference**]({{site.baseurl}}/MB1/)
+* [**MB2: Theory of Mind in Infancy** ]({{site.baseurl}}/MB2/)
+* [**MB3: Rule Learning**]({{site.baseurl}}/MB3/)
+* [**MB4: Social Evaluation**]({{site.baseurl}}/MB4/)
+* [**MB5: The Hunter & Ames model of Infant Looking Preferences**]({{site.baseurl}}/MB5/)
+
+#### Methodological
+* [**MB-AtHome: Online Infant Data Collection**]({{site.baseurl}}/MB-AtHome/)
+
+<!--alphabetical order -->
+### Spin-off projects
+#### MB1
+* [**MB1A: Infant-Directed Speech Preference in African Infants**]({{site.baseurl}}/MB1A/)  
+* [**MB1B: Infant-Directed Speech Preference in Bilingual Infants**]({{site.baseurl}}/MB1B/)    
+* [**MB1L: Longitudinal Vocabulary Follow-up**]({{site.baseurl}}/MB1L/)    
+* [**MB1N: Native Languages Follow-up**]({{site.baseurl}}/MB1N/)    
+* [**MB1T: Test-Retest Follow-up**]({{site.baseurl}}/MB1T/)  
+
+#### MB3
+* [**MB3N: Rule Learning using NIRS**]({{site.baseurl}}/MB3N/)    
+
+### Secondary Analyses
+#### MB1
+* [**Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)
+* [**Analysis of supplemental demographic variables**]({{site.baseurl}}/MB1SA/)
+
+***
+
+## Get Involved & New Projects
+We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **not** a prerequisite.
+
+If you are interested in leading a new **ManyBabies** project (either a main project or a spin-off that would involve data collection across multiple labs), please look at the [project proposal form](https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit) and/or contact the **MB** [Governing Board](mailto:manybabies-gb@mailman.stanford.edu).
