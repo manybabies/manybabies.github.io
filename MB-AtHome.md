@@ -25,7 +25,7 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 -->
 
 ### Status
-Planning and surveys of the community’s needs and existing solutions, choosing a first collaborative study.
+Surveys of the community’s needs and existing solutions, planning the first study on visual preference for different shapes. 
 
 ### Links
 * **Materials, Protocols, and Documentation**: [Google Drive](https://drive.google.com/drive/folders/1IW0daOJMG37FdoGkX1l12zhjPYSmPcD5).
