@@ -35,7 +35,7 @@ Planning and surveys of the community’s needs and existing solutions, choosing
 * **News**: [MB-AtHome news]({{site.baseurl}}/tags/#MB-AtHome).
 
 ### Contribute
-We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: L.Zaadnoordijk [at] tcd.sie, tsujish [at] gmail.com, Christina.Bergmann [at] mpi.nl, rhodricusack [at] cusacklab.org, Helen.Buckler [at] nottingham.ac.uk
+We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: L.Zaadnoordijk [at] tcd.ie, tsujish [at] gmail.com, Christina.Bergmann [at] mpi.nl, rhodricusack [at] cusacklab.org, Helen.Buckler [at] nottingham.ac.uk
 
 Please note that access to infants/infant lab is **not** a prerequisite.
 
