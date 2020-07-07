@@ -29,6 +29,11 @@ On the other hand, large-scale *collaborative* and *Open Science* projects have 
 
 ***
 
+### Code of conduct
+Check our [code of conduct]({{site.baseurl}}/code_conduct/) for a full description of our pledge, standards, responsabilities, and scope.
+
+***
+
 ### Definitions and Roles
 **ManyBabies** activities are guided by the principles of:
 * *Transparency*: All decisions in a **MB** project, from design to publication, are as transparent as possible;
@@ -36,9 +41,6 @@ On the other hand, large-scale *collaborative* and *Open Science* projects have 
 * *Inclusivity and diversity*: **MB** explicitly encourages efforts to increase diversity. This includes active applications for funding to assist laboratories from under-represented communities to participate, outreach efforts, and planning workshops;
 * *Ethical research*: **MB** projects are committed to best practices and high ethical standards;
 * *Respect*: Everyone agrees to a general code of conduct which ensures respectful interactions.
-
-Check our [code of conduct](https://docs.google.com/document/d/1UYSevbWnBQwd_eaBe1oKkOBX-8sMsBfiPz2kwNp7Ttc/export?format=pdf).
-Note that this is a living document. Comments and questions are explicitly encouraged. [Here is a version of the document that allows (anonymous) comments](https://docs.google.com/document/d/1UYSevbWnBQwd_eaBe1oKkOBX-8sMsBfiPz2kwNp7Ttc/edit).
 
 ***
 
