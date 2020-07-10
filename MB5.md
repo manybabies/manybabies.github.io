@@ -26,10 +26,11 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 ### Status
 Evaluating potential experimental designs; preparing a call for participation.
 
-<!-- ### Links -->
+### Links
+* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies5).
 
 ### Contribute
-We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: jkosie [at] princeton.edu, zettersten [at] wisc.edu, Christina.Bergmann [at] mpi.nl, caseylw [at] princeton.edu.
+We encourage everyone who is interested in the project to [fill out this form](https://forms.gle/czxx9zzVytisCRY9A) <!--[contribute]({{site.baseurl}}/sign_up_log_in/) --> and/or contact the project leads by e-mailing: jkosie [at] princeton.edu, zettersten [at] wisc.edu, Christina.Bergmann [at] mpi.nl, caseylw [at] princeton.edu.
 
 Please note that access to infants/infant lab is **not** a prerequisite.
 
