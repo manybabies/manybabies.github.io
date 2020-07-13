@@ -15,9 +15,7 @@ Familiarity and novelty effects are the cornerstone of many infant behavioral me
 ### Leads
 [Jessica Kosie](https://jkosie.github.io/), [Martin Zettersten](https://martinzettersten.weebly.com/), [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), [Dima Amso](https://psychology.columbia.edu/content/dima-amso),  and [Casey Lew-Williams](https://psych.princeton.edu/person/casey-lew-williams)
 
-For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
-    <source src="/assets/img/dashboard_studies.mp4" type="video/mp4">  
-    </video>
+<!-- move collaborators index back here when the project is underway -->
 
 <!-- Flourish
 <div class="flourish-embed flourish-map" data-src="visualisation/2520309" data-url="https://flo.uri.sh/visualisation/2520309/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
@@ -30,8 +28,13 @@ Evaluating potential experimental designs; preparing a call for participation.
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies5).
 
 ### Contribute
-We encourage everyone who is interested in the project to [fill out this form](https://forms.gle/czxx9zzVytisCRY9A) <!--[contribute]({{site.baseurl}}/sign_up_log_in/) --> and/or contact the project leads by e-mailing: jkosie [at] princeton.edu, zettersten [at] wisc.edu, Christina.Bergmann [at] mpi.nl, caseylw [at] princeton.edu.
+We encourage everyone who is interested in the project to [fill out this form](https://forms.gle/czxx9zzVytisCRY9A) <!--[contribute]({{site.baseurl}}/sign_up_log_in/) --> and/or contact the project leads by e-mailing: jkosie [at] princeton.edu, martincz [at] princeton.edu, Christina.Bergmann [at] mpi.nl, da2959 [at] columbia.edu, caseylw [at] princeton.edu.
 
 Please note that access to infants/infant lab is **not** a prerequisite.
+
+### Collaborators
+For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
+    <source src="/assets/img/dashboard_studies.mp4" type="video/mp4">  
+    </video>
 
 <!-- ### Publications -->
