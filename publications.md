@@ -57,6 +57,10 @@ Schreiner, M. S., Lippold, M., Soderstrom, M., Shukla, M., Bergmann, C., Frank, 
 <!-- add data from registrations - future -->
 ## Conferences
 
+### 2020
+
+* [Slides & presentations](https://osf.io/t2wgc/) for talks at The Virtual International Congress of Infant Studies (vICIS).
+
 ### 2019
 
 * [Slides & notes](https://osf.io/4p9dt/) for talks at Biennal Meeting of the Society for Research in Child Development (SRCD).

@@ -14,6 +14,7 @@ Alphabetical order
 -->
 
 ### MB General
+* [MB OSF](https://osf.io/rpw6d/)
 * [MB logo](https://figshare.com/articles/ManyBabies_project_logo/12246116)
 * [MB collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/)
 
