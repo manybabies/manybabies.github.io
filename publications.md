@@ -32,6 +32,8 @@ Soderstrom, M., Werker, J. F., Tsui, A., Skarabela, B., Seidl, A., Searle, A., R
 ### Under review
 ManyBabies Consortium (under review). [Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study](https://drive.google.com/file/d/1HC7v5RMrgpkuT7tHm2MChsX36EiLm5Vv/view).
 
+Byers-Heinlein, K., Tsui, R. K. Y., van Renswoude, D., Black, A. K., Barr, R., PhD, Brown, A., … Singh, L. (under review). [The development of gaze following in monolingual and bilingual infants: A multi-lab study](https://doi.org/10.31234/osf.io/sgfhv) _Infancy_.
+
 ### Registrations
 <!---
 Missing:
