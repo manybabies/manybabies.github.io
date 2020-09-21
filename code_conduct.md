@@ -5,7 +5,7 @@ title: Code of conduct
 <!--
 Obs.
 - from google docs living document
-- last update: 07/07/2020 ("stampo add to the page")
+- last update: 07/07/2020 ("stamp add to the page")
 
 -->
 

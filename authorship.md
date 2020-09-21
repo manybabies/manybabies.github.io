@@ -11,7 +11,15 @@ cover-img: /assets/img/home-office-4994104.jpg
 
 2. **Creating analyses, materials, and methods.** Our standard for these will follow the standard above. Contributors that expend significant effort in the creation of materials, analyses, or methodological tools that are specifically for our project (rather than general methodological development) and engage in a sustained relationship with the project will be authors.
 
-3. **Data collection.** Being part of a successful contribution of data to the project. We expect that successful data collection will often require author-level work by both PIs and more junior lab members (e.g., a student or lab manager). We ask PIs to consider ways to deepen junior participants’ involvement so that their contribution to the intellectual enterprise rises to the level that is typically expected for authorship on a paper, e.g., by reading papers on the topic (especially the protocol paper and the [ManyBabies theory paper]({{site.baseurl}}/publications/)), giving presentations on the project to lab groups, etc. We also encourage more junior participants to be involved in the writing and analysis process towards the end of the project
+3. **Data collection.** Being part of a successful contribution of data to the project. We expect that successful data collection will often require author-level work by both PIs and more junior lab members (e.g., a student or lab manager). We ask PIs to consider ways to deepen junior participants’ involvement so that their contribution to the intellectual enterprise rises to the level that is typically expected for authorship on a paper, e.g., by reading papers on the topic (especially the protocol paper and the [ManyBabies theory paper]({{site.baseurl}}/publications/)), giving presentations on the project to lab groups, etc. We also encourage more junior participants to be involved in the writing and analysis process towards the end of the project. Our general standard will be that one PI and one student author will be involved per participating laboratory, though exceptions to this policy can be made in special cases (examples so far include multiple-PI labs and unexpected staffing changes). Requests for exceptions should be directed to project leads - don’t hesitate to ask.
+
+
+NOTE. We encourage everyone who is interested in the project to get involved. Contributing to data collection or being part of a laboratory is not a prerequisite. The general standard of one PI and one student author per laboratory does not apply for contributions on planning, writing, analyses, materials, and methods (i.e., all tasks, except data collection), and is not intended to discourage in any way more than two people from a given lab getting involved in a particular ManyBabies project, as long as each person is demonstrably making a unique and substantive contribution.
+
+***
+
+### Policies on Derived Projects and Presentations
+While ManyBabies studies are by definition cross-lab projects, an individual lab may wish to use ManyBabies data for secondary analyses, honors projects, or other purposes. [Here we articulate philosophical considerations and concrete policies for ensuring that such projects maintain the open, collaborative spirit of ManyBabies]({{site.baseurl}}/derived_presentations/).
 
 ***
 

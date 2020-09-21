@@ -61,7 +61,7 @@ Check our [projects]({{site.baseurl}}/projects/) and [get involved]({{site.baseu
 * *Data Contributors*: Collect data following an experimental protocol;
 * *Project Contributors*: Create stimuli, protocols, analysis code, and any other relevant tasks.
 
-Check the detailed description of [roles and responsabilities of each collaborator type](https://docs.google.com/document/d/1UYSevbWnBQwd_eaBe1oKkOBX-8sMsBfiPz2kwNp7Ttc/export?format=pdf), [authorship guidelines]({{site.baseurl}}/authorship/) and [get involved]({{site.baseurl}}/get_involved/).
+Check the detailed description of [roles and responsabilities of each collaborator type](https://docs.google.com/document/d/1UYSevbWnBQwd_eaBe1oKkOBX-8sMsBfiPz2kwNp7Ttc/export?format=pdf), [authorship guidelines]({{site.baseurl}}/authorship/), [derived presentations]({{site.baseurl}}/derived_presentations/), and [get involved]({{site.baseurl}}/get_involved/).
 
 ***
 

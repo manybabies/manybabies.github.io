@@ -49,6 +49,7 @@ We are working with the [Psychological Accelerator](https://psysciacc.org/) team
 ##### Spin-offs
 * MB1A: [Angeline Tsui](mailto:astsui@stanford.edu), [Casey Lew-Williams](mailto:caseylw@princeton.edu), [Michael Frank](mailto:mcfrank@stanford.edu).
 * MB1B: [listserv](https://groups.google.com/forum/#!forum/manybabies-bilingual), [Krista Byers-Heinlein](mailto:K.Byers@concordia.ca).
+* MB1G: [Krista Byers-Heinlein](mailto:K.Byers@concordia.ca).
 * MB1L: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Melanie Soderstrom](mailto:M_Soderstrom@umanitoba.ca).
 * MB1N: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Natalia Kartushina](mailto:natalia.kartushina@psykologi.uio.no), [Virginie Durier](mailto:virginie.durier@univ-rennes1.fr).
 * MB1T: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Melanie Schreiner](mailto:melanie.schreiner@psych.uni-goettingen.de).
