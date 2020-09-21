@@ -22,11 +22,11 @@ Infants show a preference for infant-directed speech (IDS) over adult-directed s
 ### Status
 Planning and training prior to data collection.
 
-### Links
+### Links  
+* **Materials, Protocols, and Documentation**: [MB1A-OSF](https://osf.io/jgr79/).
 Contact leads for more information.   
 
 <!--
-* **Materials, Protocols, and Documentation**: [MB1B-OSF](https://osf.io/zauhq/).
 * **Data and code**: [MB1B-GitHub](https://github.com/manybabies/mb1b-analysis-public).
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1).  
 * **News**: [MB1A-news]({{site.baseurl}}/tags/#MB1A)
