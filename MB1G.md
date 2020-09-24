@@ -37,7 +37,7 @@ Stage 2 Registered Report under review.
 ### Links
 * **Materials, Protocols, and Documentation**: [MB1G-OSF](https://osf.io/2ey3k/).
 * **Data and code**: [MB1G-GitHub](https://github.com/kristabh/gaze-following-analysis).
-* **News**: [MB1B-news]({{site.baseurl}}/tags/#MB1G).
+* **News**: [MB1G-news]({{site.baseurl}}/tags/#MB1G).
 
 ### Publications
 Byers-Heinlein, K., Tsui, R. K. Y., van Renswoude, D., Black, A. K., Barr, R., PhD, Brown, A., … Singh, L. (under review). [The development of gaze following in monolingual and bilingual infants: A multi-lab study](https://doi.org/10.31234/osf.io/sgfhv) _Infancy_.

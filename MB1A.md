@@ -23,7 +23,8 @@ Infants show a preference for infant-directed speech (IDS) over adult-directed s
 Planning and training prior to data collection.
 
 ### Links  
-* **Materials, Protocols, and Documentation**: [MB1A-OSF](https://osf.io/jgr79/).
+* **Materials, Protocols, and Documentation**: [MB1A-OSF](https://osf.io/jgr79/).  
+
 Contact leads for more information.   
 
 <!--
