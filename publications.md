@@ -15,6 +15,8 @@ To fix:
 ## Reports
 
 ### Published
+Byers-Heinlein, K., Tsui, R. K. Y., van Renswoude, D., Black, A. K., Barr, R., PhD, Brown, A., … Singh, L. (2020). [The development of gaze following in monolingual and bilingual infants: A multi-lab study](https://doi.org/10.1111/infa.12360) _Infancy_, Advance online publication. [PsyArXiv Preprint](https://doi.org/10.31234/osf.io/sgfhv)
+
 ManyBabies Consortium (2020). [Quantifying sources of variability in infancy research using the infant-directed speech preference](https://doi.org/10.1177/2515245919900809). _Advances in Methods and Practices in Psychological Science_, 3, 24-52. [PsyArXiv Preprint](https://psyarxiv.com/s98ab)
 
 Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., Hamlin, J. K., Hannon, E. E., Kline, M., Levelt, C., Lew-Williams, C., Nazzi, T., Panneton, R., Rabagliati, H., Soderstrom, M., Sullivan, J., Waxman, S., Yurovsky, D. (2017). [A collaborative approach to infant research: Promoting reproducibility, best practices, and theory-building.](https://doi.org/10.1111/infa.12182) _Infancy_, 22, 421–435. [PsyArXiv Preprint](https://osf.io/27b43/)
@@ -31,8 +33,6 @@ Soderstrom, M., Werker, J. F., Tsui, A., Skarabela, B., Seidl, A., Searle, A., R
 
 ### Under review
 ManyBabies Consortium (under review). [Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study](https://drive.google.com/file/d/1HC7v5RMrgpkuT7tHm2MChsX36EiLm5Vv/view).
-
-Byers-Heinlein, K., Tsui, R. K. Y., van Renswoude, D., Black, A. K., Barr, R., PhD, Brown, A., … Singh, L. (under review). [The development of gaze following in monolingual and bilingual infants: A multi-lab study](https://doi.org/10.31234/osf.io/sgfhv) _Infancy_.
 
 Tsui, A. S. M., Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., Mathur, M., Mbagaya, C. V., Mekonnen Mengistie, D., Milton, C., Mushimiyimana, F., Ndhambi, M., Ngina, I., Njoroge, E., Odhiambo Oburu, P., Okyere Omane, P., Singh, A., Ssemata, A. S., Unyuzumutima, J., Zeidler, H., Lew-Williams, C., Frank, M. C. (Stage 1 RR under review). Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa.
 

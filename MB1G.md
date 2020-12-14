@@ -40,4 +40,4 @@ Stage 2 Registered Report under review.
 * **News**: [MB1G-news]({{site.baseurl}}/tags/#MB1G).
 
 ### Publications
-Byers-Heinlein, K., Tsui, R. K. Y., van Renswoude, D., Black, A. K., Barr, R., PhD, Brown, A., … Singh, L. (under review). [The development of gaze following in monolingual and bilingual infants: A multi-lab study](https://doi.org/10.31234/osf.io/sgfhv) _Infancy_.
+Byers-Heinlein, K., Tsui, R. K. Y., van Renswoude, D., Black, A. K., Barr, R., PhD, Brown, A., … Singh, L. (2020). [The development of gaze following in monolingual and bilingual infants: A multi-lab study](https://doi.org/10.1111/infa.12360) _Infancy_, Advance online publication. [PsyArXiv Preprint](https://doi.org/10.31234/osf.io/sgfhv)
