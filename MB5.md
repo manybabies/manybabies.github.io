@@ -26,6 +26,7 @@ Evaluating potential experimental designs; preparing a call for participation.
 
 ### Links
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies5).
+* **Slack group**: [join here](https://join.slack.com/t/manybabies5/shared_invite/zt-l3ynakp0-7dY9zbgAZYHxLrrsu4sZPA).
 
 ### Contribute
 We encourage everyone who is interested in the project to [fill out this form](https://forms.gle/czxx9zzVytisCRY9A) <!--[contribute]({{site.baseurl}}/sign_up_log_in/) --> and/or contact the project leads by e-mailing: jkosie [at] princeton.edu, martincz [at] princeton.edu, Christina.Bergmann [at] mpi.nl, da2959 [at] columbia.edu, caseylw [at] princeton.edu.
