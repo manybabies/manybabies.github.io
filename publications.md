@@ -36,6 +36,8 @@ ManyBabies Consortium (under review). [Infants’ Social Evaluation of Helpers a
 
 Tsui, A. S. M., Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., Mathur, M., Mbagaya, C. V., Mekonnen Mengistie, D., Milton, C., Mushimiyimana, F., Ndhambi, M., Ngina, I., Njoroge, E., Odhiambo Oburu, P., Okyere Omane, P., Singh, A., Ssemata, A. S., Unyuzumutima, J., Zeidler, H., Lew-Williams, C., Frank, M. C. (Stage 1 RR under review). Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa.
 
+Schuwerk, T., Kampis, D., Baillargeon, R. (...) Frank, M., Rakoczy, R. (Stage 1 RR under review). [Action anticipation based on an agent's epistemic state in toddlers and adults](https://psyarxiv.com/x4jbm/)._PsyArXiv Preprint_
+
 ### Registrations
 <!---
 Missing:
