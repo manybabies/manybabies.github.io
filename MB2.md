@@ -42,4 +42,4 @@ Please note that access to infants/infant lab is **not** a prerequisite.
 
 <!-- ### Publications -->
 ### Publications
-Schuwerk, T., Kampis, D., Baillargeon, R. (...) Frank, M., Rakoczy, R. (Stage 1 RR under review). [Action anticipation based on an agent's epistemic state in toddlers and adults](https://psyarxiv.com/x4jbm/)._PsyArXiv Preprint_
+Schuwerk, T., Kampis, D., (...) Frank, M., Rakoczy, R. (Stage 1 RR under review). [Action anticipation based on an agent's epistemic state in toddlers and adults](https://psyarxiv.com/x4jbm/)._PsyArXiv Preprint_
