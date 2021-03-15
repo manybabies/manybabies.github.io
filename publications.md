@@ -15,7 +15,9 @@ To fix:
 ## Reports
 
 ### Published
-Byers-Heinlein, K., Tsui, R. K. Y., van Renswoude, D., Black, A. K., Barr, R., PhD, Brown, A., … Singh, L. (2020). [The development of gaze following in monolingual and bilingual infants: A multi-lab study](https://doi.org/10.1111/infa.12360) _Infancy_, Advance online publication. [PsyArXiv Preprint](https://doi.org/10.31234/osf.io/sgfhv)
+Byers-Heinlein, Tsui, A. S. M., K., Bergmann, C., ..., Wermelinger, S. (2021). [A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech](https://doi.org/10.1177/2515245920974622). _Advances in Methods and Practices in Psychological Science_. [PsyArXiv PrePrint](https://psyarxiv.com/sqh9d/)
+
+Byers-Heinlein, K., Tsui, R. K. Y., van Renswoude, D., Black, A. K., Barr, R., Brown, A., … Singh, L. (2020). [The development of gaze following in monolingual and bilingual infants: A multi-lab study](https://doi.org/10.1111/infa.12360) _Infancy_, Advance online publication. [PsyArXiv Preprint](https://doi.org/10.31234/osf.io/sgfhv)
 
 ManyBabies Consortium (2020). [Quantifying sources of variability in infancy research using the infant-directed speech preference](https://doi.org/10.1177/2515245919900809). _Advances in Methods and Practices in Psychological Science_, 3, 24-52. [PsyArXiv Preprint](https://psyarxiv.com/s98ab)
 
@@ -24,11 +26,7 @@ Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J.
 ### In Press
 Byers-Heinlein, K., Bergmann, C., Davies, C., Frank, M. C., Hamlin, J. K., Kline, M., Kominsky, J. F., Kosie, J. E., Lew-Williams, C., Liu, L., Mastroberardino, M., Singh, L., Waddell, C. P. G., Zettersten, M., & Soderstrom, M. (In Press). [Building a collaborative Psychological Science: Lessons from ManyBabies 1](https://psyarxiv.com/dmhk2/). _Canadian Psychology_.
 
-Byers-Heinlein, K., Bergmann, C., Black, A., Carbajal, J. M., Fennell, C. T., Frank, M. C., Gervain, J., Gonzalez-Gomez, N., Hamlin, J. K., Kline, M., Kovacs, A. M., Lew-Williams, C., Liu, L., Polka, L., Singh, L., Soderstrom, M., Tsui, A. S. M. (accepted pending data collection). [A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech](https://docs.google.com/document/d/1IsqOI3zNOSy-8H1rAjKWeBMlQD5QyAcnUdkhV_n2K2g). _Advances in Methods and Practices in Psychological Science_.
-
 ### Accepted pending data collection
-Byers-Heinlein, K., Tsui, R.K., Renswoude, D. R. van, Black, A., Barr, R., Brown, A., Colomer, M., Durrant, S., Gampe, A., Gonzalez-Gomez, N., Hay, J. F., Hernik, M., Jartó, M., Kovács, A. M., Laoun-Rubenstein, A., Lew-Williams, C., Liszkowski, U., Liu, L., Noble, C., Potter, C. E., Rocha-Hidalgo, J., Sebastian-Galles, N., Soderstrom, M., Visser, I., Waddell, C., Wermelinger, S., & Singh, L. (accepted pending data collection). [The Development of Gaze Following in Monolingual and Bilingual Infants: A Multi-Lab Study](https://psyarxiv.com/sgfhv). _Infancy_.
-
 Soderstrom, M., Werker, J. F., Tsui, A., Skarabela, B., Seidl, A., Searle, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Noble, C., Nave, K., Mayor, J., Martin, A., Lew-Williams, C., Ko, E., Kartushina, N., Kammermeier, M., Jessop, A., Hay, J. F., Hannon, E. E., Hamlin, J. K., Gonzalez-Gomez, N., Gonzalez-Barrero, A. M., Gampe, A., Fritzsche, T., Frank, M. C., Floccia, C., Durrant, S., Delle Luche, C., Davies, C., Cashon, C., Byers-Heinlein, K., Black, A. K., Bergmann, C., Anderson, L. (accepted pending data collection). [Testing the Relationship Between Preferences for Infant-Directed Speech and Vocabulary Development: A Multi-Lab Study](https://drive.google.com/drive/folders/1yb7bdTtEDOKwIA4qMcfiuKkoI1jIojW7). _Journal of Child Language_.
 
 ### Under review
