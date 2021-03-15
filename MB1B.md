@@ -31,7 +31,7 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 -->
 
 ### Status
-Stage 2 Registered Report under review.
+Completed.
 
 ### Links
 * **Materials, Protocols, and Documentation**: [MB1B-OSF](https://osf.io/zauhq/).
@@ -40,7 +40,7 @@ Stage 2 Registered Report under review.
 * **News**: [MB1B-news]({{site.baseurl}}/tags/#MB1B).
 
 ### Publications
-Byers-Heinlein, K., Bergmann, C., Black, A., Carbajal, J. M., Fennell, C. T., Frank, M. C., Gervain, J., Gonzalez-Gomez, N., Hamlin, J. K., Kline, M., Kovacs, A. M., Lew-Williams, C., Liu, L., Polka, L., Singh, L., Soderstrom, M., Tsui, A. S. M. (accepted pending data collection). [A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech](https://docs.google.com/document/d/1IsqOI3zNOSy-8H1rAjKWeBMlQD5QyAcnUdkhV_n2K2g). _Advances in Methods and Practices in Psychological Science_.
+Byers-Heinlein, Tsui, A. S. M., K., Bergmann, C., ..., Wermelinger, S. (2021). [A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech](https://doi.org/10.1177/2515245920974622). _Advances in Methods and Practices in Psychological Science_. [PsyArXiv PrePrint](https://psyarxiv.com/sqh9d/)
 
 <!--
 **News release**: See also the news releases by
