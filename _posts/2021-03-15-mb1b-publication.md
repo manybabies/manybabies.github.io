@@ -1,7 +1,6 @@
 ---
 layout: post
-title: MB1B - ManyBabies 1 Bilingual published at Advances in Methods and
-Practices in Psychological Science
+title: MB1B - ManyBabies 1 Bilingual publication
 tags: [paper, publication, MB1B]
 ---
 
