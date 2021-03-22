@@ -27,6 +27,7 @@ navbar-links:
     - MB4: "MB4"
     - MB5: "MB5"
     - MB-AtHome: "MB-AtHome"
+    - MB-demographics: "MB-demographics"
     - Spin-offs: "so_sa"
   Sign up/Log in: "sign_up_log_in"
 
