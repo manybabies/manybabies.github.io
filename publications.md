@@ -24,6 +24,8 @@ ManyBabies Consortium (2020). [Quantifying sources of variability in infancy res
 Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., Hamlin, J. K., Hannon, E. E., Kline, M., Levelt, C., Lew-Williams, C., Nazzi, T., Panneton, R., Rabagliati, H., Soderstrom, M., Sullivan, J., Waxman, S., Yurovsky, D. (2017). [A collaborative approach to infant research: Promoting reproducibility, best practices, and theory-building.](https://doi.org/10.1111/infa.12182) _Infancy_, 22, 421–435. [PsyArXiv Preprint](https://osf.io/27b43/)
 
 ### In Press
+Visser, I., et al. (In Press). [Improving the generalizability of infant psychological research: The ManyBabies model (Commentary)](https://psyarxiv.com/8vwbf). _Behavioral and Brain Sciences_.
+
 Byers-Heinlein, K., Bergmann, C., Davies, C., Frank, M. C., Hamlin, J. K., Kline, M., Kominsky, J. F., Kosie, J. E., Lew-Williams, C., Liu, L., Mastroberardino, M., Singh, L., Waddell, C. P. G., Zettersten, M., & Soderstrom, M. (In Press). [Building a collaborative Psychological Science: Lessons from ManyBabies 1](https://psyarxiv.com/dmhk2/). _Canadian Psychology_.
 
 ### Accepted pending data collection

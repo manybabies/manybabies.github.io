@@ -113,6 +113,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
 	</header>
 <br>
 
+
 	<div class="container">
 		<div class="row justify-content-around">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
@@ -123,9 +124,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
           Solutions for testing infants in their home, with a focus on measuring looks.
               <a href="{{site.baseurl}}{% link MB-AtHome.md %}" class="button">Learn more</a>
     		</div>
-	  </div>
 
-	<div class="row justify-content-around">
 			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
 			<a href="{{site.baseurl}}{% link MB-demographics.md %}" class="image">
 				<img src="assets/img/feet-619399_cb4.jpg" />
@@ -136,7 +135,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
 			</div>
 	</div>
 
-  </div>
+</div>
 </section>
 
 
