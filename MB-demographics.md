@@ -14,7 +14,7 @@ If you are interested in collaborating or playing a leadership role in this proj
 
 
 ### Leads
-The leadership team is being defined, please reach out to [Mike Frank](mailto:mcfrank@stanford.edu) if you would like to play a leadership role.
+[Mihaela Barokova](mailto:mihaela.barokova@gmail.com) and [Leher Singh](mailto:leher.singh.nus@gmail.com).
 
 <!--For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
     <source src="/assets/img/dashboard_studies.mp4" type="video/mp4">  
@@ -35,7 +35,7 @@ Surveys of the community’s ideas for the project and best approaches to standa
 <!--* **News**: [MB-AtHome news]({{site.baseurl}}/tags/#MB-AtHome).-->
 
 ### Contribute
-We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact [Mike Frank](mailto:mcfrank@stanford.edu).
+We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact [Mihaela Barokova](mailto:mihaela.barokova@gmail.com) and [Leher Singh](mailto:leher.singh.nus@gmail.com).
 
 Please note that access to infants/infant lab is **not** a prerequisite. You are also welcome if this is the first ManyBabies project you will participate.
 
