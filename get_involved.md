@@ -15,3 +15,7 @@ Everyone, from undergraduate students to senior researchers, who is interested i
 ## New Projects
 
 If you are interested in leading a new [**ManyBabies** project]({{site.baseurl}}/projects/) (either a main project or a spin-off that would involve data collection across multiple labs), please check the [project proposal form](https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit) and/or contact the **MB** [Governing Board](mailto:manybabies-gb@mailman.stanford.edu).
+
+## Join MB dashboard/Map
+
+If you are already part of a MB project, you can [join the MB dashboard / map]({{site.baseurl}}/map/) or [edit]({{site.baseurl}}/map/) your information.

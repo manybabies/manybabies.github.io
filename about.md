@@ -7,16 +7,7 @@ cover-img: /assets/img/people-3120717.jpg
 <!---
 To do:
 - update funding information? MB2 Grant?
-- map (with governing board members)
-  - psa uses flourish: https://public.flourish.studio/visualisation/1103427/
-      - disavantages = 1. manual update, 2. points with the same coordinates overlap.
-  - address and latitude/long being recovered automatically with google sheets (geom add-on)
-  - make R version? tmap seems to be the way.
-
-Information to come from registration/sign up:
-- Number of collaborators and where they come from
-- contributors MAP (data from registrations)
- --->
+--->
 
 The **ManyBabies** project was [born](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html) comitted to Open Science and to the best research practices to test hypotheses about infant development that individual labs could perhaps never adequately test. **MB** collaborative nature implies that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made on a consensus-based approach. We strive for an environment of trust and equality that can engage researchers from a broad spectrum of backgrounds. Learn more about **MB** vision for the role of large-scale collaborations, check [Frank et al. (2017)](https://psyarxiv.com/27b43/) and [Byers-Heinlein et al. (in press)](https://psyarxiv.com/dmhk2/).
 
@@ -63,6 +54,8 @@ Check our [projects]({{site.baseurl}}/projects/) and [get involved]({{site.baseu
 
 Check the detailed description of [roles and responsabilities of each collaborator type](https://docs.google.com/document/d/1UYSevbWnBQwd_eaBe1oKkOBX-8sMsBfiPz2kwNp7Ttc/export?format=pdf), [authorship guidelines]({{site.baseurl}}/authorship/), [derived presentations]({{site.baseurl}}/derived_presentations/), and [get involved]({{site.baseurl}}/get_involved/).
 
+Check how to join the [MB dashboard / map]({{site.baseurl}}/map/) or edit your information.
+
 ***
 
 ### People
@@ -101,3 +94,5 @@ The [Society for the Improvement of Psychological Science (SIPS)](https://improv
 
 ### Get involved
 We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **not** a prerequisite.
+
+Also check how to join the [MB dashboard / map]({{site.baseurl}}/map/) or edit your information.

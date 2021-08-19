@@ -19,6 +19,7 @@ navbar-links:
     - Authorship: "authorship"
     - Publications: "publications"
     - Resources: "resources"
+    - Map: "map"
   Projects:
     - Overview: "projects"
     - MB1: "MB1"
