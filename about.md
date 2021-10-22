@@ -64,11 +64,16 @@ Check how to join the [MB dashboard / map]({{site.baseurl}}/map/) or edit your i
 * [Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein) (Concordia University)
 * [Michael C. Frank](https://web.stanford.edu/~mcfrank/) (Stanford University)
 * [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/) (University of British Columbia)
-* [Melissa Kline](https://osf.io/d5mks/) (Center for Open Science)
+* [Melissa Kline Struhl](http://www.melissaklinestruhl.com) (LookIt)
 * [Casey Lew-Williams](https://psych.princeton.edu/person/casey-lew-williams) (Princeton University)
 * [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/) (University of Manitoba)
 
 [E-mail the Governing Board](mailto:manybabies-gb@mailman.stanford.edu).
+
+**Executive Director**:
+* [Heidi Baumgartner](https://www-csli.stanford.edu/people/baumgartner-heidi) (Stanford University)
+
+[E-mail the Executive Director](mailto:manybabies.director@gmail.com).
 
 **Collaborators**:   
 For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
