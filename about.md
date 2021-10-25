@@ -27,19 +27,19 @@ Check our [code of conduct]({{site.baseurl}}/code_conduct/) for a full descripti
 
 ### Definitions and Roles
 **ManyBabies** activities are guided by the principles of:
-* *Transparency*: All decisions in a **MB** project, from design to publication, are as transparent as possible;
-* *Collective governance*: When possible and feasible, decisions are made jointly and transparently;
-* *Inclusivity and diversity*: **MB** explicitly encourages efforts to increase diversity. This includes active applications for funding to assist laboratories from under-represented communities to participate, outreach efforts, and planning workshops;
-* *Ethical research*: **MB** projects are committed to best practices and high ethical standards;
-* *Respect*: Everyone agrees to a general code of conduct which ensures respectful interactions.
+* *Transparency*: All decisions in a **MB** project, from design to publication, are as transparent as possible
+* *Collective governance*: When possible and feasible, decisions are made jointly and transparently
+* *Inclusivity and diversity*: **MB** explicitly encourages efforts to increase diversity. This includes active applications for funding to assist laboratories from under-represented communities to participate, outreach efforts, and planning workshops
+* *Ethical research*: **MB** projects are committed to best practices and high ethical standards
+* *Respect*: Everyone agrees to a general code of conduct which ensures respectful interactions
 
 ***
 
 **ManyBabies** [projects]({{site.baseurl}}/projects/) aim to test hypotheses about:
-* *Validity*: Assess the replicability, generalizability, and robustness of key findings in infancy (effect + effect size + moderators) in consensus paradigms. Note that these paradigms are not necessarily exact replications of seminal studies;
-* *Theory*: Understand infant development across a wide range of ages and experiences (e.g., language and cultural background);
-* *Methods*: Quantify sources of variability across labs and establish best practices;
-* *Diversity*: Increase diversity of participants, researchers, & research questions.
+* *Validity*: Assess the replicability, generalizability, and robustness of key findings in infancy (effect + effect size + moderators) in consensus paradigms. Note that these paradigms are not necessarily exact replications of seminal studies
+* *Theory*: Understand infant development across a wide range of ages and experiences (e.g., language and cultural background)
+* *Methods*: Quantify sources of variability across labs and establish best practices
+* *Diversity*: Increase diversity of participants, researchers, & research questions
 
 Check our [projects]({{site.baseurl}}/projects/) and [get involved]({{site.baseurl}}/get_involved/).
 
