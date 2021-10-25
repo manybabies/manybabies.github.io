@@ -68,12 +68,12 @@ Check how to join the [MB dashboard / map]({{site.baseurl}}/map/) or edit your i
 * [Casey Lew-Williams](https://psych.princeton.edu/person/casey-lew-williams) (Princeton University)
 * [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/) (University of Manitoba)
 
-|   [E-mail the Governing Board](mailto:manybabies-gb@mailman.stanford.edu).
+> [E-mail the Governing Board](mailto:manybabies-gb@mailman.stanford.edu)
 
 **Executive Director**:
 * [Heidi Baumgartner](https://www-csli.stanford.edu/people/baumgartner-heidi) (Stanford University)
 
-|   [E-mail the Executive Director](mailto:manybabies.director@gmail.com).
+> [E-mail the Executive Director](mailto:manybabies.director@gmail.com)
 
 **Collaborators**:   
 For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
