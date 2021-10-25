@@ -9,7 +9,7 @@ To do:
 - update funding information? MB2 Grant?
 --->
 
-The **ManyBabies** project was [born](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html) comitted to Open Science and to the best research practices to test hypotheses about infant development that individual labs could perhaps never adequately test. **MB** collaborative nature implies that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made on a consensus-based approach. We strive for an environment of trust and equality that can engage researchers from a broad spectrum of backgrounds. Learn more about **MB** vision for the role of large-scale collaborations, check [Frank et al. (2017)](https://psyarxiv.com/27b43/) and [Byers-Heinlein et al. (in press)](https://psyarxiv.com/dmhk2/).
+The **ManyBabies** project was [born](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html) comitted to Open Science and to the best research practices to test hypotheses about infant development that individual labs could perhaps never adequately test. **MB's** collaborative nature implies that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made on a consensus-based approach. We strive for an environment of trust and equality that can engage researchers from a broad spectrum of backgrounds. Learn more about **MB's** vision for the role of large-scale collaborations, check [Frank et al. (2017)](https://psyarxiv.com/27b43/) and [Byers-Heinlein et al. (in press)](https://psyarxiv.com/dmhk2/).
 
 <!-- Too detailed?
 Infant research usually requires significant human and financial resources and is slow to conduct. These aspects, combined with the pressure to publish at a rapid pace to secure promotions and funding, can render the conduction of large-scale projects unpractical under individual labs contexts.
@@ -46,11 +46,11 @@ Check our [projects]({{site.baseurl}}/projects/) and [get involved]({{site.baseu
 ***
 
 <!-- data from code of conduct -->
-**ManyBabies** collaborators come from [6-continent, 30+ nations](https://rodrigodalben.shinyapps.io/shiny_mb_map/). They can serve as:
-* *Governing board members*: Responsible for governance decisions, including decisions about funding, new projects, and other project-wide concerns.
-* *Project Leads*: Coordinates all aspects of a study (e.g., setting up work groups, guidelines) and ensures that all aspects adhere to the **MB** code of conduct;
-* *Data Contributors*: Collect data following an experimental protocol;
-* *Project Contributors*: Create stimuli, protocols, analysis code, and any other relevant tasks.
+**ManyBabies** collaborators come from [6 continents, 30+ nations](https://rodrigodalben.shinyapps.io/shiny_mb_map/). They can serve as:
+* *Governing board members*: Responsible for governance decisions, including decisions about funding, new projects, and other project-wide concerns
+* *Project Leads*: Coordinates all aspects of a study (e.g., setting up work groups, guidelines) and ensures that all aspects adhere to the **MB** code of conduct
+* *Data Contributors*: Collect data following an experimental protocol
+* *Project Contributors*: Create stimuli, protocols, analysis code, and any other relevant tasks
 
 Check the detailed description of [roles and responsabilities of each collaborator type](https://docs.google.com/document/d/1UYSevbWnBQwd_eaBe1oKkOBX-8sMsBfiPz2kwNp7Ttc/export?format=pdf), [authorship guidelines]({{site.baseurl}}/authorship/), [derived presentations]({{site.baseurl}}/derived_presentations/), and [get involved]({{site.baseurl}}/get_involved/).
 
@@ -68,12 +68,12 @@ Check how to join the [MB dashboard / map]({{site.baseurl}}/map/) or edit your i
 * [Casey Lew-Williams](https://psych.princeton.edu/person/casey-lew-williams) (Princeton University)
 * [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/) (University of Manitoba)
 
-[E-mail the Governing Board](mailto:manybabies-gb@mailman.stanford.edu).
+|   [E-mail the Governing Board](mailto:manybabies-gb@mailman.stanford.edu).
 
 **Executive Director**:
 * [Heidi Baumgartner](https://www-csli.stanford.edu/people/baumgartner-heidi) (Stanford University)
 
-[E-mail the Executive Director](mailto:manybabies.director@gmail.com).
+|   [E-mail the Executive Director](mailto:manybabies.director@gmail.com).
 
 **Collaborators**:   
 For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
