@@ -43,7 +43,7 @@ This Code of Conduct applies both within project spaces (OSF, github, mailing li
 ### Enforcement
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the [ManyBabies Governing Board](mailto:manybabies-gb@mailman.stanford.edu), the [ManyBabies Executive Director](mailto:manybabies.director@gmail.com) or any of its members. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances, ranging from discussion of these policies to expulsion from the group, including all mailing lists (either for a set time span or permanently). It is at the complainant’s discretion to pursue additional action through other legal or institutional mechanisms. The Governing Board and Executive Director are obligated to maintain confidentiality with regard to the reporter of an incident. In cases of complaints directly to project leads, Governing Board members, or the Executive Director, the reporter's identity will be known only to those directly contacted by the complainant, unless the complainant’s explicit permission is obtained.
 
-Governing Board members or project leads who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the Boverning Board or project's leadership.
+Governing Board members or project leads who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the Governing Board or project's leadership.
 
 Further details of specific enforcement policies may be posted separately.
 
