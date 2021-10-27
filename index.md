@@ -28,7 +28,7 @@ Notes
 <!--How does Infant Direct Speech preference vary across age?-->
 - Do babies find infant-directed speech (babytalk) more interesting than adult-directed speech?
 
-Learn more [about]({{site.baseurl}}/about/) **MB** origin, goals, people, and [stay up to date]({{site.baseurl}}/news/). Also, for a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/).
+Learn more [about]({{site.baseurl}}/about/) **MB's** origin, goals, people, and [stay up to date]({{site.baseurl}}/news/). Also, for a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/).
 
 ***
 
@@ -41,7 +41,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
 		<h2>Projects</h2>
 	</header>
       <p>
-        The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site.baseurl}}{% link projects.md %}"> collaborative projects</a>. They are organized in <i>main projects</i> (either empirical or methodological), <i>spin-off projects</i>, and <i>secondary analyses</i>. Check our main projects, together with their affiliated spin-off projects and secondary analyses:
+        The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site.baseurl}}{% link projects.md %}"> collaborative projects</a>. They are organized in <i>main projects</i> (either empirical or methodological), <i>spin-off projects</i>, and <i>secondary analyses</i>. Check out our main projects, together with their affiliated spin-off projects and secondary analyses:
       </p>
 
 	<header class="major">
@@ -57,7 +57,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
             <img src="assets/img/feet-619399_cb1.jpg" />
           </a>
           <h4>MB1: Infant-Directed Speech Preference</h4>
-            Do infants prefer infant-directed speech? Does age, method, and native language background matters?
+            Do infants prefer infant-directed speech? Do age, method, and native language background matter?
               <a href="{{site.baseurl}}{% link MB1.md %}" class="button">Learn more</a>
         </div>
 
@@ -100,7 +100,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
           <a href="{{site.baseurl}}{% link MB5.md %}" class="image">
             <img src="assets/img/feet-619399_cb6.jpg" />
           </a>
-          <h4>MB5: The Hunter & Ames model of Infant Looking Preferences</h4>
+          <h4>MB5: The Hunter & Ames Model of Infant Looking Preferences</h4>
             What factors shape infants’ preferences for familiar and novel stimuli?
               <a href="{{site.baseurl}}{% link MB5.md %}" class="button">Learn more</a>
         </div>
@@ -129,7 +129,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
 			<a href="{{site.baseurl}}{% link MB-demographics.md %}" class="image">
 				<img src="assets/img/feet-619399_cb4.jpg" />
 			</a>
-			<h4>MB-demographics: unified demographics for ManyBabies projects</h4>
+			<h4>MB-Demographics: Unified Demographics for ManyBabies Projects</h4>
 				In this project we are creating unified demographic forms for ManyBabies projects, with standardized and custom questions.
 			<a href="{{site.baseurl}}{% link MB-demographics.md %}" class="button">Learn more</a>
 			</div>
