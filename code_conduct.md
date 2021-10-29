@@ -33,7 +33,7 @@ Examples of unacceptable behavior by contributors include:
 <br>
 
 ### Our Responsibilities
-The Governing Board, Executive Directory, and project leads are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+The Governing Board, Executive Director, and project leads are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
 The Governing Board, Executive Director, and project leads have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, emails, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
