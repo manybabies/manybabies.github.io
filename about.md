@@ -9,7 +9,7 @@ To do:
 - update funding information? MB2 Grant?
 --->
 
-The **ManyBabies** project was [born](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html) committed to Open Science and to the best research practices to test hypotheses about infant development that individual labs could perhaps never adequately test. **MB's** collaborative nature implies that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made on a consensus-based approach. We strive for an environment of trust and equality that can engage researchers from a broad spectrum of backgrounds. Learn more about **MB's** vision for the role of large-scale collaborations, check [Frank et al. (2017)](https://psyarxiv.com/27b43/) and [Byers-Heinlein et al. (in press)](https://psyarxiv.com/dmhk2/).
+The **ManyBabies** project was [born](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html) committed to Open Science and to the best research practices to test hypotheses about infant development that individual labs could perhaps never adequately test. **MB's** collaborative nature implies that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made on a consensus-based approach. We strive for an environment of trust and equality that can engage researchers from a broad spectrum of backgrounds. To learn more about **MB's** vision for the role of large-scale collaborations, see [Frank et al. (2017)](https://psyarxiv.com/27b43/) and [Byers-Heinlein et al. (2020)](https://psyarxiv.com/dmhk2/).
 
 <!-- Too detailed?
 Infant research usually requires significant human and financial resources and is slow to conduct. These aspects, combined with the pressure to publish at a rapid pace to secure promotions and funding, can render the conduction of large-scale projects unpractical under individual labs contexts.
@@ -21,7 +21,7 @@ On the other hand, large-scale *collaborative* and *Open Science* projects have 
 ***
 
 ### Code of Conduct
-Check our [Code of Conduct]({{site.baseurl}}/code_conduct/) for a full description of our pledge, standards, responsibilities, and scope.
+See **MB's** [Code of Conduct]({{site.baseurl}}/code_conduct/) for a full description of our pledge, standards, responsibilities, and scope.
 
 ***
 
