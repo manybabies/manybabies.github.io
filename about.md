@@ -41,20 +41,20 @@ Check our [Code of Conduct]({{site.baseurl}}/code_conduct/) for a full descripti
 * *Methods*: Quantify sources of variability across labs and establish best practices
 * *Diversity*: Increase diversity of participants, researchers, & research questions
 
-Check our [projects]({{site.baseurl}}/projects/) and [get involved]({{site.baseurl}}/get_involved/).
+Learn more about our [projects]({{site.baseurl}}/projects/) and [get involved]({{site.baseurl}}/get_involved/)!
 
 ***
 
 <!-- data from code of conduct -->
-**ManyBabies** collaborators come from [6 continents, 30+ nations](https://rodrigodalben.shinyapps.io/shiny_mb_map/). They can serve as:
-* *Governing board members*: Responsible for governance decisions, including decisions about funding, new projects, and other project-wide concerns
-* *Project Leads*: Coordinates all aspects of a study (e.g., setting up work groups, guidelines) and ensures that all aspects adhere to the **MB** code of conduct
+**ManyBabies** collaborators come from [40+ nations on 6 continents](https://rodrigodalben.shinyapps.io/shiny_mb_map/). They can serve as:
+* *Governing Board Members*: Responsible for governance decisions, including decisions about funding, new projects, and other project-wide concerns
+* *Project Leads*: Coordinate all aspects of a study (e.g., setting up work groups, guidelines) and ensure that all aspects adhere to the **MB** [Code of Conduct]({{site.baseurl}}/code_conduct/)
 * *Data Contributors*: Collect data following an experimental protocol
 * *Project Contributors*: Create stimuli, protocols, analysis code, and any other relevant tasks
 
-Check the detailed description of [roles and responsabilities of each collaborator type](https://docs.google.com/document/d/1UYSevbWnBQwd_eaBe1oKkOBX-8sMsBfiPz2kwNp7Ttc/export?format=pdf), [authorship guidelines]({{site.baseurl}}/authorship/), [derived presentations]({{site.baseurl}}/derived_presentations/), and [get involved]({{site.baseurl}}/get_involved/).
+See more detailed descriptions of [roles and responsibilities of each collaborator type](https://docs.google.com/document/d/1UYSevbWnBQwd_eaBe1oKkOBX-8sMsBfiPz2kwNp7Ttc/export?format=pdf), [authorship guidelines]({{site.baseurl}}/authorship/), policies on [derived presentations]({{site.baseurl}}/derived_presentations/), and [get involved]({{site.baseurl}}/get_involved/) in **ManyBabies** projects.
 
-Check how to join the [MB dashboard / map]({{site.baseurl}}/map/) or edit your information.
+Learn how to join the [MB dashboard / map]({{site.baseurl}}/map/) or update your information.
 
 ***
 
@@ -64,7 +64,7 @@ Check how to join the [MB dashboard / map]({{site.baseurl}}/map/) or edit your i
 * [Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein) (Concordia University)
 * [Michael C. Frank](https://web.stanford.edu/~mcfrank/) (Stanford University)
 * [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/) (University of British Columbia)
-* [Melissa Kline Struhl](http://www.melissaklinestruhl.com) (LookIt)
+* [Melissa Kline Struhl](http://www.melissaklinestruhl.com) (Lookit)
 * [Casey Lew-Williams](https://psych.princeton.edu/person/casey-lew-williams) (Princeton University)
 * [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/) (University of Manitoba)
 
@@ -100,4 +100,4 @@ The [Society for the Improvement of Psychological Science (SIPS)](https://improv
 ### Get involved
 We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **not** a prerequisite.
 
-Also check how to join the [MB dashboard / map]({{site.baseurl}}/map/) or edit your information.
+All collaborators are encouraged to join the [MB dashboard / map]({{site.baseurl}}/map/) or update your information.
