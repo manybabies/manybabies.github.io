@@ -5,7 +5,7 @@ subtitle: Spin-offs & Secondary Analyses
 ---
 
 # Spin-offs
-<br>
+
 ### MB1: Infant-Directed Speech Preference
 * [**MB1A: Infant-Directed Speech Preference in African Infants**]({{site.baseurl}}/MB1A/)
 * [**MB1B: Infant-Directed Speech Preference in Bilingual Infants**]({{site.baseurl}}/MB1B/)
@@ -16,12 +16,11 @@ subtitle: Spin-offs & Secondary Analyses
 
 ### MB3: Rule Learning
 * [**MB3N: Rule Learning using NIRS**]({{site.baseurl}}/MB3N/)
-<br>
-<br>
+
 ***
 
 # Secondary Analyses
-<br>
+
 ### MB1: Infant-Directed Speech Preference 
 * [**Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)
 * [**Analysis of supplemental demographic variables**]({{site.baseurl}}/MB1SA/)
