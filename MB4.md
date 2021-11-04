@@ -15,7 +15,7 @@ To-do:
 In this ongoing project we investigate a fundamental aspect of human nature: evaluating others’ actions as praiseworthy or blameworthy. <img style="float: right;" src="/assets/img/mb4_site_300px.png"> We do so in a closely coordinated, multi-laboratory, standardized study aimed at replicating the helping/hindering finding reported by ([Hamlin, Wynn, & Bloom, 2007](https://www.nature.com/articles/nature06288)). Using a video-taped version of the original [puppet show](https://www.youtube.com/watch?v=anCaGBsBOxM), labs from around the world will collect data from infants between the ages of 5.5 and 10.5 months.
 
 ### Leads
-[Kelsey Lucca](https://psychology.asu.edu/content/kelsey-lucca) and [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/)
+[Kelsey Lucca](https://isearch.asu.edu/profile/3521043) and [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/)
 
 ### Collaborators
 For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
