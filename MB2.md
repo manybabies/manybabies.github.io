@@ -15,7 +15,7 @@ To-do:
 In this ongoing project we aim to investigate a fundamental feature of human social cognition: Theory of Mind (ToM) or the ability to ascribe mental states to agents). <img style="float: right;" src="/assets/img/unicph_2yo_300px.png"> One of the central tests for ToM is the false belief task in which the participant need to predict how an agent will act on the basis of her/his (mis)representation of the world. Using a false belief task (3D-animated videos), we ask if infants (between 18-36-month-olds) and adults show anticipatory looking that reflects the false belief of another agent. Our contributors include the authors of the original studies and of previous replication attempts, as well researchers from diverse theoretical orientations (e.g., nativist and core knowledge, dual process, conceptual change and skeptics).
 
 ### Leads
-[Dora Kampis](https://psychology.ku.dk/Academic_staff/?pure=en/persons/613816),  [Michael Frank](https://web.stanford.edu/~mcfrank/), [Hannes Rakoczy](https://www.psych.uni-goettingen.de/en/development/team/rakoczy-hannes), [Tobias Schuwerk](https://tobiasschuwerk.com/)
+[Dora Kampis](https://psychology.ku.dk/staff/academic_staff/?pure=en%2Fpersons%2Fdora-kampis(94aa17eb-739f-486e-a280-4a76aa4d38a7).html),  [Michael Frank](https://web.stanford.edu/~mcfrank/), [Hannes Rakoczy](https://www.psych.uni-goettingen.de/en/development/team/rakoczy-hannes), [Tobias Schuwerk](https://www.psy.lmu.de/epp/personen/wiss_ma/tobias_schuwerk/)
 
 ### Collaborators
 For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
