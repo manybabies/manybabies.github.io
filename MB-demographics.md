@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MB-demographics
+title: MB-Demographics
 subtitle: Standard demographics for MB projects
 ---
 
@@ -25,7 +25,7 @@ If you are interested in collaborating or playing a leadership role in this proj
 -->
 
 ### Status
-Surveys of the community’s ideas for the project and best approaches to standardize the demographic forms.
+Finalizing items for the demographics form(s)
 
 ### Links
 <!--* **Materials, Protocols, and Documentation**: [Google Drive](https://drive.google.com/drive/folders/1IW0daOJMG37FdoGkX1l12zhjPYSmPcD5).-->
@@ -37,6 +37,6 @@ Surveys of the community’s ideas for the project and best approaches to standa
 ### Contribute
 We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact [Mihaela Barokova](mailto:mihaela.barokova@gmail.com) and [Leher Singh](mailto:leher.singh.nus@gmail.com).
 
-Please note that access to infants/infant lab is **not** a prerequisite. You are also welcome if this is the first ManyBabies project you will participate.
+Please note that access to infants/infant lab is **not** a prerequisite. You are also welcome if this is the first ManyBabies project in which you will participate.
 
 <!-- ### Publications -->

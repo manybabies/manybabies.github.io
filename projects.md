@@ -33,7 +33,7 @@ The broader goals of **ManyBabies (MB)** come together through collaborative pro
 
 #### Methodological
 * [**MB-AtHome: Online Infant Data Collection**]({{site.baseurl}}/MB-AtHome/)
-* [**MB-demographics**]({{site.baseurl}}/MB-demographics/)
+* [**MB-Demographics**]({{site.baseurl}}/MB-demographics/)
 
 <!--alphabetical order -->
 ### Spin-off projects

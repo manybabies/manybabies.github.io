@@ -13,7 +13,7 @@ To-do:
 Familiarity and novelty effects are the cornerstone of many infant behavioral methods <img style="float: right;" src="/assets/img/infant_in_lab_300px.png"> (e.g., habituation, head-turn preference, preferential looking / looking-while-listening, eye tracking). In this ongoing project we investigate [Hunter and Ames’ (1988)](https://psycnet.apa.org/record/1988-98065-003) model of infants’ preference for familiar and novel stimuli. We aim to empirically test whether infant age, task difficulty, and familiarization time interact to predict the direction of infants’ preference for familiar vs. novel stimuli.
 
 ### Leads
-[Jessica Kosie](https://jkosie.github.io/), [Martin Zettersten](https://martinzettersten.weebly.com/), [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), [Dima Amso](https://psychology.columbia.edu/content/dima-amso),  and [Casey Lew-Williams](https://psych.princeton.edu/person/casey-lew-williams)
+[Jessica Kosie](https://jkosie.github.io/), [Martin Zettersten](https://mzettersten.github.io/), [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), [Dima Amso](https://psychology.columbia.edu/content/dima-amso), and [Casey Lew-Williams](https://psych.princeton.edu/person/casey-lew-williams)
 
 <!-- move collaborators index back here when the project is underway -->
 
