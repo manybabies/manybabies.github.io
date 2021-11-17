@@ -52,11 +52,12 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "manybabies-gb@mailman.stanford.edu"
+  email: "manybabiesconsortium@mgmail.com"
   github: manybabies
   twitter: Many_Babies
   slack: https://manybabies.slack.com/#/
   osf: https://osf.io/rpw6d
+  telephone: +16505176685
 
 #  facebook: deanattali
 #  github: daattali
@@ -70,7 +71,7 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
