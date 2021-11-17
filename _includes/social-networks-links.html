@@ -108,6 +108,17 @@
 </li>
 {%- endif -%}
 
+{%- if site.social-network-links.telephone -%}
+  <li class="list-inline-item">
+    <a href="tel:{{ site.social-network-links.telephone }}" title="Phone">
+      <span class="fa-stack fa-lg" aria-hidden="true">
+        <!--<i class="fas fa-circle fa-stack-2x"></i>-->
+        <i class="fas fa-phone fa-stack-1x" style="color:black"></i>
+      </span>
+      <span class="sr-only">Phone</span>
+   </a>
+  </li>
+{%- endif -%}
 
 
 {%- if site.social-network-links.reddit -%}
@@ -202,18 +213,6 @@
         <i class="fab fa-spotify fa-stack-1x fa-inverse"></i>
       </span>
       <span class="sr-only">Spotify</span>
-   </a>
-  </li>
-{%- endif -%}
-
-{%- if site.social-network-links.telephone -%}
-  <li class="list-inline-item">
-    <a href="tel:{{ site.social-network-links.telephone }}" title="Phone">
-      <span class="fa-stack fa-lg" aria-hidden="true">
-        <i class="fas fa-circle fa-stack-2x"></i>
-        <i class="fas fa-phone fa-stack-1x fa-inverse"></i>
-      </span>
-      <span class="sr-only">Phone</span>
    </a>
   </li>
 {%- endif -%}
