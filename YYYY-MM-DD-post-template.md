@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Exciting News Title!
-tags: [example,tags,conference presentation, accepted paper, new MB project, newsletter, call-for-participation, data release, conference meetup, MB1, MB2, MB-AtHome]
+tags: [example,tags,conference presentation, accepted paper, new MB project, call-for-participation, data release, conference meetup, MB1, MB2, MB-AtHome]
 ---
 
 <!--
