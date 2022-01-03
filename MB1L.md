@@ -31,7 +31,7 @@ Data collection ongoing.
 ### Links
 * **Materials, Protocols, and Documentation**: [MB1L-OSF](https://osf.io/2qamd/).
 * **Data and code**: to be released.
-* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1).
+* **Listserv**: [join here](https://groups.google.com/u/1/g/mb1-cdi-follow-up).
 * **News**: [MB1L-news]({{site.baseurl}}/tags/#MB1L).
 
 ### Contribute

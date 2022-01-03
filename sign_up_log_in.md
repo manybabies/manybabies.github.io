@@ -51,7 +51,7 @@ We are working with the [Psychological Science Accelerator](https://psysciacc.or
 * MB1A: [Alex Carstensen](mailto:abcarstensen@ucsd.edu), [George Kachergis](mailto:kachergis@stanford.edu), [Angeline Tsui](mailto:angelinetsui@gmail.com), [Casey Lew-Williams](mailto:caseylw@princeton.edu), [Michael Frank](mailto:mcfrank@stanford.edu)
 * MB1B: [listserv](https://groups.google.com/forum/#!forum/manybabies-bilingual), [Krista Byers-Heinlein](mailto:K.Byers@concordia.ca)
 * MB1G: [Krista Byers-Heinlein](mailto:K.Byers@concordia.ca)
-* MB1L: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Melanie Soderstrom](mailto:M_Soderstrom@umanitoba.ca)
+* MB1L: [listserv](https://groups.google.com/u/1/g/mb1-cdi-follow-up), [Melanie Soderstrom](mailto:M_Soderstrom@umanitoba.ca)
 * MB1N: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Natalia Kartushina](mailto:natalia.kartushina@psykologi.uio.no), [Virginie Durier](mailto:virginie.durier@univ-rennes1.fr)
 * MB1T: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Melanie Schreiner](mailto:melanie.schreiner@psych.uni-goettingen.de)
 * MB3N: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies3), [Judit Gervain](mailto:judit.gervain@parisdescartes.fr)
