@@ -31,7 +31,7 @@ UPDATE STATUS HERE
 ### Links
 * **Materials, Protocols, and Documentation**: [Google Drive](https://drive.google.com/drive/folders/1U33JTq1CH9sxqM1sBfGtnaAxpMNU_RLx).
 <!--* **Data and code**: [MB2-GitHub](https://github.com/manybabies/mb2-analysis).-->
-* **Listserv**: [join here](https://lists.lrz.de/mailman/listinfo/online_mb2). (Note: sign-up form is in German. To be subscribed directly, contact [Tobi Schuwerk](mailto:tobias.schuwerk@psy.lmu.de).
+* **Listserv**: [join here](https://lists.lrz.de/mailman/listinfo/online_mb2). (Note: sign-up form is in German. To be subscribed directly, contact [Tobias Schuwerk](mailto:tobias.schuwerk@psy.lmu.de)).
 * **Slack**: Please email any of the members of the leadership team to get a Join invitation.
 * **News**: [MB-ManyWebcams news]({{site.baseurl}}/tags/#MB-ManyWebcams).
 
