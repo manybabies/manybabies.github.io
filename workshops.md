@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workshops
-cover-img: /assets/img/people-3120717.jpg
+cover-img: /assets/img/workshop.jpg
 ---
 
 <!---
