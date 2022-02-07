@@ -135,6 +135,20 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
 			</div>
 	</div>
 
+<br>
+
+    <div class="row justify-content-around">
+        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+          <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}" class="image">
+            <img src="assets/img/feet-619399_cb6.jpg" />
+          </a>
+          <h4>MB-ManyWebcams: Web-based Eye Tracking for Infant Studies</h4>
+            Automatic gaze detection via webcam.
+              <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}" class="button">Learn more</a>
+        </div>
+		</div>
+	</div>
+
 </div>
 </section>
 
