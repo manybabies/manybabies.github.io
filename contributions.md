@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Get Involved
+title: Contributions
 cover-img: /assets/img/hands-1797401.jpg
 ---
 

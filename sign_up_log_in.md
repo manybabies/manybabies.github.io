@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sign up / Log in
+title: Get Involved!
 subtitle: Join MB!
 cover-img: /assets/img/siblings-862967.jpg #child-871845.jpg
 ---
@@ -45,6 +45,7 @@ We are working with the [Psychological Science Accelerator](https://psysciacc.or
 * MB4: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies4), [Kelsey Lucca](mailto:Kelsey.Lucca@asu.edu), [Francis Yuen](mailto:francis.yuen@psych.ubc.ca), [Kiley Hamlin](mailto:kiley.hamlin@psych.ubc.ca)
 * MB5: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies5), [participation interest survey](https://forms.gle/czxx9zzVytisCRY9A), [Jessica Kosie](mailto:jkosie@princeton.edu), [Martin Zettersten](mailto:martincz@princeton.edu), [Christina Bergmann](mailto:Christina.Bergmann@mpi.nl), [Dima Amso](mailto:da2959@columbia.edu), [Casey Lew-Williams](mailto:caseylw@princeton.edu)
 * MB-AtHome: [listserv](https://groups.google.com/g/InfantLooksAtHome), [Lorijn Zaadnoordijk](mailto:L.Zaadnoordijk@tcd.ie), [Sho Tsuji](mailto:tsujish@gmail.com), [Christina Bergmann](mailto:Christina.Bergmann@mpi.nl), [Rhodri Cusack](mailto:rhodricusack@cusacklab.org), [Helen Buckler](mailto:Helen.Buckler@nottingham.ac.uk)
+* MB-ManyWebcams: [listserv](https://lists.lrz.de/mailman/listinfo/online_mb2), [Tobias Schuwerk](mailto:tobias.schuwerk@psy.lmu.de), [Adrian Steffan](adrian.steffan@hotmail.de), [Lucie Zimmer](lucie.zimmer@psy.lmu.de)
 * MB-Demographics: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics), [Leher Singh](mailto:leher.singh.nus@gmail.com), [Mihaela Barokova](mailto:mihaela.barokova@gmail.com)
 
 ##### Spin-offs
@@ -52,9 +53,9 @@ We are working with the [Psychological Science Accelerator](https://psysciacc.or
 * MB1B: [listserv](https://groups.google.com/forum/#!forum/manybabies-bilingual), [Krista Byers-Heinlein](mailto:K.Byers@concordia.ca)
 * MB1G: [Krista Byers-Heinlein](mailto:K.Byers@concordia.ca)
 * MB1L: [listserv](https://groups.google.com/u/1/g/mb1-cdi-follow-up), [Melanie Soderstrom](mailto:M_Soderstrom@umanitoba.ca)
-* MB1N: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Natalia Kartushina](mailto:natalia.kartushina@psykologi.uio.no), [Virginie Durier](mailto:virginie.durier@univ-rennes1.fr)
-* MB1T: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies1), [Melanie Schreiner](mailto:melanie.schreiner@psych.uni-goettingen.de)
-* MB3N: [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies3), [Judit Gervain](mailto:judit.gervain@parisdescartes.fr)
+* MB1N: [Natalia Kartushina](mailto:natalia.kartushina@psykologi.uio.no), [Virginie Durier](mailto:virginie.durier@univ-rennes1.fr)
+* MB1T: [Melanie Schreiner](mailto:melanie.schreiner@psych.uni-goettingen.de)
+* MB3N: [Judit Gervain](mailto:judit.gervain@parisdescartes.fr)
 
 ##### Secondary Analysis
 * Comparison to meta-analytic data: [Christina Bergmann](mailto:Christina.Bergmann@mpi.nl), [Riccardo Fusaroli](mailto:fusaroli@cas.au.dk)
