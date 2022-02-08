@@ -11,7 +11,8 @@ To do:
 
 ***
 
-### [CDS 2022 Pre-Conference](https://cogdevsoc.org/pre-conference-workshops-2/), April 21, 2022
+### [CDS 2022 Pre-Conference](https://cogdevsoc.org/pre-conference-workshops-2/) 
+#### April 21, 2022
 ## Big Team Science for Studying Small People
 
 
