@@ -71,9 +71,12 @@ Learn how to join the [MB dashboard / map]({{site.baseurl}}/map/) or update your
 > [E-mail the Governing Board](mailto:manybabies-gb@mailman.stanford.edu)
 
 **Executive Director**:
-* [Heidi Baumgartner](https://www-csli.stanford.edu/people/baumgartner-heidi) (Stanford University)
-
+[Heidi Baumgartner](https://www-csli.stanford.edu/people/baumgartner-heidi) (Stanford University)
 > [E-mail the Executive Director](mailto:manybabies.director@gmail.com)
+
+**Office Assistant**:
+Grace Zhou (University of Manitoba)
+> [E-mail the Office Assistant](mailto:grace.zhou@umanitoba.ca)
 
 **Collaborators**:   
 For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
