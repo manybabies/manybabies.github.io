@@ -4,11 +4,6 @@ title: Workshops
 cover-img: /assets/img/workshop.jpg
 ---
 
-<!---
-To do:
-
---->
-
 ***
 
 ### [CDS 2022 Pre-Conference](https://cogdevsoc.org/pre-conference-workshops-2/) 
