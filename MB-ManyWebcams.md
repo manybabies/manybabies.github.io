@@ -15,7 +15,7 @@ Therefore, we aim to replicate findings of an in-lab paradigm of the [ManyBabies
    <div class="row justify-content-around">
         <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
             <img src="/assets/img/manywebcams1.png" />
-            An infant participating in the task, with her point-of-gaze depicted as a blue dot
+            A toddler participating in the task, with her point-of-gaze depicted as a blue dot
         </div>
 
         <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
