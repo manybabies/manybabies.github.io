@@ -12,7 +12,7 @@ To do:
 ***
 
 ### [CDS 2022 Pre-Conference](https://cogdevsoc.org/pre-conference-workshops-2/) 
-#### April 21, 2022 in Madison, Wisconsin, USA
+#### April 21, 2022 in Madison, Wisconsin, United States
 ## Big Team Science for Studying Small People
 
 
