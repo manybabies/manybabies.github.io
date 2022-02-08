@@ -10,7 +10,9 @@ In this multi-lab methodological project, we try to validate an open source, web
 More specifically, we evaluate whether this method, which is based on WebGazer.js [(Papoutsaki et al., 2016)](http://cs.brown.edu/people/apapouts/papers/ijcai2016webgazer.pdf) and jsPsych [(de Leeuw, 2015)](https://link.springer.com/article/10.3758%2Fs13428-014-0458-y), is comparable to lab-based eye-tracking. 
 Therefore, we aim to replicate findings of an in-lab paradigm of the ManyBabies2 project, which revealed spontaneous goal-directed action anticipation in toddlers using commercial eye-tracking systems [(Schuwerk, Kampis et al., 2021)](https://psyarxiv.com/x4jbm/).
 <br>
-<div class="row justify-content-around"><img style="float: center;" src="/assets/img/manywebcams1.png" width="500"></div> 
+<div class="row justify-content-around"><img style="float: center;" src="/assets/img/manywebcams1.png" width="500">
+  An infant participating in the task, with her point-of-gaze depicted as a blue dot
+</div> 
 <br>
 <div class="row justify-content-around"><img style="float: center;" src="/assets/img/manywebcams_AOIs.jpg" width="400"></div> 
 <br>
