@@ -13,7 +13,7 @@ To do:
 
 ### [CDS 2022 Pre-Conference](https://cogdevsoc.org/pre-conference-workshops-2/) 
 ## Big Team Science for Studying Small People
-# April 21, 2022
+#### April 21, 2022
 
 
 The growth in recent years of ‘Big Team Science’ (BTS) networks in developmental psychology (and beyond) has allowed scientists to come together to conduct projects and create tools that are beyond the scope of any individual lab. Collaborative networks such as the Open Science Collaboration, the Psychological Science Accelerator (PSA), and ManyBabies (MB) have produced large-scale replications and expansions of landmark findings. Further, groups like Children Helping Science (CHS), Lookit, and Databrary have created novel tools and infrastructure for collecting and sharing data.
