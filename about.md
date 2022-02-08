@@ -59,7 +59,7 @@ Learn how to join the [MB dashboard / map]({{site.baseurl}}/map/) or update your
 ***
 
 ### People
-**Governing Board**:
+**Governing Board** [(E-mail the Governing Board)](mailto:manybabies-gb@mailman.stanford.edu):
 * [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina) (Max Planck Institute for Psycholinguistics)
 * [Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein) (Concordia University)
 * [Michael C. Frank](https://web.stanford.edu/~mcfrank/) (Stanford University)
@@ -68,15 +68,11 @@ Learn how to join the [MB dashboard / map]({{site.baseurl}}/map/) or update your
 * [Casey Lew-Williams](https://psych.princeton.edu/person/casey-lew-williams) (Princeton University)
 * [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/) (University of Manitoba)
 
-> [E-mail the Governing Board](mailto:manybabies-gb@mailman.stanford.edu)
-
-**Executive Director**:
+**Executive Director** [(E-mail the Executive Director)](mailto:manybabies.director@gmail.com):
 [Heidi Baumgartner](https://www-csli.stanford.edu/people/baumgartner-heidi) (Stanford University)
-> [E-mail the Executive Director](mailto:manybabies.director@gmail.com)
 
-**Office Assistant**:
+**Office Assistant** [(E-mail the Office Assistant)](mailto:grace.zhou@umanitoba.ca):
 Grace Zhou (University of Manitoba)
-> [E-mail the Office Assistant](mailto:grace.zhou@umanitoba.ca)
 
 **Collaborators**:   
 For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
