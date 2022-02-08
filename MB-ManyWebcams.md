@@ -54,9 +54,9 @@ MB-ManyWebcams is currently collecting data.
 ### Links
 * **Materials, Protocols, and Documentation**: [Google Drive](https://drive.google.com/drive/folders/1U33JTq1CH9sxqM1sBfGtnaAxpMNU_RLx). Link to [notion site](https://lmutom.notion.site/ManyWebcams-Overview-24e47023e9dd47fea40c1a3a472c5138)
 * **Pre-registration**: [OSF](https://osf.io/smya4)
-* **Listserv**: [join here](https://lists.lrz.de/mailman/listinfo/online_mb2) or contact [Tobias Schuwerk](mailto:tobias.schuwerk@psy.lmu.de)).
-* **Slack**: Please email any of the members of the leadership team to get a Join invitation.
-* **News**: [MB-ManyWebcams news]({{site.baseurl}}/tags/#MB-ManyWebcams).
+* **Listserv**: [join here](https://lists.lrz.de/mailman/listinfo/online_mb2) or contact [Tobias Schuwerk](mailto:tobias.schuwerk@psy.lmu.de)
+* **Slack**: Please email any of the members of the leadership team to get a Join invitation
+* **News**: [MB-ManyWebcams news]({{site.baseurl}}/tags/#MB-ManyWebcams)
 
 ### Contribute
 We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: tobias.schuwerk [at] psy.lmu.de, adrian.steffan [at] hotmail.de, lucie.zimmer [at] psy.lmu.de
