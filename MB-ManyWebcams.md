@@ -12,7 +12,7 @@ Therefore, we aim to replicate findings of an in-lab paradigm of the ManyBabies2
 <br>
 <div class="row justify-content-around"><img style="float: center;" src="/assets/img/manywebcams1.png" width="500"></div> 
 <br>
-<div class="row justify-content-around"><img style="float: center;" src="/assets/img/manywebcams_fig1_new_AOIs.jpg" width="400"></div> 
+<div class="row justify-content-around"><img style="float: center;" src="/assets/img/manywebcams_AOIs.jpg" width="400"></div> 
 <br>
 <!-- <img style="float: center;" src="/assets/img/manywebcams_fig1_new.jpg">-->
 <br>
