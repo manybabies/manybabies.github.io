@@ -13,7 +13,7 @@ To do:
 
 ### [CDS 2022 Pre-Conference](https://cogdevsoc.org/pre-conference-workshops-2/) 
 ## Big Team Science for Studying Small People
-
+# April 21, 2022
 
 
 The growth in recent years of ‘Big Team Science’ (BTS) networks in developmental psychology (and beyond) has allowed scientists to come together to conduct projects and create tools that are beyond the scope of any individual lab. Collaborative networks such as the Open Science Collaboration, the Psychological Science Accelerator (PSA), and ManyBabies (MB) have produced large-scale replications and expansions of landmark findings. Further, groups like Children Helping Science (CHS), Lookit, and Databrary have created novel tools and infrastructure for collecting and sharing data.
@@ -26,14 +26,9 @@ This pre-conference will consist of research talks and updates from members of M
 <i>Faculty:</i> $20<br>
 <i>Students/Postdocs:</i> Free<br>
 <i>Includes lunch and coffee breaks</i>
-
 <br>
 
-
 ### People
-
-
-
 * [Heidi Baumgartner](https://www-csli.stanford.edu/people/baumgartner-heidi) (ManyBabies & Stanford University)
 * [Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein) (ManyBabies & Concordia University)
 * [Aaron Chuey](https://sll.stanford.edu/people.html) (Stanford University)
@@ -49,30 +44,23 @@ This pre-conference will consist of research talks and updates from members of M
 > [E-mail the Organizer](mailto:heidib@stanford.edu)
 
 
-
-
-
-
-
 ***
 
 ### Funding 
 **Big Team Science for Studying Small People** gratefully acknowledges funding from:<br>
 
-* The [Social Sciences and Humanities Research Council of Canada](https://www.sshrc-crsh.gc.ca/)
-* Center for the Study of Language and Information, Stanford University
-* ManyBabies
-* PLAY project & Databrary
-* Princeton Baby Lab
-
-
+* [Social Sciences and Humanities Research Council of Canada](https://www.sshrc-crsh.gc.ca/)
+* [Center for the Study of Language and Information](https://www-csli.stanford.edu/), Stanford University
+* [ManyBabies](https://manybabies.github.io)
+* [PLAY project](https://www.rick-gilmore.com/project/play/) & [Databrary](https://nyu.databrary.org)
+* [Princeton Baby Lab](https://babylab.princeton.edu)
 
 
 ***
 
 ## Register now!
 
-We encourage everyone who is interested in developmental research to [attend the pre-conference](https://cogdevsoc.org/registration/#)! 
+This workshop is for anyone interested in (or already) participating in collaborative developmental research and/or anyone interested in using the tools developed by these Big Team Science collaborations in their own labs. We encourage everyone who is interested in developmental research to [attend the pre-conference](https://cogdevsoc.org/registration/#) on April 21, 2022 in Madison, Wisconsin, USA! 
 
 <br>
 <br>
