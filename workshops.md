@@ -8,14 +8,14 @@ cover-img: /assets/img/workshop.jpg
 
 ### [CDS 2022 Pre-Conference](https://cogdevsoc.org/pre-conference-workshops-2/) 
 #### April 21, 2022 in Madison, Wisconsin, United States
-## Big Team Science for Studying Small People
 
+## Big Team Science for Studying Small People
 
 The growth in recent years of ‘Big Team Science’ (BTS) networks in developmental psychology (and beyond) has allowed scientists to come together to conduct projects and create tools that are beyond the scope of any individual lab. Collaborative networks such as the Open Science Collaboration, the Psychological Science Accelerator (PSA), and ManyBabies (MB) have produced large-scale replications and expansions of landmark findings. Further, groups like Children Helping Science (CHS), Lookit, and Databrary have created novel tools and infrastructure for collecting and sharing data.
  
 As these developmental BTS organizations have grown and matured, they have unlocked new potential for collaborations and best practices, but they have also uncovered new challenges. These organizations are increasingly working together and incorporating insights gained from BTS collaborations beyond developmental psychology (e.g., from the PSA) to address these challenges and advance their missions. This workshop will bring these groups together as a ‘network of networks’ to present their findings, discuss successes and challenges, and share best practices and guidance for conducting and participating in large-scale collaborations and/or using the tools developed by these organizations.
  
-This pre-conference will consist of research talks and updates from members of MB, PLAY, Databrary, Lookit, and CHS, and practical tutorials on how to get involved in BTS and use the research tools and infrastructure developed by these organizations. Current members of these groups AND anyone interested in getting involved will benefit from the workshop and leave with a better understanding of the opportunities and challenges of conducting Bigger Team Science for Small People.
+This pre-conference will consist of research talks and updates from members of [Children Helping Science](), [Databrary](https://nyu.databrary.org), [Lookit](https://lookit.mit.edu), [ManyBabies](https://manybabies.github.io), [PLAY](https://www.rick-gilmore.com/project/play/), and [Psychological Science Accelerator](https://psysciacc.org) and practical tutorials on how to get involved in BTS and use the research tools and infrastructure developed by these organizations. Current members of these groups AND anyone interested in getting involved or using these tools will benefit from the workshop and leave with a better understanding of the opportunities and challenges of conducting Big Team Science for Studying Small People.
  
 <b>Cost:</b><br>
 <i>Faculty:</i> $20<br>
