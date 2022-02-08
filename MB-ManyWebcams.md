@@ -11,10 +11,10 @@ More specifically, we evaluate whether this method, which is based on WebGazer.j
 Therefore, we aim to replicate findings of an in-lab paradigm of the ManyBabies2 project, which revealed spontaneous goal-directed action anticipation in toddlers using commercial eye-tracking systems [(Schuwerk, Kampis et al., 2021)](https://psyarxiv.com/x4jbm/).
 <br>
 <!--trying this to have image below rather than next to text-->
-<div class="row justify-content-around"><img src="/assets/img/manywebcams1.png" width="500"></div> 
+<div class="row justify-content-around"><img style="float: center;" src="/assets/img/manywebcams1.png" width="500"></div> 
 <br>
 
-<img style="float: right;" src="/assets/img/manywebcams_fig1_new.jpg">
+<img style="float: center;" src="/assets/img/manywebcams_fig1_new.jpg">
 <br>
 
 ### Leads
