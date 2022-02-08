@@ -11,17 +11,19 @@ More specifically, we evaluate whether this method, which is based on WebGazer.j
 Therefore, we aim to replicate findings of an in-lab paradigm of the [ManyBabies2](({{site.baseurl}}/MB2/)) project, which revealed spontaneous goal-directed action anticipation in toddlers using commercial eye-tracking systems [(Schuwerk, Kampis et al., 2021)](https://psyarxiv.com/x4jbm/).
 <br>
 
+<div class="container">
    <div class="row justify-content-around">
-        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
             <img src="/assets/img/manywebcams1.png" />
             An infant participating in the task, with her point-of-gaze depicted as a blue dot
         </div>
 
-        <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-3">
             <img src="manywebcams_AOIs.jpg" />
             Example areas of interest (AOIs) used during the anticipatory period to distinguish looks to the "Target" region (where the chaser will reappear according to their action goal) and the "Distractor" region covering the other tunnel exit and it's surroundings
         </div>
     </div>
+</div>
 
 <!--    
 <div class="row justify-content-around"><img style="float: center;" src="/assets/img/manywebcams1.png" width="500">
