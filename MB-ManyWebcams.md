@@ -20,7 +20,7 @@ Therefore, we aim to replicate findings of an in-lab paradigm of the [ManyBabies
 
         <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
             <img src="/assets/img/manywebcams_AOIs.jpg" />
-            Example areas of interest (AOIs) used during the anticipatory period to distinguish looks to the "Target" region (where the chaser will reappear according to their action goal) and the "Distractor" region covering the other tunnel exit and it's surroundings
+            Example areas of interest (AOIs) used during the anticipatory period to distinguish looks to the "Target" region (where the chaser will reappear according to their action goal) and the "Distractor" region (covering the other tunnel exit and it's surroundings)
         </div>
     </div>
 </div>
