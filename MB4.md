@@ -30,10 +30,10 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 Pilot data collection complete; Stage 1 Registered Report under review.
 
 ### Links
+* **Main website**: [check it out](https://sites.google.com/view/manybabies4/home).
 * **Materials, Protocols, and Documentation**: [MB4-OSF](https://osf.io/xe2pj/).
 * **Data and code**: [MB4-GitHub](https://github.com/manybabies/mb4-analysis).
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies4).
-* **Main website**: [check it out](https://sites.google.com/view/manybabies4/home).
 * **News**: [MB4-news]({{site.baseurl}}/tags/#MB4).
 
 ### Contribute
