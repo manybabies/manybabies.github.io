@@ -52,7 +52,8 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 MB-ManyWebcams is currently collecting data.  
 
 ### Links
-* **Materials, Protocols, and Documentation**: [Google Drive](https://drive.google.com/drive/folders/1U33JTq1CH9sxqM1sBfGtnaAxpMNU_RLx). Link to [notion site](https://lmutom.notion.site/ManyWebcams-Overview-24e47023e9dd47fea40c1a3a472c5138)
+* **Notion site for contributors**: [check it out](https://lmutom.notion.site/ManyWebcams-Overview-24e47023e9dd47fea40c1a3a472c5138).
+* **Materials, Protocols, and Documentation**: [Google Drive](https://drive.google.com/drive/folders/1U33JTq1CH9sxqM1sBfGtnaAxpMNU_RLx).
 * **Pre-registration**: [OSF](https://osf.io/smya4)
 * **Listserv**: [join here](https://lists.lrz.de/mailman/listinfo/online_mb2) or contact [Tobias Schuwerk](mailto:tobias.schuwerk@psy.lmu.de)
 * **Slack**: Please email any of the members of the leadership team to get a Join invitation
