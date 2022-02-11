@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MB In <I>Nature</I> - January 2022
+title: MB In <I>Nature</I>
 tags: [MB, news]
 ---
 
