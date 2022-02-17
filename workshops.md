@@ -41,7 +41,8 @@ This pre-conference will consist of research talks and updates from members of M
 ***
 
 ### Schedule
-<i>Morning Session:</i>
+**<i>Morning Session:</i>**
+
 9:00 - 9:15 – Welcome: Introduction/goals of the workshop (Organizers: Heidi Baumgartner, Mike Frank, Melissa Kline Struhl)
 
 9:15 - 10:00 – ManyBabies research results (Casey Lew-Williams, Krista Byers-Heinlein, ManyBabies Governing Board)
@@ -57,9 +58,10 @@ This pre-conference will consist of research talks and updates from members of M
 * Strengths/limits of online studies (Molly Dillon)
 * Results from the Lookit platform (Melissa Kline)
 
-12 - 1: <i>Lunch break</i>
+**12 - 1: <i>Lunch break</i>**
 
-<i>Afternoon Session: </i>
+**<i>Afternoon Session: </i>**
+
 1:00 - 1:30 – Lookit for asynchronous studies (Lookit, Melissa Kline)
 
 1:30 - 2:00 – Doing synchronous studies on zoom (Children Helping Science, Mark Sheskin)
@@ -70,7 +72,7 @@ This pre-conference will consist of research talks and updates from members of M
 
 3:30 - 4:00 – Data management for BTS (Rick Gilmore)
 
-4:00 - 4:305:00 – Closing session: open discussion to discuss ideas/concerns/future directions/brainstorm to create communal “wish list” for team science infrastructure and/or policies
+4:00 - 4:30 – Closing session: open discussion to discuss ideas/concerns/future directions/brainstorm to create communal “wish list” for team science infrastructure and/or policies
 
 
 ***
