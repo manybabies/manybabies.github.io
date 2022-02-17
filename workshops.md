@@ -75,7 +75,7 @@ This pre-conference will consist of research talks and updates from members of M
 
 3:15 - 3:45 – Data management for BTS (<i>Rick Gilmore</i>)
 
-3:45 - 4:30 – Closing session: open discussion to discuss ideas/concerns/future directions/brainstorm to create communal “wish list” for team science infrastructure and/or policies
+3:45 - 4:30 – Closing session: Open discussion to discuss ideas/concerns/future directions & brainstorm to create communal “wish list” for team science infrastructure and/or policies
 
 
 ***
