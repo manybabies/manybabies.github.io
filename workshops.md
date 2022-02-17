@@ -68,11 +68,11 @@ This pre-conference will consist of research talks and updates from members of M
 
 2:00 - 3:00 – Creating inclusive BTS projects (ManyBabies, Psych Science Accelerator, PLAY project)
 
-3:00 - 3:30 – <i>Coffee break</i>
+3:00 - 3:15 – <i>Coffee break</i>
 
-3:30 - 4:00 – Data management for BTS (Rick Gilmore)
+3:15 - 3:45 – Data management for BTS (Rick Gilmore)
 
-4:00 - 4:30 – Closing session: open discussion to discuss ideas/concerns/future directions/brainstorm to create communal “wish list” for team science infrastructure and/or policies
+3:45 - 4:30 – Closing session: open discussion to discuss ideas/concerns/future directions/brainstorm to create communal “wish list” for team science infrastructure and/or policies
 
 
 ***
