@@ -61,7 +61,7 @@ This pre-conference will consist of research talks and updates from members of M
 
 12:00 - 1:00 - **<i>Lunch break</i>**
 <br>
-
+<br>
 
 **<i>Afternoon Session: </i>**
 
