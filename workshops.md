@@ -58,7 +58,7 @@ This pre-conference will consist of research talks and updates from members of M
 * Strengths/limits of online studies (Molly Dillon)
 * Results from the Lookit platform (Melissa Kline)
 
-**12 - 1: <i>Lunch break</i>**
+12:00 - 1:00 - **<i>Lunch break</i>**
 
 **<i>Afternoon Session: </i>**
 
