@@ -38,6 +38,45 @@ This pre-conference will consist of research talks and updates from members of M
 
 > [E-mail the Organizer](mailto:heidib@stanford.edu)
 
+***
+
+### Schedule
+**<i>Morning Session:</i>**
+
+9:00 - 9:15 – Welcome: Introduction/goals of the workshop (<i>Organizers: Heidi Baumgartner, Michael Frank, Melissa Kline Struhl</i>)
+
+9:15 - 10:00 – ManyBabies research results (<i>Casey Lew-Williams, Krista Byers-Heinlein, ManyBabies Governing Board</i>)
+
+10:00 - 10:30 – The PLAY Project (<i>Rick Gilmore, Kasey Soska</i>)
+
+10:30 - 10:45 – **Coffee break**
+
+10:45 - 11:15 – Insights from the Psychological Science Accelerator (<i>Nicholas Coles</i>)
+
+11:15 - 12:00 – The potential for online data collection to facilitate Big Team Science, including
+* Comparison of online and lab studies (<i>Aaron Chuey</i>)
+* Strengths/limits of online studies (<i>Moira Dillon</i>)
+* Results from the Lookit platform (<i>Melissa Kline Struhl</i>)
+<br>
+
+12:00 - 1:00 - **Lunch break**
+<br>
+<br>
+
+**<i>Afternoon Session: </i>**
+
+1:00 - 1:30 – Lookit for asynchronous studies (<i>Lookit, Melissa Kline Struhl</i>)
+
+1:30 - 2:00 – Doing synchronous studies on zoom (<i>Children Helping Science, Mark Sheskin</i>)
+
+2:00 - 3:00 – Creating inclusive BTS projects (<i>ManyBabies, Psych Science Accelerator, PLAY project</i>)
+
+3:00 - 3:15 – **Coffee break**
+
+3:15 - 3:45 – Data management for BTS (<i>Rick Gilmore</i>)
+
+3:45 - 4:30 – Closing session: Open discussion to discuss ideas/concerns/future directions & brainstorm to create communal “wish list” for team science infrastructure and/or policies
+
 
 ***
 
