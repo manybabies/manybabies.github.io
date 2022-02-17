@@ -49,7 +49,7 @@ This pre-conference will consist of research talks and updates from members of M
 
 10:00 - 10:30 – The PLAY Project (<i>Rick Gilmore, Kasey Soska</i>)
 
-10:30 - 10:45 – <i>Coffee break</i>
+10:30 - 10:45 – **Coffee break**
 
 10:45 - 11:15 – Insights from the Psychological Science Accelerator (<i>Nicholas Coles</i>)
 
@@ -59,7 +59,7 @@ This pre-conference will consist of research talks and updates from members of M
 * Results from the Lookit platform (<i>Melissa Kline Struhl</i>)
 <br>
 
-12:00 - 1:00 - **<i>Lunch break</i>**
+12:00 - 1:00 - **Lunch break**
 <br>
 <br>
 
@@ -71,7 +71,7 @@ This pre-conference will consist of research talks and updates from members of M
 
 2:00 - 3:00 – Creating inclusive BTS projects (<i>ManyBabies, Psych Science Accelerator, PLAY project</i>)
 
-3:00 - 3:15 – <i>Coffee break</i>
+3:00 - 3:15 – **Coffee break**
 
 3:15 - 3:45 – Data management for BTS (<i>Rick Gilmore</i>)
 
