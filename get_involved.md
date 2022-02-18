@@ -49,7 +49,7 @@ We are working with the [Psychological Science Accelerator](https://psysciacc.or
 * MB-Demographics: [[listserv]](https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics) [Leher Singh](mailto:leher.singh.nus@gmail.com), [Mihaela Barokova](mailto:mihaela.barokova@gmail.com)
 
 ##### Spin-offs
-* MB1A: [Alex Carstensen](mailto:abc@ucsd.edu), [George Kachergis](mailto:kachergis@stanford.edu), [Angeline Tsui](mailto:angelinetsui@gmail.com), [Casey Lew-Williams](mailto:caseylw@princeton.edu), [Michael Frank](mailto:mcfrank@stanford.edu)
+* MB1A: [[listserv]](https://mailman.stanford.edu/mailman/listinfo/manybabies-africa) [Alex Carstensen](mailto:abc@ucsd.edu), [George Kachergis](mailto:kachergis@stanford.edu), [Angeline Tsui](mailto:angelinetsui@gmail.com), [Casey Lew-Williams](mailto:caseylw@princeton.edu), [Michael Frank](mailto:mcfrank@stanford.edu)
 * MB1B: [[listserv]](https://groups.google.com/forum/#!forum/manybabies-bilingual) [Krista Byers-Heinlein](mailto:K.Byers@concordia.ca)
 * MB1G: [Krista Byers-Heinlein](mailto:K.Byers@concordia.ca)
 * MB1L: [[listserv]](https://groups.google.com/u/1/g/mb1-cdi-follow-up) [Melanie Soderstrom](mailto:M_Soderstrom@umanitoba.ca)
@@ -59,7 +59,7 @@ We are working with the [Psychological Science Accelerator](https://psysciacc.or
 
 ##### Secondary Analysis
 * Comparison to meta-analytic data: [Christina Bergmann](mailto:Christina.Bergmann@mpi.nl), [Riccardo Fusaroli](mailto:fusaroli@cas.au.dk)
-* Analysis of supplemental demographic variables: [Melissa Kline](mailto:mekline@mit.edu)
+* Analysis of supplemental demographic variables: [Melissa Kline Struhl](mailto:mekline@mit.edu)
 
 ***
 
