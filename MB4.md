@@ -37,7 +37,7 @@ Pilot data collection complete; Stage 1 Registered Report under review.
 * **News**: [MB4-news]({{site.baseurl}}/tags/#MB4).
 
 ### Contribute
-We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: Kelsey.Lucca [at] asu.edu, francis.yuen [at] psych.ubc.ca, kiley.hamlin [at] psych.ubc.ca
+We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/get_involved/) and/or contact the project leads by e-mailing: Kelsey.Lucca [at] asu.edu, francis.yuen [at] psych.ubc.ca, kiley.hamlin [at] psych.ubc.ca
 
 Please note that access to infants/infant lab is **not** a prerequisite.
 

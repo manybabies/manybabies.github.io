@@ -35,7 +35,7 @@ Finalizing items for the demographics form(s)
 <!--* **News**: [MB-AtHome news]({{site.baseurl}}/tags/#MB-AtHome).-->
 
 ### Contribute
-We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact [Mihaela Barokova](mailto:mihaela.barokova@gmail.com) and [Leher Singh](mailto:leher.singh.nus@gmail.com).
+We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/get_involved/) and/or contact [Mihaela Barokova](mailto:mihaela.barokova@gmail.com) and [Leher Singh](mailto:leher.singh.nus@gmail.com).
 
 Please note that access to infants/infant lab is **not** a prerequisite. You are also welcome if this is the first ManyBabies project in which you will participate.
 

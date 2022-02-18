@@ -35,7 +35,7 @@ Data collection ongoing.
 * **News**: [MB1L-news]({{site.baseurl}}/tags/#MB1L).
 
 ### Contribute
-We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project lead by e-mailing: M_Soderstrom [at] umanitoba.ca
+We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/get_involved/) and/or contact the project lead by e-mailing: M_Soderstrom [at] umanitoba.ca
 
 Please note that access to infants/infant lab is **not** a prerequisite.
 
