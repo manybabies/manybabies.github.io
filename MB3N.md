@@ -31,7 +31,7 @@ Stimuli creation.
 ### Links
 <!-- * **Materials, Protocols, and Documentation**: [MB1B-OSF](https://osf.io/zauhq/).
 * **Data and code**: [MB1B-GitHub](https://github.com/manybabies/mb1b-analysis-public). -->
-* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies3).
+* **Listserv**: [join here](https://groups.google.com/g/mb3nirs).
 * **News**: [MB3N-news]({{site.baseurl}}/tags/#MB3N).
 
 ### Contribute

@@ -55,7 +55,7 @@ We are working with the [Psychological Science Accelerator](https://psysciacc.or
 * MB1L: [listserv](https://groups.google.com/u/1/g/mb1-cdi-follow-up), [Melanie Soderstrom](mailto:M_Soderstrom@umanitoba.ca)
 * MB1N: [Natalia Kartushina](mailto:natalia.kartushina@psykologi.uio.no), [Virginie Durier](mailto:virginie.durier@univ-rennes1.fr)
 * MB1T: [Melanie Schreiner](mailto:melanie.schreiner@psych.uni-goettingen.de)
-* MB3N: [Judit Gervain](mailto:judit.gervain@parisdescartes.fr)
+* MB3N: [listserv](https://groups.google.com/g/mb3nirs), [Judit Gervain](mailto:judit.gervain@parisdescartes.fr)
 
 ##### Secondary Analysis
 * Comparison to meta-analytic data: [Christina Bergmann](mailto:Christina.Bergmann@mpi.nl), [Riccardo Fusaroli](mailto:fusaroli@cas.au.dk)
