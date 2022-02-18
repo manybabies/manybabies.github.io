@@ -34,7 +34,7 @@ Stimulus creation and data collection.
 * **News**: [MB1N-news]({{site.baseurl}}/tags/#MB1N).
 
 ### Contribute
-We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: natalia.kartushina [at] psykologi.uio.no, virginie.durier [at] univ-rennes1.fr
+We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/get_involved/) and/or contact the project leads by e-mailing: natalia.kartushina [at] psykologi.uio.no, virginie.durier [at] univ-rennes1.fr
 
 Please note that access to infants/infant lab is **not** a prerequisite.  
 

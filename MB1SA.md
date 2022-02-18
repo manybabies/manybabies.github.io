@@ -32,7 +32,7 @@ Meta-analysis update sourced from [MetaLab](http://metalab.stanford.edu/dataset/
 -->
 
 ### Contribute
-We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: Christina.Bergmann [at] mpi.nl, fusaroli [at] cas.au.dk
+We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/get_involved/) and/or contact the project leads by e-mailing: Christina.Bergmann [at] mpi.nl, fusaroli [at] cas.au.dk
 
 <!--
 ### Publications

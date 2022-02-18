@@ -60,7 +60,7 @@ MB-ManyWebcams is currently collecting data.
 * **News**: [MB-ManyWebcams news]({{site.baseurl}}/tags/#MB-ManyWebcams)
 
 ### Contribute
-We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: tobias.schuwerk [at] psy.lmu.de, adrian.steffan [at] hotmail.de, lucie.zimmer [at] psy.lmu.de
+We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/get_involved/) and/or contact the project leads by e-mailing: tobias.schuwerk [at] psy.lmu.de, adrian.steffan [at] hotmail.de, lucie.zimmer [at] psy.lmu.de
 
 Please note that access to infants/infant lab is **not** a prerequisite.
 

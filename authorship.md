@@ -24,4 +24,4 @@ While ManyBabies studies are by definition cross-lab projects, an individual lab
 ***
 
 ### Get involved and contribute
-We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **not** a prerequisite. [Join the team today]({{site.baseurl}}/sign_up_log_in/)!
+We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **not** a prerequisite. [Join the team today]({{site.baseurl}}/get_involved/)!

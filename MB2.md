@@ -38,7 +38,7 @@ Stage 1 Registered Report under review; running pilots.
 * **News**: [MB2-news]({{site.baseurl}}/tags/#MB2).
 
 ### Contribute
-We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: dk [at] psy.ku.dk, mcfrank [at] stanford.edu, hrakocz [at] uni-goettingen.de, Tobias.Schuwerk [at] psy.lmu.de
+We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/get_involved/) and/or contact the project leads by e-mailing: dk [at] psy.ku.dk, mcfrank [at] stanford.edu, hrakocz [at] uni-goettingen.de, Tobias.Schuwerk [at] psy.lmu.de
 
 Please note that access to infants/infant lab is **not** a prerequisite.
 

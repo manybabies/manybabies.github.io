@@ -36,7 +36,7 @@ Stimuli created, finalising design and pre-registered report, waiting for labs t
 * **News**: [MB3-news]({{site.baseurl}}/tags/#MB3).
 
 ### Contribute
-We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leads by e-mailing: I.Visser [at] uva.nl, c.c.levelt [at] hum.leidenuniv.nl, M_Soderstrom [at] umanitoba.ca, a.geambasu [at] hum.leidenuniv.nl
+We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/get_involved/) and/or contact the project leads by e-mailing: I.Visser [at] uva.nl, c.c.levelt [at] hum.leidenuniv.nl, M_Soderstrom [at] umanitoba.ca, a.geambasu [at] hum.leidenuniv.nl
 
 Please note that access to infants/infant lab is **not** a prerequisite.
 

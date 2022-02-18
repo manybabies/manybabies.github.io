@@ -35,7 +35,7 @@ Stimuli creation.
 * **News**: [MB3N-news]({{site.baseurl}}/tags/#MB3N).
 
 ### Contribute
-We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project leader by e-mailing: judit.gervain [at] parisdescartes.fr
+We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/get_involved/) and/or contact the project leader by e-mailing: judit.gervain [at] parisdescartes.fr
 
 Please note that access to infants/infant lab is **not** a prerequisite.
 

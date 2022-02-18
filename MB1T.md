@@ -34,7 +34,7 @@ Final post-data collection and manuscript preparation.
 * **News**: [MB1T-news]({{site.baseurl}}/tags/#MB1T).
 
 ### Contribute
-We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/sign_up_log_in/) and/or contact the project lead by e-mailing: melanie.schreiner [at] psych.uni-goettingen.de
+We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/get_involved/) and/or contact the project lead by e-mailing: melanie.schreiner [at] psych.uni-goettingen.de
 
 Please note that access to infants/infant lab is **not** a prerequisite.
 
