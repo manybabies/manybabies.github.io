@@ -24,6 +24,7 @@ Planning and training prior to data collection.
 
 ### Links  
 * **Materials, Protocols, and Documentation**: [MB1A-OSF](https://osf.io/jgr79/).  
+* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies-africa)
 
 Contact leads for more information.   
 
