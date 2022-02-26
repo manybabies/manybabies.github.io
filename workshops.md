@@ -86,7 +86,7 @@ This pre-conference will consist of research talks and updates from members of M
 * [Social Sciences and Humanities Research Council of Canada](https://www.sshrc-crsh.gc.ca/)
 * [Center for the Study of Language and Information](https://www-csli.stanford.edu/), Stanford University
 * [ManyBabies](https://manybabies.github.io)
-* [PLAY project](https://www.rick-gilmore.com/project/play/) & [Databrary](https://nyu.databrary.org)
+* [PLAY project](https://www.play-project.org) & [Databrary](https://nyu.databrary.org)
 * [Princeton Baby Lab](https://babylab.princeton.edu)
 
 
