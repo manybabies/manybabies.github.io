@@ -44,7 +44,7 @@ To express interest in contributing to one or more ManyBabies project(s), please
 
 ***
 
-You are also welcome to contact Project Leads directly if you are interested in contributing:
+You are also welcome to contact Project Leads directly if you are interested in contributing to their project:
 
 ##### General
 * MB: [[listserv]](https://mailman.stanford.edu/mailman/listinfo/manybabies) [Governing Board](mailto:manybabies-gb@mailman.stanford.edu), [Executive Director](mailto:manybabiesconsortium@gmail.com)
