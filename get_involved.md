@@ -32,10 +32,22 @@ Notes:
   <a href="mailto:manybabies-gb@mailman.stanford.edu">governing board e-mail</a>
 -->
 
-We are working with the [Psychological Science Accelerator](https://psysciacc.org/) team to deliver a new sign-up page! Meanwhile, please subscribe to the  listserv for [projects]({{site.baseurl}}/projects) for which you are interested in collaborating or e-mail the project leaders.
+
+<!--
+  We are working with the [Psychological Science Accelerator](https://psysciacc.org/) team to deliver a new sign-up page! Meanwhile, please subscribe to the listserv for [projects]({{site.baseurl}}/projects) for which you are interested in collaborating or e-mail the project leaders.
+-->
+
+To express interest in contributing to one or more ManyBabies project(s), please fill out the following form. We'll be in touch as soon as possible with more info. 
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTzmf11OUsL3kgXtdqYRMTn-k4VBYX5NKBET68uhwMJcbRwA/viewform?embedded=true" width="640" height="3807" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
+***
+
+You are also welcome to contact Project Leads directly if you are interested in contributing:
 
 ##### General
-* MB: [[listserv]](https://mailman.stanford.edu/mailman/listinfo/manybabies) [Governing Board](mailto:manybabies-gb@mailman.stanford.edu), [Executive Director](mailto:manybabies.director@gmail.com)
+* MB: [[listserv]](https://mailman.stanford.edu/mailman/listinfo/manybabies) [Governing Board](mailto:manybabies-gb@mailman.stanford.edu), [Executive Director](mailto:manybabiesconsortium@gmail.com)
 
 ##### Main projects
 * MB1: [[listserv]](https://mailman.stanford.edu/mailman/listinfo/manybabies1) [Michael Frank](mailto:mcfrank@stanford.edu), [Melanie Soderstrom](mailto:M_Soderstrom@umanitoba.ca)
