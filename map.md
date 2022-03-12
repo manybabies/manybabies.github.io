@@ -8,13 +8,13 @@ cover-img: /assets/img/map-29903_1280.png
 
 -->
 
-The [ManyBabies dashboard/map](https://rodrigodalben.shinyapps.io/shiny_mb_map/#) displays the geographical distribution of MB collaborators. It is a powerful tool for communicating with researchers and the general public, as it quickly and intuitively shows MB diversity and reach.
+The [ManyBabies dashboard/map](https://manybabies.shinyapps.io/shiny_mb_map/) displays the geographical distribution of MB collaborators. It is a powerful tool for communicating with researchers and the general public, as it quickly and intuitively shows MB diversity and reach.
 
-To join the [ManyBabies dashboard/map](https://rodrigodalben.shinyapps.io/shiny_mb_map/#), please fill the form below.
+To be added to the [ManyBabies dashboard/map](https://manybabies.shinyapps.io/shiny_mb_map/), please fill the form below.
 
-If you are already in the dashboard/map, but wish to update any information (e.g., change of affiliation, name), you can either fill out the form below or send an email to [Rodrigo Dal Ben](mailto:dalbenwork@gmail.com).
+If you are already in the dashboard/map, but wish to update any information (e.g., change of affiliation, name), you can either fill out the form below or [email us] (mailto:manybabiesconsortium@gmail.com).
 
-If you are a project leader and want to add multiple collaborators at once, please email [Rodrigo Dal Ben](mailto:dalbenwork@gmail.com).
+If you are a project leader and want to add multiple collaborators at once, please email [Heidi Baumgartner](mailto:heidib@stanford.edu).
 
 All responses are **moderated** before being added to the dashboard. This may take some time, we appreciate your patience.
 
