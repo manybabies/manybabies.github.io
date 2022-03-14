@@ -36,20 +36,16 @@ Notes:
 <!--
   We are working with the [Psychological Science Accelerator](https://psysciacc.org/) team to deliver a new sign-up page! Meanwhile, please subscribe to the listserv for [projects]({{site.baseurl}}/projects) for which you are interested in collaborating or e-mail the project leaders.
 -->
+**We're excited to have you join our team!** In addition to collecting data, there are many contribution opportunities (e.g., study design, data analysis, writing) which do not require access to an infant lab. All are welcome! 
 
-To express interest in contributing to one or more ManyBabies project(s), please fill out the following form. We'll be in touch as soon as possible with more info. 
+Please fill in the form at the bottom of this page to indicate your interest in getting involved. Your responses to the form will be shared with the relevant Project Leads. You are also encouraged to subscribe to project listservs (see list below). 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTzmf11OUsL3kgXtdqYRMTn-k4VBYX5NKBET68uhwMJcbRwA/viewform?embedded=true" width="640" height="3807" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-
-***
-
-You are also welcome to contact Project Leads directly if you are interested in contributing to their project:
+### Listservs and Contact Info
 
 ##### General
 * MB: [[listserv]](https://mailman.stanford.edu/mailman/listinfo/manybabies) [Governing Board](mailto:manybabies-gb@mailman.stanford.edu), [Executive Director](mailto:manybabiesconsortium@gmail.com)
 
-##### Main projects
+##### Main Projects
 * MB1: [[listserv]](https://mailman.stanford.edu/mailman/listinfo/manybabies1) [Michael Frank](mailto:mcfrank@stanford.edu), [Melanie Soderstrom](mailto:M_Soderstrom@umanitoba.ca)
 * MB2: [[listserv]](https://mailman.stanford.edu/mailman/listinfo/manybabies2)
 [Dora Kampis](mailto:dk@psy.ku.dk), [Michael Frank](mailto:mcfrank@stanford.edu), [Hannes Rakoczy](mailto:hrakocz@uni-goettingen.de), [Tobias Schuwerk](mailto:Tobias.Schuwerk@psy.lmu.de)
@@ -60,7 +56,7 @@ You are also welcome to contact Project Leads directly if you are interested in 
 * MB-ManyWebcams: [[listserv]](https://lists.lrz.de/mailman/listinfo/online_mb2) [Tobias Schuwerk](mailto:tobias.schuwerk@psy.lmu.de), [Adrian Steffan](adrian.steffan@hotmail.de), [Lucie Zimmer](lucie.zimmer@psy.lmu.de)
 * MB-Demographics: [[listserv]](https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics) [Leher Singh](mailto:leher.singh.nus@gmail.com), [Mihaela Barokova](mailto:mihaela.barokova@gmail.com)
 
-##### Spin-offs
+##### Spin-Offs
 * MB1A: [[listserv]](https://mailman.stanford.edu/mailman/listinfo/manybabies-africa) [Alex Carstensen](mailto:abc@ucsd.edu), [George Kachergis](mailto:kachergis@stanford.edu), [Angeline Tsui](mailto:angelinetsui@gmail.com), [Casey Lew-Williams](mailto:caseylw@princeton.edu), [Michael Frank](mailto:mcfrank@stanford.edu)
 * MB1B: [[listserv]](https://groups.google.com/forum/#!forum/manybabies-bilingual) [Krista Byers-Heinlein](mailto:K.Byers@concordia.ca)
 * MB1G: [Krista Byers-Heinlein](mailto:K.Byers@concordia.ca)
@@ -82,3 +78,12 @@ If you are interested in leading a new **ManyBabies** project (either a main pro
 
 ### Updates
 If you are a **ManyBabies** collaborator, don't forget to keep an updated record of your MB-related activities and initiatives (e.g., workshops, talks etc.). In this [spreadsheet](https://docs.google.com/spreadsheets/d/1esnJTsPB0NJ2PP0fwmWIhSxShKLIN99Ga8ehCDyz3rQ/edit?usp=sharing) you can check a more complete list of **MB** activities and initiatives. To add new activities and initiatives, please complete [this form](https://forms.gle/qaynWvpYLP1J4eYd6).
+
+***
+
+### Sign-Up Form
+To express interest in contributing to one or more **ManyBabies** project(s), please fill out this form. We'll be in touch as soon as possible with more info. 
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTzmf11OUsL3kgXtdqYRMTn-k4VBYX5NKBET68uhwMJcbRwA/viewform?embedded=true" width="640" height="3807" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+
