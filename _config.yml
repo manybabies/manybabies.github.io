@@ -14,11 +14,12 @@ author: George Kachergis & Rodrigo Dal Ben
 navbar-links:
   Learn more:
     - About: "about"
+    - People: "people"
     - News: "news"
+    - Workshops: "workshops"
     - Contributions: "contributions"
     - Authorship: "authorship"
     - Publications: "publications"
-    - Workshops: "workshops"
     - Resources: "resources"
     - Map: "map"
   Projects:
