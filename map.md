@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MB Dashboard / Map
-cover-img: /assets/img/map-29903_1280.png
+cover-img: /assets/img/MB_map.png
 ---
 
 <!--
