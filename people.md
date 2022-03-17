@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-cover-img: /assets/img/people-3120717.jpg
+cover-img: /assets/img/feet-2796905.jpg
 ---
 
 <!---
@@ -15,38 +15,39 @@ To do:
     <source src="/assets/img/dashboard_overview.mp4" type="video/mp4">  
     </video>
 
-To be added to the [ManyBabies dashboard](https://manybabies.shinyapps.io/shiny_mb_map/), please fill the form on [this page]({{site.baseurl}}/map/).
+To be added to the [**ManyBabies** dashboard](https://manybabies.shinyapps.io/shiny_mb_map/), please fill the form on [this page]({{site.baseurl}}/map/).
 
-If you are already in the dashboard, but wish to update any information (e.g., change of affiliation, name), you can either fill out the [form]({{site.baseurl}}/map/) or [email us] (mailto:manybabiesconsortium@gmail.com) with your updated information.
+If you are already on the dashboard and wish to update any information (e.g., change of affiliation or name, add a new study), you can either fill out the [form]({{site.baseurl}}/map/) again or [email us](mailto:manybabiesconsortium@gmail.com) with your updated information.
+
 
 
 ### Governing Board
 
-* [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina) (Max Planck Institute for Psycholinguistics)
-* [Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein) (Concordia University)
-* [Michael C. Frank](https://web.stanford.edu/~mcfrank/) (Stanford University)
-* [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/) (University of British Columbia)
-* [Melissa Kline Struhl](http://www.melissaklinestruhl.com) (Lookit)
-* [Casey Lew-Williams](https://psych.princeton.edu/person/casey-lew-williams) (Princeton University)
-* [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/) (University of Manitoba)
+* [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina) (Max Planck Institute for Psycholinguistics, Nijmegen, Netherlands)
+* [Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein) (Concordia University, Montréal, Canada)
+* [Michael C. Frank](https://web.stanford.edu/~mcfrank/) (Stanford University, Palo Alto, United States)
+* [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/) (University of British Columbia, Vancouver, Canada)
+* [Melissa Kline Struhl](http://www.melissaklinestruhl.com) (Lookit, Cambridge, United States)
+* [Casey Lew-Williams](https://psych.princeton.edu/person/casey-lew-williams) (Princeton University, Princeton, United States)
+* [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/) (University of Manitoba, Winnipeg, Canada)
 
 [(E-mail the Governing Board)](mailto:manybabies-gb@mailman.stanford.edu)
 
 
+
 ### Executive Director   
 
-[Heidi Baumgartner](https://www-csli.stanford.edu/people/baumgartner-heidi) (Stanford University) 
+[Heidi Baumgartner](https://www-csli.stanford.edu/people/baumgartner-heidi) (Stanford University, Palo Alto, United States) 
 
 [(E-mail the Executive Director)](mailto:manybabies.director@gmail.com)
 
 
+
 ### Office Assistant   
-Grace Zhou (University of Manitoba) 
+Grace Zhou (University of Manitoba, Winnipeg, Canada) 
 
 [(E-mail the Office Assistant)](mailto:grace.zhou@umanitoba.ca)
 
 
-
-***
 
 
