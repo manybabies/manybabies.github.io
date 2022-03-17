@@ -14,7 +14,7 @@ To do:
 
 To be added to the [**ManyBabies** dashboard](https://manybabies.shinyapps.io/shiny_mb_map/), please fill the form on [this page]({{site.baseurl}}/map/).
 
-If you are already on the dashboard and wish to update any information (e.g., change of affiliation or name, add a new study), you can either fill out the [form]({{site.baseurl}}/map/) again or [email us](mailto:manybabiesconsortium@gmail.com) with your updated information.
+If you are already on the dashboard and wish to update any information (e.g., change of affiliation or name, add a new study), you can either [fill out the form]({{site.baseurl}}/map/) again or [email us](mailto:manybabiesconsortium@gmail.com) with your updated information.
 <a href="{{site.baseurl}}{% link map.md %}" class="image">
     <video muted autoplay="autoplay" loop="loop" width="768" height="512">
       <source src="/assets/img/dashboard_overview.mp4" type="video/mp4">  
