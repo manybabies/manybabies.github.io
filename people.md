@@ -10,7 +10,7 @@ To do:
 --->
 
 ### Collaborators   
-**ManyBabies** is truly all about our amazing team of collaborators from all around the world. For a detailed index of collaborators (& institutions, countries, studies), visit the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/). 
+**ManyBabies** is all about our amazing team of collaborators from all around the world. For a detailed index of collaborators (& institutions, countries, studies), visit the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/). 
 <video muted autoplay="autoplay" loop="loop" width="768" height="512">
     <source src="/assets/img/dashboard_overview.mp4" type="video/mp4">  
     </video>
