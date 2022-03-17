@@ -12,7 +12,7 @@ To do:
 ### Collaborators   
 **ManyBabies** is all about our amazing team of collaborators from all around the world. For a detailed index of collaborators (& institutions, countries, studies), visit the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/). 
 
-To be added to the [**ManyBabies** dashboard](https://manybabies.shinyapps.io/shiny_mb_map/), please fill the form on [this page]({{site.baseurl}}/map/).
+To be added to the **MB** dashboard, please fill the form on [this page]({{site.baseurl}}/map/).
 
 If you are already on the dashboard and wish to update any information (e.g., change of affiliation or name, add a new study), you can either [fill out the form]({{site.baseurl}}/map/) again or [email us](mailto:manybabiesconsortium@gmail.com) with your updated information.
 <a href="{{site.baseurl}}{% link map.md %}" class="image">

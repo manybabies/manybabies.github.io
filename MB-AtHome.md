@@ -14,7 +14,7 @@ In this first ManyBabies methodological project we are developing a remote (onli
 Recruiting infants in their homes can alleviate problems of high recruitment costs, since the burden for caregivers is smaller compared to a lab visit. Researchers can therefore potentially access larger, more diverse sample sizes, repeat experimental sessions, and assess test-retest reliability. Furthermore, children can be tested in a familiar environment, and in asynchronous setups at times that they are ready to participate.
 
 ### Leads
-[Lorijn Zaadnoordijk](https://sites.google.com/view/lorijnzaadnoordijk/homepage), [Sho Tsuji](https://sites.google.com/site/tsujish), [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), [Rhodri Cusack](https://www.infantcentre.ie/who-we-are-2/our-team/prof-rhodri-cusack), [Helen Buckler](https://www.nottingham.ac.uk/english/people/helen.buckler)
+[Lorijn Zaadnoordijk](https://sites.google.com/view/lorijnzaadnoordijk/homepage), [Sho Tsuji](https://sites.google.com/site/tsujish), [Katie von Holzen](https://kvonholzen.github.io), [Helen Buckler](https://www.nottingham.ac.uk/english/people/helen.buckler), [Rhodri Cusack](https://www.infantcentre.ie/who-we-are-2/our-team/prof-rhodri-cusack)
 
 For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
     <source src="/assets/img/dashboard_studies.mp4" type="video/mp4">  
@@ -35,7 +35,7 @@ Surveys of the community’s needs and existing solutions, planning the first st
 * **News**: [MB-AtHome news]({{site.baseurl}}/tags/#MB-AtHome).
 
 ### Contribute
-We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/get_involved/) and/or contact the project leads by e-mailing: L.Zaadnoordijk [at] tcd.ie, tsujish [at] gmail.com, Christina.Bergmann [at] mpi.nl, rhodricusack [at] cusacklab.org, Helen.Buckler [at] nottingham.ac.uk
+We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/get_involved/) and/or contact the project leads by e-mailing: L.Zaadnoordijk [at] tcd.ie, tsujish [at] gmail.com, Helen.Buckler [at] nottingham.ac.uk, rhodricusack [at] cusacklab.org <!-- need to add Katie's email -->
 
 Please note that access to infants/infant lab is **not** a prerequisite.
 
