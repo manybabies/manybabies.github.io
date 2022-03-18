@@ -10,9 +10,9 @@ To do:
 --->
 
 ### Collaborators   
-**ManyBabies** is all about our amazing team of collaborators from all around the world. For a detailed index of collaborators (& institutions, countries, studies), visit the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/). 
+**ManyBabies** is all about our amazing team of collaborators from around the world. For a detailed index of collaborators (& institutions, countries, studies), visit the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/). 
 
-To be added to the **MB** dashboard, please fill the form on [this page]({{site.baseurl}}/map/).
+To be added to the **MB** dashboard, please fill out the form on [this page]({{site.baseurl}}/map/).
 
 If you are already on the dashboard and wish to update any information (e.g., change of affiliation or name, add a new study), you can either [fill out the form]({{site.baseurl}}/map/) again or [email us](mailto:manybabiesconsortium@gmail.com) with your updated information.
 <a href="{{site.baseurl}}{% link map.md %}" class="image">
@@ -20,6 +20,8 @@ If you are already on the dashboard and wish to update any information (e.g., ch
       <source src="/assets/img/dashboard_overview.mp4" type="video/mp4">  
     </video>
 </a>
+
+***
 
 ### Governing Board
 
@@ -33,7 +35,7 @@ If you are already on the dashboard and wish to update any information (e.g., ch
 
 [E-mail the Governing Board](mailto:manybabies-gb@mailman.stanford.edu)
 
-
+***
 
 ### Executive Director   
 
@@ -41,7 +43,7 @@ If you are already on the dashboard and wish to update any information (e.g., ch
 
 [E-mail the Executive Director](mailto:manybabies.director@gmail.com)
 
-
+***
 
 ### Office Assistant   
 Grace Zhou (<i>University of Manitoba</i>, Winnipeg, Canada) 
