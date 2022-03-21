@@ -25,7 +25,7 @@ If you are already on the dashboard and wish to update any information (e.g., ch
 
 ### Governing Board
 
-* [**Christina Bergmann**](https://www.mpi.nl/people/bergmann-christina), *University of Applied Sciences* (Osnabrück, Germany) & *Max Planck Institute for Psycholinguistics*, (Nijmegen, Netherlands)
+* [**Christina Bergmann**](https://www.mpi.nl/people/bergmann-christina), *University of Applied Sciences (Osnabrück, Germany) & Max Planck Institute for Psycholinguistics, (Nijmegen, Netherlands)*
 * [**Krista Byers-Heinlein**](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein), *Concordia University, Montréal, Canada*
 * [**Michael C. Frank**](https://web.stanford.edu/~mcfrank/), *Stanford University, Palo Alto, United States*
 * [**Kiley Hamlin**](https://psych.ubc.ca/profile/kiley-hamlin/), *University of British Columbia, Vancouver, Canada*
