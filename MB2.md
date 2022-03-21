@@ -20,7 +20,7 @@ In this ongoing project we aim to investigate a fundamental feature of human soc
 [Dora Kampis](https://psychology.ku.dk/staff/academic_staff/?pure=en%2Fpersons%2Fdora-kampis(94aa17eb-739f-486e-a280-4a76aa4d38a7).html), [Hannes Rakoczy](https://www.psych.uni-goettingen.de/en/development/team/rakoczy-hannes), [Tobias Schuwerk](https://www.psy.lmu.de/epp/personen/wiss_ma/tobias_schuwerk/), [Michael Frank](https://web.stanford.edu/~mcfrank/)
 
 ### Collaborators
-For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
+For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
     <source src="/assets/img/dashboard_studies.mp4" type="video/mp4">  
     </video>
 

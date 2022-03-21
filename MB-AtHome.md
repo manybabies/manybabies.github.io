@@ -16,7 +16,7 @@ Recruiting infants in their homes can alleviate problems of high recruitment cos
 ### Leads
 [Lorijn Zaadnoordijk](https://sites.google.com/view/lorijnzaadnoordijk/homepage), [Sho Tsuji](https://sites.google.com/site/tsujish), [Katie von Holzen](https://kvonholzen.github.io), [Helen Buckler](https://www.nottingham.ac.uk/english/people/helen.buckler), [Rhodri Cusack](https://www.infantcentre.ie/who-we-are-2/our-team/prof-rhodri-cusack)
 
-For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
+For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
     <source src="/assets/img/dashboard_studies.mp4" type="video/mp4">  
     </video>
 

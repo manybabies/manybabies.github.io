@@ -25,13 +25,13 @@ If you are already on the dashboard and wish to update any information (e.g., ch
 
 ### Governing Board
 
-* [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina) (<i>Max Planck Institute for Psycholinguistics</i>, Nijmegen, Netherlands)
-* [Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein) (<i>Concordia University</i>, Montréal, Canada)
-* [Michael C. Frank](https://web.stanford.edu/~mcfrank/) (<i>Stanford University</i>, Palo Alto, United States)
-* [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/) (<i>University of British Columbia</i>, Vancouver, Canada)
-* [Melissa Kline Struhl](http://www.melissaklinestruhl.com) (<i>Lookit</i>, Cambridge, United States)
-* [Casey Lew-Williams](https://psych.princeton.edu/person/casey-lew-williams) (<i>Princeton University</i>, Princeton, United States)
-* [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/) (<i>University of Manitoba</i>, Winnipeg, Canada)
+* [**Christina Bergmann**](https://www.mpi.nl/people/bergmann-christina), *University of Applied Sciences (Osnabrück, Germany) & Max Planck Institute for Psycholinguistics, (Nijmegen, Netherlands)*
+* [**Krista Byers-Heinlein**](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein), *Concordia University (Montréal, Canada)*
+* [**Michael C. Frank**](https://web.stanford.edu/~mcfrank/), *Stanford University (Palo Alto, United States)*
+* [**Kiley Hamlin**](https://psych.ubc.ca/profile/kiley-hamlin/), *University of British Columbia (Vancouver, Canada)*
+* [**Melissa Kline Struhl**](http://www.melissaklinestruhl.com), *Lookit (Cambridge, United States)*
+* [**Casey Lew-Williams**](https://psych.princeton.edu/person/casey-lew-williams), *Princeton University (Princeton, United States)*
+* [**Melanie Soderstrom**](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba (Winnipeg, Canada)*
 
 [E-mail the Governing Board](mailto:manybabies-gb@mailman.stanford.edu)
 
@@ -39,14 +39,14 @@ If you are already on the dashboard and wish to update any information (e.g., ch
 
 ### Executive Director   
 
-[Heidi Baumgartner](https://www-csli.stanford.edu/people/baumgartner-heidi) (<i>Stanford University</i>, Palo Alto, United States) 
+[**Heidi Baumgartner**](https://www-csli.stanford.edu/people/baumgartner-heidi), *Stanford University (Palo Alto, United States)*
 
 [E-mail the Executive Director](mailto:manybabies.director@gmail.com)
 
 ***
 
 ### Office Assistant   
-Grace Zhou (<i>University of Manitoba</i>, Winnipeg, Canada) 
+**Grace Zhou**, *University of Manitoba (Winnipeg, Canada)* 
 
 [E-mail the Office Assistant](mailto:grace.zhou@umanitoba.ca)
 

@@ -20,7 +20,7 @@ Meta-analyses are often considered to be the most reliable source of information
 
 
 ### Status
-Meta-analysis update sourced from [MetaLab](http://metalab.stanford.edu/dataset/idspref.html) and first analyses. If you have (unpublished) data on infant-directed speech preference, please get in touch with [Christina Bergmann](mailto:Christina.Bergmann@mpi.nl).
+Meta-analysis update sourced from [MetaLab](http://metalab.stanford.edu/dataset/idspref.html) and first analyses. If you have (unpublished) data on infant-directed speech preference, please get in touch with [Christina Bergmann](mailto:chbergma@gmail.com).
 
 ### Links
 * **Data**: [MetaLab](http://metalab.stanford.edu/dataset/idspref.html)
@@ -32,7 +32,7 @@ Meta-analysis update sourced from [MetaLab](http://metalab.stanford.edu/dataset/
 -->
 
 ### Contribute
-We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/get_involved/) and/or contact the project leads by e-mailing: Christina.Bergmann [at] mpi.nl, fusaroli [at] cas.au.dk
+We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/get_involved/) and/or contact the project leads by e-mailing: chbergma [at] gmail.com, fusaroli [at] cas.au.dk
 
 <!--
 ### Publications
