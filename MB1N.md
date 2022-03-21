@@ -16,7 +16,7 @@ All infants from MB1, regardless of their linguistic background, heard stimuli r
 [Natalia Kartushina](https://www.sv.uio.no/psi/english/people/aca/natalkar/) and [Virginie Durier](https://ethos.univ-rennes1.fr/interlocuteurs/virginie-durier)
 
 ### Collaborators
-For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
+For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
     <source src="/assets/img/dashboard_studies.mp4" type="video/mp4">  
     </video>
 

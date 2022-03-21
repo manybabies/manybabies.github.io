@@ -18,7 +18,7 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 [Ingmar Visser](https://www.uva.nl/profiel/v/i/i.visser/i.visser.html?cb), [Claartje Levelt](https://www.universiteitleiden.nl/en/staffmembers/claartje-levelt#tab-1), [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), [Andreea Geambasu](https://www.universiteitleiden.nl/en/staffmembers/andreea-geambasu#tab-1)
 
 ### Collaborators
-For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
+For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
     <source src="/assets/img/dashboard_studies.mp4" type="video/mp4">  
     </video>
 

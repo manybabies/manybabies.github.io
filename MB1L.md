@@ -17,7 +17,7 @@ In this ongoing project we explore whether early preference for Infant Directed 
 [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/)
 
 ### Collaborators
-For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
+For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
     <source src="/assets/img/dashboard_studies.mp4" type="video/mp4">  
     </video>
 

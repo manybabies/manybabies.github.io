@@ -18,7 +18,7 @@ In this ongoing project we investigate a fundamental aspect of human nature: eva
 [Kelsey Lucca](https://isearch.asu.edu/profile/3521043), [Francis Yuen](https://cic.psych.ubc.ca/), and [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/)
 
 ### Collaborators
-For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
+For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
     <source src="/assets/img/dashboard_studies.mp4" type="video/mp4">  
     </video>
 
