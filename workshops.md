@@ -25,7 +25,7 @@ This pre-conference will consist of research talks and updates from members of M
 
 ### People
 * [Heidi Baumgartner](https://www-csli.stanford.edu/people/baumgartner-heidi) (ManyBabies & Stanford University)
-* [Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein) (ManyBabies & Concordia University)
+* [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/) (ManyBabies & University of British Columbia)
 * [Aaron Chuey](https://sll.stanford.edu/people.html) (Stanford University)
 * [Nicholas Coles](https://hai.stanford.edu/people/nicholas-coles) (Psychological Science Accelerator & Stanford University)
 * [Moira Dillon](https://as.nyu.edu/content/nyu-as/as/faculty/Moira-Dillon.html) (New York University)
@@ -45,7 +45,7 @@ This pre-conference will consist of research talks and updates from members of M
 
 9:00 - 9:15 – Welcome: Introduction/goals of the workshop (<i>Organizers: Heidi Baumgartner, Michael Frank, Melissa Kline Struhl</i>)
 
-9:15 - 10:00 – ManyBabies updates and research results (<i>Casey Lew-Williams, Krista Byers-Heinlein, ManyBabies Governing Board</i>)
+9:15 - 10:00 – ManyBabies updates and research results (<i>Casey Lew-Williams, Kiley Hamlin, ManyBabies Governing Board</i>)
 
 10:00 - 10:30 – The PLAY Project (<i>Rick Gilmore, Kasey Soska</i>)
 
