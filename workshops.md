@@ -41,8 +41,6 @@ This pre-conference will consist of research talks and updates from members of M
 
 ***
 
-
-***
 ### Schedule
 **<i>Morning Session:</i>**
 
