@@ -39,7 +39,9 @@ This pre-conference will consist of research talks and updates from members of M
 > [E-mail the Organizer](mailto:heidib@stanford.edu)
 
 ***
+## [Join the webinar](https://stanford.zoom.us/j/97640827142?pwd=alkySG81L2RGVlBITFJiN0c0YXBtdz09)
 
+***
 ### Schedule
 **<i>Morning Session:</i>**
 
