@@ -10,8 +10,7 @@ cover-img: /assets/img/workshop.jpg
 #### April 21, 2022 in Madison, Wisconsin, United States
 <br>
 
-### [Join the webinar](https://stanford.zoom.us/j/97640827142?pwd=alkySG81L2RGVlBITFJiN0c0YXBtdz09)
-<br>
+### Livestream: [JOIN THE WEBINAR!](https://stanford.zoom.us/j/97640827142?pwd=alkySG81L2RGVlBITFJiN0c0YXBtdz09)
 <br>
 
 ## Big Team Science for Studying Small People
