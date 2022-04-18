@@ -101,6 +101,6 @@ This pre-conference will consist of research talks and updates from members of M
 
 This workshop is for anyone interested in (or already) participating in collaborative developmental research and/or anyone interested in using the tools developed by these Big Team Science collaborations in their own labs. We encourage everyone who is interested in developmental research to [attend the pre-conference](https://cogdevsoc.org/registration/#) on April 21, 2022 in Madison, Wisconsin, USA! 
 
-<br>
+***
+
 ### Livestream: [JOIN THE WEBINAR!](https://stanford.zoom.us/j/97640827142?pwd=alkySG81L2RGVlBITFJiN0c0YXBtdz09)
-<br>
