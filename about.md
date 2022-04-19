@@ -46,9 +46,9 @@ Learn more about our [projects]({{site.baseurl}}/projects/) and [get involved]({
 ***
 
 **ManyBabies** collaborators come from [40+ nations on 6 continents](https://manybabies.shinyapps.io/shiny_mb_map/). They can serve as:
-* *Governing Board Members*: Responsible for governance decisions, including decisions about funding, new projects, and other project-wide concerns
-* *Project Leads*: Coordinate all aspects of a study (e.g., setting up work groups, guidelines) and ensure that all aspects adhere to the **MB** [Code of Conduct]({{site.baseurl}}/code_conduct/)
-* *Data Contributors*: Collect data following an experimental protocol
+* *Governing Board Members*: Responsible for governance decisions, including decisions about funding, new projects, and other project-wide concerns (see current members [here]({{site.baseurl}}/people/))
+* *Project Leads*: Coordinate all aspects of a study (e.g., setting up work groups, guidelines) and ensure that all aspects adhere to the **MB** [Code of Conduct]({{site.baseurl}}/code_conduct/) (see current Project Leads [here]({{site.baseurl}}/get_involved/))
+* *Data Contributors*: Collect data following an experimental protocol 
 * *Project Contributors*: Create stimuli, protocols, analysis code, and any other relevant tasks
 
 See more detailed descriptions of [roles and responsibilities of each collaborator type](https://docs.google.com/document/d/1UYSevbWnBQwd_eaBe1oKkOBX-8sMsBfiPz2kwNp7Ttc/export?format=pdf), [authorship guidelines]({{site.baseurl}}/authorship/), policies on [derived presentations]({{site.baseurl}}/derived_presentations/), and [get involved]({{site.baseurl}}/get_involved/) in **ManyBabies** projects.

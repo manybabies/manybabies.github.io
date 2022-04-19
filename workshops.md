@@ -8,10 +8,10 @@ cover-img: /assets/img/workshop.jpg
 
 ### [CDS 2022 Pre-Conference](https://cogdevsoc.org/pre-conference-workshops-2/) 
 #### April 21, 2022 in Madison, Wisconsin, United States
-<br>
+
 
 ### Livestream: [JOIN THE WEBINAR!](https://stanford.zoom.us/j/97640827142?pwd=alkySG81L2RGVlBITFJiN0c0YXBtdz09)
-<br>
+
 
 ## Big Team Science for Studying Small People
 
@@ -45,7 +45,7 @@ This pre-conference will consist of research talks and updates from members of M
 ***
 
 ### Schedule
-####*(all times in CDT, local Madison time)*
+#### *(all times in CDT, local Madison time)*
 **<i>Morning Session:</i>**
 
 9:00 - 9:15 – Welcome: Introduction/goals of the workshop (<i>Organizers: Heidi Baumgartner, Michael Frank, Melissa Kline Struhl</i>)

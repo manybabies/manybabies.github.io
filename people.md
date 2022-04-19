@@ -51,5 +51,6 @@ If you are already on the dashboard and wish to update any information (e.g., ch
 [E-mail the Office Assistant](mailto:grace.zhou@umanitoba.ca)
 
 
-
+<!--- NOTE: MB is expanding our leadership! See info about our call for nominations and upcoming election [here](link to news post).
+--->
 
