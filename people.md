@@ -22,7 +22,9 @@ If you are already on the dashboard and wish to update any information (e.g., ch
 </a>
 
 ***
+#### NOTE: MB is expanding our leadership! See info about our call for nominations and upcoming election [here]({{site.baseurl}}/2022-04-19-mbCallForNoms/).
 
+ 
 ### Governing Board
 
 * [**Christina Bergmann**](https://www.mpi.nl/people/bergmann-christina), *University of Applied Sciences (Osnabrück, Germany) & Max Planck Institute for Psycholinguistics, (Nijmegen, Netherlands)*
@@ -51,6 +53,5 @@ If you are already on the dashboard and wish to update any information (e.g., ch
 [E-mail the Office Assistant](mailto:grace.zhou@umanitoba.ca)
 
 
-<!--- NOTE: MB is expanding our leadership! See info about our call for nominations and upcoming election [here](link to news post).
---->
+
 
