@@ -26,7 +26,7 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 -->
 
 ### Status
-Data collection ongoing.
+Finalizing data analyses; preparing final manuscript.
 
 ### Links
 * **Materials, Protocols, and Documentation**: [MB1L-OSF](https://osf.io/2qamd/).

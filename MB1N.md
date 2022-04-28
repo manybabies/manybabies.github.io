@@ -25,7 +25,7 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 -->
 
 ### Status
-Stimulus creation and data collection.
+Stimulus creation and data collection is ongoing.
 
 ### Links
 * **Materials, Protocols, and Documentation**: [MB1N-OSF](https://osf.io/9j87t/).

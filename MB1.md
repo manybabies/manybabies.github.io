@@ -45,7 +45,7 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 -->
 
 ### Status
-Completed.
+Completed! Read the final manuscript ([PsyArXiv](https://psyarxiv.com/s98ab), [*AMPPS*](https://doi.org/10.1177/2515245919900809)); and "Lessons from MB1" ([PsyArXiv](https://psyarxiv.com/dmhk2/), [APA PscyNet](https://doi.apa.org/doiLanding?doi=10.1037%2Fcap0000216))
 
 ### Links
 * **Materials, Protocols, and Documentation**: [MB1-OSF](https://osf.io/re95x/).

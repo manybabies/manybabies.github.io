@@ -29,7 +29,7 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 -->
 
 ### Status
-Stage 1 Registered Report under review; running pilots.
+Stage 1 Registered Report has received an In Principle Acceptance at *Child Development* ([read the preprint](https://psyarxiv.com/x4jbm/)); preparing to begin data collection.
 
 ### Links
 * **Materials, Protocols, and Documentation**: [MB2-OSF](https://osf.io/jmuvd/).
