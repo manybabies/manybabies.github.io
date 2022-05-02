@@ -32,7 +32,7 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
     </video>
 
 ### Status
-Stage 2 Registered Report under review.
+Completed! Read the final manuscript ([PsyArXiv](https://psyarxiv.com/sgfhv/), [*Infancy*](https://onlinelibrary.wiley.com/doi/10.1111/infa.12360))
 
 ### Links
 * **Materials, Protocols, and Documentation**: [MB1G-OSF](https://osf.io/2ey3k/).

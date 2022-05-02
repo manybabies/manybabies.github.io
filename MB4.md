@@ -27,7 +27,7 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 -->
 
 ### Status
-Pilot data collection complete; Stage 1 Registered Report under review.
+Pilot data collection complete; Stage 1 Registered Report has received an In Principle Acceptance to *Developmental Science* ([read the preprint](https://psyarxiv.com/qhxkm)); preparing to begin data collection
 
 ### Links
 * **Main website**: [check it out](https://sites.google.com/view/manybabies4/home).

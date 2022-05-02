@@ -31,7 +31,7 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 -->
 
 ### Status
-Completed.
+Completed! Read the final manuscript ([PsyArXiv](https://psyarxiv.com/sqh9d/), [*AMPPS*](https://doi.org/10.1177/2515245920974622))
 
 ### Links
 * **Materials, Protocols, and Documentation**: [MB1B-OSF](https://osf.io/zauhq/).

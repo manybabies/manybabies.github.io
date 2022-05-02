@@ -27,7 +27,7 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 -->
 
 ### Status
-Stimuli created, finalising design and pre-registered report, waiting for labs to open up to run pilots.
+Stage 1 Registered Report under review; preparing for data collection.
 
 ### Links
 * **Materials, Protocols, and Documentation**: [MB3-OSF](https://osf.io/kqu9v/).

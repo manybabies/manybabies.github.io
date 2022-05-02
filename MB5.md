@@ -22,7 +22,7 @@ Familiarity and novelty effects are the cornerstone of many infant behavioral me
 -->
 
 ### Status
-Evaluating potential experimental designs; preparing a call for participation.
+Evaluating potential experimental designs; preparing Stage 1 Registered Report.
 
 ### Links
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies5).
