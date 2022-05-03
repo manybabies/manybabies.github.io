@@ -10,7 +10,7 @@ cover-img: /assets/img/workshop.jpg
 #### April 21, 2022 in Madison, Wisconsin, United States
 
 
-### Livestream: [JOIN THE WEBINAR!](https://stanford.zoom.us/j/97640827142?pwd=alkySG81L2RGVlBITFJiN0c0YXBtdz09)
+### [VIEW THE WEBINAR RECORDING](https://stanford.zoom.us/rec/share/pQXzvhH5PbZwSLdObTd5JQiRWpU4JLy7oYVRRjIoTt219NKv45QW1NPwIe3TIcJT.u9zqXW9NCpBYsRP1)
 
 
 ## Big Team Science for Studying Small People
@@ -38,7 +38,6 @@ This pre-conference will consist of research talks and updates from members of M
 * [Melissa Kline Struhl](http://www.melissaklinestruhl.com) (Lookit, ManyBabies, & MIT)
 * [Casey Lew-Williams](https://psych.princeton.edu/person/casey-lew-williams) (ManyBabies & Princeton University)
 * [Mark Sheskin](https://www.marksheskin.com) (Children Helping Science, CRADLE, & Minerva University)
-* [Kasey Soska](https://www.nyuactionlab.com/people), (PLAY project, Databrary, & New York University)
 
 > [E-mail the Organizer](mailto:heidib@stanford.edu)
 
@@ -52,7 +51,7 @@ This pre-conference will consist of research talks and updates from members of M
 
 9:15 - 10:00 – ManyBabies updates and research results (<i>Casey Lew-Williams, Kiley Hamlin, ManyBabies Governing Board</i>)
 
-10:00 - 10:30 – The PLAY Project (<i>Rick Gilmore, Kasey Soska</i>)
+10:00 - 10:30 – The PLAY Project (<i>Rick Gilmore</i>)
 
 10:30 - 10:45 – **Coffee break**
 
@@ -61,7 +60,6 @@ This pre-conference will consist of research talks and updates from members of M
 11:15 - 12:00 – The potential for online data collection to facilitate Big Team Science (BTS), including:
 * Comparison of online and lab studies (<i>Aaron Chuey</i>)
 * Strengths/limits of online studies (<i>Moira Dillon</i>)
-* Results from the Lookit platform (<i>Melissa Kline Struhl</i>)
 <br>
 
 12:00 - 1:00 - **Lunch break**
@@ -74,7 +72,7 @@ This pre-conference will consist of research talks and updates from members of M
 
 1:30 - 2:00 – Doing synchronous studies on Zoom (<i>Children Helping Science, Mark Sheskin</i>)
 
-2:00 - 3:00 – Creating inclusive BTS projects (<i>ManyBabies, Psych Science Accelerator, PLAY project</i>)
+2:00 - 3:00 – Breakout discussions: Creating inclusive BTS projects (<i>ManyBabies, Psych Science Accelerator, PLAY project</i>)
 
 3:00 - 3:15 – **Coffee break**
 
@@ -95,12 +93,3 @@ This pre-conference will consist of research talks and updates from members of M
 * [Princeton Baby Lab](https://babylab.princeton.edu)
 
 
-***
-
-## Register now!
-
-This workshop is for anyone interested in (or already) participating in collaborative developmental research and/or anyone interested in using the tools developed by these Big Team Science collaborations in their own labs. We encourage everyone who is interested in developmental research to [attend the pre-conference](https://cogdevsoc.org/registration/#) on April 21, 2022 in Madison, Wisconsin, USA! 
-
-***
-
-### Livestream: [JOIN THE WEBINAR!](https://stanford.zoom.us/j/97640827142?pwd=alkySG81L2RGVlBITFJiN0c0YXBtdz09)
