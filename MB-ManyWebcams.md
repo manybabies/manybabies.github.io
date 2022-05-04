@@ -38,7 +38,7 @@ Therefore, we aim to replicate findings of an in-lab paradigm of the [ManyBabies
 <br>
 
 ### Leads
-[Tobias Schuwerk](https://www.psy.lmu.de/epp/personen/wiss_ma/tobias_schuwerk/), [Adrian Steffan](https://adriansteffan.com/), [Lucie Zimmer](https://www.psy.lmu.de/epp/personen/wiss_ma/lucie_zimmer/index.html)
+[Tobias Schuwerk](https://www.psy.lmu.de/epp/personen/wiss_ma/tobias_schuwerk/), [Adrian Steffan](https://adriansteffan.com/), [Lucie Zimmer](https://www.psy.lmu.de/pbi/personen/wiss_mitarbeiter/lucie_zimmer/index.html)
 
 For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
     <source src="/assets/img/dashboard_studies.mp4" type="video/mp4">  
