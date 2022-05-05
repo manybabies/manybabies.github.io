@@ -46,7 +46,7 @@ Please fill in the form at the bottom of this page to indicate your interest in 
 * MB: [[listserv]](https://mailman.stanford.edu/mailman/listinfo/manybabies) [Governing Board](mailto:manybabies-gb@mailman.stanford.edu), [Executive Director](mailto:manybabiesconsortium@gmail.com)
 
 ##### Main Projects
-* MB1: [[listserv]](https://mailman.stanford.edu/mailman/listinfo/manybabies1) [Michael Frank](mailto:mcfrank@stanford.edu), [Melanie Soderstrom](mailto:M_Soderstrom@umanitoba.ca)
+* MB1 (*Completed*): [[listserv]](https://mailman.stanford.edu/mailman/listinfo/manybabies1) [Michael Frank](mailto:mcfrank@stanford.edu), [Melanie Soderstrom](mailto:M_Soderstrom@umanitoba.ca)
 * MB2: [[listserv]](https://mailman.stanford.edu/mailman/listinfo/manybabies2)
 [Dora Kampis](mailto:dk@psy.ku.dk), [Michael Frank](mailto:mcfrank@stanford.edu), [Hannes Rakoczy](mailto:hrakocz@uni-goettingen.de), [Tobias Schuwerk](mailto:Tobias.Schuwerk@psy.lmu.de)
 * MB3: [[listserv]](https://mailman.stanford.edu/mailman/listinfo/manybabies3) [Ingmar Visser](mailto:I.Visser@uva.nl), [Andreea Geambasu](mailto:a.geambasu@hum.leidenuniv.nl), [Claartje Levelt](mailto:c.c.levelt@hum.leidenuniv.nl), [Melanie Soderstrom](mailto:M_Soderstrom@umanitoba.ca)
@@ -58,8 +58,8 @@ Please fill in the form at the bottom of this page to indicate your interest in 
 
 ##### Spin-Offs
 * MB1A: [[listserv]](https://mailman.stanford.edu/mailman/listinfo/manybabies-africa) [Alex Carstensen](mailto:abc@ucsd.edu), [George Kachergis](mailto:kachergis@stanford.edu), [Angeline Tsui](mailto:angelinetsui@gmail.com), [Casey Lew-Williams](mailto:caseylw@princeton.edu), [Michael Frank](mailto:mcfrank@stanford.edu)
-* MB1B: [[listserv]](https://groups.google.com/forum/#!forum/manybabies-bilingual) [Krista Byers-Heinlein](mailto:K.Byers@concordia.ca)
-* MB1G: [Krista Byers-Heinlein](mailto:K.Byers@concordia.ca)
+* MB1B (*Completed*): [[listserv]](https://groups.google.com/forum/#!forum/manybabies-bilingual) [Krista Byers-Heinlein](mailto:K.Byers@concordia.ca)
+* MB1G (*Completed*): [Krista Byers-Heinlein](mailto:K.Byers@concordia.ca)
 * MB1L: [[listserv]](https://groups.google.com/u/1/g/mb1-cdi-follow-up) [Melanie Soderstrom](mailto:M_Soderstrom@umanitoba.ca)
 * MB1N: [Natalia Kartushina](mailto:natalia.kartushina@psykologi.uio.no), [Virginie Durier](mailto:virginie.durier@univ-rennes1.fr)
 * MB1T: [Melanie Schreiner](mailto:melanie.schreiner@psych.uni-goettingen.de)
