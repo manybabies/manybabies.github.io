@@ -22,13 +22,19 @@ Members will receive an email with a link to their electronic ballots on May 16.
 ### *Associate Professor, Chosun University, South Korea*
 I have been participating in several projects at MB including MB1 (CDS/ADS), MB2 (ManyWebcams), MB5 (Novelty/Familiarity), and MB-AtHome (Word Learning). As someone who is somewhat isolated from the vibrant research communities in North America and Europe, participating in MB projects gave me the opportunity to stay in touch with international colleagues and maintain my lab with the most recent and best research practices. I now hope to further involve myself in MB by joining the Governing Board, and contribute to developing and solidifying the goals of MB.
 
+<br>
+
 ## Jonathan F. Kominsky [*(website)*](https://www.jfkominsky.com/)
 ### *Assistant Professor (incoming), Central European University, Austria*
 I feel I would bring two important things to the ManyBabies Governing Board. First, a theoretical perspective focused on what infant methods can bring to Cognitive Science more broadly, and a strong interest in connecting MB Cognitive Science more broadly, and a strong interest in connecting MB projects to bigger questions about how the mind works that transcend infant research. Second, a strong methodological and technical background, including deep familiarity with many of the software and hardware tools used in infant research (through my work developing PyHab), which is critical for evaluating the feasibility of different approaches and finding practical solutions for obstacles that might arise across different lab environments.
 
+<br>
+
 ## Brianna McMillan [*(website)*](https://www.smith.edu/academics/faculty/brianna-mcmillan)
 ### *Assistant Professor, Smith College, United States*
 I am an Assistant Professor of Psychology at Smith College, a liberal-arts women’s college. My training in psychology and education has instilled a deep love for collaborative, interdisciplinary science. With students at Smith’s [Little Lab](https://www.science.smith.edu/littlelab/), I use observational, experimental, and secondary data analyses to understand how environments shape children’s language learning. My leading role on the ManyBabies5 stimuli-and-design team has energized me to dive deeper into reproducible, team-based science and to further integrate Open Science practices at Smith. Additionally, as a biracial first-generation college graduate, I am excited by the possibilities that ManyBabies presents for diversifying psychological science.
+
+<br>
 
 ## Francesco Margoni [*(website)*](https://scholar.google.it/citations?user=Sxwc6QwAAAAJ&hl=en)
 ### *Postdoctoral Researcher, University of Oslo, Norway*
