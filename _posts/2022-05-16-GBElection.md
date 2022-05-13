@@ -12,7 +12,7 @@ For the purpose of this election, MB members are defined as anyone who has appea
 
 Members will receive an email with a link to their electronic ballots on May 16. **Votes must be cast by the end of the voting period (23:59 PT on May 27).** 
 
-#### If you are an eligible voter and you did not receive a ballot, email [manybabiesconsortium AT gmail](mailto:manybabiesconsortium@gmail.com).
+### If you are an eligible voter and you did not receive a ballot, email [manybabiesconsortium AT gmail](mailto:manybabiesconsortium@gmail.com).
 
 ***
 
