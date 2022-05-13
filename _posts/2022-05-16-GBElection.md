@@ -20,7 +20,7 @@ Members will receive an email with a link to their electronic ballots on May 16.
 
 ## Eon-Suk Ko
 ### *Associate Professor, Chosun University, South Korea*
-[website](https://sites.google.com/site/eonsuk/)
+#### [website](https://sites.google.com/site/eonsuk/)
 I have been participating in several projects at MB including MB1 (CDS/ADS), MB2 (ManyWebcams), MB5 (Novelty/Familiarity), and MB-AtHome (Word Learning). As someone who is somewhat isolated from the vibrant research communities in North America and Europe, participating in MB projects gave me the opportunity to stay in touch with international colleagues and maintain my lab with the most recent and best research practices. I now hope to further involve myself in MB by joining the Governing Board, and contribute to developing and solidifying the goals of MB.
 
 ## Jonathan F. Kominsky
