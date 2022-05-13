@@ -17,11 +17,15 @@ Members will receive an email with a link to their electronic ballots on May 16.
 
 ***
 
+# Election Process
+Winners will be selected using proportional ranked choice voting. This system allows voters to rank candidates in order of preference and maximizes the effectiveness of every vote. A detailed description of proportional ranked choice voting, along with an explanation of how votes will be counted, is available [here](https://www.fairvote.org/multi_winner_rcv_example).  
+
+***
 
 # Candidates
 *The slate of candidates was chosen from the pool of nominated individuals by current Governing Board members in consultation with the Executive Director.*
 <br>
-
+<br>
 ## Eon-Suk Ko [*(website)*](https://sites.google.com/site/eonsuk/)
 ### *Associate Professor, Chosun University, South Korea*
 I have been participating in several projects at MB including MB1 (CDS/ADS), MB2 (ManyWebcams), MB5 (Novelty/Familiarity), and MB-AtHome (Word Learning). As someone who is somewhat isolated from the vibrant research communities in North America and Europe, participating in MB projects gave me the opportunity to stay in touch with international colleagues and maintain my lab with the most recent and best research practices. I now hope to further involve myself in MB by joining the Governing Board, and contribute to developing and solidifying the goals of MB.
