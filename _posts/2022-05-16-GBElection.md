@@ -13,7 +13,8 @@ ManyBabies is having an election to select two new members of the Governing Boar
 For the purpose of this election, MB members are defined as anyone who has appeared as an author on a completed MB project or who is listed as a contributor on a current MB project (as reported by filling out a project’s CRediT self-report form or authorship contribution spreadsheet).
 
 Members will receive an email with a link to their electronic ballots on May 16.
-####Votes must be cast by the end of the voting period (23:59 PT on May 27). 
+
+#### Votes must be cast by the end of the voting period (23:59 PT on May 27). 
 
 ### If you are an eligible voter and you did not receive a ballot, email [manybabiesconsortium AT gmail](mailto:manybabiesconsortium@gmail.com).
 
