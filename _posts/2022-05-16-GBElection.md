@@ -19,7 +19,7 @@ Members will receive an email with a link to their electronic ballots on May 16.
 
 
 # Candidates
-
+*The slate of candidates was chosen from the pool of nominated individuals by current Governing Board members in consultation with the Executive Director.*
 <br>
 
 ## Eon-Suk Ko [*(website)*](https://sites.google.com/site/eonsuk/)
