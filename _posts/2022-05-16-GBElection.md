@@ -4,6 +4,8 @@ title: Governing Board election
 tags: [MB, election, GB]
 ---
 
+<img style="float: right;" src="/assets/img/GB_election.png">
+
 ManyBabies is having an election to select two new members of the Governing Board. Information about the available positions is available [here](https://mailchi.mp/7eb70bcff3b5/mb-callfornominations).
 
 
