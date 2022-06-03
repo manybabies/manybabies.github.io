@@ -22,11 +22,6 @@ If you are already on the dashboard and wish to update any information (e.g., ch
 </a>
 
 ***
-### NOTE: MB is expanding our leadership! 
-See info about our call for nominations and upcoming election [here]({{site.baseurl}}/2022-04-19-mbCallForNoms/).
-
-
-
 ### Governing Board
 
 * [**Christina Bergmann**](https://www.mpi.nl/people/bergmann-christina), *University of Applied Sciences (Osnabrück, Germany) & Max Planck Institute for Psycholinguistics, (Nijmegen, Netherlands)*
@@ -34,7 +29,9 @@ See info about our call for nominations and upcoming election [here]({{site.base
 * [**Michael C. Frank**](https://web.stanford.edu/~mcfrank/), *Stanford University (Palo Alto, United States)*
 * [**Kiley Hamlin**](https://psych.ubc.ca/profile/kiley-hamlin/), *University of British Columbia (Vancouver, Canada)*
 * [**Melissa Kline Struhl**](http://www.melissaklinestruhl.com), *Lookit (Cambridge, United States)*
+* [**Eon-Suk Ko**](https://sites.google.com/site/eonsuk/), *Chosun University (Gwangju, South Korea)*
 * [**Casey Lew-Williams**](https://psych.princeton.edu/person/casey-lew-williams), *Princeton University (Princeton, United States)*
+* [**Brianna McMillan**](https://www.smith.edu/academics/faculty/brianna-mcmillan), *Smith College (Northampton, United States)*
 * [**Melanie Soderstrom**](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba (Winnipeg, Canada)*
 
 [E-mail the Governing Board](mailto:manybabies-gb@mailman.stanford.edu)
@@ -45,7 +42,7 @@ See info about our call for nominations and upcoming election [here]({{site.base
 
 [**Heidi Baumgartner**](https://www-csli.stanford.edu/people/baumgartner-heidi), *Stanford University (Palo Alto, United States)*
 
-[E-mail the Executive Director](mailto:manybabies.director@gmail.com)
+[E-mail the Executive Director](mailto:manybabiesconsortium@gmail.com)
 
 ***
 
