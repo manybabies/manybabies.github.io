@@ -34,7 +34,9 @@ See info about our call for nominations and upcoming election [here]({{site.base
 * [**Michael C. Frank**](https://web.stanford.edu/~mcfrank/), *Stanford University (Palo Alto, United States)*
 * [**Kiley Hamlin**](https://psych.ubc.ca/profile/kiley-hamlin/), *University of British Columbia (Vancouver, Canada)*
 * [**Melissa Kline Struhl**](http://www.melissaklinestruhl.com), *Lookit (Cambridge, United States)*
+* [**Eon-Suk Ko**](https://sites.google.com/site/eonsuk/), *Chosun University (Gwangju, South Korea)*
 * [**Casey Lew-Williams**](https://psych.princeton.edu/person/casey-lew-williams), *Princeton University (Princeton, United States)*
+* [**Brianna McMillan**](https://www.smith.edu/academics/faculty/brianna-mcmillan), *Smith College (Northampton, United States)*
 * [**Melanie Soderstrom**](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba (Winnipeg, Canada)*
 
 [E-mail the Governing Board](mailto:manybabies-gb@mailman.stanford.edu)
