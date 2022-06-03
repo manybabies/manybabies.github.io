@@ -42,7 +42,7 @@ If you are already on the dashboard and wish to update any information (e.g., ch
 
 [**Heidi Baumgartner**](https://www-csli.stanford.edu/people/baumgartner-heidi), *Stanford University (Palo Alto, United States)*
 
-[E-mail the Executive Director](mailto:manybabies.director@gmail.com)
+[E-mail the Executive Director](mailto:manybabiesconsortium@gmail.com)
 
 ***
 
