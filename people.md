@@ -40,14 +40,14 @@ If you are already on the dashboard and wish to update any information (e.g., ch
 
 ### Executive Director   
 
-[**Heidi Baumgartner**](https://www-csli.stanford.edu/people/baumgartner-heidi), *Stanford University (Palo Alto, United States)*
+[**Heidi Baumgartner**](https://www-csli.stanford.edu/people/baumgartner-heidi), *Stanford University (Palo Alto, United States)* [2021 - ]
 
 [E-mail the Executive Director](mailto:manybabiesconsortium@gmail.com)
 
 ***
 
 ### Office Assistant   
-**Grace Zhou**, *University of Manitoba (Winnipeg, Canada)* 
+**Grace Zhou**, *University of Manitoba (Winnipeg, Canada)* [2021 - ]
 
 [E-mail the Office Assistant](mailto:grace.zhou@umanitoba.ca)
 
