@@ -24,7 +24,7 @@ If you are already on the dashboard and wish to update any information (e.g., ch
 ***
 ### Governing Board
 
-* [**Christina Bergmann**](https://www.mpi.nl/people/bergmann-christina), *University of Applied Sciences (Osnabrück, Germany) & Max Planck Institute for Psycholinguistics, (Nijmegen, Netherlands)* [2016 - ]
+* [**Christina Bergmann**](https://www.mpi.nl/people/bergmann-christina) [[E-Mail]](chbergma@gmail.com), *University of Applied Sciences (Osnabrück, Germany) & Max Planck Institute for Psycholinguistics, (Nijmegen, Netherlands)* [2016 - ]
 * [**Krista Byers-Heinlein**](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein), *Concordia University (Montréal, Canada)* [2016 - ]
 * [**Michael C. Frank**](https://web.stanford.edu/~mcfrank/), *Stanford University (Palo Alto, United States)* [2015 - ]
 * [**Kiley Hamlin**](https://psych.ubc.ca/profile/kiley-hamlin/), *University of British Columbia (Vancouver, Canada)* [2016 - ]
@@ -37,19 +37,21 @@ If you are already on the dashboard and wish to update any information (e.g., ch
 [E-mail the Governing Board](mailto:manybabies-gb@mailman.stanford.edu)
 
 ***
+### Student Advisors
+
+* **MaryBeth Neff** [[E-mail]](mailto:marybethneff@gmail.com), *University of Oslo (Oslo, Norway)* 
+* **Francis Yuen** [[E-Mail]](francis.yuen@psych.ubc.ca), *University of British Columbia (Vacouver, Canada)* 
+
+***
 
 ### Executive Director   
 
-[**Heidi Baumgartner**](https://www-csli.stanford.edu/people/baumgartner-heidi), *Stanford University (Palo Alto, United States)* [2021 - ]
-
-[E-mail the Executive Director](mailto:manybabiesconsortium@gmail.com)
+[**Heidi Baumgartner**](https://www-csli.stanford.edu/people/baumgartner-heidi) [[E-mail]](mailto:manybabiesconsortium@gmail.com), *Stanford University (Palo Alto, United States)* [2021 - ] 
 
 ***
 
 ### Office Assistant   
-**Grace Zhou**, *University of Manitoba (Winnipeg, Canada)* [2021 - ]
-
-[E-mail the Office Assistant](mailto:grace.zhou@umanitoba.ca)
+**Grace Zhou** [[E-mail]](mailto:grace.zhou@umanitoba.ca), *University of Manitoba (Winnipeg, Canada)* [2021 - ] 
 
 
 
