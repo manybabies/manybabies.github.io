@@ -22,6 +22,12 @@ If you are already on the dashboard and wish to update any information (e.g., ch
 </a>
 
 ***
+### Project Leads
+
+Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as well as [here]({{site.baseurl}}/get_involved/).
+
+
+***
 ### Executive Director   
 
 * [**Heidi Baumgartner**](https://www-csli.stanford.edu/people/baumgartner-heidi) [[E-mail]](mailto:manybabiesconsortium@gmail.com), *Stanford University (Palo Alto, United States)* [2021 - ] 
@@ -50,11 +56,6 @@ If you are already on the dashboard and wish to update any information (e.g., ch
 ***
 ### Office Assistant   
 * **Grace Zhou** [[E-mail]](mailto:grace.zhou@umanitoba.ca), *University of Manitoba (Winnipeg, Canada)* [2021 - ] 
-
-***
-### Project Leads
-
-Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as well as [here]({{site.baseurl}}/get_involved/).
 
 
 
