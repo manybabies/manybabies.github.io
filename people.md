@@ -35,7 +35,7 @@ Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as 
 ***
 ### Governing Board
 
-> [E-mail the Governing Board](mailto:manybabies-gb@mailman.stanford.edu)
+> [Contact the Governing Board](mailto:manybabies-gb@mailman.stanford.edu)
 
 * [**Christina Bergmann**](https://www.mpi.nl/people/bergmann-christina) [[email]](chbergma@gmail.com), *University of Applied Sciences (Osnabrück, Germany) & Max Planck Institute for Psycholinguistics, (Nijmegen, Netherlands)* [2016 - ]
 * [**Krista Byers-Heinlein**](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein) [[email]](k.byers@concordia.ca), *Concordia University (Montréal, Canada)* [2016 - ]
