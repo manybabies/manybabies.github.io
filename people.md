@@ -50,8 +50,8 @@ Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as 
 ***
 ### Student Advisors
 
-* **MaryBeth Neff** [[E-mail]](mailto:marybethneff@gmail.com), *University of Oslo (Oslo, Norway)*  [2022-2023]
-* **Francis Yuen** [[E-Mail]](francis.yuen@psych.ubc.ca), *University of British Columbia (Vacouver, Canada)* [2022-2023]
+* **MaryBeth Neff** [[E-mail]](mailto:marybethneff@gmail.com), *University of Oslo (Oslo, Norway)*  [July 2022 - June 2023]
+* **Francis Yuen** [[E-Mail]](francis.yuen@psych.ubc.ca), *University of British Columbia (Vacouver, Canada)* [July 2022 - June 2023]
 
 ***
 ### Office Assistant   
