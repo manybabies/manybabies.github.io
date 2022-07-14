@@ -24,7 +24,7 @@ If you are already on the dashboard and wish to update any information (e.g., ch
 ***
 ### Executive Director   
 
-[**Heidi Baumgartner**](https://www-csli.stanford.edu/people/baumgartner-heidi) [[E-mail]](mailto:manybabiesconsortium@gmail.com), *Stanford University (Palo Alto, United States)* [2021 - ] 
+* [**Heidi Baumgartner**](https://www-csli.stanford.edu/people/baumgartner-heidi) [[E-mail]](mailto:manybabiesconsortium@gmail.com), *Stanford University (Palo Alto, United States)* [2021 - ] 
 
 ***
 ### Governing Board
@@ -39,7 +39,7 @@ If you are already on the dashboard and wish to update any information (e.g., ch
 * [**Brianna McMillan**](https://www.smith.edu/academics/faculty/brianna-mcmillan) [[E-Mail]](bmcmillan@smith.edu), *Smith College (Northampton, United States)* [2022 - ]
 * [**Melanie Soderstrom**](https://home.cc.umanitoba.ca/~soderstr/) [[E-Mail]](m_soderstrom@umanitoba.ca), *University of Manitoba (Winnipeg, Canada)* [2016 - ]
 
-[E-mail the Governing Board](mailto:manybabies-gb@mailman.stanford.edu)
+> [E-mail the Governing Board](mailto:manybabies-gb@mailman.stanford.edu)
 
 ***
 ### Student Advisors
@@ -51,7 +51,7 @@ If you are already on the dashboard and wish to update any information (e.g., ch
 
 
 ### Office Assistant   
-**Grace Zhou** [[E-mail]](mailto:grace.zhou@umanitoba.ca), *University of Manitoba (Winnipeg, Canada)* [2021 - ] 
+* **Grace Zhou** [[E-mail]](mailto:grace.zhou@umanitoba.ca), *University of Manitoba (Winnipeg, Canada)* [2021 - ] 
 
 
 
