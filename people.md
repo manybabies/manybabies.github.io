@@ -35,6 +35,8 @@ Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as 
 ***
 ### Governing Board
 
+> [E-mail the Governing Board](mailto:manybabies-gb@mailman.stanford.edu)
+
 * [**Christina Bergmann**](https://www.mpi.nl/people/bergmann-christina) [[E-Mail]](chbergma@gmail.com), *University of Applied Sciences (Osnabrück, Germany) & Max Planck Institute for Psycholinguistics, (Nijmegen, Netherlands)* [2016 - ]
 * [**Krista Byers-Heinlein**](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein) [[E-Mail]](k.byers@concordia.ca), *Concordia University (Montréal, Canada)* [2016 - ]
 * [**Michael C. Frank**](https://web.stanford.edu/~mcfrank/) [[E-Mail]](mcfrank@stanford.edu), *Stanford University (Palo Alto, United States)* [2016 - ]
@@ -44,8 +46,6 @@ Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as 
 * [**Casey Lew-Williams**](https://psych.princeton.edu/person/casey-lew-williams) [[E-Mail]](caseylw@princeton.edu), *Princeton University (Princeton, United States)* [2016 - ]
 * [**Brianna McMillan**](https://www.smith.edu/academics/faculty/brianna-mcmillan) [[E-Mail]](bmcmillan@smith.edu), *Smith College (Northampton, United States)* [2022 - ]
 * [**Melanie Soderstrom**](https://home.cc.umanitoba.ca/~soderstr/) [[E-Mail]](m_soderstrom@umanitoba.ca), *University of Manitoba (Winnipeg, Canada)* [2016 - ]
-
-> [E-mail the Governing Board](mailto:manybabies-gb@mailman.stanford.edu)
 
 ***
 ### Student Advisors
