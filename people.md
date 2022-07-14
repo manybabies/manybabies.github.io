@@ -48,11 +48,13 @@ If you are already on the dashboard and wish to update any information (e.g., ch
 * **Francis Yuen** [[E-Mail]](francis.yuen@psych.ubc.ca), *University of British Columbia (Vacouver, Canada)* [2022-2023]
 
 ***
-
-
 ### Office Assistant   
 * **Grace Zhou** [[E-mail]](mailto:grace.zhou@umanitoba.ca), *University of Manitoba (Winnipeg, Canada)* [2021 - ] 
 
+***
+### Project Leads
+
+Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as well as [here]({{site.baseurl}}/get_involved/).
 
 
 
