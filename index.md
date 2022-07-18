@@ -107,7 +107,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
         
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
         <a href="{{site.baseurl}}{% link MB4.md %}" class="image">
-          <img src="assets/img/feet-619399_cb7.jpg" />
+          <img src="assets/img/feet-619399_cb5.jpg" />
         </a>
         <h4>MB6: Neonatal Imitation</h4>
           What is the nature of neonatal infants' imitation of facial gestures?
