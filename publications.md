@@ -15,7 +15,11 @@ To fix:
 ## Reports
 
 ### Published
+Visser, I., et al. (2022). [Improving the generalizability of infant psychological research: The ManyBabies model (Commentary)](https://doi.org/10.1017/S0140525X21000455). _Behavioral and Brain Sciences_, 45:e35. [PsyArXiv Preprint](https://psyarxiv.com/8vwbf)
+
 Byers-Heinlein, Tsui, A. S. M., K., Bergmann, C., ..., Wermelinger, S. (2021). [A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech](https://doi.org/10.1177/2515245920974622). _Advances in Methods and Practices in Psychological Science_. [PsyArXiv PrePrint](https://psyarxiv.com/sqh9d/)
+
+Byers-Heinlein, K., Bergmann, C., Davies, C., Frank, M. C., Hamlin, J. K., Kline, M., Kominsky, J. F., Kosie, J. E., Lew-Williams, C., Liu, L., Mastroberardino, M., Singh, L., Waddell, C. P. G., Zettersten, M., & Soderstrom, M. (2020). [Building a collaborative Psychological Science: Lessons from ManyBabies 1](https://doi.org/10.1037/cap0000216). _Canadian Psychology_. [PsyArXiv PrePrint](https://psyarxiv.com/dmhk2/)
 
 Byers-Heinlein, K., Tsui, R. K. Y., van Renswoude, D., Black, A. K., Barr, R., Brown, A., … Singh, L. (2020). [The development of gaze following in monolingual and bilingual infants: A multi-lab study](https://doi.org/10.1111/infa.12360) _Infancy_, Advance online publication. [PsyArXiv Preprint](https://doi.org/10.31234/osf.io/sgfhv)
 
@@ -23,20 +27,20 @@ ManyBabies Consortium (2020). [Quantifying sources of variability in infancy res
 
 Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., Hamlin, J. K., Hannon, E. E., Kline, M., Levelt, C., Lew-Williams, C., Nazzi, T., Panneton, R., Rabagliati, H., Soderstrom, M., Sullivan, J., Waxman, S., Yurovsky, D. (2017). [A collaborative approach to infant research: Promoting reproducibility, best practices, and theory-building.](https://doi.org/10.1111/infa.12182) _Infancy_, 22, 421–435. [PsyArXiv Preprint](https://osf.io/27b43/)
 
-### In Press
-Visser, I., et al. (In Press). [Improving the generalizability of infant psychological research: The ManyBabies model (Commentary)](https://psyarxiv.com/8vwbf). _Behavioral and Brain Sciences_.
 
-Byers-Heinlein, K., Bergmann, C., Davies, C., Frank, M. C., Hamlin, J. K., Kline, M., Kominsky, J. F., Kosie, J. E., Lew-Williams, C., Liu, L., Mastroberardino, M., Singh, L., Waddell, C. P. G., Zettersten, M., & Soderstrom, M. (In Press). [Building a collaborative Psychological Science: Lessons from ManyBabies 1](https://psyarxiv.com/dmhk2/). _Canadian Psychology_.
+### Stage 1 Registered Reports: In Principle Acceptance (pending data collection)
+Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A., Sirois, S., Westermann, G., Soderstrom, M., Levelt, C. C. (Stage 1 RR In Principle Acceptance). [ManyBabies 3: A multi-lab study of infant algebraic rule learning](https://psyarxiv.com/aex7v/). _Developmental Science_. 
 
-### Accepted pending data collection
+Lucca, K., Capelier-Mourguy, A., Cirelli, L., Byers-Heinlein, K., Dal Ben, R., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., Wang, Y., Yuen, F., Hamlin, K. (Stage 1 RR In Principle Acceptance). [Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study](https://psyarxiv.com/qhxkm). _Developmental Science_.
+
+Tsui, A. S. M., Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., Mathur, M., Mbagaya, C. V., Mekonnen Mengistie, D., Milton, C., Mushimiyimana, F., Ndhambi, M., Ngina, I., Njoroge, E., Odhiambo Oburu, P., Okyere Omane, P., Singh, A., Ssemata, A. S., Unyuzumutima, J., Zeidler, H., Lew-Williams, C., Frank, M. C. (Stage 1 RR In Principle Acceptance). Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa. _Developmental Science_
+
+Schuwerk,T., Kampis, D., Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K., Dörrenberg, S., Fisher, C., Franchin, L., Fulcher, T., Garbisch, I., Geraci, A., Grosse Wiesmann, C., Hamlin, K., Haun, D. B. M., Hepach, R., Hunnius, S., Hyde, D. C., Karman, P., Kosakowski, H., Kovács, A. M., Krämer, A., Kulke, L., Lee, C., Lew-Williams, C., Liszkowski, U., Mahowald, K., Mascaro, O., Meyer, M., Moreau, D., PernerJ., Poulin-Dubois, D., Powell, L., Prein, J. C., Priewasser, B., Proft, M., Raz, G., Reschke, P. J., Ross, J., Rothmaler, K., Saxe, R., Schneider, D., Southgate, V., Surian, L., Tebbe, A., Träuble, B., Tsui, A., Wertz, A., Woodward, A., Yuen, F., Yuile, A. R., Zellner, L., Zimmer, L., Frank, M. C., Rakoczy, H. (Stage 1 RR In Principle Acceptance). [Action anticipation based on an agent's epistemic state in toddlers and adults](https://psyarxiv.com/x4jbm/). _Child Development_
+
 Soderstrom, M., Werker, J. F., Tsui, A., Skarabela, B., Seidl, A., Searle, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Noble, C., Nave, K., Mayor, J., Martin, A., Lew-Williams, C., Ko, E., Kartushina, N., Kammermeier, M., Jessop, A., Hay, J. F., Hannon, E. E., Hamlin, J. K., Gonzalez-Gomez, N., Gonzalez-Barrero, A. M., Gampe, A., Fritzsche, T., Frank, M. C., Floccia, C., Durrant, S., Delle Luche, C., Davies, C., Cashon, C., Byers-Heinlein, K., Black, A. K., Bergmann, C., Anderson, L. (accepted pending data collection). [Testing the Relationship Between Preferences for Infant-Directed Speech and Vocabulary Development: A Multi-Lab Study](https://drive.google.com/drive/folders/1yb7bdTtEDOKwIA4qMcfiuKkoI1jIojW7). _Journal of Child Language_.
 
 ### Under review
-ManyBabies Consortium (under review). [Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study](https://drive.google.com/file/d/1HC7v5RMrgpkuT7tHm2MChsX36EiLm5Vv/view).
 
-Tsui, A. S. M., Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., Mathur, M., Mbagaya, C. V., Mekonnen Mengistie, D., Milton, C., Mushimiyimana, F., Ndhambi, M., Ngina, I., Njoroge, E., Odhiambo Oburu, P., Okyere Omane, P., Singh, A., Ssemata, A. S., Unyuzumutima, J., Zeidler, H., Lew-Williams, C., Frank, M. C. (Stage 1 RR under review). Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa.
-
-Schuwerk, T., Kampis, D. (...) Frank, M., Rakoczy, R. (Stage 1 RR under review). [Action anticipation based on an agent's epistemic state in toddlers and adults](https://psyarxiv.com/x4jbm/)._PsyArXiv Preprint_
 
 ### Registrations
 <!---
@@ -63,13 +67,16 @@ Schreiner, M. S., Lippold, M., Soderstrom, M., Shukla, M., Bergmann, C., Frank, 
 <!-- add data from registrations - future -->
 ## Conferences
 
+### 2022
+* [Posters](https://osf.io/c4m3e/) presented as part of the ManyBabies Poster Symposium at the 2022 International Congress for Infant Studies (ICIS)
+
 ### 2020
 
-* [Slides & presentations](https://osf.io/t2wgc/) for talks at The Virtual International Congress of Infant Studies (vICIS).
+* [Slides & presentations](https://osf.io/t2wgc/) for talks at The Virtual International Congress for Infant Studies (vICIS)
 
 ### 2019
 
-* [Slides & notes](https://osf.io/4p9dt/) for talks at Biennal Meeting of the Society for Research in Child Development (SRCD).
+* [Slides & notes](https://osf.io/4p9dt/) for talks at Biennal Meeting of the Society for Research in Child Development (SRCD)
 
 ### 2018
 
