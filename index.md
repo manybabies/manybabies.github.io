@@ -146,7 +146,9 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
 			<h3>Spin-Off Projects</h3>
 	</header>
 	  <p>
-	    [List of Spin-Off Projects and Secondary Analyses]({{site.baseurl}}/so_sa/)
+	    <a href="{{site.baseurl}}{% link so_sa.md %}" class="image">
+        List of Spin-Off Projects and Secondary Analyses  
+      </a>
 	  </p>
 <br>
 </section>
