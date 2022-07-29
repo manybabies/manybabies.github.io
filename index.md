@@ -43,13 +43,10 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
       <p>
         The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site.baseurl}}{% link projects.md %}"> collaborative projects</a>. They are organized in <i>main projects</i> (either empirical or methodological), <i>spin-off projects</i>, and <i>secondary analyses</i>. Check out our main projects, together with their affiliated spin-off projects and secondary analyses:
       </p>
-
 	<header class="major">
 			<h3>Empirical</h3>
 	</header>
-
 <br>
-
   <div class="container">
     <div class="row justify-content-around">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
@@ -108,14 +105,11 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
         </div>
 		</div>
 	</div>
-
 <br>
 	<header class="major">
 			<h3>Methodological</h3>
 	</header>
 <br>
-
-
 	<div class="container">
 		<div class="row justify-content-around">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
@@ -126,15 +120,15 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
             Solutions for testing infants in their home, with a focus on measuring looks.
                 <a href="{{site.baseurl}}{% link MB-AtHome.md %}" class="button">Learn more</a>
     		</div>
-			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-  			<a href="{{site.baseurl}}{% link MB-demographics.md %}" class="image">
-  				<img src="assets/img/MBDemo_logo.png"  alt="MB-Demographics" width="150" height="150">
-  			</a>
-  			<h4>MB-Demographics: Unified Demographics for ManyBabies Projects</h4>
-  				In this project we are creating unified demographic forms for ManyBabies projects, with standardized and custom questions.
-  			<a href="{{site.baseurl}}{% link MB-demographics.md %}" class="button">Learn more</a>
-			</div>
-	</div>
+  			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+    			<a href="{{site.baseurl}}{% link MB-demographics.md %}" class="image">
+    				<img src="assets/img/MBDemo_logo.png"  alt="MB-Demographics" width="150" height="150">
+    			</a>
+    			<h4>MB-Demographics: Unified Demographics for ManyBabies Projects</h4>
+    				In this project we are creating unified demographic forms for ManyBabies projects, with standardized and custom questions.
+    			<a href="{{site.baseurl}}{% link MB-demographics.md %}" class="button">Learn more</a>
+  			</div>
+	  </div>
 <br>
     <div class="row justify-content-around">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
@@ -147,7 +141,6 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
         </div>
 		</div>
 	</div>
-
 </section>
 
 
