@@ -54,7 +54,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
     <div class="row justify-content-around">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
           <a href="{{site.baseurl}}{% link MB1.md %}" class="image">
-            <img src="assets/img/MB1_logo.png" />
+            <img src="assets/img/MB1_logo.png"  alt="MB1" width="150" height="150">
           </a>
           <h4>MB1: Infant-Directed Speech Preference</h4>
             Do infants prefer infant-directed speech? Do age, method, and native language background matter?
