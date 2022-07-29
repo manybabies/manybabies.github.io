@@ -4,11 +4,15 @@ title: MB6
 subtitle: Neonatal Imitation
 ---
 
-Our newest ManyBabies experimental project, MB6, is on Neonatal Imitation! 
+We are excited to launch our newest ManyBabies experimental project, **MB6: Neonatal Imitation**! 
 
-We hosted a pair of planning workshops in July 2022 to hear from experts about their own research and ideas for the project and to initiate discussions about what a "best test" of neontatal imitation would look like. 
+We hosted a pair of planning workshops in July 2022 to hear from experts about their own research and ideas for the project and to initiate discussions about what a "best test" of neontatal imitation would look like. Subscribe to the listserv (link below) for future updates!
 
-### Workshop #1 [July 12/13, 2022]
+Please contact MB Executive Director, [Heidi Baumgartner](mailto:heidib@stanford.edu), with questions.
+
+
+### Workshop #1, *July 12/13, 2022* [View the recording](https://stanford.zoom.us/rec/share/Gsyuh5B-PnpwWt-6_8ZtMXsLcv8UNn6FPLvsbZqPbQm8X5VWsEDDPHefTPzs5MLs.lFTjsqVJJ-wN8sxJ?startTime=1657663437000) 
+
 
 #### Featuring presentations from: 
 * Sumeet Farwaha & Virginia Slaughter, *University of Queensland, Australia*
@@ -17,10 +21,8 @@ We hosted a pair of planning workshops in July 2022 to hear from experts about t
 * Laurie Bayet, *American University, US*
 * Jonathan Redshaw, *University of Queensland, Australia*
 
-#### [View the recording](https://stanford.zoom.us/rec/share/Gsyuh5B-PnpwWt-6_8ZtMXsLcv8UNn6FPLvsbZqPbQm8X5VWsEDDPHefTPzs5MLs.lFTjsqVJJ-wN8sxJ?startTime=1657663437000) 
 
-
-### Workshop #2 [July 28, 2022]
+### Workshop #2, *July 28, 2022* [View the recording](https://stanford.zoom.us/rec/share/B2ZuwVgR3tdZmGwF4nrI_-lfILXIpzilVITSg_bFacrCkwrKCfWAIohOwNR-1Zgr.OOnc_ovmYHLp_N3Y?startTime=1658991869000)
 
 #### Featuring presentations from:
 * Sumeet Farwaha & Virginia Slaughter, *University of Queensland, Australia*
@@ -28,8 +30,6 @@ We hosted a pair of planning workshops in July 2022 to hear from experts about t
 * Mikael Heimann, *Linköping University, Sweden*
 * Carina De Klerk, *University of Essex, UK*
 * Stefano Vincini, *TU Dortmund, Germany*
-
-#### [View the recording](https://stanford.zoom.us/rec/share/B2ZuwVgR3tdZmGwF4nrI_-lfILXIpzilVITSg_bFacrCkwrKCfWAIohOwNR-1Zgr.OOnc_ovmYHLp_N3Y?startTime=1658991869000)
 
 
 ### Leads
