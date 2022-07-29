@@ -44,7 +44,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
         The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site.baseurl}}{% link projects.md %}"> collaborative projects</a>. They are organized in <i>main projects</i> (either empirical or methodological), <i>spin-off projects</i>, and <i>secondary analyses</i>. Check out our main projects, together with their affiliated spin-off projects and secondary analyses:
       </p>
 	<header class="major">
-			<h3>Empirical</h3>
+			<h3>Empirical Projects</h3>
 	</header>
 <br>
   <div class="container">
@@ -107,7 +107,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
 	</div>
 <br>
 	<header class="major">
-			<h3>Methodological</h3>
+			<h3>Methodological Projects</h3>
 	</header>
 <br>
 	<div class="container">
