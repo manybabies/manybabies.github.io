@@ -4,13 +4,34 @@ title: MB6
 subtitle: Neonatal Imitation
 ---
 
+We are excited to launch our newest ManyBabies experimental project, **MB6: Neonatal Imitation**! 
 
-Our newest ManyBabies experimental project, MB6, is on Neonatal Imitation! 
+We hosted a pair of planning workshops in July 2022 to hear from experts about their own research and ideas for the project, and to initiate discussions about what a "best test" of neontatal imitation would look like. Subscribe to the listserv (link below) for future updates!
 
-[View the recording of our first planning session](https://stanford.zoom.us/rec/share/Gsyuh5B-PnpwWt-6_8ZtMXsLcv8UNn6FPLvsbZqPbQm8X5VWsEDDPHefTPzs5MLs.lFTjsqVJJ-wN8sxJ?startTime=1657663437000), held on July 12/13 2022, in which experts presented their own findings in the field and began to discuss what a "best test" of neonatal imitation would look like. 
+Please contact MB Executive Director, [Heidi Baumgartner](mailto:heidib@stanford.edu), with questions.
 
-Join us for a second planning workshop on July 28 to hear from more experts and be part of the discussion. [Register Here!](https://stanford.zoom.us/webinar/register/WN_G1K7usoARpiEdTov0X1KaQ)
 
+### Workshop #1 - July 12/13, 2022 [[View the recording]](https://stanford.zoom.us/rec/share/Gsyuh5B-PnpwWt-6_8ZtMXsLcv8UNn6FPLvsbZqPbQm8X5VWsEDDPHefTPzs5MLs.lFTjsqVJJ-wN8sxJ?startTime=1657663437000) 
+
+
+#### Featuring presentations from: 
+* Sumeet Farwaha & Virginia Slaughter, *University of Queensland, Australia*
+* Andrew Meltzoff, *University of Washington, US*
+* Kathleen Akins, *Simon Fraser University, Canada* & Nazim Keven *Bilkent University, Turkey*
+* Laurie Bayet, *American University, US*
+* Jonathan Redshaw, *University of Queensland, Australia*
+
+
+### Workshop #2 - July 28, 2022 [[View the recording]](https://stanford.zoom.us/rec/share/B2ZuwVgR3tdZmGwF4nrI_-lfILXIpzilVITSg_bFacrCkwrKCfWAIohOwNR-1Zgr.OOnc_ovmYHLp_N3Y?startTime=1658991869000)
+
+#### Featuring presentations from:
+* Sumeet Farwaha & Virginia Slaughter, *University of Queensland, Australia*
+* Elizabeth Simpson, *University of Miami, US*
+* Mikael Heimann, *Linköping University, Sweden*
+* Carina De Klerk, *University of Essex, UK*
+* Stefano Vincini, *TU Dortmund, Germany*
+
+*** 
 ### Leads
 *To Be Determined*
 
@@ -18,7 +39,7 @@ Join us for a second planning workshop on July 28 to hear from more experts and 
 Initial planning discussions; formation of leadership team
 
 ### Links
-* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies6).
+* **Listserv**: [subscribe here](https://mailman.stanford.edu/mailman/listinfo/manybabies6).
 
 ### Contribute
 We encourage everyone who is interested in the project to join the listserv using the link above. 

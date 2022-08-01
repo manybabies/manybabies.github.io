@@ -43,71 +43,61 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
       <p>
         The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site.baseurl}}{% link projects.md %}"> collaborative projects</a>. They are organized in <i>main projects</i> (either empirical or methodological), <i>spin-off projects</i>, and <i>secondary analyses</i>. Check out our main projects, together with their affiliated spin-off projects and secondary analyses:
       </p>
-
 	<header class="major">
-			<h3>Empirical</h3>
+			<h3>Empirical Projects</h3>
 	</header>
-
 <br>
-
   <div class="container">
     <div class="row justify-content-around">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
           <a href="{{site.baseurl}}{% link MB1.md %}" class="image">
-            <img src="assets/img/feet-619399_cb1.jpg" />
+            <img src="assets/img/MB1_logo.png"  alt="MB1" width="150" height="150">
           </a>
           <h4>MB1: Infant-Directed Speech Preference</h4>
             Do infants prefer infant-directed speech? Do age, method, and native language background matter?
               <a href="{{site.baseurl}}{% link MB1.md %}" class="button">Learn more</a>
         </div>
-
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
           <a href="{{site.baseurl}}{% link MB2.md %}" class="image">
-            <img src="assets/img/feet-619399_cb5.jpg" />
+            <img src="assets/img/MB2_logo.png"  alt="MB2" width="150" height="150">
           </a>
           <h4>MB2: Theory of Mind in Infancy</h4>
             Do infants show anticipatory looking that reflects the false belief of another agent?
                 <a href="{{site.baseurl}}{% link MB2.md %}" class="button">Learn more</a>
         </div>
   	</div>
-
 <br>
-
     <div class="row justify-content-around">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
           <a href="{{site.baseurl}}{% link MB3.md %}" class="image">
-            <img src="assets/img/feet-619399_cb3.jpg" />
+            <img src="assets/img/MB3_logo.png"  alt="MB3" width="150" height="150">
           </a>
           <h4>MB3: Rule Learning</h4>
             Do infants learn and generalize identity-based rules from speech stimuli?
               <a href="{{site.baseurl}}{% link MB3.md %}" class="button">Learn more</a>
         </div>
-
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
         <a href="{{site.baseurl}}{% link MB4.md %}" class="image">
-          <img src="assets/img/feet-619399_cb7.jpg" />
+          <img src="assets/img/MB4_logo.png"  alt="MB4" width="150" height="150">
         </a>
         <h4>MB4: Social Evaluation</h4>
           Do infants prefer agents who are seen to help over those who are seen to hinder?
               <a href="{{site.baseurl}}{% link MB4.md %}" class="button">Learn more</a>
         </div>
     </div>
-
 <br>
-
     <div class="row justify-content-around">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
           <a href="{{site.baseurl}}{% link MB5.md %}" class="image">
-            <img src="assets/img/feet-619399_cb6.jpg" />
+            <img src="assets/img/MB5_logo.png"  alt="MB5" width="150" height="150">
           </a>
           <h4>MB5: The Hunter & Ames Model of Infant Looking Preferences</h4>
             What factors shape infants’ preferences for familiar and novel stimuli?
               <a href="{{site.baseurl}}{% link MB5.md %}" class="button">Learn more</a>
         </div>
-        
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-        <a href="{{site.baseurl}}{% link MB4.md %}" class="image">
-          <img src="assets/img/feet-619399_cb5.jpg" />
+        <a href="{{site.baseurl}}{% link MB6.md %}" class="image">
+          <img src="assets/img/MB6_logo.png"  alt="MB6" width="150" height="150">
         </a>
         <h4>MB6: Neonatal Imitation</h4>
           What is the nature of neonatal infants' imitation of facial gestures?
@@ -115,49 +105,52 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
         </div>
 		</div>
 	</div>
-
 <br>
 	<header class="major">
-			<h3>Methodological</h3>
+			<h3>Methodological Projects</h3>
 	</header>
 <br>
-
-
 	<div class="container">
 		<div class="row justify-content-around">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-        <a href="{{site.baseurl}}{% link MB-AtHome.md %}" class="image">
-          <img src="assets/img/feet-619399_cb2.jpg" />
-        </a>
-        <h4>MB-AtHome: Online Infant Data Collection</h4>
-          Solutions for testing infants in their home, with a focus on measuring looks.
-              <a href="{{site.baseurl}}{% link MB-AtHome.md %}" class="button">Learn more</a>
+          <a href="{{site.baseurl}}{% link MB-AtHome.md %}" class="image">
+            <img src="assets/img/MBAH_logo.png"  alt="MBAtHome" width="150" height="150">
+          </a>
+          <h4>MB-AtHome: Online Infant Data Collection</h4>
+            Solutions for testing infants in their home, with a focus on measuring looks.
+                <a href="{{site.baseurl}}{% link MB-AtHome.md %}" class="button">Learn more</a>
     		</div>
-
-			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
-			<a href="{{site.baseurl}}{% link MB-demographics.md %}" class="image">
-				<img src="assets/img/feet-619399_cb4.jpg" />
-			</a>
-			<h4>MB-Demographics: Unified Demographics for ManyBabies Projects</h4>
-				In this project we are creating unified demographic forms for ManyBabies projects, with standardized and custom questions.
-			<a href="{{site.baseurl}}{% link MB-demographics.md %}" class="button">Learn more</a>
-			</div>
-	</div>
-
+  			<div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
+    			<a href="{{site.baseurl}}{% link MB-demographics.md %}" class="image">
+    				<img src="assets/img/MBDemo_logo.png"  alt="MB-Demographics" width="150" height="150">
+    			</a>
+    			<h4>MB-Demographics: Unified Demographics for ManyBabies Projects</h4>
+    				In this project we are creating unified demographic forms for ManyBabies projects, with standardized and custom questions.
+    			<a href="{{site.baseurl}}{% link MB-demographics.md %}" class="button">Learn more</a>
+  			</div>
+	  </div>
 <br>
-
     <div class="row justify-content-around">
         <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4">
           <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}" class="image">
-            <img src="assets/img/feet-619399_cb1.jpg" />
+            <img src="assets/img/MBMW_logo.png"  alt="MB-ManyWebcams" width="150" height="150">
           </a>
           <h4>MB-ManyWebcams: Web-based Eye Tracking for Infant Studies</h4>
             Automatic gaze detection via webcam.
-              <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}" class="button">Learn more</a>
+          <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}" class="button">Learn more</a>
         </div>
 		</div>
 	</div>
-
+<br>
+	<header class="major">
+			<h3>Spin-Off Projects</h3>
+	</header>
+	  <p>
+	    <a href="{{site.baseurl}}{% link so_sa.md %}" class="image">
+        List of Spin-Off Projects and Secondary Analyses  
+      </a>
+	  </p>
+<br>
 </section>
 
 
