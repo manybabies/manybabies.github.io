@@ -37,6 +37,57 @@ html to create a grid and add Projects info
 images with link MUST use the class = "image" (.css from ManyPrimates)
 -->
 <section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <p>    </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <a href="{{site.baseurl}}{% link MB1.md %}" class="image" target="_blank"><img src="/assets/img/MB1_logo.png" alt="analysis" width="150" height="150"></a>
+      </div>
+      <div class="col-sm-9">
+        <h3>MB1: Infant-Directed Speech Preference</h3>
+        Do infants prefer infant-directed speech? Do age, method, and native language background matter?
+        <a href="{{site.baseurl}}{% link MB1.md %}" class="image" target="_blank">Learn More</a>
+      </div>
+    </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <a href="https://psysciacc.org/006-trolley-problem/" target="_blank"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150"></a>
+      </div>
+      <div class="col-sm-9">
+        <h3>Situational Factors Shape Moral Judgements in the Trolley Dilemma in a Culturally Diverse Sample</h3>
+        <h4><a href="https://www.iast.fr/people/bence-bago" target="_blank">Bence Bagó</a></h4>
+        <i>Institute for Advanced Study in Toulouse, France</i>
+      </div>
+    </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <img src="/assets/img/tools.png" alt="tools" width="150" height="150">
+      </div>
+      <div class="col-sm-9">
+        <h3>Panel: Big Team Science Infrastructure</h3>
+        <h4><a href="https://www.aggieerin.com/page/about/" target="_blank">Erin Buchanan</a>: creator of Canvas for BTS</h4>
+        <i>Harrisburg University of Science and Technology, USA</i>
+        <h4><a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html" target="_blank">Alex O. Holcombe</a>: co-creator of <i><a href="https://rollercoaster.shinyapps.io/tenzing/" target="_blank">tenzing</a></i></h4>
+        <i>University of Sydney, Australia</i>
+        <h4><a href="http://www.melissaklinestruhl.com" target="_blank">Melissa Kline Struhl</a>: Executive Director of <a href="https://lookit.mit.edu" target="_blank">Lookit</a></h4>
+        <i>Massachusetts Institute of Technology, USA</i>
+      </div>
+    </div>
+  </div>
+</section>
+<br>
+
+<section>
 	<header class="major">
 		<h2>Projects</h2>
 	</header>
