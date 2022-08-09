@@ -45,12 +45,11 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB1.md %}" class="image" target="_blank"><img src="/assets/img/MB1_logo.png" alt="analysis" width="150" height="150"></a>
+        <a href="{{site.baseurl}}{% link MB1.md %}" class="image" target="_blank"><img src="/assets/img/MB1_logo.png" alt="MB1 logo" width="150" height="150"></a>
       </div>
       <div class="col-sm-9">
-        <h3>MB1: Infant-Directed Speech Preference</h3>
+        <a href="{{site.baseurl}}{% link MB1.md %}" class="image" target="_blank"><h3>MB1: Infant-Directed Speech Preference</h3></a>
         Do infants prefer infant-directed speech? Do age, method, and native language background matter?
-        <a href="{{site.baseurl}}{% link MB1.md %}" class="image" target="_blank">Learn More</a>
       </div>
     </div>
     <div class="col-sm-12">
