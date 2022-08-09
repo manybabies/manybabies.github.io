@@ -31,11 +31,11 @@ Notes
 Learn more [about]({{site.baseurl}}/about/) **MB's** origin, goals, people, and [stay up to date]({{site.baseurl}}/news/). Also, for a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
 
 ***
-## Projects
+# Projects
 
 The broader goals of **ManyBabies** come together in a set of [collaborative projects]({{site.baseurl}}/projects/). They are organized into <i>empirical and methodological main projects</i>, <i>spin-off projects</i>, and <i>secondary analyses</i>.
 
-### Empirical Projects
+## Empirical Projects
 
 <section>
   <div class="container">
@@ -172,15 +172,15 @@ The broader goals of **ManyBabies** come together in a set of [collaborative pro
 
 ***
 
-## Publications
+# Publications
 Check out **ManyBabies** [reports and conference presentations]({{site.baseurl}}/publications/).
 
 ***
 
-## Get involved
+# Get involved
 We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **not** a prerequisite.
 
 ***
 
-## Updates
+# Updates
 If you are a **ManyBabies** collaborator, don't forget to keep an updated record of your MB-related activities and initiatives (e.g., workshops, talks etc.). In this [spreadsheet](https://docs.google.com/spreadsheets/d/1esnJTsPB0NJ2PP0fwmWIhSxShKLIN99Ga8ehCDyz3rQ/edit?usp=sharing) you can check a more complete list of **MB** activities and initiatives. To add new activities and initiatives, please complete [this form](https://forms.gle/qaynWvpYLP1J4eYd6).
