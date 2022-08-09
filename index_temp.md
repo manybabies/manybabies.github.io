@@ -49,7 +49,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
       </div>
       <div class="col-sm-9">
         <a href="{{site.baseurl}}{% link MB1.md %}" class="image" target="_blank"><h3>MB1: Infant-Directed Speech Preference</h3></a>
-        Do infants prefer infant-directed speech? Do age, method, and native language background matter?
+        <i>Do infants prefer infant-directed speech? Do age, method, and native language background matter?</i>
       </div>
     </div>
     <div class="col-sm-12">
@@ -57,12 +57,11 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="https://psysciacc.org/006-trolley-problem/" target="_blank"><img src="/assets/img/trolley.png" alt="trolley" width="150" height="150"></a>
+        <a href="{{site.baseurl}}{% link MB2.md %}" class="image" target="_blank"><img src="/assets/img/MB2_logo.png" alt="MB2 logo" width="150" height="150"></a>
       </div>
       <div class="col-sm-9">
-        <h3>Situational Factors Shape Moral Judgements in the Trolley Dilemma in a Culturally Diverse Sample</h3>
-        <h4><a href="https://www.iast.fr/people/bence-bago" target="_blank">Bence Bagó</a></h4>
-        <i>Institute for Advanced Study in Toulouse, France</i>
+        <a href="{{site.baseurl}}{% link MB2.md %}" class="image" target="_blank"><h3>MB2: Theory of Mind</h3></a>
+        <i>Do infants show anticipatory looking that reflects the false belief of another agent?</i>
       </div>
     </div>
     <div class="col-sm-12">
