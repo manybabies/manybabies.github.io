@@ -134,8 +134,8 @@ The broader goals of **ManyBabies** come together in a set of [collaborative pro
         <a href="{{site.baseurl}}{% link MB-demographics.md %}" class="image" target="_blank"><img src="/assets/img/MBDemo_logo.png" alt="MBDemo logo" width="150" height="150"></a>
       </div>
       <div class="col-sm-9">
-        <a href="{{site.baseurl}}{% link MB-demographics.md %}" class="image" target="_blank"><h3>MB-Demographics: </h3></a>
-        <i>Unified Demographics for ManyBabies Projects</i>
+        <a href="{{site.baseurl}}{% link MB-demographics.md %}" class="image" target="_blank"><h3>MB-Demographics: Unified Demographics for ManyBabies Projects</h3></a>
+        <i>In this project we are creating unified demographic forms for ManyBabies projects, with standardized and custom constructs and questions</i>
       </div>
     </div>
     <div class="col-sm-12">
