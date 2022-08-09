@@ -49,7 +49,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
       </div>
       <div class="col-sm-9">
         <a href="{{site.baseurl}}{% link MB1.md %}" class="image" target="_blank"><h3>MB1: Infant-Directed Speech Preference</h3></a>
-        <i>Do infants prefer infant-directed speech? Do age, method, and native language background matter?</i>
+        <i>Do infants prefer infant-directed speech over adult-directed speech? Do age, method, and native language background matter?</i>
       </div>
     </div>
     <div class="col-sm-12">
@@ -69,16 +69,11 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <img src="/assets/img/tools.png" alt="tools" width="150" height="150">
+        <a href="{{site.baseurl}}{% link MB3.md %}" class="image" target="_blank"><img src="/assets/img/MB3_logo.png" alt="MB3 logo" width="150" height="150"></a>
       </div>
       <div class="col-sm-9">
-        <h3>Panel: Big Team Science Infrastructure</h3>
-        <h4><a href="https://www.aggieerin.com/page/about/" target="_blank">Erin Buchanan</a>: creator of Canvas for BTS</h4>
-        <i>Harrisburg University of Science and Technology, USA</i>
-        <h4><a href="https://www.sydney.edu.au/science/about/our-people/academic-staff/alex-holcombe.html" target="_blank">Alex O. Holcombe</a>: co-creator of <i><a href="https://rollercoaster.shinyapps.io/tenzing/" target="_blank">tenzing</a></i></h4>
-        <i>University of Sydney, Australia</i>
-        <h4><a href="http://www.melissaklinestruhl.com" target="_blank">Melissa Kline Struhl</a>: Executive Director of <a href="https://lookit.mit.edu" target="_blank">Lookit</a></h4>
-        <i>Massachusetts Institute of Technology, USA</i>
+        <a href="{{site.baseurl}}{% link MB3.md %}" class="image" target="_blank"><h3>MB3: Rule Learning</h3></a>
+        <i>Do infants learn and generalize identity-based rules from speech stimuli?</i>
       </div>
     </div>
   </div>
