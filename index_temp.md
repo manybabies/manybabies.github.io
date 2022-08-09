@@ -31,11 +31,12 @@ Notes
 Learn more [about]({{site.baseurl}}/about/) **MB's** origin, goals, people, and [stay up to date]({{site.baseurl}}/news/). Also, for a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
 
 ***
+## Projects
 
-<!--
-html to create a grid and add Projects info
-images with link MUST use the class = "image" (.css from ManyPrimates)
--->
+The broader goals of **ManyBabies** come together in a set of [collaborative projects]({{site.baseurl}}/projects/). They are organized into <i>empirical and methodological main projects</i>, <i>spin-off projects</i>, and <i>secondary analyses</i>.
+
+### Empirical Projects
+
 <section>
   <div class="container">
     <div class="row">
@@ -74,6 +75,15 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
       <div class="col-sm-9">
         <a href="{{site.baseurl}}{% link MB3.md %}" class="image" target="_blank"><h3>MB3: Rule Learning</h3></a>
         <i>Do infants learn and generalize identity-based rules from speech stimuli?</i>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <a href="{{site.baseurl}}{% link MB4.md %}" class="image" target="_blank"><img src="/assets/img/MB4_logo.png" alt="MB4 logo" width="150" height="150"></a>
+      </div>
+      <div class="col-sm-9">
+        <a href="{{site.baseurl}}{% link MB4.md %}" class="image" target="_blank"><h3>MB4: Social Evaluation</h3></a>
+        <i>Do infants prefer agents who are seen to help over those who are seen to hinder?</i>
       </div>
     </div>
   </div>
