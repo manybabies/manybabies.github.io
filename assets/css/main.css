@@ -113,6 +113,7 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.1;
 }
 h1 {
+  text-shadow: 1px 1px 3px #036C9A;
   font-size: 2.25rem;
   color: #F5F5F5;
 }
