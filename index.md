@@ -58,12 +58,22 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
       </div>
     </div>
     <div class="row">
+      <div class="col-sm-12>
+        <p>   </p>
+      </div>
+    </div>
+    <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <a href="{{site.baseurl}}{% link MB2.md %}" class="image"><img src="/assets/img/MB2_logo.png" alt="MB2 logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB2.md %}">MB2: Theory of Mind in Infancy</a></h4>
         Do infants show anticipatory looking that reflects the false belief of another agent?
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12>
+        <p>   </p>
       </div>
     </div>
     <div class="row">
@@ -76,12 +86,22 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
       </div>
     </div>
     <div class="row">
+      <div class="col-sm-12>
+        <p>   </p>
+      </div>
+    </div>
+    <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <a href="{{site.baseurl}}{% link MB4.md %}" class="image"><img src="/assets/img/MB4_logo.png" alt="MB4 logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB4.md %}">MB4: Social Evaluation</a></h4>
         Do infants prefer agents who are seen to help over those who are seen to hinder?
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12>
+        <p>   </p>
       </div>
     </div>
     <div class="row">
@@ -94,12 +114,22 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
       </div>
     </div>
     <div class="row">
+      <div class="col-sm-12>
+        <p>   </p>
+      </div>
+    </div>
+    <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <a href="{{site.baseurl}}{% link MB6.md %}" class="image"><img src="/assets/img/MB6_logo.png" alt="MB6 logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB6.md %}">MB6: Neonatal Imitation</a></h4>
         What is the nature of neonatal infants' imitation of facial gestures?
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12>
+        <p>   </p>
       </div>
     </div>
 	</div>
@@ -119,6 +149,11 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
       </div>
     </div>
     <div class="row">
+      <div class="col-sm-12>
+        <p>   </p>
+      </div>
+    </div>
+    <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <a href="{{site.baseurl}}{% link MB-demographics.md %}" class="image"><img src="/assets/img/MBDemo_logo.png" alt="MB-Demographics logo" width="100" height="100"></a>
       </div>
@@ -128,12 +163,22 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
       </div>
     </div>
     <div class="row">
+    <div class="row">
+      <div class="col-sm-12>
+        <p>   </p>
+      </div>
+    </div>
       <div class="col-sm-3 col-xs-6" align="center">
         <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}" class="image"><img src="/assets/img/MBMW_logo.png" alt="MB-ManyWebcams logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}">MB-ManyWebcams: Web-based Eye Tracking for Infant Studies</a></h4>
         Automatic gaze detection via webcam.
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12>
+        <p>   </p>
       </div>
     </div>
 	</div>
