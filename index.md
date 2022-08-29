@@ -50,7 +50,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
   <div class="container">
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB1.md %}" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo" width="150" height="150"></a>
+        <a href="{{site.baseurl}}{% link MB1.md %}" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB1.md %}">MB1: Infant-Directed Speech Preference</a></h4>
@@ -59,7 +59,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB2.md %}" class="image"><img src="/assets/img/MB2_logo.png" alt="MB2 logo" width="150" height="150"></a>
+        <a href="{{site.baseurl}}{% link MB2.md %}" class="image"><img src="/assets/img/MB2_logo.png" alt="MB2 logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB2.md %}">MB2: Theory of Mind in Infancy</a></h4>
@@ -68,7 +68,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB3.md %}" class="image"><img src="/assets/img/MB3_logo.png" alt="MB3 logo" width="150" height="150"></a>
+        <a href="{{site.baseurl}}{% link MB3.md %}" class="image"><img src="/assets/img/MB3_logo.png" alt="MB3 logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB3.md %}">MB3: Rule Learning</a></h4>
@@ -77,7 +77,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB4.md %}" class="image"><img src="/assets/img/MB4_logo.png" alt="MB4 logo" width="150" height="150"></a>
+        <a href="{{site.baseurl}}{% link MB4.md %}" class="image"><img src="/assets/img/MB4_logo.png" alt="MB4 logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB4.md %}">MB4: Social Evaluation</a></h4>
@@ -86,7 +86,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB5.md %}" class="image"><img src="/assets/img/MB5_logo.png" alt="MB5 logo" width="150" height="150"></a>
+        <a href="{{site.baseurl}}{% link MB5.md %}" class="image"><img src="/assets/img/MB5_logo.png" alt="MB5 logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB5.md %}">MB5: The Hunter & Ames Model of Infant Looking Preferences</a></h4>
@@ -95,7 +95,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB6.md %}" class="image"><img src="/assets/img/MB6_logo.png" alt="MB6 logo" width="150" height="150"></a>
+        <a href="{{site.baseurl}}{% link MB6.md %}" class="image"><img src="/assets/img/MB6_logo.png" alt="MB6 logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB6.md %}">MB6: Neonatal Imitation</a></h4>
@@ -111,7 +111,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
 	<div class="container">
 		<div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB-AtHome.md %}" class="image"><img src="/assets/img/MBAH_logo.png" alt="MBAthome logo" width="150" height="150"></a>
+        <a href="{{site.baseurl}}{% link MB-AtHome.md %}" class="image"><img src="/assets/img/MBAH_logo.png" alt="MBAthome logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB-AtHome.md %}">MB-AtHome: Online Infant Data Collection</a></h4>
@@ -120,7 +120,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB-demographics.md %}" class="image"><img src="/assets/img/MBDemo_logo.png" alt="MB-Demographics logo" width="150" height="150"></a>
+        <a href="{{site.baseurl}}{% link MB-demographics.md %}" class="image"><img src="/assets/img/MBDemo_logo.png" alt="MB-Demographics logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB-demographics.md %}">MB-Demographics: Unified Demographics for ManyBabies Projects</a></h4>
@@ -129,7 +129,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}" class="image"><img src="/assets/img/MBMW_logo.png" alt="MB-ManyWebcams logo" width="150" height="150"></a>
+        <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}" class="image"><img src="/assets/img/MBMW_logo.png" alt="MB-ManyWebcams logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}">MB-ManyWebcams: Web-based Eye Tracking for Infant Studies</a></h4>
