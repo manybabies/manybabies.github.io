@@ -151,6 +151,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
     <div class="col-sm-12">
         <p>   </p>
     </div>
+    <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}" class="image"><img src="/assets/img/MBMW_logo.png" alt="MB-ManyWebcams logo" width="100" height="100"></a>
       </div>
