@@ -159,9 +159,6 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
         Automatic gaze detection via webcam.
       </div>
     </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
 	</div>
 <br>
 	<header class="major">
