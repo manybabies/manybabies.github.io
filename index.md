@@ -57,10 +57,8 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
         Do infants prefer infant-directed speech? Do age, method, and native language background matter?
       </div>
     </div>
-    <div class="row">
-      <div class="col-sm-12>
+    <div class="col-sm-12">
         <p>   </p>
-      </div>
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
@@ -71,10 +69,8 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
         Do infants show anticipatory looking that reflects the false belief of another agent?
       </div>
     </div>
-    <div class="row">
-      <div class="col-sm-12>
+    <div class="col-sm-12">
         <p>   </p>
-      </div>
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
@@ -85,10 +81,8 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
         Do infants learn and generalize identity-based rules from speech stimuli?
       </div>
     </div>
-    <div class="row">
-      <div class="col-sm-12>
+    <div class="col-sm-12">
         <p>   </p>
-      </div>
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
@@ -99,10 +93,8 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
         Do infants prefer agents who are seen to help over those who are seen to hinder?
       </div>
     </div>
-    <div class="row">
-      <div class="col-sm-12>
+    <div class="col-sm-12">
         <p>   </p>
-      </div>
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
@@ -113,10 +105,8 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
         What factors shape infants’ preferences for familiar and novel stimuli?
       </div>
     </div>
-    <div class="row">
-      <div class="col-sm-12>
+    <div class="col-sm-12">
         <p>   </p>
-      </div>
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
@@ -127,10 +117,8 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
         What is the nature of neonatal infants' imitation of facial gestures?
       </div>
     </div>
-    <div class="row">
-      <div class="col-sm-12>
+    <div class="col-sm-12">
         <p>   </p>
-      </div>
     </div>
 	</div>
 <br>
@@ -148,10 +136,8 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
         Solutions for testing infants in their home, with a focus on measuring looks.
       </div>
     </div>
-    <div class="row">
-      <div class="col-sm-12>
+    <div class="col-sm-12">
         <p>   </p>
-      </div>
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
@@ -162,11 +148,8 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
         Creating unified demographic forms for ManyBabies projects, with standardized and custom questions.
       </div>
     </div>
-    <div class="row">
-    <div class="row">
-      <div class="col-sm-12>
+    <div class="col-sm-12">
         <p>   </p>
-      </div>
     </div>
       <div class="col-sm-3 col-xs-6" align="center">
         <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}" class="image"><img src="/assets/img/MBMW_logo.png" alt="MB-ManyWebcams logo" width="100" height="100"></a>
@@ -176,10 +159,8 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
         Automatic gaze detection via webcam.
       </div>
     </div>
-    <div class="row">
-      <div class="col-sm-12>
+    <div class="col-sm-12">
         <p>   </p>
-      </div>
     </div>
 	</div>
 <br>
