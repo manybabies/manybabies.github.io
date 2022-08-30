@@ -204,7 +204,7 @@ Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as 
   	  </div>
   	  <div class="col-sm-9">
   	    <h4>Grace Zhou <a href="mailto:grace.zhou@umanitoba.ca">[email]</a></h4>
-          <i>niversity of Manitoba (Winnipeg, Canada)</i>   [2021 - ]
+          <i>University of Manitoba (Winnipeg, Canada)</i>   [2021 - ]
       </div>
     </div>
     <div class="col-sm-12">
@@ -214,6 +214,7 @@ Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as 
 </section>
 
 
+<!--
 ### Executive Director   
 
 * [**Heidi Baumgartner**](https://www-csli.stanford.edu/people/baumgartner-heidi) [[email]](mailto:manybabiesconsortium@gmail.com), *Stanford University (Palo Alto, United States)* [2021 - ] 
@@ -242,6 +243,7 @@ Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as 
 ***
 ### Office Assistant   
 * **Grace Zhou** [[email]](mailto:grace.zhou@umanitoba.ca), *University of Manitoba (Winnipeg, Canada)* [2021 - ] 
+-->
 
 
 
