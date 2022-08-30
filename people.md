@@ -169,6 +169,9 @@ Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as 
   <div class="container">
 		<div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
+  	    <img src="/assets/img/MaryBethNeff.png" alt="Mary Beth Neff" width="100" height="100">
+  	  </div>
+  	  <div class="col-sm-9">
   	    <h4>Mary Beth Neff <a href="mailto:marybethneff@gmail.com">[email]</a></h4>
           <i>University of Oslo (Oslo, Norway)</i>  [July 2022 - June 2023]
       </div>
@@ -178,6 +181,9 @@ Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as 
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
+        <img src="/assets/img/FrancisYuen.png" alt="Francis Yuen" width="100" height="100">
+  	  </div>
+  	  <div class="col-sm-9">
   	    <h4>Francis Yuen <a href="mailto:francis.yuen@psych.ubc.ca">[email]</a></h4>
           <i>University of British Columbia (Vacouver, Canada)</i>  [July 2022 - June 2023]
       </div>
@@ -194,6 +200,9 @@ Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as 
   <div class="container">
 		<div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
+        <img src="/assets/img/GraceZhou.png" alt="Grace Zhou" width="100" height="100">
+  	  </div>
+  	  <div class="col-sm-9">
   	    <h4>Grace Zhou <a href="mailto:grace.zhou@umanitoba.ca">[email]</a></h4>
           <i>niversity of Manitoba (Winnipeg, Canada)</i>   [2021 - ]
       </div>
