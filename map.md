@@ -18,11 +18,10 @@ If you are a project leader and want to add multiple collaborators at once, plea
 
 All responses are **moderated** before being added to the dashboard. This may take some time, we appreciate your patience.
 
-<a href="{{site.baseurl}}{% link map.md %}" class="image">
-    <video muted autoplay="autoplay" loop="loop" width="768" height="512">
-      <source src="/assets/img/dashboard_overview.mp4" type="video/mp4">  
-    </video>
-</a>
+
+<video muted autoplay="autoplay" loop="loop" width="768" height="512">
+  <source src="/assets/img/dashboard_overview.mp4" type="video/mp4">  
+</video>
 
 ***
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8_SKJ0TD0MdRTNsf_f84olEc4MAxSFkA1BtAxDjX-OdlWuw/viewform?embedded=true" width="640" height="2089" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
