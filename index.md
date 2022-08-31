@@ -55,7 +55,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB1.md %}">MB1: Infant-Directed Speech Preference</a></h4>
         Do infants prefer infant-directed speech? Do age, method, and native language background matter?
-        <h5>MB1 Spin-offs: <a href="MB1A]({{site.baseurl}}/MB1A/)MB1A</a>, <a href="MB1A]({{site.baseurl}}/MB1B/)MB1B</a>, <a href="MB1A]({{site.baseurl}}/MB1G/)MB1G</a>, <a href="MB1A]({{site.baseurl}}/MB1L/)MB1L</a>, <a href="MB1A]({{site.baseurl}}/MB1N/)MB1N</a>, <a href="MB1A]({{site.baseurl}}/MB1T/)MB1T</a></h5>
+        <h5>MB1 Spin-offs: <a href="{{site.baseurl}}{% link MB1A.md %}">MB1A</a>, <a href="{{site.baseurl}}{% link MB1B.md %}">MB1B</a>, <a href="{{site.baseurl}}{% link MB1G.md %}">MB1G</a>, <a href="{{site.baseurl}}{% link MB1L.md %}">MB1L</a>, <a href="{{site.baseurl}}{% link MB1N.md %}">MB1N</a>, <a href="{{site.baseurl}}{% link MB1T.md %}">MB1T</a></h5>
       </div>
     </div>
     <div class="col-sm-12">
