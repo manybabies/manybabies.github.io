@@ -55,6 +55,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB1.md %}">MB1: Infant-Directed Speech Preference</a></h4>
         Do infants prefer infant-directed speech? Do age, method, and native language background matter?
+        <h5>MB1 Spin-offs: <a href="{{site.baseurl}}{% link MB1A.md %}">MB1A</a>, <a href="{{site.baseurl}}{% link MB1B.md %}">MB1B</a>, <a href="{{site.baseurl}}{% link MB1G.md %}">MB1G</a>, <a href="{{site.baseurl}}{% link MB1L.md %}">MB1L</a>, <a href="{{site.baseurl}}{% link MB1N.md %}">MB1N</a>, <a href="{{site.baseurl}}{% link MB1T.md %}">MB1T</a></h5>
       </div>
     </div>
     <div class="col-sm-12">
@@ -67,6 +68,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB2.md %}">MB2: Theory of Mind in Infancy</a></h4>
         Do infants show anticipatory looking that reflects the false belief of another agent?
+        <h5>MB2 Spin-off: MB2P (link to come)</h5>
       </div>
     </div>
     <div class="col-sm-12">
@@ -79,6 +81,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB3.md %}">MB3: Rule Learning</a></h4>
         Do infants learn and generalize identity-based rules from speech stimuli?
+        <h5>MB3 Spin-off: <a href="{{site.baseurl}}{% link MB3N.md %}">MB3-NIRS</a></h5>
       </div>
     </div>
     <div class="col-sm-12">
@@ -91,6 +94,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB4.md %}">MB4: Social Evaluation</a></h4>
         Do infants prefer agents who are seen to help over those who are seen to hinder?
+        <h5>MB4 Spin-offs: MB4E (link to come), MB4I (link to come)</h5>
       </div>
     </div>
     <div class="col-sm-12">
