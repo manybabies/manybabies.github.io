@@ -9,23 +9,21 @@ To do:
 - update funding information? MB2 Grant?
 --->
 
-### Collaborators   
-**ManyBabies** is all about our amazing team of collaborators from around the world. For a detailed index of collaborators (& institutions, countries, studies), visit the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/). 
+### Contributors   
+**ManyBabies** is all about our amazing team of contributors from around the world. For a detailed index of contributors (& institutions, countries, studies), visit the [**MB** contributor dashboard](https://manybabies.shinyapps.io/shiny_mb_map/). 
 
 To be added to the **MB** dashboard, please fill out the form on [this page]({{site.baseurl}}/map/).
 
 If you are already on the dashboard and wish to update any information (e.g., change of affiliation or name, add a new study), you can either [fill out the form]({{site.baseurl}}/map/) again or [email us](mailto:manybabiesconsortium@gmail.com) with your updated information.
-<a href="{{site.baseurl}}{% link map.md %}" class="image">
-    <video muted autoplay="autoplay" loop="loop" width="768" height="512">
-      <source src="/assets/img/dashboard_overview.mp4" type="video/mp4">  
-    </video>
-</a>
+
+<br>
 
 ***
 ### Project Leads
 
 Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as well as [here]({{site.baseurl}}/get_involved/).
 
+<br>
 
 ***
 <section>
