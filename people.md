@@ -181,6 +181,7 @@ Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as 
     <div class="col-sm-12">
         <p>   </p>
     </div>
+  </div>
 <br>
 	<header class="major">
 			<h3>Student Advisors</h3>
@@ -194,6 +195,7 @@ Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as 
   	  <div class="col-sm-9">
   	    <h4>Mary Beth Neff [July 2022 - June 2023]</h4>
         <i>University of Oslo (Oslo, Norway)</i>  
+        <br>
         <a href="mailto:marybethneff@gmail.com">[email]</a>
       </div>
     </div>
@@ -206,7 +208,8 @@ Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as 
   	  </div>
   	  <div class="col-sm-9">
   	    <h4>Francis Yuen [July 2022 - June 2023]</h4>
-        <i>University of British Columbia (Vacouver, Canada)</i>  
+        <i>University of British Columbia (Vacouver, Canada)</i>
+        <br>
         <a href="mailto:francis.yuen@psych.ubc.ca">[email]</a>
       </div>
     </div>
@@ -226,8 +229,10 @@ Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as 
   	  </div>
   	  <div class="col-sm-9">
   	    <h4>Grace Zhou [2021 - ]</h4>
-        <i>University of Manitoba (Winnipeg, Canada)</i>   
+        <i>University of Manitoba (Winnipeg, Canada)</i>  
+        <br>
         <a href="mailto:grace.zhou@umanitoba.ca">[email]</a>
+      </div>
     </div>
     <div class="col-sm-12">
         <p>   </p>
