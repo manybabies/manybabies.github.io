@@ -40,9 +40,9 @@ Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as 
       </div>
       <div class="col-sm-9">
         <h4><a href="https://www-csli.stanford.edu/people/baumgartner-heidi">Heidi Baumgartner</a> [2021 - ]</h4> 
-        <a href="mailto:heidib@stanford.edu">[email]</a>
-        <br>
         <i>Stanford University (Palo Alto, United States)</i>
+        <br>
+        <a href="mailto:heidib@stanford.edu">[email]</a>
       </div>
     </div>
     <div class="col-sm-12">
