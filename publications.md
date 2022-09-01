@@ -12,17 +12,14 @@ To fix:
 - open external links in new tab? possible work around with kramdown
 --->
 
-.hangingindent {
-  padding-left: 22px ;
-  text-indent: -22px ;
-}
+
 
 
 ## Reports
 
 ### Stage 1 Registered Reports: In Principle Acceptance (pending data collection)
       
-<p class="hangingindent"> <b>[MB3]</b> Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 RR In Principle Acceptance). <b>ManyBabies 3: A multi-lab study of infant algebraic rule learning</b>. _Developmental Science_. <a href="https://psyarxiv.com/aex7v/">PsyArXiv Preprint</a>
+<p style="padding-left: 22px" style="text-indent: -22px"> <b>[MB3]</b> Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 RR In Principle Acceptance). <b>ManyBabies 3: A multi-lab study of infant algebraic rule learning</b>. _Developmental Science_. <a href="https://psyarxiv.com/aex7v/">PsyArXiv Preprint</a>
 
 [**MB4**] Lucca, K., Capelier-Mourguy, A., Cirelli, L., Byers-Heinlein, K., Dal Ben, R., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., Wang, Y., Yuen, F., & Hamlin, J. K. (Stage 1 RR In Principle Acceptance). **Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study**. _Developmental Science_. [[PsyArXiv Preprint]](https://psyarxiv.com/qhxkm)
 
