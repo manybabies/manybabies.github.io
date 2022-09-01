@@ -14,7 +14,7 @@ To fix:
 
 
 ## Publications & Manuscripts
-<br>
+
 
 ### Stage 1 Registered Reports: In Principle Acceptance
       
@@ -82,7 +82,7 @@ Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J.
 <br>
 
 ***
-### Conference Presentations
+## Conference Presentations
 
 ### 2022
 * [Posters](https://osf.io/c4m3e/) presented as part of the ManyBabies Poster Symposium at the 2022 International Congress for Infant Studies (ICIS)
