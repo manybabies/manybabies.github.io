@@ -12,7 +12,24 @@ To fix:
 - open external links in new tab? possible work around with kramdown
 --->
 
-
+<head>
+  <meta charset="UTF-8">
+  <title>Hanging paragraph CSS style, for APA-style references</title>
+  <meta name="description" content="A quick template that will allow anyone to copy and apply the CSS needed to hang references in their web publications using correct APA style syntax.">
+  <meta name="author" content="Robert Valencia">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="apa-reference-styles.css">
+  <style type="text/css" media="all">
+    /*  
+    Generic styling for sample, this should not be copied to your design/template.
+    */
+    #main{width: 42em;font: 1em/1.4 "Cambria",Georgia, sans-serif;}
+    h2{font-size: 1.5em;font-weight: bold;margin: .83em 0;}
+    .ref-apa h2 span, .ref-apa dt span {font-size: .76em;font-weight: normal;opacity:.3;}
+  </style>
+</head>
+<body>
 
 
 ## Reports
@@ -67,6 +84,7 @@ Kline, M. (2018, June 8). [The effect of ‘Lab Factors’ on fussout rates/late
 
 Schreiner, M. S., Lippold, M., Soderstrom, M., Shukla, M., Bergmann, C., Frank, M. C., Hamlin, J. K., Gonzalez-Gomez, N. (2018, January 24). [Assessing test-retest reliability of the infant preference measures](https://osf.io/v5f8t).
 
+
 ***
 
 <!-- add data from registrations - future -->
@@ -86,3 +104,6 @@ Schreiner, M. S., Lippold, M., Soderstrom, M., Shukla, M., Bergmann, C., Frank, 
 ### 2018
 
 * [Slides & notes](https://osf.io/5kb3w/) for talks at The International Congress of Infant Studies (ICIS).
+
+
+</body>
