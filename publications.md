@@ -14,6 +14,7 @@ To fix:
 
 
 ## Publications & Manuscripts
+<br>
 
 ### Stage 1 Registered Reports: In Principle Acceptance
       
@@ -74,14 +75,14 @@ Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J.
 ***
 ### Registrations
 
-<p style="padding-left: 25px; text-indent: -25px">Kline, M. (2018, June 8). <b>The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes</b>. <a href="https://osf.io/puxbg/">[OSF Preregistration]</a>. <a href="{{site.baseurl}}{% link MB1SA.md %}">[MB1SA]</a> 
+<p style="padding-left: 25px; text-indent: -25px">Kline, M. (2018, June 8). <b>The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes</b>. <a href="https://osf.io/puxbg/">[OSF Preregistration]</a> <a href="{{site.baseurl}}{% link MB1SA.md %}">[MB1SA]</a></p> 
 
-<p style="padding-left: 25px; text-indent: -25px">Schreiner, M. S., Lippold, M., Soderstrom, M., Shukla, M., Bergmann, C., Frank, M. C., Hamlin, J. K., Gonzalez-Gomez, N. (2018, January 24). <b>Assessing test-retest reliability of the infant preference measures</b>. <a href="https://osf.io/v5f8t">[OSF Preregistration]</a>. <a href="{{site.baseurl}}{% link MB1T.md %}">[MB1T]</a>
+<p style="padding-left: 25px; text-indent: -25px">Schreiner, M. S., Lippold, M., Soderstrom, M., Shukla, M., Bergmann, C., Frank, M. C., Hamlin, J. K., Gonzalez-Gomez, N. (2018, January 24). <b>Assessing test-retest reliability of the infant preference measures</b>. <a href="https://osf.io/v5f8t">[OSF Preregistration]</a> <a href="{{site.baseurl}}{% link MB1T.md %}">[MB1T]</a></p>
 
 <br>
 
 ***
-## Conference Presentations
+### Conference Presentations
 
 ### 2022
 * [Posters](https://osf.io/c4m3e/) presented as part of the ManyBabies Poster Symposium at the 2022 International Congress for Infant Studies (ICIS)
