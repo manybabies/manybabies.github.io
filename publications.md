@@ -17,13 +17,29 @@ To fix:
 ### Stage 1 Registered Reports: In Principle Acceptance (pending data collection)
 
 <div class="ref-apa">
-  <h2>References <span>div style</span></h2>
   <p>Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 RR In Principle Acceptance). ManyBabies 3: A multi-lab study of infant algebraic rule learning. <em>Developmental Science</em>. doi:10.31234/osf.io/aex7v</p>
-  <p>Angeli, E., Wagner, J., Lawrick, E., Moore, K., Anderson, M., Soderlund, L., & Brizee, A. (2010, May 5). <em>General format.</em> Retrieved from http://owl.english.purdue.edu/owl/resource/560/01/</p>
-  <p>Wegener, D. T., Kerr, N. L., Fleming, M. A., & Petty, R. E. (2000). Flexible corrections of juror judgments: Implications for jury instructions. <em>Psychology, Public Policy, & Law, 6</em>, 629-654.</p>
-  <p>Wegener, D. T., & Petty, R. E. (1994). Mood management across affective states: The hedonic contingency hypothesis. <em>Journal of Personality & Social Psychology, 66</em>, 1034-1048.</p>
 </div><!-- .ref-apa -->
       
+<ul class="ref-apa">
+  <li>Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 RR In Principle Acceptance). ManyBabies 3: A multi-lab study of infant algebraic rule learning. <em>Developmental Science</em>. doi:10.31234/osf.io/aex7v</li>
+  <li>Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 RR In Principle Acceptance). ManyBabies 3: A multi-lab study of infant algebraic rule learning. <em>Developmental Science</em>. doi:10.31234/osf.io/aex7v</li>
+</ul>
+
+
+<ol class="ref-apa">
+  <li>Herbst-Damn, K. L., & Kulik, J. A. (2005). Volunteer support, marital status, and the survival times of terminally ill patients. <em>Health Psychology, 24</em>(1), 225-229. doi:10.1037/0278-6133.24.2.225</li>
+  <li>Angeli, E., Wagner, J., Lawrick, E., Moore, K., Anderson, M., Soderlund, L., & Brizee, A. (2010, May 5). <em>General format.</em> Retrieved from http://owl.english.purdue.edu/owl/resource/560/01/</li>
+  <li>Wegener, D. T., & Petty, R. E. (1994). Mood management across affective states: The hedonic contingency hypothesis. <em>Journal of Personality & Social Psychology, 66</em>, 1034-1048.</li>
+  <li>Wegener, D. T., Kerr, N. L., Fleming, M. A., & Petty, R. E. (2000). Flexible corrections of juror judgments: Implications for jury instructions. <em>Psychology, Public Policy, & Law, 6</em>, 629-654.</li>
+</ol>
+
+<dl class="ref-apa">
+  <dt>References <span>definition list style</span></dt>
+  <dd>Herbst-Damn, K. L., & Kulik, J. A. (2005). Volunteer support, marital status, and the survival times of terminally ill patients. <em>Health Psychology, 24</em>(1), 225-229. doi:10.1037/0278-6133.24.2.225</dd>
+  <dd>Angeli, E., Wagner, J., Lawrick, E., Moore, K., Anderson, M., Soderlund, L., & Brizee, A. (2010, May 5). <em>General format.</em> Retrieved from http://owl.english.purdue.edu/owl/resource/560/01/</dd>
+  <dd>Wegener, D. T., & Petty, R. E. (1994). Mood management across affective states: The hedonic contingency hypothesis. <em>Journal of Personality & Social Psychology, 66</em>, 1034-1048.</dd>
+  <dd>Wegener, D. T., Kerr, N. L., Fleming, M. A., & Petty, R. E. (2000). Flexible corrections of juror judgments: Implications for jury instructions. <em>Psychology, Public Policy, & Law, 6</em>, 629-654.</dd>
+</dl>
       
 [**MB3**] Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 RR In Principle Acceptance). **ManyBabies 3: A multi-lab study of infant algebraic rule learning**. _Developmental Science_. [[PsyArXiv Preprint]](https://psyarxiv.com/aex7v/)
 
