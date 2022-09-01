@@ -81,8 +81,8 @@ Please **fill in the form at the bottom of this page** to indicate your interest
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB2.md %}">MB2: Theory of Mind in Infancy</a></h3>
         <p style="padding-left: 25px"><b>Project Status:</b> <i>Stage 1 Registered Report 'In Principle Acceptance'; preparing for data collection</i> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies2">[subscribe to listserv]</a></p> 
-        <p style="padding-left: 25px"><b>Project Leads:</b> <a href="mailto:dk@psy.ku.dk">Dora Kampis</a>, <a href="mailto:mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, 
-          <a href="mailto:mailto:hrakocz@uni-goettingen.de">Hannes Rakoczy</a>, <a href="mailto:mcfrank@stanford.edu">Michael Frank</a></p>
+        <p style="padding-left: 25px"><b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:dk@psy.ku.dk">Dora Kampis</a>, 
+          <a href="mailto:hrakocz@uni-goettingen.de">Hannes Rakoczy</a>, <a href="mailto:mcfrank@stanford.edu">Michael Frank</a></p>
         <h3><a href="{{site.baseurl}}{% link MB2.md %}">MB2P: Pupillometry</a></h3>
         <p style="padding-left: 25px"><b>Project Status:</b> <i>Preparing analysis pipeline; preparing for data collection</i></p> 
         <p style="padding-left: 25px"><b>Project Lead:</b> <a href="mailto:robert.hepach@psy.ox.ac.uk">Robert Hepach</a></p>
@@ -96,10 +96,13 @@ Please **fill in the form at the bottom of this page** to indicate your interest
         <a href="{{site.baseurl}}{% link MB3.md %}" class="image"><img src="/assets/img/MB3_logo.png" alt="MB3 logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
-        <h4><a href="{{site.baseurl}}{% link MB3.md %}">MB3: Rule Learning</a></h4>
-        Do infants learn and generalize identity-based rules from speech stimuli?
-        <br>
-        <i>Spin-off: <a href="{{site.baseurl}}{% link MB3N.md %}">MB3-NIRS</a></i>
+        <h3><a href="{{site.baseurl}}{% link MB3.md %}">MB3: Rule Learning</a></h3>
+        <p style="padding-left: 25px"><b>Project Status:</b> <i>Stage 1 Registered Report 'In Principle Acceptance'; preparing for data collection</i> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3">[subscribe to listserv]</a></p> 
+        <p style="padding-left: 25px"><b>Project Leads:</b> <a href="mailto:i.visser@uva.nl">Ingmar Visser</a>, <a href="mailto:a.geambasu@hum.leidenuniv.nl">Andreea Geambasu</a>, 
+          <a href="mailto:c.c.levelt@hum.leidenuniv.nl">Claartje Levelt</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a></p>
+        <h3><a href="{{site.baseurl}}{% link MB3N.md %}">MB3N: Rule Learningusing NIRS</a></h3>
+        <p style="padding-left: 25px"><b>Project Status:</b> <i>Developing analysis pipeline</i> <a href="https://groups.google.com/g/mb3nirs">[subscribe to listserv]</a></p> 
+        <p style="padding-left: 25px"><b>Project Lead:</b> <a href="mailto:judit.gervain@parisdescartes.fr">Judit Gervain</a></p>
       </div>
     </div>
     <div class="col-sm-12">
