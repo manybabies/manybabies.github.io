@@ -71,24 +71,14 @@ Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J.
 
 ***
 ### Registrations
-<!---
-Missing:
-MB4 - https://osf.io/xe2pj/
-MB5 - ?
-MB-AH - ?
 
-In progress:
-MB2 - https://osf.io/ezv4m
-MB3 - https://osf.io/98gkj/
+<p style="padding-left: 25px; text-indent: -25px">Kline, M. (2018, June 8). <b>The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes</b>. <a href="https://osf.io/puxbg/">Registration</a>. 
 
-Registration under embargo on OSF - Should be included?
-ManyBabies1 Languages Follow-up Study
-Soderstrom, M., Junge, C., Kartushina, N., Soley, G., Mayor, J., Durier, V., Barbu, S., Oceláková, Z., Chladkova, K., Smolík, F. (2019, December 19). [Preference for Infant-Directed Speech Across Languages in North American 6-9-month-old infants](https://osf.io/gwdc9/)
---->
+<p style="padding-left: 25px; text-indent: -25px">Schreiner, M. S., Lippold, M., Soderstrom, M., Shukla, M., Bergmann, C., Frank, M. C., Hamlin, J. K., Gonzalez-Gomez, N. (2018, January 24). <b>Assessing test-retest reliability of the infant preference measures</b>. <a href="https://osf.io/v5f8t">Registration</a>. 
 
-Kline, M. (2018, June 8). [The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes](https://osf.io/puxbg/).
+<!--Kline, M. (2018, June 8). [The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes](https://osf.io/puxbg/).
 
-Schreiner, M. S., Lippold, M., Soderstrom, M., Shukla, M., Bergmann, C., Frank, M. C., Hamlin, J. K., Gonzalez-Gomez, N. (2018, January 24). [Assessing test-retest reliability of the infant preference measures](https://osf.io/v5f8t).
+Schreiner, M. S., Lippold, M., Soderstrom, M., Shukla, M., Bergmann, C., Frank, M. C., Hamlin, J. K., Gonzalez-Gomez, N. (2018, January 24). [Assessing test-retest reliability of the infant preference measures](https://osf.io/v5f8t). -->
 
 
 ***
