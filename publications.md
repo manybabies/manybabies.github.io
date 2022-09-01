@@ -40,7 +40,7 @@ To fix:
 **[MB1L]** Soderstrom, M., Werker, J. F., Tsui, A. S. M., Skarabela, B., Seidl, A., Searle, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Noble, C., Nave, K., Mayor, J., Martin, A., Lew-Williams, C., Ko, E., Kartushina, N., Kammermeier, M., Jessop, A., Hay, J. F., Hannon, E. E., Hamlin, J. K., Gonzalez-Gomez, N., Gonzalez-Barrero, A. M., Gampe, A., Fritzsche, T., Frank, M. C., Floccia, C., Durrant, S., Delle Luche, C., Davies, C., Cashon, C., Byers-Heinlein, K., Black, A. K., Bergmann, C., & Anderson, L. (Stage 1 RR In Principle Acceptance). **Testing the Relationship Between Preferences for Infant-Directed Speech and Vocabulary Development: A Multi-Lab Study**. _Journal of Child Language_. [[Preprint]](https://docs.google.com/document/d/1CbLIEsJkQUctAW8a0VgW59hNMHGwyzSXkhWSFzlQYFE/edit?usp=sharing)-->
 
 ***
-### Published
+### Publications
 
 <p style="padding-left: 25px; text-indent: -25px">Visser, I., Bergmann, C., Byers-Heinlein, K., Dal Ben, R., Duch, W., Forbes, S., Franchin, L., Frank, M. C., Geraci, A., Hamlin, J. K., Kaldy, Z., Kulke, L., Laverty, C., Lew-Williams, C., Mateu, V., Mayor, J., Moreau, D., Nomikou, I., Schuwerk, T., Simpson, E. A., Singh, L., Soderstrom, M., Sullivan, J., van den Heuvel, M. I., Westermann, G., Yamada, Y., Zaadnoordijk, L., & Zettersten, M. (2022). <b>Improving the generalizability of infant psychological research: The ManyBabies model (Commentary)</b>. <i>Behavioral and Brain Sciences</i>. <a href="https://doi.org/10.1017/S0140525X21000455">doi:10.1017/S0140525X21000455</a>. <a href="https://psyarxiv.com/8vwbf">[PsyArXiv Preprint]</a></p>  
 
@@ -67,8 +67,9 @@ Byers-Heinlein, K., Bergmann, C., Davies, C., Frank, M. C., Hamlin, J. K., Kline
 Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., Hamlin, J. K., Hannon, E. E., Kline, M., Levelt, C., Lew-Williams, C., Nazzi, T., Panneton, R., Rabagliati, H., Soderstrom, M., Sullivan, J., Waxman, S., & Yurovsky, D. (2017). **A collaborative approach to infant research: Promoting reproducibility, best practices, and theory-building**. _Infancy_. [doi:10.1111/infa.12182](https://doi.org/10.1111/infa.12182) [[PsyArXiv Preprint]](https://osf.io/27b43/)-->
 
 ***
-### Under review
+### Under Review
 
+<br>
 ***
 ### Registrations
 
@@ -84,7 +85,7 @@ Schreiner, M. S., Lippold, M., Soderstrom, M., Shukla, M., Bergmann, C., Frank, 
 ***
 
 <!-- add data from registrations - future -->
-## Conferences
+## Conference Presentations
 
 ### 2022
 * [Posters](https://osf.io/c4m3e/) presented as part of the ManyBabies Poster Symposium at the 2022 International Congress for Infant Studies (ICIS)
