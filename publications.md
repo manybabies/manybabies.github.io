@@ -12,20 +12,6 @@ To fix:
 - open external links in new tab? possible work around with kramdown
 --->
 
-<head>
-  <meta charset="UTF-8">
-  <title>Hanging paragraph CSS style, for APA-style references</title>
-  <meta name="description" content="A quick template that will allow anyone to copy and apply the CSS needed to hang references in their web publications using correct APA style syntax.">
-  <meta name="author" content="Robert Valencia">
-  
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="apa-reference-styles.css">
-  <style type="text/css" media="all">
-    .ref-apa h2 span, .ref-apa dt span {font-size: .76em;font-weight: normal;opacity:.3;}
-  </style>
-</head>
-<body>
-
 
 ## Reports
 
@@ -100,5 +86,3 @@ Schreiner, M. S., Lippold, M., Soderstrom, M., Shukla, M., Bergmann, C., Frank, 
 
 * [Slides & notes](https://osf.io/5kb3w/) for talks at The International Congress of Infant Studies (ICIS).
 
-
-</body>
