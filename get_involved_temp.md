@@ -46,17 +46,17 @@ Please **fill in the form at the bottom of this page** to indicate your interest
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB1.md %}">MB1: Infant-Directed Speech Preference</a></h3>
-        <p><b>Project Status:</b> <i>Complete</i> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies1">[subscribe to listserv]</a></p> 
-        <p><b>Project Leads:</b> <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a></p>
+        <p style="padding-left: 25px><b>Project Status:</b> <i>Complete</i> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies1">[subscribe to listserv]</a></p> 
+        <p style="padding-left: 25px><b>Project Leads:</b> <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a></p>
         <h3><a href="{{site.baseurl}}{% link MB1A.md %}">MB1A: Infant-Directed Speech Preference in African Infants</a></h3>
-        <p><b>Project Status:</b> <i>Collecting data</i> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-africa">[subscribe to listserv]</a></p>  
-        <p><b>Project Leads:</b> <a href="mailto:abc@ucsd.edu">Alex Carstensen</a>, <a href="mailto:kachergis@stanford.edu">George Kachergis</a>, <a href="mailto:angelinetsui@gmail.com">Angeline Tsui</a>, <a href="mailto:caseylw@princeton.edu">asey Lew-Williams</a>, <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>
+        <p style="padding-left: 25px><b>Project Status:</b> <i>Collecting data</i> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-africa">[subscribe to listserv]</a></p>  
+        <p style="padding-left: 25px><b>Project Leads:</b> <a href="mailto:abc@ucsd.edu">Alex Carstensen</a>, <a href="mailto:kachergis@stanford.edu">George Kachergis</a>, <a href="mailto:angelinetsui@gmail.com">Angeline Tsui</a>, <a href="mailto:caseylw@princeton.edu">asey Lew-Williams</a>, <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>
         <h3><a href="{{site.baseurl}}{% link MB1B.md %}">MB1B: Infant-Directed Speech Preference in Bilingual Infants</a></h3>
-        <p><b>Project Status:</b> <i>Complete</i> <a href="https://groups.google.com/forum/#!forum/manybabies-bilingual">[subscribe to listserv]</a></p> 
-        <p><b>Project Lead:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a></p>
+        <p style="padding-left: 25px><b>Project Status:</b> <i>Complete</i> <a href="https://groups.google.com/forum/#!forum/manybabies-bilingual">[subscribe to listserv]</a></p> 
+        <p style="padding-left: 25px><b>Project Lead:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a></p>
         <h3><a href="{{site.baseurl}}{% link MB1G.md %}">MB1G: Gaze Following in Monolingual and Bilingual Infants</a></h3>
-        <p><b>Project Status:</b> <i>Complete</i></p> 
-        <p><b>Project Lead:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a></p>
+        <p style="padding-left: 25px><b>Project Status:</b> <i>Complete</i></p> 
+        <p style="padding-left: 25px><b>Project Lead:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a></p>
       </div>
     </div>
     <div class="col-sm-12">
