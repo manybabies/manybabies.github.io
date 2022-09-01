@@ -46,10 +46,10 @@ Please **fill in the form at the bottom of this page** to indicate your interest
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB1.md %}">MB1: Infant-Directed Speech Preference</a></h3>
+        <p><b>Project listserv:<b><a href="https://mailman.stanford.edu/mailman/listinfo/manybabies1">[subscribe]</a></p> 
         <p><b>Project Leads:</b> <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a></p>
-        <p><b><a href="https://mailman.stanford.edu/mailman/listinfo/manybabies1">[listserv]</a> Project Status:</b> Complete</p>
+        <p><b>Project Status:</b> Complete</p>
         <h3><a href="{{site.baseurl}}{% link MB1A.md %}">MB1A: Infant-Directed Speech Preference in African Infants</a></h3>
-        <p><b>Project Leads:</b> <a href="mailto:mcfrank@stanford.edu">Michael Frank</a></p>
         <p><b><a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-africa">[listserv]</a> Project Status:</b> Collecting data</p>
         <p><b>Project Leads:</b> <a href="mailto:abc@ucsd.edu">Alex Carstensen</a>, <a href="mailto:kachergis@stanford.edu">George Kachergis</a>, <a href="mailto:angelinetsui@gmail.com">Angeline Tsui</a>, <a href="mailto:caseylw@princeton.edu">asey Lew-Williams</a>, <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>
       </div>
