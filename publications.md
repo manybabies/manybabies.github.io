@@ -74,9 +74,9 @@ Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J.
 ***
 ### Registrations
 
-<p style="padding-left: 25px; text-indent: -25px">Kline, M. (2018, June 8). <b>The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes</b>. <a href="https://osf.io/puxbg/">Preregistration</a>. 
+<p style="padding-left: 25px; text-indent: -25px">Kline, M. (2018, June 8). <b>The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes</b>. <a href="https://osf.io/puxbg/">Preregistration</a>. <a href="{{site.baseurl}}{% link MB1SA.md %}">[MB1SA]</a> 
 
-<p style="padding-left: 25px; text-indent: -25px">Schreiner, M. S., Lippold, M., Soderstrom, M., Shukla, M., Bergmann, C., Frank, M. C., Hamlin, J. K., Gonzalez-Gomez, N. (2018, January 24). <b>Assessing test-retest reliability of the infant preference measures</b>. <a href="https://osf.io/v5f8t">Preregistration</a>. 
+<p style="padding-left: 25px; text-indent: -25px">Schreiner, M. S., Lippold, M., Soderstrom, M., Shukla, M., Bergmann, C., Frank, M. C., Hamlin, J. K., Gonzalez-Gomez, N. (2018, January 24). <b>Assessing test-retest reliability of the infant preference measures</b>. <a href="https://osf.io/v5f8t">Preregistration</a>. <a href="{{site.baseurl}}{% link MB1T.md %}">[MB1T]</a>
 
 <!--Kline, M. (2018, June 8). [The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes](https://osf.io/puxbg/).
 
