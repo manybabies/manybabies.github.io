@@ -82,10 +82,9 @@ Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J.
 
 Schreiner, M. S., Lippold, M., Soderstrom, M., Shukla, M., Bergmann, C., Frank, M. C., Hamlin, J. K., Gonzalez-Gomez, N. (2018, January 24). [Assessing test-retest reliability of the infant preference measures](https://osf.io/v5f8t). -->
 
+<br>
 
 ***
-
-<!-- add data from registrations - future -->
 ## Conference Presentations
 
 ### 2022
