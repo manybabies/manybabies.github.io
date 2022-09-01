@@ -21,11 +21,6 @@ To fix:
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="apa-reference-styles.css">
   <style type="text/css" media="all">
-    /*  
-    Generic styling for sample, this should not be copied to your design/template.
-    */
-    #main{width: 42em;font: 1em/1.4 "Cambria",Georgia, sans-serif;}
-    h2{font-size: 1.5em;font-weight: bold;margin: .83em 0;}
     .ref-apa h2 span, .ref-apa dt span {font-size: .76em;font-weight: normal;opacity:.3;}
   </style>
 </head>
