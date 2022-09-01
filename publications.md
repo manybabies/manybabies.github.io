@@ -17,7 +17,8 @@ To fix:
 
 ### Stage 1 Registered Reports: In Principle Acceptance (pending data collection)
       
-<p style="padding-left: 20px; text-indent: -20px"><b>[MB3]</b> Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 RR In Principle Acceptance). <b>ManyBabies 3: A multi-lab study of infant algebraic rule learning</b>. <i>Developmental Science</i>. <a href="https://psyarxiv.com/aex7v/">[PsyArXiv Preprint]</a></p>      
+**[MB3]**
+<p style="padding-left: 25px; text-indent: -25px">Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 RR In Principle Acceptance). <b>ManyBabies 3: A multi-lab study of infant algebraic rule learning</b>. <i>Developmental Science</i>. <a href="https://psyarxiv.com/aex7v/">[PsyArXiv Preprint]</a></p>      
       
 <!--**[MB3]** Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 RR In Principle Acceptance). **ManyBabies 3: A multi-lab study of infant algebraic rule learning**. _Developmental Science_. [[PsyArXiv Preprint]](https://psyarxiv.com/aex7v/)-->
 
