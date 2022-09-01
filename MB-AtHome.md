@@ -14,7 +14,7 @@ In this first ManyBabies methodological project we are developing a remote (onli
 Recruiting infants in their homes can alleviate problems of high recruitment costs, since the burden for caregivers is smaller compared to a lab visit. Researchers can therefore potentially access larger, more diverse sample sizes, repeat experimental sessions, and assess test-retest reliability. Furthermore, children can be tested in a familiar environment, and in asynchronous setups at times that they are ready to participate.
 
 ### Leads
-[Lorijn Zaadnoordijk](https://sites.google.com/view/lorijnzaadnoordijk/homepage), [Sho Tsuji](https://sites.google.com/site/tsujish), [Katie von Holzen](https://kvonholzen.github.io), [Helen Buckler](https://www.nottingham.ac.uk/english/people/helen.buckler), [Rhodri Cusack](https://www.infantcentre.ie/who-we-are-2/our-team/prof-rhodri-cusack)
+[Lorijn Zaadnoordijk](https://sites.google.com/view/lorijnzaadnoordijk/homepage), [Sho Tsuji](https://sites.google.com/site/tsujish), [Katie Von Holzen](https://kvonholzen.github.io), [Helen Buckler](https://www.nottingham.ac.uk/english/people/helen.buckler), [Rhodri Cusack](https://www.infantcentre.ie/who-we-are-2/our-team/prof-rhodri-cusack)
 
 For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
     <source src="/assets/img/dashboard_studies.mp4" type="video/mp4">  
