@@ -46,7 +46,7 @@ Please **fill in the form at the bottom of this page** to indicate your interest
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB1.md %}">MB1: Infant-Directed Speech Preference</a></h3>
-        <p><b>Project listserv:</b><a href="https://mailman.stanford.edu/mailman/listinfo/manybabies1"> [subscribe]</a>; <b>Project Status:</b> <em>Complete</em></p> 
+        <p><b>Project Status:</b> <i>Complete</i>; <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies1">[subscribe to listserv]</a></p> 
         <p><b>Project Leads:</b> <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a></p>
         <h3><a href="{{site.baseurl}}{% link MB1A.md %}">MB1A: Infant-Directed Speech Preference in African Infants</a></h3>
         <p><b>Project listserv:</b><a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-africa"> [subscribe]</a>; <b>Project Status:</b> <i>Collecting data</i></p> 
