@@ -15,6 +15,16 @@ To fix:
 ## Reports
 
 ### Stage 1 Registered Reports: In Principle Acceptance (pending data collection)
+
+<div class="ref-apa">
+  <h2>References <span>div style</span></h2>
+  <p>Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 RR In Principle Acceptance). ManyBabies 3: A multi-lab study of infant algebraic rule learning. <em>Developmental Science</em>. doi:10.31234/osf.io/aex7v</p>
+  <p>Angeli, E., Wagner, J., Lawrick, E., Moore, K., Anderson, M., Soderlund, L., & Brizee, A. (2010, May 5). <em>General format.</em> Retrieved from http://owl.english.purdue.edu/owl/resource/560/01/</p>
+  <p>Wegener, D. T., Kerr, N. L., Fleming, M. A., & Petty, R. E. (2000). Flexible corrections of juror judgments: Implications for jury instructions. <em>Psychology, Public Policy, & Law, 6</em>, 629-654.</p>
+  <p>Wegener, D. T., & Petty, R. E. (1994). Mood management across affective states: The hedonic contingency hypothesis. <em>Journal of Personality & Social Psychology, 66</em>, 1034-1048.</p>
+</div><!-- .ref-apa -->
+      
+      
 [**MB3**] Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 RR In Principle Acceptance). **ManyBabies 3: A multi-lab study of infant algebraic rule learning**. _Developmental Science_. [[PsyArXiv Preprint]](https://psyarxiv.com/aex7v/)
 
 [**MB4**] Lucca, K., Capelier-Mourguy, A., Cirelli, L., Byers-Heinlein, K., Dal Ben, R., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., Wang, Y., Yuen, F., & Hamlin, J. K. (Stage 1 RR In Principle Acceptance). **Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study**. _Developmental Science_. [[PsyArXiv Preprint]](https://psyarxiv.com/qhxkm)
