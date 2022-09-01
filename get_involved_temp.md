@@ -100,8 +100,9 @@ Please **fill in the form at the bottom of this page** to indicate your interest
         <p style="padding-left: 25px"><b>Project Status:</b> <i>Stage 1 Registered Report 'In Principle Acceptance'; preparing for data collection</i> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3">[subscribe to listserv]</a></p> 
         <p style="padding-left: 25px"><b>Project Leads:</b> <a href="mailto:i.visser@uva.nl">Ingmar Visser</a>, <a href="mailto:a.geambasu@hum.leidenuniv.nl">Andreea Geambasu</a>, 
           <a href="mailto:c.c.levelt@hum.leidenuniv.nl">Claartje Levelt</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a></p>
-        <h3><a href="{{site.baseurl}}{% link MB3N.md %}">MB3N: Rule Learningusing NIRS</a></h3>
-        <p style="padding-left: 25px"><b>Project Status:</b> <i>Developing analysis pipeline</i> <a href="https://groups.google.com/g/mb3nirs">[subscribe to listserv]</a></p> 
+        <h3><a href="{{site.baseurl}}{% link MB3N.md %}">MB3N: Rule Learning using NIRS</a></h3>
+        <p style="padding-left: 25px"><b>Project Status:</b> <i>Developing analysis pipeline, preparing Stage 1 RR manuscript</i> 
+          <a href="https://groups.google.com/g/mb3nirs">[subscribe to listserv]</a></p> 
         <p style="padding-left: 25px"><b>Project Lead:</b> <a href="mailto:judit.gervain@parisdescartes.fr">Judit Gervain</a></p>
       </div>
     </div>
