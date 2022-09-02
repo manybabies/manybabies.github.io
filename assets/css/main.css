@@ -113,9 +113,9 @@ h1,h2,h3,h4,h5,h6 {
   line-height: 1.1;
 }
 h1 {
-  text-shadow: 1px 1px 3px #F5F5F5;
+  text-shadow: 1px 1px 3px #036C9A;
   font-size: 2.25rem;
-  color: #036C9A;
+  color: #F5F5F5;
 }
 h2 {
   font-size: 1.875rem;
@@ -127,7 +127,11 @@ h3 {
 }
 h4 {
   font-size: 1.125rem;
-  color: #FB8400;
+  color: #A34A7D;
+}
+h5 {
+  font-size: 1rem;
+  color: #036C9A;
 }
 a {
   color: {{ site.link-col | default: "#008AFF" }};
