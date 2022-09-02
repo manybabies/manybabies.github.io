@@ -48,7 +48,7 @@ Please **fill in the form at the bottom of this page** to indicate your interest
         <h3><a href="{{site.baseurl}}{% link index.md %}">ManyBabies </a></h3>
         <p><a href="https://mailman.stanford.edu/mailman/listinfo/manybabies">[subscribe to the general MB listserv]</a></p> 
         <p style="padding-left: 25px"><b>Contact info:</b> <a href="mailto:manybabies-gb@mailman.stanford.edu">Governing Board</a>, 
-          <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> (more info available <a href="{{site.baseurl}}{% link people.md %}">here</a></p>
+          <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> (more info available <a href="{{site.baseurl}}{% link people.md %}">here</a>)</p>
       </div>
     </div>
     <div class="col-sm-12">
@@ -165,7 +165,7 @@ Please **fill in the form at the bottom of this page** to indicate your interest
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB6.md %}">MB6: Neonatal Imitation</a></h3>
-        <p style="padding-left: 25px"><b>Project Status:</b> <i>DForming leadership group; early planning</i> 
+        <p style="padding-left: 25px"><b>Project Status:</b> <i>Forming leadership group; early planning</i> 
           <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies6">[subscribe to listserv]</a></p> 
         <p style="padding-left: 25px"><b>Project Leads:</b> <i>TBD</i></p>
       </div>
@@ -211,11 +211,23 @@ Please **fill in the form at the bottom of this page** to indicate your interest
         <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}" class="image"><img src="/assets/img/MBMW_logo.png" alt="MB-ManyWebcams logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
-        h3><a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}">MB-ManyWebcams: Web-based Eye Tracking for Infant Studies</a></h3>
+        <h3><a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}">MB-ManyWebcams: Web-based Eye Tracking for Infant Studies</a></h3>
         <p style="padding-left: 25px"><b>Project Status:</b> <i>Collecting pilot data</i> 
           <a href="https://lists.lrz.de/mailman/listinfo/online_mb2">[subscribe to listserv]</a></p> 
         <p style="padding-left: 25px"><b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:adrian.steffan@hotmail.de">Adrian Steffan</a>,
           <a href="mailto:lucie.zimmer@psy.lmu.de">Lucie Zimmer</a></p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <a href="{{site.baseurl}}{% link MB1SA.md %}" class="image"><img src="/assets/img/analysis.png" alt="Analysis" width="100" height="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h3><a href="{{site.baseurl}}{% link MB1SA.md %}">Secondary Analyses</a></h3>
+        <h4>Comparison to meta-analytic data</h4>
+        <p style="padding-left: 25px"><b>Project Leads:</b> <a href="mailto:chbergma@gmail.com">Christina Bergmann</a>, <a href="mailto:fusaroli@cas.au.dk">Riccardo Fusaroli</a></p>
+        <h4>Analysis of supplemental demographic variables</h4>
+        <p style="padding-left: 25px"><b>Project Lead:</b> <a href="mailto:mekline@mit.edu">Melissa Kline Struhl</a></p>
       </div>
     </div>
 	</div>
@@ -223,7 +235,7 @@ Please **fill in the form at the bottom of this page** to indicate your interest
 </section>
 
 
-
+<!--
 ##### General
 * MB: [[listserv]](https://mailman.stanford.edu/mailman/listinfo/manybabies) [Governing Board](mailto:manybabies-gb@mailman.stanford.edu), [Executive Director](mailto:manybabiesconsortium@gmail.com)
 
@@ -251,7 +263,7 @@ Please **fill in the form at the bottom of this page** to indicate your interest
 ##### Secondary Analysis
 * Comparison to meta-analytic data: [Christina Bergmann](mailto:chbergma@gmail.com), [Riccardo Fusaroli](mailto:fusaroli@cas.au.dk)
 * Analysis of supplemental demographic variables: [Melissa Kline Struhl](mailto:mekline@mit.edu)
-
+-->
 <br>
 
 ***
