@@ -46,9 +46,9 @@ Please **fill in the form at the bottom of this page** to indicate your interest
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link index.md %}">ManyBabies </a></h3>
-        <p><a href="https://mailman.stanford.edu/mailman/listinfo/manybabies">[subscribe to the general MB listserv]</a></p> 
-        <p style="padding-left: 25px"><b>Contact info:</b> <a href="mailto:manybabies-gb@mailman.stanford.edu">Governing Board</a>, 
-          <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> (more info available <a href="{{site.baseurl}}{% link people.md %}">here</a>)</p>
+        <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies">[subscribe to the general MB listserv]</a><br> 
+        <b>Contact info:</b> <a href="mailto:manybabies-gb@mailman.stanford.edu">Governing Board</a>, 
+          <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> (more info available <a href="{{site.baseurl}}{% link people.md %}">here</a>)
       </div>
     </div>
     <div class="col-sm-12">
