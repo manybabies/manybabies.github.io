@@ -114,6 +114,7 @@ Please **fill in the form at the bottom of this page** to indicate your interest
         <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:dk@psy.ku.dk">Dora Kampis</a>, 
           <a href="mailto:hrakocz@uni-goettingen.de">Hannes Rakoczy</a>, <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>
         <br>
+        <br>
         <h3><a href="{{site.baseurl}}{% link MB2.md %}">MB2P: Pupillometry</a></h3>
         <b>Project Status:</b> <i>Preparing analysis pipeline; preparing for data collection</i><br> 
         <b>Project Lead:</b> <a href="mailto:robert.hepach@psy.ox.ac.uk">Robert Hepach</a>
@@ -132,6 +133,7 @@ Please **fill in the form at the bottom of this page** to indicate your interest
           <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3">[subscribe to listserv]</a><br> 
         <b>Project Leads:</b> <a href="mailto:i.visser@uva.nl">Ingmar Visser</a>, <a href="mailto:a.geambasu@hum.leidenuniv.nl">Andreea Geambasu</a>, 
           <a href="mailto:c.c.levelt@hum.leidenuniv.nl">Claartje Levelt</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a>
+        <br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB3N.md %}">MB3N: Rule Learning using NIRS</a></h3>
         <b>Project Status:</b> <i>Developing analysis pipeline; preparing Stage 1 RR manuscript</i> 
@@ -231,6 +233,9 @@ Please **fill in the form at the bottom of this page** to indicate your interest
           <a href="mailto:lucie.zimmer@psy.lmu.de">Lucie Zimmer</a>
       </div>
     </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <a href="{{site.baseurl}}{% link MB1SA.md %}" class="image"><img src="/assets/img/analysis.png" alt="Analysis" width="100" height="100"></a>
@@ -239,6 +244,7 @@ Please **fill in the form at the bottom of this page** to indicate your interest
         <h3><a href="{{site.baseurl}}{% link MB1SA.md %}">Secondary Analyses</a></h3>
         <h4>Comparison to meta-analytic data</h4>
         <b>Project Leads:</b> <a href="mailto:chbergma@gmail.com">Christina Bergmann</a>, <a href="mailto:fusaroli@cas.au.dk">Riccardo Fusaroli</a><br>
+        <br>
         <h4>Analysis of supplemental demographic variables</h4>
         <b>Project Lead:</b> <a href="mailto:mekline@mit.edu">Melissa Kline Struhl</a>
       </div>
