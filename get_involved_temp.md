@@ -64,6 +64,7 @@ Please **fill in the form at the bottom of this page** to indicate your interest
           <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies1">[subscribe to listserv]</a><br>
         <b>Project Leads:</b> <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a>
         <br>
+        <br>
         <h3><a href="{{site.baseurl}}{% link MB1A.md %}">MB1A: Infant-Directed Speech Preference in African Infants</a></h3>
         <b>Project Status:</b> <i>Collecting data</i> 
           <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-africa">[subscribe to listserv]</a><br>
@@ -71,23 +72,28 @@ Please **fill in the form at the bottom of this page** to indicate your interest
           <a href="mailto:angelinetsui@gmail.com">Angeline Tsui</a>, <a href="mailto:caseylw@princeton.edu">asey Lew-Williams</a>, 
           <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>
         <br>
+        <br>
         <h3><a href="{{site.baseurl}}{% link MB1B.md %}">MB1B: Infant-Directed Speech Preference in Bilingual Infants</a></h3>
         <b>Project Status:</b> <i>Complete</i> 
           <a href="https://groups.google.com/forum/#!forum/manybabies-bilingual">[subscribe to listserv]</a><br> 
         <b>Project Lead:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a>
         <br>
+        <br>
         <h3><a href="{{site.baseurl}}{% link MB1G.md %}">MB1G: Gaze Following in Monolingual and Bilingual Infants</a></h3>
         <b>Project Status:</b> <i>Complete</i><br> 
         <b>Project Lead:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a>
+        <br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB1L.md %}">MB1L: Longitudinal Vocabulary Follow-up</a></h3>
         <b>Project Status:</b> <i>Stage 2 manuscript prep</i> 
           <a href="https://groups.google.com/u/1/g/mb1-cdi-follow-up">[subscribe to listserv]</a><br> 
         <b>Project Lead:</b> <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a>
         <br>
+        <br>
         <h3><a href="{{site.baseurl}}{% link MB1N.md %}">MB1N: Native Languages Follow-up</a></h3>
         <b>Project Status:</b> <i>Collecting data</i><br> 
         <b>Project Leads:</b> <a href="mailto:natalia.kartushina@psykologi.uio.no">Natalia Kartushina</a>, <a href="mailto:virginie.durier@univ-rennes1.fr">Virginie Durier</a>
+        <br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB1T.md %}">MB1T: Test-Retest Follow-up</a></h3>
         <b>Project Status:</b> <i>Final manuscript prep</i><br> 
