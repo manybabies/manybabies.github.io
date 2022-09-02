@@ -69,7 +69,7 @@ Please **fill in the form at the bottom of this page** to indicate your interest
         <b>Project Status:</b> <i>Collecting data</i> 
           <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-africa">[subscribe to listserv]</a><br>
         <b>Project Leads:</b> <a href="mailto:abc@ucsd.edu">Alex Carstensen</a>, <a href="mailto:kachergis@stanford.edu">George Kachergis</a>, 
-          <a href="mailto:angelinetsui@gmail.com">Angeline Tsui</a>, <a href="mailto:caseylw@princeton.edu">asey Lew-Williams</a>, 
+          <a href="mailto:angelinetsui@gmail.com">Angeline Tsui</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a>, 
           <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>
         <br>
         <br>
