@@ -2,6 +2,7 @@
 layout: page
 title: MB2
 subtitle: Theory of Mind in Infancy
+cover-img: /assets/img/MB2_logo.png
 ---
 
 <!--

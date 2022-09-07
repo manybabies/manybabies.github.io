@@ -2,6 +2,7 @@
 layout: page
 title: MB3N
 subtitle: Rule Learning using NIRS
+cover-img: /assets/img/MB3N_logo.png
 ---
 
 <!--

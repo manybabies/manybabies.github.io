@@ -72,7 +72,7 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 
 
 ***
-## Spin-offs
+# Spin-offs
 * [**MB1A: Infant-Directed Speech Preference in African Infants**]({{site.baseurl}}/MB1A/)
 * [**MB1B: Infant-Directed Speech Preference in Bilingual Infants**]({{site.baseurl}}/MB1B/)
 * [**MB1G: Gaze Following in Monolingual and Bilingual Infants**]({{site.baseurl}}/MB1G/)
@@ -81,6 +81,6 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 * [**MB1T: Test-Retest Follow-up**]({{site.baseurl}}/MB1T/)
 
 
-## Secondary Analysis
+# Secondary Analysis
 * [**Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)
 * [**Analysis of supplemental demographic variables**]({{site.baseurl}}/MB1SA/)

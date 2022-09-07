@@ -2,6 +2,7 @@
 layout: page
 title: MB-Demographics
 subtitle: Standard demographics for MB projects
+cover-img: /assets/img/MBDemo_logo.png
 ---
 
 <!--

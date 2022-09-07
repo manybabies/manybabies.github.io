@@ -2,6 +2,7 @@
 layout: page
 title: MB-AtHome
 subtitle: Online Infant Data Collection
+cover-img: /assets/img/MBAH_logo.png
 ---
 
 <!--

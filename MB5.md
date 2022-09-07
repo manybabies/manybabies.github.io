@@ -2,6 +2,7 @@
 layout: page
 title: MB5
 subtitle: The Hunter & Ames Model of Infant Looking Preference
+cover-img: /assets/img/MB5_logo.png
 ---
 
 <!--

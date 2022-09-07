@@ -30,11 +30,13 @@ The broader goals of **ManyBabies (MB)** come together through collaborative pro
 * [**MB3: Rule Learning**]({{site.baseurl}}/MB3/)
 * [**MB4: Social Evaluation**]({{site.baseurl}}/MB4/)
 * [**MB5: The Hunter & Ames model of Infant Looking Preferences**]({{site.baseurl}}/MB5/)
+* [**MB5: Neonatal Imitation**]({{site.baseurl}}/MB6/)
+
 
 #### Methodological
 * [**MB-AtHome: Online Infant Data Collection**]({{site.baseurl}}/MB-AtHome/)
-* [**MB-ManyWebcams**]({{site.baseurl}}/MB-ManyWebcams/)
 * [**MB-Demographics**]({{site.baseurl}}/MB-demographics/)
+* [**MB-ManyWebcams**]({{site.baseurl}}/MB-ManyWebcams/)
 
 <!--alphabetical order -->
 ### Spin-off projects

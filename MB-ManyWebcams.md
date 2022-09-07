@@ -2,6 +2,7 @@
 layout: page
 title: MB-ManyWebcams
 subtitle: Web-based Eye Tracking for Infant Studies
+cover-img: /assets/img/MBMW_logo.png
 ---
 
 

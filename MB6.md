@@ -2,6 +2,7 @@
 layout: page
 title: MB6
 subtitle: Neonatal Imitation
+cover-img: /assets/img/MB6_logo.png
 ---
 
 We are excited to launch our newest ManyBabies experimental project, **MB6: Neonatal Imitation**! 

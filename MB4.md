@@ -2,6 +2,7 @@
 layout: page
 title: MB4
 subtitle: Social Evaluation
+cover-img: /assets/img/MB4_logo.png
 ---
 
 <!--
