@@ -15,14 +15,14 @@ subtitle: Spin-offs & Secondary Analyses
 * [**MB1T: Test-Retest Follow-up**]({{site.baseurl}}/MB1T/)
 
 ### MB2: Theory of Mind
-* Pupillometry [page in development, contact [Robert Hepach](mailto:robert.hepach@psy.ox.ac.uk) for details]
+* MB2P: Pupillometry [page in development, contact [Robert Hepach](mailto:robert.hepach@psy.ox.ac.uk) for details]
 
 ### MB3: Rule Learning
 * [**MB3N: Rule Learning using NIRS**]({{site.baseurl}}/MB3N/)
 
 ### MB4: Social Evaluation
-* Emotional Expressions [page in development, contact [Kelsey Lucca](mailto:klucca@asu.edu) for details]
-* Individual Differences [page in development, contact [Kelsey Lucca](mailto:klucca@asu.edu) for details]
+* MB4E: Emotional Expressions [page in development, contact [Kelsey Lucca](mailto:klucca@asu.edu) for details]
+* MB4I: Individual Differences [page in development, contact [Kelsey Lucca](mailto:klucca@asu.edu) for details]
 
 ***
 
