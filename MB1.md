@@ -1,7 +1,7 @@
 ---
 layout: page
-title: MB1
-subtitle: Infant-directed Speech Preference
+<!--title: MB1
+subtitle: Infant-Directed Speech Preference-->
 cover-img: /assets/img/MB1_logo.png
 ---
 
@@ -15,6 +15,9 @@ Notes:
   <img style="float: right;" src="/assets/img/avatar-icon_placeholder.png">
   for in-text images, use imgs with max of 250pix; it will be alligned with the following paragraph
 -->
+
+<h1 align="center">MB1</h1>
+<h2 align="center">Infant-Directed Speech Preference</h2>
 
 ## Project Overview
 
@@ -81,6 +84,6 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 
 
 ***
-# Secondary Analysis
+## Secondary Analysis
 * [**Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)
 * [**Analysis of supplemental demographic variables**]({{site.baseurl}}/MB1SA/)
