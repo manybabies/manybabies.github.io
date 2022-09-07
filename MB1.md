@@ -17,7 +17,7 @@ Notes:
 -->
 
 
-# Project Overview
+## Project Overview
 
 * *Project Status*: **COMPLETE**
 * *69 participating labs in 16 countries*
@@ -33,7 +33,7 @@ Sixty-nine labs from 16 countries participated and collected data from 2,329 inf
 
 
 
-# Results
+## Results
 * Confirmed the existence of an IDS preference in infant listeners
 * IDS preference was significantly stronger in older children, in those children for whom the stimuli matched their native language and dialect (North American English, or NAE), and in data from labs using the head-turn preference procedure (magnitude of 0.05 SDs per month), suggesting a modulation by experience, maturation, or both
 * IDS preference for NAE stimuli even among participants whose native language or dialect was not NAE
@@ -47,11 +47,11 @@ Sixty-nine labs from 16 countries participated and collected data from 2,329 inf
 <br>
 
 
-## Leads
+### Leads
 [Michael Frank](https://web.stanford.edu/~mcfrank/) and [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/)
 
 
-## Collaborators
+### Collaborators
 For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/)
 
 <!-- Flourish
@@ -59,20 +59,20 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 -->
 
 
-## Links
+### Links
 * **Materials, Protocols, and Documentation**: [MB1-OSF](https://osf.io/re95x/).
 * **Data and code**: [MB1-GitHub](https://github.com/manybabies/mb1-analysis-public).
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1).  
 * **News**: [MB1-news]({{site.baseurl}}/tags/#MB1).
 
 
-## Publications
+### Publications
 * Final manuscript: [PsyArXiv preprint](https://psyarxiv.com/s98ab), [*AMPPS* publication](https://doi.org/10.1177/2515245919900809))
 * "Lessons from MB1": [PsyArXiv preprint](https://psyarxiv.com/dmhk2/), [Canadian Psychology](https://doi.org/10.1037/cap0000216)
 
 
 ***
-# Spin-offs
+## Spin-offs
 * [**MB1A: Infant-Directed Speech Preference in African Infants**]({{site.baseurl}}/MB1A/)
 * [**MB1B: Infant-Directed Speech Preference in Bilingual Infants**]({{site.baseurl}}/MB1B/)
 * [**MB1G: Gaze Following in Monolingual and Bilingual Infants**]({{site.baseurl}}/MB1G/)
@@ -81,6 +81,6 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 * [**MB1T: Test-Retest Follow-up**]({{site.baseurl}}/MB1T/)
 
 
-# Secondary Analysis
+## Secondary Analysis
 * [**Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)
 * [**Analysis of supplemental demographic variables**]({{site.baseurl}}/MB1SA/)
