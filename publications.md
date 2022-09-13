@@ -17,7 +17,26 @@ To fix:
 
 
 ### Stage 1 Registered Reports: In Principle Acceptance
-      
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-1" align=center>
+        <br>
+        <a href="{{site.baseurl}}{% link MB1A.md %}" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
+      </div>
+      <div class="col-sm-11">
+        <p style="padding-left: 25px; text-indent: -25px">Tsui, A. S. M., Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., Mathur, M., Mbagaya, C. V., Mekonnen Mengistie, D., Milton, C., Mushimiyimana, F., Ndhambi, M., Ngina, I., Njoroge, E., Odhiambo Oburu, P., Okyere Omane, P., Singh, A., Ssemata, A. S., Unyuzumutima, J., Zeidler, H., Lew-Williams, C., & Frank, M. C. (Stage 1 RR In Principle Acceptance). 
+        <b>Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa</b>. 
+        <i>Developmental Science</i>. 
+        <a href="https://osf.io/fqp4b">[OSF Preprint]</a> 
+        <a href="{{site.baseurl}}{% link MB1A.md %}">[MB1A]</a></p>  
+      </div>
+    </div>
+  </div>
+</section>
+
+
 <p style="padding-left: 25px; text-indent: -25px">Tsui, A. S. M., Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., Mathur, M., Mbagaya, C. V., Mekonnen Mengistie, D., Milton, C., Mushimiyimana, F., Ndhambi, M., Ngina, I., Njoroge, E., Odhiambo Oburu, P., Okyere Omane, P., Singh, A., Ssemata, A. S., Unyuzumutima, J., Zeidler, H., Lew-Williams, C., & Frank, M. C. (Stage 1 RR In Principle Acceptance). <b>Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa</b>. <i>Developmental Science</i>. <a href="https://osf.io/fqp4b">[OSF Preprint]</a> <a href="{{site.baseurl}}{% link MB1A.md %}">[MB1A]</a></p>  
 
 <p style="padding-left: 25px; text-indent: -25px">Soderstrom, M., Werker, J. F., Tsui, A. S. M., Skarabela, B., Seidl, A., Searle, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Noble, C., Nave, K., Mayor, J., Martin, A., Lew-Williams, C., Ko, E., Kartushina, N., Kammermeier, M., Jessop, A., Hay, J. F., Hannon, E. E., Hamlin, J. K., Gonzalez-Gomez, N., Gonzalez-Barrero, A. M., Gampe, A., Fritzsche, T., Frank, M. C., Floccia, C., Durrant, S., Delle Luche, C., Davies, C., Cashon, C., Byers-Heinlein, K., Black, A. K., Bergmann, C., & Anderson, L. (Stage 1 RR In Principle Acceptance). <b>Testing the Relationship Between Preferences for Infant-Directed Speech and Vocabulary Development: A Multi-Lab Study</b>. <i>Journal of Child Language</i>. <a href="https://docs.google.com/document/d/1CbLIEsJkQUctAW8a0VgW59hNMHGwyzSXkhWSFzlQYFE/edit?usp=sharing">[Preprint]</a> <a href="{{site.baseurl}}{% link MB1L.md %}">[MB1L]</a></p>  
@@ -48,8 +67,6 @@ To fix:
         <a href="https://psyarxiv.com/8vwbf">[PsyArXiv Preprint]</a></p> 
       </div>
     </div>
-  </div>
-  <div class="container">
     <div class="row">
       <div class="col-sm-1" align=center>
         <br>
@@ -63,8 +80,6 @@ To fix:
         <a href="{{site.baseurl}}{% link MB1B.md %}">[MB-AtHome]</a></p>   
       </div>
     </div>
-  </div>
-  <div class="container">
     <div class="row">
       <div class="col-sm-1" align=center>
         <br>
@@ -78,8 +93,6 @@ To fix:
         <a href="https://psyarxiv.com/sqh9d/">[PsyArXiv Preprint]</a> <a href="{{site.baseurl}}{% link MB1B.md %}">[MB1B]</a></p>  
       </div>
     </div>
-  </div>
-  <div class="container">
     <div class="row">
       <div class="col-sm-1" align=center>
         <br>
@@ -93,8 +106,6 @@ To fix:
         <a href="{{site.baseurl}}{% link MB1.md %}">[MB1]</a></p>  
       </div>
     </div>
-  </div>
-  <div class="container">
     <div class="row">
       <div class="col-sm-1" align=center>
         <br>
@@ -109,8 +120,6 @@ To fix:
         <a href="{{site.baseurl}}{% link MB1G.md %}">[MB1G]</a></p>   
       </div>
     </div>
-  </div>
-  <div class="container">
     <div class="row">
       <div class="col-sm-1" align=center>
         <br>
@@ -125,12 +134,10 @@ To fix:
         <a href="{{site.baseurl}}{% link MB1.md %}">[MB1]</a></p>   
       </div>
     </div>
-  </div>
-  <div class="container">
     <div class="row">
       <div class="col-sm-1" align=center>
         <br>
-        <a href="{{site.baseurl}}{% link index.md %}" class="image"><img src="/assets/img/avatar-icon-2022.png.png" alt="ManyBabies logo"></a>
+        <a href="{{site.baseurl}}{% link index.md %}" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo"></a>
       </div>
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px">Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., Hamlin, J. K., Hannon, E. E., Kline, M., Levelt, C., Lew-Williams, C., Nazzi, T., Panneton, R., Rabagliati, H., Soderstrom, M., Sullivan, J., Waxman, S., & Yurovsky, D. (2017). 
