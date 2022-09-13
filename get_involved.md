@@ -193,7 +193,7 @@ Please **fill in the form at the bottom of this page** to indicate your interest
 	<div class="container">
 		<div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="{{site.baseurl}}{% link MB-AtHome.md %}" class="image"><img src="/assets/img/MBAH_logo.png" alt="MBAthome logo" width="100" height="100"></a>
+        <a href="{{site.baseurl}}{% link MB-AtHome.md %}" class="image"><img src="/assets/img/MBAH_logo.png" alt="MB-AtHome logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB-AtHome.md %}">MB-AtHome: Online Infant Data Collection</a></h3>
