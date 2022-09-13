@@ -2,6 +2,7 @@
 layout: page
 title: MB1A
 subtitle: Infant-Directed Speech Preference in African Infants
+cover-img: /assets/img/MB1_logo.png
 ---
 
 <!--

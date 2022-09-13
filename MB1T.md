@@ -2,6 +2,7 @@
 layout: page
 title: MB1T
 subtitle: Test-Retest Follow-up
+cover-img: /assets/img/MB1_logo.png
 ---
 
 <!--

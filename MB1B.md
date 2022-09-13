@@ -2,6 +2,7 @@
 layout: page
 title: MB1B
 subtitle: Infant-directed Speech Preference in Bilingual Infants
+cover-img: /assets/img/MB1_logo.png
 ---
 
 <!--
