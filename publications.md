@@ -33,7 +33,22 @@ To fix:
 ***
 ### Publications
 
-<p style="padding-left: 25px; text-indent: -25px">Visser, I., Bergmann, C., Byers-Heinlein, K., Dal Ben, R., Duch, W., Forbes, S., Franchin, L., Frank, M. C., Geraci, A., Hamlin, J. K., Kaldy, Z., Kulke, L., Laverty, C., Lew-Williams, C., Mateu, V., Mayor, J., Moreau, D., Nomikou, I., Schuwerk, T., Simpson, E. A., Singh, L., Soderstrom, M., Sullivan, J., van den Heuvel, M. I., Westermann, G., Yamada, Y., Zaadnoordijk, L., & Zettersten, M. (2022). <b>Improving the generalizability of infant psychological research: The ManyBabies model (Commentary)</b>. <i>Behavioral and Brain Sciences</i>. <a href="https://doi.org/10.1017/S0140525X21000455">doi:10.1017/S0140525X21000455</a>. <a href="https://psyarxiv.com/8vwbf">[PsyArXiv Preprint]</a></p>  
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-1">
+        <a href="{{site.baseurl}}{% link index.md %}" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="MB logo"></a>
+      </div>
+      <div class="col-sm-11">
+        <p style="padding-left: 25px; text-indent: -25px">Visser, I., Bergmann, C., Byers-Heinlein, K., Dal Ben, R., Duch, W., Forbes, S., Franchin, L., Frank, M. C., Geraci, A., Hamlin, J. K., Kaldy, Z., Kulke, L., Laverty, C., Lew-Williams, C., Mateu, V., Mayor, J., Moreau, D., Nomikou, I., Schuwerk, T., Simpson, E. A., Singh, L., Soderstrom, M., Sullivan, J., van den Heuvel, M. I., Westermann, G., Yamada, Y., Zaadnoordijk, L., & Zettersten, M. (2022). 
+        <b>Improving the generalizability of infant psychological research: The ManyBabies model (Commentary)</b>. 
+        <i>Behavioral and Brain Sciences</i>. 
+        <a href="https://doi.org/10.1017/S0140525X21000455">doi:10.1017/S0140525X21000455</a>. 
+        <a href="https://psyarxiv.com/8vwbf">[PsyArXiv Preprint]</a></p> 
+      </div>
+    </div>
+  </div>
+</section>
 
 <p style="padding-left: 25px; text-indent: -25px">Zaadnoordijk, L., Buckler, H., Cusack, R., Tsuji, S., & Bergmann, C. (2021). <b>A Global Perspective on Testing Infants Online: Introducing ManyBabies-AtHome</b>. <i>Frontiers in Psychology</i>. <a href="https://doi.org/10.3389/fpsyg.2021.703234">doi:10.3389/fpsyg.2021.703234</a>. <a href="{{site.baseurl}}{% link MB1B.md %}">[MB-AtHome]</a></p>  
 
