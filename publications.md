@@ -37,6 +37,7 @@ To fix:
   <div class="container">
     <div class="row">
       <div class="col-sm-1" align=center>
+        <br>
         <a href="{{site.baseurl}}{% link index.md %}" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="MB logo"></a>
       </div>
       <div class="col-sm-11">
@@ -50,7 +51,25 @@ To fix:
   </div>
 </section>
 
-<p style="padding-left: 25px; text-indent: -25px">Zaadnoordijk, L., Buckler, H., Cusack, R., Tsuji, S., & Bergmann, C. (2021). <b>A Global Perspective on Testing Infants Online: Introducing ManyBabies-AtHome</b>. <i>Frontiers in Psychology</i>. <a href="https://doi.org/10.3389/fpsyg.2021.703234">doi:10.3389/fpsyg.2021.703234</a>. <a href="{{site.baseurl}}{% link MB1B.md %}">[MB-AtHome]</a></p>  
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-1" align=center>
+        <br>
+        <a href="{{site.baseurl}}{% link MB-AtHome.md %}" class="image"><img src="/assets/img/MBAH_logo.png" alt="MB-AtHome logo"></a>
+      </div>
+      <div class="col-sm-11">
+        <p style="padding-left: 25px; text-indent: -25px">Zaadnoordijk, L., Buckler, H., Cusack, R., Tsuji, S., & Bergmann, C. (2021). 
+        <b>A Global Perspective on Testing Infants Online: Introducing ManyBabies-AtHome</b>. 
+        <i>Frontiers in Psychology</i>. 
+        <a href="https://doi.org/10.3389/fpsyg.2021.703234">doi:10.3389/fpsyg.2021.703234</a>. 
+        <a href="{{site.baseurl}}{% link MB1B.md %}">[MB-AtHome]</a></p>   
+      </div>
+    </div>
+  </div>
+</section>
+
+
 
 <p style="padding-left: 25px; text-indent: -25px">Byers-Heinlein, Tsui, A. S. M., Bergmann, C., Black, A. K., Brown, A., Carbajal,  M. J., Durrant, S., Fennell, C. T., Fiévet, A.,  Frank, M. C., Gampe, A., Gervain, J., Gonzalez-Gomez, N., Hamlin, J. K., Havron, N., Hernik, M., Kerr, S., Killam, H., Klassen, K., Kosie, J. E., Kovács, A. M., Lew-Williams, C., Liu, L., Mani, N., Marino, C., Mastroberardino, M., Mateu, V., Noble, C., Orena, A. J., Polka, L., Potter, C. E., Schreiner, M. S., Singh, L., Soderstrom, M., Sundara, M., Waddell, C., Werker, J. F., Wermelinger, S. (2021). <b>A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech</b>. <i>Advances in Methods and Practices in Psychological Science</i>. <a href="https://doi.org/10.1177/2515245920974622">doi:10.1177/2515245920974622</a>. <a href="https://psyarxiv.com/sqh9d/">[PsyArXiv Preprint]</a> <a href="{{site.baseurl}}{% link MB1B.md %}">[MB1B]</a></p>  
 
