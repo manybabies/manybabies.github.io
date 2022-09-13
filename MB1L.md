@@ -2,6 +2,7 @@
 layout: page
 title: MB1L
 subtitle: Longitudinal Vocabulary Follow-up
+cover-img: /assets/img/MB1_logo.png
 ---
 
 <!--

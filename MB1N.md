@@ -2,6 +2,7 @@
 layout: page
 title: MB1N
 subtitle: Native Languages Follow-up
+cover-img: /assets/img/MB1_logo.png
 ---
 
 <!--
