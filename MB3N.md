@@ -18,16 +18,14 @@ NIRS is a relatively new imaging technique. Variation across instruments, analys
 [Judit Gervain](https://sites.google.com/site/juditgervain/)
 
 ### Collaborators
-For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
-    <source src="/assets/img/dashboard_studies.mp4" type="video/mp4">  
-    </video>
+For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
 
 <!-- Flourish
 <div class="flourish-embed flourish-map" data-src="visualisation/2573491" data-url="https://flo.uri.sh/visualisation/2573491/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 -->
 
 ### Status
-Stimuli creation.
+Working on data processing pipeline and preparing Stage 1 manuscript.
 
 ### Links
 <!-- * **Materials, Protocols, and Documentation**: [MB1B-OSF](https://osf.io/zauhq/).
