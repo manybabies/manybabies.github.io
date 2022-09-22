@@ -19,16 +19,14 @@ In this ongoing project we investigate a fundamental aspect of human nature: eva
 [Kelsey Lucca](https://isearch.asu.edu/profile/3521043), [Francis Yuen](https://cic.psych.ubc.ca/), and [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/)
 
 ### Collaborators
-For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
-    <source src="/assets/img/dashboard_studies.mp4" type="video/mp4">  
-    </video>
+For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
 
 <!-- Flourish
 <div class="flourish-embed flourish-map" data-src="visualisation/2520280" data-url="https://flo.uri.sh/visualisation/2520280/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 -->
 
 ### Status
-Pilot data collection complete; Stage 1 Registered Report has received an In Principle Acceptance to *Developmental Science* ([read the preprint](https://psyarxiv.com/qhxkm)); preparing to begin data collection
+Pilot data collection complete; Stage 1 Registered Report has received an In Principle Acceptance to *Developmental Science* ([read the preprint](https://psyarxiv.com/qhxkm)); collecting data ([sign-up form](https://docs.google.com/forms/d/e/1FAIpQLScUicLDQnkKpFa1UdKL8wrPY-qdq3PfY6NbrlkLXHhK_WK2yg/viewform))
 
 ### Links
 * **Main website**: [check it out](https://sites.google.com/view/manybabies4/home).
