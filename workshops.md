@@ -24,4 +24,4 @@ cover-img: /assets/img/workshop.jpg
 
 ### [VIEW THE WEBINAR RECORDING](https://stanford.zoom.us/rec/share/pQXzvhH5PbZwSLdObTd5JQiRWpU4JLy7oYVRRjIoTt219NKv45QW1NPwIe3TIcJT.u9zqXW9NCpBYsRP1)
 
-### [More info]({{site.baseurl}}/_posts/2022-04-21-CDS-preconference-apr2022/)
+### [More info]({{site.baseurl}}/2022-04-21-CDSpreconference/)
