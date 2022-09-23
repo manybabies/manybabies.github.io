@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Big Team Science for Studying Small People
-tags: [MB, CDS, preconference, workshop]
+tags: [MB, CDS, workshop]
 ---
 
 ### [CDS 2022 Pre-Conference](https://cogdevsoc.org/pre-conference-workshops-2/) 
