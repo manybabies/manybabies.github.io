@@ -45,5 +45,5 @@ Please note that access to infants/infant lab is **not** a prerequisite.
 
 ***
 
-# Spin-offs
+## Spin-offs
 * [**MB3N: Rule Learning using NIRS**]({{site.baseurl}}/MB3N/)
