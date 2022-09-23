@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CDS Preconference: Big Team Science for Studying Small People
+title: Big Team Science for Studying Small People
 tags: [MB, CDS, preconference, workshop]
 ---
 
