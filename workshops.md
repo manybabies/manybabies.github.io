@@ -6,7 +6,9 @@ cover-img: /assets/img/workshop.jpg
 
 #### *Upcoming*
 
-<img border="0" src="https://www.cos.io/hs-fs/hubfs/badges_stacked.original.png?width=834&name=badges_stacked.original.png" width="150" height="120" align="center">
+<div class="container" align="center">
+  <img border="0" src="https://www.cos.io/hs-fs/hubfs/badges_stacked.original.png?width=834&name=badges_stacked.original.png" width="150" height="120">
+</div>
 
 ## ManyBabies: An Introduction to Open Science
 ### Nicolás Alessandroni & Krista Byers-Heinlein, *Concordia University*
