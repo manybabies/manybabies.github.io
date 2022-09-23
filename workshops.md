@@ -10,10 +10,14 @@ cover-img: /assets/img/workshop.jpg
 #### Nicolás Alessandroni & Krista Byers-Heinlein, *Concordia University*
 
 
+
+
 ***
 
 ## Past Workshop
 
+
+## Big Team Science for Studying Small People
 ### [CDS 2022 Pre-Conference](https://cogdevsoc.org/pre-conference-workshops-2/) 
 #### April 21, 2022 in Madison, Wisconsin, United States
 
