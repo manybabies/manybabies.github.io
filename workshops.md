@@ -11,13 +11,15 @@ cover-img: /assets/img/workshop.jpg
 ### Nicolás Alessandroni & Krista Byers-Heinlein, *Concordia University*
 #### October 20, 2022 11:00-12:30 EDT (Montréal, Canada) on Zoom
 
+In this workshop, Nicolás and Krista will introduce the open science perspective for psychological research. The aim is for participants to discover, discuss, and engage in using open science practices (e.g., open access, open data, preprints, pre-registration) and to learn ways to apply them in their own research. The workshop does not require prior knowledge of open science: all those interested in learning or deepening their knowledge of how to do open research are most welcome! 
+
+
 <br>
 
 ***
 
 #### *Past* 
 <br>
-
 ## Big Team Science for Studying Small People
 ### [CDS 2022 Pre-Conference](https://cogdevsoc.org/pre-conference-workshops-2/) 
 #### April 21, 2022 in Madison, Wisconsin, United States
