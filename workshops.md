@@ -6,7 +6,8 @@ cover-img: /assets/img/workshop.jpg
 
 ## Upcoming Workshop
 
-
+### ManyBabies: An Introduction to Open Science
+#### Nicolás Alessandroni & Krista Byers-Heinlein, *Concordia University*
 
 
 ***
