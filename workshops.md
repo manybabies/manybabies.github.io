@@ -11,6 +11,8 @@ cover-img: /assets/img/workshop.jpg
 ### Nicolás Alessandroni & Krista Byers-Heinlein, *Concordia University*
 #### October 20, 2022 11:00-12:30 EDT (Montréal, Canada) on Zoom
 
+<img border="0" src="https://www.cos.io/hs-fs/hubfs/badges_stacked.original.png?width=834&name=badges_stacked.original.png">
+
 In this workshop, Nicolás and Krista will introduce the open science perspective for psychological research. The aim is for participants to discover, discuss, and engage in using open science practices (e.g., open access, open data, preprints, pre-registration) and to learn ways to apply them in their own research. The workshop does not require prior knowledge of open science: all those interested in learning or deepening their knowledge of how to do open research are most welcome! 
 
 <h4><a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NTZnbmFvOWhlbnM3dW5udThxZjkyZGQyMTYgbWFueWJhYmllcy5kaXJlY3RvckBt&amp;tmsrc=manybabies.director%40gmail.com">Add to <img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a></h4>
