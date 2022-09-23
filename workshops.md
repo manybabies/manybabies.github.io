@@ -4,18 +4,19 @@ title: Workshops
 cover-img: /assets/img/workshop.jpg
 ---
 
-## Upcoming Workshop
+#### Upcoming
+<br>
 
-### ManyBabies: An Introduction to Open Science
-#### Nicolás Alessandroni & Krista Byers-Heinlein, *Concordia University*
-
+## ManyBabies: An Introduction to Open Science
+### Nicolás Alessandroni & Krista Byers-Heinlein, *Concordia University*
+#### October 20, 2022 11:00-12:30 EDT (Montréal, Canada) on Zoom
 
 
 
 ***
 
-## Past Workshop
-
+#### Past 
+<br>
 
 ## Big Team Science for Studying Small People
 ### [CDS 2022 Pre-Conference](https://cogdevsoc.org/pre-conference-workshops-2/) 
