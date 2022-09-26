@@ -1,13 +1,11 @@
 ---
 layout: post
-title: MB Newsletter - August 2022
-tags: [MB, newsletter]
+title: Open Call for Data Collection!
+tags: [MB, datacollectioncall, data]
 ---
 
-Check out the [August issue](https://mailchi.mp/f7af5b588e1b/mb-newsletter-august2022) of the ManyBabies newsletter! 
+Three MB studies (MB2, MB3, and MB4) are beginning data collection and are looking for interested labs to help! 
+<br>
+All developmental labs are invited to join the data collection efforts of one or more project(s). Subject-area expertise is NOT required to collect data for a project, and all study materials and protocols will be provided.
 
-There's information about the upcoming [Big Team Science Conference](https://bigteamscienceconference.github.io), which ManyBabies is co-hosting with ManyPrimates and the Psychological Science Accelerator. You won't want to miss it!
-
-There are also project updates and other announcements.  
-
-If you're subscribed to an MB listserv, you should have received the newsletter in your inbox (please [email us](mailto:manybabiesconsortium@gmail.com) if that's not the case). To subscribe for future issues, click [here](https://t.co/7zxifYO7qN?amp=1).
+More information about each study (e.g., age range, method) as well as links to sign up are available [**HERE**](https://mailchi.mp/951936886212/collect-data-with-manybabies-updated). 
