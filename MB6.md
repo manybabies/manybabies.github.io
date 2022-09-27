@@ -33,8 +33,8 @@ Please contact MB Executive Director, [Heidi Baumgartner](mailto:heidib@stanford
 * Stefano Vincini, *TU Dortmund, Germany*
 
 *** 
-### Leads
-* [Sumeet Farwaha](https://mailchi.mp/653a2fc06004/mb-newsletter-sept2022), *University of Queensland, Australia* [[email]](mailto:s.farwaha@uq.edu.au)
+### Project Leads
+* [Sumeet Farwaha](https://ecdc.psychology.uq.edu.au/profile/320/sumeet-farwaha), *University of Queensland, Australia* [[email]](mailto:s.farwaha@uq.edu.au)
 * [Andrew Meltzoff](https://ilabs.uw.edu/meltzoff/), *University of Washington, USA* [[email]](mailto:meltzoff@uw.edu)
 * [Elizabeth Simpson](https://people.miami.edu/profile/simpsone@miami.edu/), *University of Miami, USA* [[email]](mailto:elizabethannsimpson@gmail.com)
 * [Virginia Slaughter](https://psychology.uq.edu.au/profile/2215/virginia-slaughter), *University of Queensland, Australia* [[email]](mailto:vps@psy.uq.edu.au)
@@ -48,11 +48,9 @@ Initial planning discussions; team formation
 * **Listserv**: [subscribe here](https://mailman.stanford.edu/mailman/listinfo/manybabies6).
 
 ***
-### Contribute
+### Contributors
+*To Be Determined*
+
 We encourage everyone who is interested in the project to join the listserv using the link above. You can also email one or more of the project leads to indicate your interest.
 
 Please note that access to infants/infant lab is **not** a prerequisite.
-
-### Collaborators
-*To Be Determined*
-
