@@ -41,7 +41,7 @@ Please contact MB Executive Director, [Heidi Baumgartner](mailto:heidib@stanford
 
 ***
 ### Status
-Initial planning discussions; formation of leadership team
+Initial planning discussions; team formation
 
 ***
 ### Links
