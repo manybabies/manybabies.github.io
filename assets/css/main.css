@@ -93,7 +93,7 @@ html {
 }
 
 body {
-  font-family: 'Open Sans', sans-serif; /*'Helvetica Neue', Helvetica, Arial, sans-serif;/* /*--'Lora', 'Times New Roman', serif;--*/
+  font-family: 'Lora', 'Times New Roman', serif; /*'Open Sans', sans-serif;/* /*'Helvetica Neue', Helvetica, Arial, sans-serif;/* /*--'Lora', 'Times New Roman', serif;--*/
   font-size: 1.125rem;
   color: #404040;
   position: relative;
