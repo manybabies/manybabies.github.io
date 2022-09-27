@@ -39,14 +39,17 @@ Please contact MB Executive Director, [Heidi Baumgartner](mailto:heidib@stanford
 * [Elizabeth Simpson](https://people.miami.edu/profile/simpsone@miami.edu/), *University of Miami, USA* [[email]](mailto:elizabethannsimpson@gmail.com)
 * [Virginia Slaughter](https://psychology.uq.edu.au/profile/2215/virginia-slaughter), *University of Queensland, Australia* [[email]](mailto:vps@psy.uq.edu.au)
 
+***
 ### Status
 Initial planning discussions; formation of leadership team
 
+***
 ### Links
 * **Listserv**: [subscribe here](https://mailman.stanford.edu/mailman/listinfo/manybabies6).
 
+***
 ### Contribute
-We encourage everyone who is interested in the project to join the listserv using the link above. 
+We encourage everyone who is interested in the project to join the listserv using the link above. You can also email one or more of the project leads to indicate your interest.
 
 Please note that access to infants/infant lab is **not** a prerequisite.
 
