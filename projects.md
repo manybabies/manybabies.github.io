@@ -30,13 +30,14 @@ The broader goals of **ManyBabies (MB)** come together through collaborative pro
 * [**MB3: Rule Learning**]({{site.baseurl}}/MB3/)
 * [**MB4: Social Evaluation**]({{site.baseurl}}/MB4/)
 * [**MB5: The Hunter & Ames model of Infant Looking Preferences**]({{site.baseurl}}/MB5/)
-* [**MB5: Neonatal Imitation**]({{site.baseurl}}/MB6/)
+* [**MB6: Neonatal Imitation**]({{site.baseurl}}/MB6/)
 
 
 #### Methodological
 * [**MB-AtHome: Online Infant Data Collection**]({{site.baseurl}}/MB-AtHome/)
 * [**MB-Demographics**]({{site.baseurl}}/MB-demographics/)
 * [**MB-ManyWebcams**]({{site.baseurl}}/MB-ManyWebcams/)
+<br>
 
 <!--alphabetical order -->
 ### Spin-off projects
@@ -50,14 +51,15 @@ The broader goals of **ManyBabies (MB)** come together through collaborative pro
 
 #### MB3
 * [**MB3N: Rule Learning using NIRS**]({{site.baseurl}}/MB3N/)    
+<br>
 
 ### Secondary Analyses
 #### MB1
 * [**Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)
 * [**Analysis of supplemental demographic variables**]({{site.baseurl}}/MB1SA/)
+<br>
 
 ***
-
 ## Get Involved & New Projects
 We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **not** a prerequisite.
 
