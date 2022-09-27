@@ -182,7 +182,8 @@ Please **fill in the form at the bottom of this page** to indicate your interest
         <h3><a href="{{site.baseurl}}{% link MB6.md %}">MB6: Neonatal Imitation</a></h3>
         <b>Project Status:</b> <i>Forming leadership group; early planning</i> 
           <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies6">[subscribe to listserv]</a><br> 
-        <b>Project Leads:</b> <i>TBD</i>
+        <b>Project Leads:</b> <a href="mailto:s.farwaha@uq.edu.au">Sumeet Farwaha</a>, <a href="mailto:meltzoff@uw.edu">Andrew Meltzoff</a>, 
+          <a href="mailto:elizabethannsimpson@gmail.com">Elizabeth Simpson</a>, <a href="mailto:vps@psy.uq.edu.au">Virginia Slaughter</a>
       </div>
     </div>
     <div class="col-sm-12">
