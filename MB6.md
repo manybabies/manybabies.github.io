@@ -34,7 +34,10 @@ Please contact MB Executive Director, [Heidi Baumgartner](mailto:heidib@stanford
 
 *** 
 ### Leads
-*To Be Determined*
+* [Sumeet Farwaha](https://mailchi.mp/653a2fc06004/mb-newsletter-sept2022), *University of Queensland, Australia* [email](mailto:s.farwaha@uq.edu.au)
+* [Andrew Meltzoff](https://ilabs.uw.edu/meltzoff/), *University of Washington, USA* [email](mailto:meltzoff@uw.edu)
+* [Elizabeth Simpson](https://people.miami.edu/profile/simpsone@miami.edu/), *University of Miami, USA* [email](mailto:elizabethannsimpson@gmail.com)
+* [Virginia Slaughter](https://psychology.uq.edu.au/profile/2215/virginia-slaughter), *University of Queensland, Australia* [email](mailto:vps@psy.uq.edu.au)
 
 ### Status
 Initial planning discussions; formation of leadership team
