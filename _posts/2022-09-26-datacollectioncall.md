@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open Call for Data Collection!
-tags: [MB, datacollectioncall, data]
+tags: [MB, call-for-data-collection, data]
 ---
 
 Three MB studies (MB2, MB3, and MB4) are beginning data collection and are looking for interested labs to help! 
