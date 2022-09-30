@@ -46,26 +46,23 @@ Sixty-nine labs from 16 countries participated and collected data from 2,329 inf
 <img style="float: right;" src="/assets/img/mb1_plot1_lq_replace.jpg">
 <br>
 
+***
+### Project Leads
+* [Michael Frank](https://web.stanford.edu/~mcfrank/), *Stanford University, USA* [[email]](mailto:mcfrank@stanford.edu)
+* [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada* [[email]](mailto:M_Soderstrom@umanitoba.ca)
 
-### Leads
-[Michael Frank](https://web.stanford.edu/~mcfrank/) and [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/)
-
-
+***
 ### Collaborators
 For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/)
 
-<!-- Flourish
-<div class="flourish-embed flourish-map" data-src="visualisation/2520033" data-url="https://flo.uri.sh/visualisation/2520033/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
--->
-
-
+***
 ### Links
 * **Materials, Protocols, and Documentation**: [MB1-OSF](https://osf.io/re95x/).
 * **Data and code**: [MB1-GitHub](https://github.com/manybabies/mb1-analysis-public).
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1).  
 * **News**: [MB1-news]({{site.baseurl}}/tags/#MB1).
 
-
+***
 ### Publications
 * Final manuscript: [PsyArXiv preprint](https://psyarxiv.com/s98ab), [*AMPPS* publication](https://doi.org/10.1177/2515245919900809))
 * "Lessons from MB1": [PsyArXiv preprint](https://psyarxiv.com/dmhk2/), [Canadian Psychology](https://doi.org/10.1037/cap0000216)
@@ -80,7 +77,7 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 * [**MB1N: Native Languages Follow-up**]({{site.baseurl}}/MB1N/)
 * [**MB1T: Test-Retest Follow-up**]({{site.baseurl}}/MB1T/)
 
-
+***
 ## Secondary Analysis
 * [**Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)
 * [**Analysis of supplemental demographic variables**]({{site.baseurl}}/MB1SA/)

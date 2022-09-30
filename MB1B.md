@@ -19,27 +19,31 @@ We found that bilingual and monolingual infants preferred IDS to ADS, and did no
 
 Together, our findings indicate that IDS preference likely makes a similar contribution to monolingual and bilingual development, and that infants are exquisitely sensitive to the nature and frequency of different types of language input in their early environments.
 
-### Leads
-[Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein)
 
+***
+### Project Lead
+[Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein), *Concordia University, Canada* [[email]](mailto:k.byers@concordia.ca)
+
+
+***
 ### Collaborators
-For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
-    <source src="/assets/img/dashboard_studies.mp4" type="video/mp4">  
-    </video>
+For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
 
-<!-- Flourish
-<div class="flourish-embed flourish-map" data-src="visualisation/2520162" data-url="https://flo.uri.sh/visualisation/2520162/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
--->
 
+***
 ### Status
 Completed! Read the final manuscript ([PsyArXiv](https://psyarxiv.com/sqh9d/), [*AMPPS*](https://doi.org/10.1177/2515245920974622))
 
+
+***
 ### Links
 * **Materials, Protocols, and Documentation**: [MB1B-OSF](https://osf.io/zauhq/).
 * **Data and code**: [MB1B-GitHub](https://github.com/manybabies/mb1b-analysis-public).
 * **Listserv**: [join here](https://groups.google.com/forum/#!forum/manybabies-bilingual).
 * **News**: [MB1B-news]({{site.baseurl}}/tags/#MB1B).
 
+
+***
 ### Publications
 Byers-Heinlein, Tsui, A. S. M., K., Bergmann, C., ..., Wermelinger, S. (2021). [A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech](https://doi.org/10.1177/2515245920974622). _Advances in Methods and Practices in Psychological Science_. [PsyArXiv PrePrint](https://psyarxiv.com/sqh9d/)
 

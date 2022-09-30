@@ -29,7 +29,7 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 
 ***
 ### Contribute
-We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/get_involved/) and/or contact the project lead (see above)
+We encourage everyone who is interested in the project to contact the Project Lead (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/). 
 
 Please note that access to infants/infant lab is **not** a prerequisite.
 

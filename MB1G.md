@@ -24,21 +24,29 @@ Unexpectedly, bilinguals tended to make more frequent fixations to onscreen obje
 
 Our findings suggest that gaze sensitivity is a fundamental aspect of development that is robust to variation in language exposure.
 
-### Leads
-[Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein)
 
+***
+### Project Lead
+[Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein), *Concordia University, Canada* [[email]](mailto:k.byers@concordia.ca)
+
+
+***
 ### Collaborators
-For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
-    <source src="/assets/img/dashboard_studies.mp4" type="video/mp4">  
-    </video>
+For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
 
+
+***
 ### Status
 Completed! Read the final manuscript ([PsyArXiv](https://psyarxiv.com/sgfhv/), [*Infancy*](https://onlinelibrary.wiley.com/doi/10.1111/infa.12360))
 
+
+***
 ### Links
 * **Materials, Protocols, and Documentation**: [MB1G-OSF](https://osf.io/2ey3k/).
 * **Data and code**: [MB1G-GitHub](https://github.com/kristabh/gaze-following-analysis).
 * **News**: [MB1G-news]({{site.baseurl}}/tags/#MB1G).
 
+
+***
 ### Publications
-Byers-Heinlein, K., Tsui, R. K. Y., van Renswoude, D., Black, A. K., Barr, R., PhD, Brown, A., … Singh, L. (2020). [The development of gaze following in monolingual and bilingual infants: A multi-lab study](https://doi.org/10.1111/infa.12360) _Infancy_, Advance online publication. [PsyArXiv Preprint](https://doi.org/10.31234/osf.io/sgfhv)
+Byers-Heinlein, K., Tsui, R. K. Y., van Renswoude, D., Black, A. K., Barr, R., PhD, Brown, A., … Singh, L. (2020). [The development of gaze following in monolingual and bilingual infants: A multi-lab study](https://doi.org/10.1111/infa.12360). _Infancy_. [PsyArXiv Preprint](https://doi.org/10.31234/osf.io/sgfhv).
