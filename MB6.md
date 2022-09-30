@@ -32,6 +32,7 @@ Please contact MB Executive Director, [Heidi Baumgartner](mailto:heidib@stanford
 * Carina De Klerk, *University of Essex, UK*
 * Stefano Vincini, *TU Dortmund, Germany*
 
+
 *** 
 ### Project Leads
 * [Sumeet Farwaha](https://ecdc.psychology.uq.edu.au/profile/320/sumeet-farwaha), *University of Queensland, Australia* [[email]](mailto:s.farwaha@uq.edu.au)
@@ -39,13 +40,16 @@ Please contact MB Executive Director, [Heidi Baumgartner](mailto:heidib@stanford
 * [Elizabeth Simpson](https://people.miami.edu/profile/simpsone@miami.edu/), *University of Miami, USA* [[email]](mailto:elizabethannsimpson@gmail.com)
 * [Virginia Slaughter](https://psychology.uq.edu.au/profile/2215/virginia-slaughter), *University of Queensland, Australia* [[email]](mailto:vps@psy.uq.edu.au)
 
+
 ***
 ### Status
 Initial planning discussions; team formation
 
+
 ***
 ### Links
 * **Listserv**: [subscribe here](https://mailman.stanford.edu/mailman/listinfo/manybabies6).
+
 
 ***
 ### Contributors
