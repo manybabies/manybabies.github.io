@@ -24,13 +24,8 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 
 
 ***
-### Collaborators
-* For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
-
-
-***
 ### Status
-* Stage 1 Registered Report has received an In Principle Acceptance at *Developmental Psychology* ([read the preprint](https://psyarxiv.com/aex7v/))
+* Stage 1 Registered Report has received an **In Principle Acceptance** at *Developmental Psychology* ([read the preprint](https://psyarxiv.com/aex7v/))
 * Collecting data ([sign-up form](https://umanitobapsych.az1.qualtrics.com/jfe/form/SV_4NiYE6jM0399g7r))
 
 > Data Collection Meetings are scheduled for Tuesday Oct 11 11am ET / 5pm, CEST and Thursday Oct 13, 9am CEST. For more information, contact [Ingmar Visser](mailto:i.visser@uva.nl)
@@ -43,11 +38,15 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies3)
 * **News**: [MB3-news]({{site.baseurl}}/tags/#MB3)
 
-***
-### Contribute
-We encourage everyone who is interested in the project to contact the project leads (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
 
-Please note that access to infants/infant lab is **not** a prerequisite.
+***
+### Contributors
+* For a detailed index of collaborators (+ institutions, countries, studies), see the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
+
+> We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
+
+> Please note that access to infants/infant lab is **NOT** a prerequisite.
+
 
 <!-- ### Publications -->
 

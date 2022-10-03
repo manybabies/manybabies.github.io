@@ -15,12 +15,11 @@ Therefore, we aim to replicate findings of an in-lab paradigm of the [ManyBabies
 <div class="container">
    <div class="row justify-content-around">
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-            <img src="/assets/img/manywebcams1.png" />
+            <img src="/assets/img/manywebcams1.png" height="300">
             A toddler participating in the task, with her point-of-gaze depicted as a blue dot
         </div>
-
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
-            <img src="/assets/img/manywebcams_AOIs.jpg" />
+            <img src="/assets/img/manywebcams_AOIs.jpg" height="300">
             Example areas of interest (AOIs) used during the anticipatory period to distinguish looks to the "Target" region (where the chaser will reappear according to their action goal) and the "Distractor" region (covering the other tunnel exit and it's surroundings)
         </div>
     </div>
@@ -38,20 +37,21 @@ Therefore, we aim to replicate findings of an in-lab paradigm of the [ManyBabies
 
 <br>
 
-### Leads
-[Tobias Schuwerk](https://www.psy.lmu.de/epp/personen/wiss_ma/tobias_schuwerk/), [Adrian Steffan](https://adriansteffan.com/), [Lucie Zimmer](https://www.psy.lmu.de/pbi/personen/wiss_mitarbeiter/lucie_zimmer/index.html)
 
-For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
-    <source src="/assets/img/dashboard_studies.mp4" type="video/mp4">  
-    </video>
+***
+### Project Leads
+* [Tobias Schuwerk](https://www.en.cas.uni-muenchen.de/rir/junior_rir/previous_junior_rir/schuhwerk_tobias/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:tobias.schuwerk@psy.lmu.de)
+* [Adrian Steffan](https://adriansteffan.com/), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:adrian.steffan@hotmail.de)
+* [Lucie Zimmer](https://www.psy.lmu.de/pbi/personen/wiss_mitarbeiter/lucie_zimmer/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:lucie.zimmer@psy.lmu.de)
 
-<!-- Flourish
-<div class="flourish-embed flourish-map" data-src="visualisation/2520119" data-url="https://flo.uri.sh/visualisation/2520119/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
--->
 
+***
 ### Status
-MB-ManyWebcams is currently collecting data.  
+* Collecting data
+* Preparing manuscript
 
+
+***
 ### Links
 * **Notion site for contributors**: [check it out](https://lmutom.notion.site/ManyWebcams-Overview-24e47023e9dd47fea40c1a3a472c5138).
 * **Materials, Protocols, and Documentation**: [Google Drive](https://drive.google.com/drive/folders/1U33JTq1CH9sxqM1sBfGtnaAxpMNU_RLx).
@@ -60,9 +60,14 @@ MB-ManyWebcams is currently collecting data.
 * **Slack**: Please email any of the members of the leadership team to get a Join invitation
 * **News**: [MB-ManyWebcams news]({{site.baseurl}}/tags/#MB-ManyWebcams)
 
-### Contribute
-We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/get_involved/) and/or contact the project leads by e-mailing: tobias.schuwerk [at] psy.lmu.de, adrian.steffan [at] hotmail.de, lucie.zimmer [at] psy.lmu.de
 
-Please note that access to infants/infant lab is **not** a prerequisite.
+***
+### Contributors
+* For a detailed index of collaborators (+ institutions, countries, studies), see the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
+
+> We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
+
+> Please note that access to infants/infant lab is **NOT** a prerequisite.
+
 
 <!-- ### Publications -->

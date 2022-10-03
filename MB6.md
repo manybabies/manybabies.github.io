@@ -56,6 +56,6 @@ Please contact MB Executive Director, [Heidi Baumgartner](mailto:heidib@stanford
 ### Contributors
 * *To Be Determined*
 
-We encourage everyone who is interested in the project to join the listserv using the link above. You can also email one or more of the project leads to indicate your interest.
+> We encourage everyone who is interested in the project to join the listserv using the link above. You can also email one or more of the project leads to indicate your interest.
 
-Please note that access to infants/infant lab is **not** a prerequisite.
+> Please note that access to infants/infant lab is **NOT** a prerequisite.
