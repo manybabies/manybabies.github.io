@@ -204,6 +204,7 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
         <hr>
       </div>
     </div>
+    <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}" class="image"><img src="/assets/img/MBMW_logo.png" alt="MB-ManyWebcams logo" width="100" height="100"></a>
       </div>
