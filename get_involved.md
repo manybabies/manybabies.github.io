@@ -30,7 +30,7 @@ To-do:
 
 **We're excited to have you join our team!** In addition to collecting data, there are many contribution opportunities (e.g., study design, data analysis, writing) which do not require access to an infant lab. **All are welcome!**
 
-If you know which project you are interested in joining, you can email one or more of the Project Leads directly. You are also encouraged to subscribe to project listservs to receive project updates and communications (see links below). 
+If you know which project you are interested in joining, **you can email one or more of the Project Leads directly**. You are also encouraged to **subscribe to project listservs** to receive project updates and communications (see links below). 
 
 If you're unsure of how you'd like to contribute or you'd like to talk with us about contribution opportunities, please **fill in the Sign-Up Form at the bottom of this page** and we'll be in touch with you as soon as possible. 
 

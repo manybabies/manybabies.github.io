@@ -10,6 +10,13 @@ To-do:
 - Add high resolution plot.
 -->
 
+## Project Overview
+
+* *Project Status*: **COMPLETE**
+* *11 participating labs in 8 countries*
+* *Final sample: 322 babies* 
+* *27 authors on [_Infancy_ publication](https://doi.org/10.1111/infa.12360)*
+
 In this project we investigated the development of gaze following in monolingual and bilingual infants. Sensitivity to cues such as eye gaze might be particularly important for bilingual infants, as they encounter less consistency between words and objects than monolinguals, and do not always have access to the same word learning heuristics (e.g., mutual exclusivity). <img style="float: right;" src="/assets/img/mb1g_paradigm_300px.jpg">
 
 To test the hypothesis that bilingual experience would lead to a more pronounced ability to follow another’s gaze, we tested a total of 93 6–9 month-old and 229 12–15 month-old monolingual and bilingual infants (from 11 labs, 8 countries) in a gaze-following paradimg developed by [Senju and Csibra (2008)](https://doi.org/10.1016/j.cub.2008.03.059). Monolingual and bilingual infants showed similar gaze-following abilities, and both groups showed age-related improvements in speed, accuracy, frequency and duration of fixations.
@@ -37,7 +44,8 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 
 ***
 ### Status
-Completed! Read the final manuscript ([PsyArXiv](https://psyarxiv.com/sgfhv/), [*Infancy*](https://onlinelibrary.wiley.com/doi/10.1111/infa.12360))
+* **Completed!** 
+* Read the final manuscript ([PsyArXiv](https://psyarxiv.com/sgfhv/), [*Infancy*](https://onlinelibrary.wiley.com/doi/10.1111/infa.12360))
 
 
 ***
@@ -49,4 +57,4 @@ Completed! Read the final manuscript ([PsyArXiv](https://psyarxiv.com/sgfhv/), [
 
 ***
 ### Publications
-Byers-Heinlein, K., Tsui, R. K. Y., van Renswoude, D., Black, A. K., Barr, R., PhD, Brown, A., … Singh, L. (2020). [The development of gaze following in monolingual and bilingual infants: A multi-lab study](https://doi.org/10.1111/infa.12360). _Infancy_. [PsyArXiv Preprint](https://doi.org/10.31234/osf.io/sgfhv).
+Byers-Heinlein, K., Tsui, R. K. Y., ... Singh, L. (2020). The development of gaze following in monolingual and bilingual infants: A multi-lab study. [_Infancy_](https://doi.org/10.1111/infa.12360). [PsyArXiv Preprint](https://doi.org/10.31234/osf.io/sgfhv).
