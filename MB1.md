@@ -22,14 +22,14 @@ Notes:
 * *Project Status*: **COMPLETE**
 * *69 participating labs in 16 countries*
 * *2,329 babies tested* 
-* *149 authors*
+* *149 authors on [_AMPPS_ publication](https://doi.org/10.1177/2515245919900809)*
 
 
 In the first **ManyBabies** project, we replicated a robust finding from developmental literature: **infants’ preference for infant-directed speech (IDS) over adult-directed speech (ADS)**. IDS is characterized by a higher pitch, greater pitch excursions, and shorter utterances when compared to ADS. Exposure to IDS has been shown to improve word segmentation and word learning. We asked if infants have a preference for IDS, and how this preference varies across age, native language background, and method.
 
 <img style="float: right;" src="/assets/img/ILL.photoshot.baby.in.booth.jpeg">
 
-Sixty-nine labs from 16 countries participated and collected data from 2,329 infants (range: 3-15 months-old). We focused on three primary methods for assessing infants’ interest: single-screen central fixation, eye tracking, and the head-turn preference procedure (HPP).
+Sixty-nine labs from 16 countries participated and collected data from 2,329 infants (range: 3-15 months old). We focused on three primary methods for assessing infants’ interest: single-screen central fixation, eye tracking, and the head-turn preference procedure (HPP).
 
 
 
@@ -53,19 +53,19 @@ Sixty-nine labs from 16 countries participated and collected data from 2,329 inf
 
 ***
 ### Collaborators
-For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/)
+* For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/)
 
 ***
 ### Links
-* **Materials, Protocols, and Documentation**: [MB1-OSF](https://osf.io/re95x/).
-* **Data and code**: [MB1-GitHub](https://github.com/manybabies/mb1-analysis-public).
-* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1).  
-* **News**: [MB1-news]({{site.baseurl}}/tags/#MB1).
+* **Materials, Protocols, and Documentation**: [MB1-OSF](https://osf.io/re95x/)
+* **Data and code**: [MB1-GitHub](https://github.com/manybabies/mb1-analysis-public)
+* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1)  
+* **News**: [MB1-news]({{site.baseurl}}/tags/#MB1)
 
 ***
 ### Publications
-* Final manuscript: [PsyArXiv preprint](https://psyarxiv.com/s98ab), [*AMPPS* publication](https://doi.org/10.1177/2515245919900809))
-* "Lessons from MB1": [PsyArXiv preprint](https://psyarxiv.com/dmhk2/), [Canadian Psychology](https://doi.org/10.1037/cap0000216)
+* Final manuscript: [PsyArXiv preprint](https://psyarxiv.com/s98ab), [*AMPPS* publication](https://doi.org/10.1177/2515245919900809)
+* "Lessons from MB1": [PsyArXiv preprint](https://psyarxiv.com/dmhk2/), [*Canadian Psychology* publication](https://doi.org/10.1037/cap0000216)
 
 
 ***
