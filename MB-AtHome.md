@@ -14,29 +14,33 @@ In this first ManyBabies methodological project we are developing a remote (onli
 
 Recruiting infants in their homes can alleviate problems of high recruitment costs, since the burden for caregivers is smaller compared to a lab visit. Researchers can therefore potentially access larger, more diverse sample sizes, repeat experimental sessions, and assess test-retest reliability. Furthermore, children can be tested in a familiar environment, and in asynchronous setups at times that they are ready to participate.
 
-### Leads
-[Lorijn Zaadnoordijk](https://sites.google.com/view/lorijnzaadnoordijk/homepage), [Sho Tsuji](https://sites.google.com/site/tsujish), [Katie Von Holzen](https://kvonholzen.github.io), [Helen Buckler](https://www.nottingham.ac.uk/english/people/helen.buckler), [Rhodri Cusack](https://www.infantcentre.ie/who-we-are-2/our-team/prof-rhodri-cusack)
+### Project Leads
+* [Lorijn Zaadnoordijk](https://sites.google.com/view/lorijnzaadnoordijk/homepage) [[email]](mailto:L.Zaadnoordijk@tcd.ie)
+* [Sho Tsuji](https://sites.google.com/site/tsujish) [[email]](mailto:tsujish@gmail.com)
+* [Katie Von Holzen](https://kvonholzen.github.io) [[email]](mailto:katie.m.vonholzen@gmail.com)
+* [Helen Buckler](https://www.nottingham.ac.uk/english/people/helen.buckler) [[email]](mailto:Helen.Buckler@nottingham.ac.uk)
+* [Rhodri Cusack](https://www.infantcentre.ie/who-we-are-2/our-team/prof-rhodri-cusack) [[email]](mailto:rhodricusack@cusacklab.org)
 
-For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/): <video muted autoplay="autoplay" loop="loop" width="768" height="512">
-    <source src="/assets/img/dashboard_studies.mp4" type="video/mp4">  
-    </video>
 
-<!-- Flourish
-<div class="flourish-embed flourish-map" data-src="visualisation/2520119" data-url="https://flo.uri.sh/visualisation/2520119/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
--->
-
+***
 ### Status
-Surveys of the community’s needs and existing solutions, planning the first study on visual preference for different shapes. 
+* Surveys of the community’s needs and existing solutions
+* Planning the first studiues on visual preference for different shapes and looking-while-listening
+* Translating study materials
 
+
+***
 ### Links
-* **Materials, Protocols, and Documentation**: [Google Drive](https://drive.google.com/drive/folders/1IW0daOJMG37FdoGkX1l12zhjPYSmPcD5).
+* **Materials, Protocols, and Documentation**: [Google Drive](https://drive.google.com/drive/folders/1IW0daOJMG37FdoGkX1l12zhjPYSmPcD5)
 <!--* **Data and code**: [MB2-GitHub](https://github.com/manybabies/mb2-analysis).-->
-* **Listserv**: [join here](https://groups.google.com/forum/#!forum/infantlooksathome).
-* **Slack**: Please email any of the members of the leadership team to get a Join invitation.
-* **News**: [MB-AtHome news]({{site.baseurl}}/tags/#MB-AtHome).
+* **Listserv**: [join here](https://groups.google.com/forum/#!forum/infantlooksathome)
+* **Slack**: Please email any of the members of the leadership team to get a Join invitation
+* **News**: [MB-AtHome news]({{site.baseurl}}/tags/#MB-AtHome)
 
+
+***
 ### Contribute
-We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/get_involved/) and/or contact the project leads by e-mailing: L.Zaadnoordijk [at] tcd.ie, tsujish [at] gmail.com, Helen.Buckler [at] nottingham.ac.uk, rhodricusack [at] cusacklab.org <!-- need to add Katie's email -->
+We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
 
 Please note that access to infants/infant lab is **not** a prerequisite.
 

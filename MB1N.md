@@ -27,7 +27,7 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 
 ***
 ### Status
-Stimulus creation and data collection is ongoing.
+* Stimulus creation and data collection is ongoing.
 
 
 ***

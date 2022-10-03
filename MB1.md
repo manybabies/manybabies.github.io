@@ -51,9 +51,11 @@ Sixty-nine labs from 16 countries participated and collected data from 2,329 inf
 * [Michael Frank](https://web.stanford.edu/~mcfrank/), *Stanford University, USA* [[email]](mailto:mcfrank@stanford.edu)
 * [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada* [[email]](mailto:M_Soderstrom@umanitoba.ca)
 
+
 ***
 ### Collaborators
 * For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/)
+
 
 ***
 ### Links
@@ -61,6 +63,7 @@ Sixty-nine labs from 16 countries participated and collected data from 2,329 inf
 * **Data and code**: [MB1-GitHub](https://github.com/manybabies/mb1-analysis-public)
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1)  
 * **News**: [MB1-news]({{site.baseurl}}/tags/#MB1)
+
 
 ***
 ### Publications
@@ -76,6 +79,7 @@ Sixty-nine labs from 16 countries participated and collected data from 2,329 inf
 * [**MB1L: Longitudinal Vocabulary Follow-up**]({{site.baseurl}}/MB1L/)
 * [**MB1N: Native Languages Follow-up**]({{site.baseurl}}/MB1N/)
 * [**MB1T: Test-Retest Follow-up**]({{site.baseurl}}/MB1T/)
+
 
 ***
 ## Secondary Analysis

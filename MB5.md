@@ -24,7 +24,8 @@ Familiarity and novelty effects are the cornerstone of many infant behavioral me
 
 ***
 ### Status
-Finalizing stimuli; preparing Stage 1 Registered Report.
+* Finalizing stimuli and procedure design
+* Preparing Stage 1 Registered Report manuscript
 
 
 ***
@@ -34,14 +35,15 @@ Finalizing stimuli; preparing Stage 1 Registered Report.
 
 
 ***
+### Collaborators
+* For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
+
+
+***
 ### Contribute
 We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
 
 Please note that access to infants/infant lab is **not** a prerequisite.
 
-
-***
-### Collaborators
-For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
 
 <!-- ### Publications -->

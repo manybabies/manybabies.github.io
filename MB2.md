@@ -27,13 +27,17 @@ In this ongoing project we aim to investigate a fundamental feature of human soc
 
 
 ***
-### Collaborators
+### Contributors
 * For a detailed index of collaborators (+ institutions, countries, studies), see the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
 
+> We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
+
+> Please note that access to infants/infant lab is **not** a prerequisite.
 
 ***
 ### Status
-Stage 1 Registered Report has received an In Principle Acceptance at *Child Development* ([read the preprint](https://psyarxiv.com/x4jbm/)); collecting data ([sign-up form](https://docs.google.com/forms/d/1SnPZh1FrIGA5qMFM1ZSMcuE_qN9DPTCEic2Nt35XNcc/viewform)).
+* Stage 1 Registered Report has received an In Principle Acceptance at *Child Development* ([read the preprint](https://psyarxiv.com/x4jbm/))
+* Collecting data ([sign-up form](https://docs.google.com/forms/d/1SnPZh1FrIGA5qMFM1ZSMcuE_qN9DPTCEic2Nt35XNcc/viewform))
 
 
 ***
@@ -43,13 +47,6 @@ Stage 1 Registered Report has received an In Principle Acceptance at *Child Deve
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies2)
 * **News**: [MB2-news]({{site.baseurl}}/tags/#MB2)
 * **Spin-Off**: MB2P (link to come)
-
-
-***
-### Contribute
-We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
-
-Please note that access to infants/infant lab is **not** a prerequisite.
 
 
 ***
