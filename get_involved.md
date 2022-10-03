@@ -49,8 +49,10 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link index.md %}">ManyBabies </a></h3>
         <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies">[subscribe to the general MB listserv]</a><br> 
+        <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ">[join the MB Slack workspace]</a><br>
         <b>Contact info:</b> <a href="mailto:manybabies-gb@mailman.stanford.edu">Governing Board</a>, 
           <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> (more info available <a href="{{site.baseurl}}{% link people.md %}">here</a>)
+        <hr>
       </div>
     </div>
     <div class="col-sm-12">
@@ -63,7 +65,7 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB1.md %}">MB1: Infant-Directed Speech Preference</a></h3>
         <b>Project Status:</b> <i>Complete</i> 
-          <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies1">[subscribe to listserv]</a><br>
+        <br>
         <b>Project Leads:</b> <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a>
         <br>
         <br>
