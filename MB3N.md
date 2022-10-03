@@ -14,27 +14,30 @@ In this ongoing project, we extend [MB3]({{site.baseurl}}/MB3/) investigation on
 
 NIRS is a relatively new imaging technique. Variation across instruments, analysis pipelines, and laboratories is wide and standardization is currently lacking. Using NIRS in this large-scale collaborative project will provide us with the unique opportunity to discuss and solve some of these issues in a global network of experts in developmental research and brain imaging.
 
-### Leads
-[Judit Gervain](https://sites.google.com/site/juditgervain/)
 
+***
+### Project Lead
+* [Judit Gervain](https://sites.google.com/site/juditgervain/)
+
+***
 ### Collaborators
-For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
+* For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
 
-<!-- Flourish
-<div class="flourish-embed flourish-map" data-src="visualisation/2573491" data-url="https://flo.uri.sh/visualisation/2573491/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
--->
-
+***
 ### Status
-Working on data processing pipeline and preparing Stage 1 manuscript.
+* Working on data processing pipeline
+* Preparing Stage 1 Registered Report zmanuscript
 
+***
 ### Links
 <!-- * **Materials, Protocols, and Documentation**: [MB1B-OSF](https://osf.io/zauhq/).
 * **Data and code**: [MB1B-GitHub](https://github.com/manybabies/mb1b-analysis-public). -->
 * **Listserv**: [join here](https://groups.google.com/g/mb3nirs).
 * **News**: [MB3N-news]({{site.baseurl}}/tags/#MB3N).
 
+***
 ### Contribute
-We encourage everyone who is interested in the project to [contribute]({{site.baseurl}}/get_involved/) and/or contact the project leader by e-mailing: judit.gervain [at] parisdescartes.fr
+We encourage everyone who is interested in the project to contact the Project Lead (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
 
 Please note that access to infants/infant lab is **not** a prerequisite.
 

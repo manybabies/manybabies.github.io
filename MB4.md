@@ -25,12 +25,14 @@ In this ongoing project we investigate a fundamental aspect of human nature: eva
 
 ***
 ### Collaborators
-For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
+* For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
 
 
 ***
 ### Status
-Pilot data collection complete; Stage 1 Registered Report has received an In Principle Acceptance to *Developmental Science* ([read the preprint](https://psyarxiv.com/qhxkm)); collecting data ([sign-up form](https://docs.google.com/forms/d/e/1FAIpQLScUicLDQnkKpFa1UdKL8wrPY-qdq3PfY6NbrlkLXHhK_WK2yg/viewform))
+* Pilot data collection complete
+* Stage 1 Registered Report has received an In Principle Acceptance to *Developmental Science* ([read the preprint](https://psyarxiv.com/qhxkm))
+* Collecting data ([sign-up form](https://docs.google.com/forms/d/e/1FAIpQLScUicLDQnkKpFa1UdKL8wrPY-qdq3PfY6NbrlkLXHhK_WK2yg/viewform))
 
 
 ***
@@ -51,4 +53,4 @@ Please note that access to infants/infant lab is **not** a prerequisite.
 
 ***
 ### Publications
-Lucca, K., (...) Yuen, F., & Hamlin, J. K. (Stage 1 Registered Report). [Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study](https://psyarxiv.com/qhxkm)._PsyArXiv Preprint_.
+Lucca, K., (...) Yuen, F., & Hamlin, J. K. (Stage 1 Registered Report). Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study. [PsyArXiv Preprint](https://psyarxiv.com/qhxkm)

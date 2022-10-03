@@ -43,7 +43,8 @@ Please contact MB Executive Director, [Heidi Baumgartner](mailto:heidib@stanford
 
 ***
 ### Status
-Initial planning discussions; team formation
+* Initial planning discussions
+* Team formation
 
 
 ***
@@ -53,7 +54,7 @@ Initial planning discussions; team formation
 
 ***
 ### Contributors
-*To Be Determined*
+* *To Be Determined*
 
 We encourage everyone who is interested in the project to join the listserv using the link above. You can also email one or more of the project leads to indicate your interest.
 
