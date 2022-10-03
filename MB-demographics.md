@@ -22,7 +22,9 @@ If you are interested in collaborating or playing a leadership role in this proj
 
 ***
 ### Status
-Finalizing items for the demographics form(s)
+* Finalizing constructs/items 
+* Developing templates
+* Preparing manuscript
 
 
 ***
