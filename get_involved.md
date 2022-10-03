@@ -55,9 +55,6 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
         <hr>
       </div>
     </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <a href="{{site.baseurl}}{% link MB1.md %}" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo" width="100" height="100"></a>
@@ -102,10 +99,8 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
         <h3><a href="{{site.baseurl}}{% link MB1T.md %}">MB1T: Test-Retest Follow-up</a></h3>
         <b>Project Status:</b> <i>Final manuscript prep</i><br> 
         <b>Project Lead:</b> <a href="mailto:melanie.schreiner@psych.uni-goettingen.de">Melanie Schreiner</a>
+        <hr>
       </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
@@ -122,10 +117,8 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
         <h3><a href="{{site.baseurl}}{% link MB2.md %}">MB2P: Pupillometry</a></h3>
         <b>Project Status:</b> <i>Preparing analysis pipeline; preparing for data collection</i><br> 
         <b>Project Lead:</b> <a href="mailto:robert.hepach@psy.ox.ac.uk">Robert Hepach</a>
+        <hr>
       </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
@@ -143,10 +136,8 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
         <b>Project Status:</b> <i>Developing analysis pipeline; preparing Stage 1 RR manuscript</i> 
           <a href="https://groups.google.com/g/mb3nirs">[subscribe to listserv]</a><br> 
         <b>Project Lead:</b> <a href="mailto:judit.gervain@parisdescartes.fr">Judit Gervain</a>
+        <hr>
       </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
@@ -156,12 +147,10 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
         <h3><a href="{{site.baseurl}}{% link MB4.md %}">MB4: Social Evaluation</a></h3>
         <b>Project Status:</b> <i>Stage 1 Registered Report 'In Principle Acceptance'; preparing for data collection</i> 
           <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4">[subscribe to listserv]</a><br> 
-        <b>Project Leads:</b> <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a>, <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>, 
+        <b>Project Leads:</b> <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a>, <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>,
           <a href="mailto:kiley.hamlin@psych.ubc.ca">Kiley Hamlin</a>
+        <hr>
       </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
@@ -173,10 +162,8 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
           <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies5">[subscribe to listserv]</a><br> 
         <b>Project Leads:</b> <a href="mailto:jkosie@princeton.edu">Jessica Kosie</a>, <a href="mailto:martincz@princeton.edu">Martin Zettersten</a>, 
           <a href="mailto:chbergma@gmail.com">Christina Bergmann</a>, <a href="mailto:da2959@columbia.edu">Dima Amso</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a>
+        <hr>
       </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
@@ -188,14 +175,9 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
           <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies6">[subscribe to listserv]</a><br> 
         <b>Project Leads:</b> <a href="mailto:s.farwaha@uq.edu.au">Sumeet Farwaha</a>, <a href="mailto:meltzoff@uw.edu">Andrew Meltzoff</a>, 
           <a href="mailto:elizabethannsimpson@gmail.com">Elizabeth Simpson</a>, <a href="mailto:vps@psy.uq.edu.au">Virginia Slaughter</a>
+        <hr>
       </div>
     </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
-	</div>
-<br>
-	<div class="container">
 		<div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <a href="{{site.baseurl}}{% link MB-AtHome.md %}" class="image"><img src="/assets/img/MBAH_logo.png" alt="MB-AtHome logo" width="100" height="100"></a>
@@ -207,10 +189,8 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
         <b>Project Leads:</b> <a href="mailto:L.Zaadnoordijk@tcd.ie">Lorijn Zaadnoordijk</a>, <a href="mailto:tsujish@gmail.com">Sho Tsuji</a>, 
           <a href="mailto:katie.m.vonholzen@gmail.com">Katie Von Holzen</a>, <a href="mailto:Helen.Buckler@nottingham.ac.uk">Helen Buckler</a>, 
           <a href="mailto:rhodricusack@cusacklab.org">Rhodri Cusack</a>
+        <hr>
       </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
@@ -221,12 +201,9 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
         <b>Project Status:</b> <i>Preparing manuscript; developing templates</i> 
           <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics">[subscribe to listserv]</a><br> 
         <b>Project Leads:</b> <a href="mailto:leher.singh.nus@gmail.com">Leher Singh</a>, <a href="mailto:mihaela.barokova@gmail.com">Mihaela Barokova</a>
+        <hr>
       </div>
     </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
-    <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}" class="image"><img src="/assets/img/MBMW_logo.png" alt="MB-ManyWebcams logo" width="100" height="100"></a>
       </div>
@@ -236,10 +213,8 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
           <a href="https://lists.lrz.de/mailman/listinfo/online_mb2">[subscribe to listserv]</a><br> 
         <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:adrian.steffan@hotmail.de">Adrian Steffan</a>,
           <a href="mailto:lucie.zimmer@psy.lmu.de">Lucie Zimmer</a>
+        <hr>
       </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
