@@ -24,31 +24,28 @@ In this ongoing project we investigate a fundamental aspect of human nature: eva
 
 
 ***
-### Collaborators
-* For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
-
-
-***
 ### Status
 * Pilot data collection complete
-* Stage 1 Registered Report has received an In Principle Acceptance to *Developmental Science* ([read the preprint](https://psyarxiv.com/qhxkm))
+* Stage 1 Registered Report has received an **In Principle Acceptance** to *Developmental Science* ([read the preprint](https://psyarxiv.com/qhxkm))
 * Collecting data ([sign-up form](https://docs.google.com/forms/d/e/1FAIpQLScUicLDQnkKpFa1UdKL8wrPY-qdq3PfY6NbrlkLXHhK_WK2yg/viewform))
 
 
 ***
 ### Links
-* **Main website**: [check it out](https://sites.google.com/view/manybabies4/home).
-* **Materials, Protocols, and Documentation**: [MB4-OSF](https://osf.io/xe2pj/).
-* **Data and code**: [MB4-GitHub](https://github.com/manybabies/mb4-analysis).
-* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies4).
-* **News**: [MB4-news]({{site.baseurl}}/tags/#MB4).
+* **Main website**: [check it out](https://sites.google.com/view/manybabies4/home)
+* **Materials, Protocols, and Documentation**: [MB4-OSF](https://osf.io/xe2pj/)
+* **Data and code**: [MB4-GitHub](https://github.com/manybabies/mb4-analysis)
+* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies4)
+* **News**: [MB4-news]({{site.baseurl}}/tags/#MB4)
 
 
 ***
-### Contribute
-We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
+### Contributors
+* For a detailed index of collaborators (+ institutions, countries, studies), see the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
 
-Please note that access to infants/infant lab is **not** a prerequisite.
+> We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
+
+> Please note that access to infants/infant lab is **NOT** a prerequisite.
 
 
 ***
