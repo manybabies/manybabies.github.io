@@ -17,17 +17,13 @@ In this ongoing project we explore whether early preference for Infant Directed 
 
 ***
 ### Project Lead
-[Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada* [[email]](mailto:m_soderstrom@umanitoba.ca)
-
-
-***
-### Collaborators
-For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
+* [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada* [[email]](mailto:m_soderstrom@umanitoba.ca)
 
 
 ***
 ### Status
-Finalizing data analyses; preparing final manuscript.
+* Finalizing data analyses
+* Preparing Stage 2 manuscript
 
 
 ***
@@ -39,13 +35,17 @@ Finalizing data analyses; preparing final manuscript.
 
 
 ***
-### Contribute
-We encourage everyone who is interested in the project to email the Project Lead (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
+### Contributors
+* For a detailed index of collaborators (+ institutions, countries, studies), see the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
 
-Please note that access to infants/infant lab is **not** a prerequisite.
+> We encourage everyone who is interested in the project to contact the Project Lead (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
 
+> Please note that access to infants/infant lab is **NOT** a prerequisite.
+
+
+***
 ### Publications
-Soderstrom, M., Werker, J. F., Tsui, A., Skarabela, B., Seidl, A., Searle, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Noble, C., Nave, K., Mayor, J., Martin, A., Lew-Williams, C., Ko, E., Kartushina, N., Kammermeier, M., Jessop, A., Hay, J. F., Hannon, E. E., Hamlin, J. K., Gonzalez-Gomez, N., Gonzalez-Barrero, A. M., Gampe, A., Fritzsche, T., Frank, M. C., Floccia, C., Durrant, S., Delle Luche, C., Davies, C., Cashon, C., Byers-Heinlein, K., Black, A. K., Bergmann, C., Anderson, L. (Stage 1 Registered Report). [Testing the Relationship Between Preferences for Infant-Directed Speech and Vocabulary Development: A Multi-Lab Study](https://drive.google.com/drive/folders/1yb7bdTtEDOKwIA4qMcfiuKkoI1jIojW7). _Preprint_.
+Soderstrom, M., Werker, J. F., Tsui, A., Skarabela, B., Seidl, A., Searle, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Noble, C., Nave, K., Mayor, J., Martin, A., Lew-Williams, C., Ko, E., Kartushina, N., Kammermeier, M., Jessop, A., Hay, J. F., Hannon, E. E., Hamlin, J. K., Gonzalez-Gomez, N., Gonzalez-Barrero, A. M., Gampe, A., Fritzsche, T., Frank, M. C., Floccia, C., Durrant, S., Delle Luche, C., Davies, C., Cashon, C., Byers-Heinlein, K., Black, A. K., Bergmann, C., Anderson, L. (Stage 1 Registered Report). Testing the Relationship Between Preferences for Infant-Directed Speech and Vocabulary Development: A Multi-Lab Study. [_Preprint_](https://drive.google.com/drive/folders/1yb7bdTtEDOKwIA4qMcfiuKkoI1jIojW7)
 
 <!--  
 **News release**: See also the news releases by

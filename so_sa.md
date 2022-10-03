@@ -4,7 +4,7 @@ title: MB
 subtitle: Spin-offs & Secondary Analyses
 ---
 
-# Spin-offs
+## Spin-offs
 
 ### MB1: Infant-Directed Speech Preference
 * [**MB1A: Infant-Directed Speech Preference in African Infants**]({{site.baseurl}}/MB1A/)
@@ -24,9 +24,9 @@ subtitle: Spin-offs & Secondary Analyses
 * MB4E: Emotional Expressions [page in development, contact [Kelsey Lucca](mailto:klucca@asu.edu) for details]
 * MB4I: Individual Differences [page in development, contact [Kelsey Lucca](mailto:klucca@asu.edu) for details]
 
-***
 
-# Secondary Analyses
+***
+## Secondary Analyses
 
 ### MB1: Infant-Directed Speech Preference 
 * [**Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)

@@ -10,7 +10,7 @@ To-do:
 - add information (+ pictures...), links etc.
 -->
 
-# Comparison of the ManyBabies 1 results to meta-analytic data
+## Comparison of the ManyBabies 1 results to meta-analytic data
 <!-- Description (300-word?) intro + method + result -->
 
 Meta-analyses are often considered to be the most reliable source of information when it comes to deciding whether a phenomenon is real, and how strong the effect is. However, large-scale collaborations, such as ManyBabies, often yield different results than published meta-analyses. To better understand how the two ways to collect and analyze large datasets are related (or not), we update the meta-analysis on infant-directed speech preference and subject it to a joint analysis.
@@ -32,8 +32,10 @@ Meta-analysis update sourced from [MetaLab](http://metalab.stanford.edu/dataset/
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1).
 -->
 
-### Contribute
-We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
+### Contributors
+> We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
+
+> Please note that access to infants/infant lab is **NOT** a prerequisite.
 
 <!--
 ### Publications
@@ -41,8 +43,7 @@ We encourage everyone who is interested in the project to contact the Project Le
 -->
 
 ***
-
-# Analysis of supplemental demographic variables
+## Analysis of supplemental demographic variables
 The ManyBabies 1 project provides an unique opportunity not only to take stock of the field and discover how our methods and approaches differ, but to begin to understand the factors that make these effects so difficult to measure. In this ongoing exploratory project, we plan to analyze additional variables collected alongside the main MB1 project, consisting of a wide range of 'lab factors' that researchers believe may impact either whether a baby fusses out of a study (e.g., Research Assistant having beard), or whether they truly attend to stimuli (and thus produce an expected effect in the study).
 
 ### Project Lead
@@ -53,10 +54,10 @@ The ManyBabies 1 project provides an unique opportunity not only to take stock o
 ### Links
 * **Materials, Protocols, and Documentation**: [OSF](https://osf.io/ryzmb/).
 
-### Contribute
-We encourage everyone who is interested in the project to contact the Project Lead (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
+### Contributors
+> We encourage everyone who is interested in the project to contact the Project Lead (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
 
-Please note that access to infants/infant lab is **not** a prerequisite.
+> Please note that access to infants/infant lab is **NOT** a prerequisite.
 
 ### Publications
 Kline, M. (2018, June 8). [The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes](https://osf.io/puxbg/).
