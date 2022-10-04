@@ -141,7 +141,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
       </div>
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB-AtHome.md %}">MB-AtHome: Online Infant Data Collection</a></h4>
-        Solutions for testing infants in their home, with a focus on measuring looks.
+        Solutions for testing infants in their home, with a focus on measuring looks
       </div>
     </div>
     <div class="col-sm-12">
@@ -153,7 +153,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
       </div>
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB-demographics.md %}">MB-Demographics: Unified Demographics for ManyBabies Projects</a></h4>
-        Creating unified demographic forms for ManyBabies projects, with standardized and custom questions.
+        Creating unified demographic forms for ManyBabies projects, with standardized and custom questions
       </div>
     </div>
     <div class="col-sm-12">
@@ -165,8 +165,11 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
       </div>
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}">MB-ManyWebcams: Web-based Eye Tracking for Infant Studies</a></h4>
-        Automatic gaze detection via webcam.
+        Automatic gaze detection via webcam
       </div>
+    </div>
+    <div class="col-sm-12">
+        <p>   </p>
     </div>
 	</div>
 <br>
@@ -190,9 +193,12 @@ Check out **ManyBabies** [reports and conference presentations]({{site.baseurl}}
 ***
 
 ## Get involved
-We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **not** a prerequisite.
+We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **NOT** a prerequisite.
 
 ***
 
 ## Updates
-If you are a **ManyBabies** collaborator, don't forget to keep an updated record of your MB-related activities and initiatives (e.g., workshops, talks etc.). In this [spreadsheet](https://docs.google.com/spreadsheets/d/1esnJTsPB0NJ2PP0fwmWIhSxShKLIN99Ga8ehCDyz3rQ/edit?usp=sharing) you can check a more complete list of **MB** activities and initiatives. To add new activities and initiatives, please complete [this form](https://forms.gle/qaynWvpYLP1J4eYd6).
+If you are a **ManyBabies** collaborator, don't forget to keep an updated record of your MB-related activities and initiatives (e.g., workshops, talks etc.). 
+
+* View a list of **MB** activities and initiatives in this [spreadsheet](https://docs.google.com/spreadsheets/d/1esnJTsPB0NJ2PP0fwmWIhSxShKLIN99Ga8ehCDyz3rQ/edit?usp=sharing)
+* Add new activities and initiatives by filling out [this form](https://forms.gle/qaynWvpYLP1J4eYd6)

@@ -9,7 +9,11 @@ To do:
 - update funding information? MB2 Grant?
 --->
 
-The **ManyBabies** project was [born](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html) committed to Open Science and to the best research practices to test hypotheses about infant development that individual labs could perhaps never adequately test. **MB's** collaborative nature implies that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made on a consensus-based approach. We strive for an environment of trust and equality that can engage researchers from a broad spectrum of backgrounds. To learn more about **MB's** vision for the role of large-scale collaborations, see [Frank et al. (2017)](https://psyarxiv.com/27b43/) and [Byers-Heinlein et al. (2020)](https://psyarxiv.com/dmhk2/).
+The **ManyBabies** project was [born](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html) committed to Open Science and to collaborative research practices that allow teams to test hypotheses about infant development that individual labs could perhaps never adequately test. <br>
+
+**MB's** collaborative nature implies that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made on a consensus-based approach. <br>
+
+We strive for an environment of trust and equality that can engage researchers from a broad spectrum of backgrounds. To learn more about **MB's** vision for the role of large-scale collaborations, see [Frank et al. (2017)](https://psyarxiv.com/27b43/) and [Byers-Heinlein et al. (2020)](https://psyarxiv.com/dmhk2/).
 
 <!-- Too detailed?
 Infant research usually requires significant human and financial resources and is slow to conduct. These aspects, combined with the pressure to publish at a rapid pace to secure promotions and funding, can render the conduction of large-scale projects unpractical under individual labs contexts.
@@ -27,11 +31,11 @@ See **MB's** [Code of Conduct]({{site.baseurl}}/code_conduct/) for a full descri
 
 ### Definitions and Roles
 **ManyBabies** activities are guided by the principles of:
-* *Transparency*: All decisions in a **MB** project, from design to publication, are as transparent as possible
-* *Collective governance*: When possible and feasible, decisions are made jointly and transparently
-* *Inclusivity and diversity*: **MB** explicitly encourages efforts to increase diversity. This includes active applications for funding to assist laboratories from under-represented communities to participate, outreach efforts, and planning workshops
-* *Ethical research*: **MB** projects are committed to best practices and high ethical standards
-* *Respect*: Everyone agrees to a general code of conduct which ensures respectful interactions
+* <b><i>Transparency</i></b>: All decisions in a **MB** project, from design to publication, are as transparent as possible
+* <b><i>Collective governance</i></b>: When possible and feasible, decisions are made jointly and transparently
+* <b><i>Inclusivity and diversity</i></b>: **MB** explicitly encourages efforts to increase diversity. This includes active applications for funding to assist laboratories from under-represented communities to participate, outreach efforts, and planning workshops
+* <b><i>Ethical research</i></b>: **MB** projects are committed to best practices and high ethical standards
+* <b><i>Respect</i></b>: Everyone agrees to a general code of conduct which ensures respectful interactions
 
 ***
 
