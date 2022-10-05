@@ -16,9 +16,9 @@ The [MB Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/) displays the g
 * If you are a project leader and want to add multiple collaborators at once, [email us](mailto:manybabiesconsortium@gmail.com).
 * All responses are **moderated** before being added to the dashboard. This may take some time, we appreciate your patience.
 
-<a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="blank"><video muted autoplay="autoplay" loop="loop" width="768" height="512">
-  <source src="/assets/img/dashboard_overview.mp4" type="video/mp4">  
-</video></a>
+<video muted autoplay="autoplay" loop="loop" width="768" height="512">
+  <a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="blank"><source src="/assets/img/dashboard_overview.mp4" type="video/mp4"></a>  
+</video>
 
 ***
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8_SKJ0TD0MdRTNsf_f84olEc4MAxSFkA1BtAxDjX-OdlWuw/viewform?embedded=true" width="640" height="2089" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
