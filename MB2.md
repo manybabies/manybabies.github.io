@@ -38,7 +38,7 @@ In this ongoing project we aim to investigate a fundamental feature of human soc
 * **Data and code**: [MB2-GitHub](https://github.com/manybabies/mb2-analysis)
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies2)
 * **News**: [MB2-news]({{site.baseurl}}/tags/#MB2)
-* **Spin-Off**: [MB2P]({{site.baseurl}}/MB2P/)
+* **Spin-Off**: [MB2P: Pupil]({{site.baseurl}}/MB2P/)
 
 
 ***
