@@ -4,12 +4,9 @@ title: MB Contributor Dashboard
 cover-img: /assets/img/MB_map.png
 ---
 
-<br>
-
 <section>
 <h2 align="center">View the ManyBabies <a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="blank">Contributor Dashboard</a></h2>
 </section>
-
 <br>
 
 
