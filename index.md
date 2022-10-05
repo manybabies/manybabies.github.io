@@ -70,7 +70,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
         <h4><a href="{{site.baseurl}}{% link MB2.md %}">MB2: Theory of Mind in Infancy</a></h4>
         Do infants show anticipatory looking that reflects the false belief of another agent?
         <br>
-        <i>Spin-off: MB2P (link to come)</i>
+        <i>Spin-off: <a href="{{site.baseurl}}{% link MB2P.md %}">MB2P</a></i>
       </div>
     </div>
     <div class="col-sm-12">

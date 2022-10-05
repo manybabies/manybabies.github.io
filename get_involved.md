@@ -114,8 +114,8 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
           <a href="mailto:hrakocz@uni-goettingen.de">Hannes Rakoczy</a>, <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>
         <br>
         <br>
-        <h3><a href="{{site.baseurl}}{% link MB2.md %}">MB2P: Pupillometry</a></h3>
-        <b>Project Status:</b> <i>Preparing analysis pipeline; preparing for data collection</i><br> 
+        <h3><a href="{{site.baseurl}}{% link MB2P.md %}">MB2P: Pupillometry</a></h3>
+        <b>Project Status:</b> <i>Preparing analysis pipeline; collecting data</i><br> 
         <b>Project Lead:</b> <a href="mailto:robert.hepach@psy.ox.ac.uk">Robert Hepach</a>
         <hr>
       </div>
