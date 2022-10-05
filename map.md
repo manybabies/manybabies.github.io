@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MB Dashboard / Map
+title: MB Contributor Dashboard
 cover-img: /assets/img/MB_map.png
 ---
 
