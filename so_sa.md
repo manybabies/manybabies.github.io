@@ -15,7 +15,7 @@ subtitle: Spin-offs & Secondary Analyses
 * [**MB1T: Test-Retest Follow-up**]({{site.baseurl}}/MB1T/)
 
 ### MB2: Theory of Mind
-* [MB2P: Pupil Dilation to Measure Violation-of-Expectation]({{site.baseurl}}/MB2P/)
+* [**MB2P: Pupil Dilation to Measure Violation-of-Expectation**]({{site.baseurl}}/MB2P/)
 
 ### MB3: Rule Learning
 * [**MB3N: Rule Learning using NIRS**]({{site.baseurl}}/MB3N/)
