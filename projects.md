@@ -50,6 +50,9 @@ The broader goals of **ManyBabies (MB)** come together through collaborative pro
 * [**MB1N: Native Languages Follow-up**]({{site.baseurl}}/MB1N/)    
 * [**MB1T: Test-Retest Follow-up**]({{site.baseurl}}/MB1T/)  
 
+#### MB2
+* [**MB2P: Pupillometry**]({{site.baseurl}}/MB2P/)
+
 #### MB3
 * [**MB3N: Rule Learning using NIRS**]({{site.baseurl}}/MB3N/)    
 
