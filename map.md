@@ -4,13 +4,20 @@ title: MB Dashboard / Map
 cover-img: /assets/img/MB_map.png
 ---
 
-## [View the Contributor Dashboard!](https://manybabies.shinyapps.io/shiny_mb_map/)
+<br>
 
-The [ManyBabies dashboard](https://manybabies.shinyapps.io/shiny_mb_map/) displays the geographical distribution of MB collaborators. It is a powerful tool for communicating with researchers and the general public, as it quickly and intuitively shows MB diversity and reach.
+<section>
+<h2 align="center">View the ManyBabies <a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="blank">Contributor Dashboard</a></h2>
+</section>
 
-To be added to the [ManyBabies dashboard](https://manybabies.shinyapps.io/shiny_mb_map/), please fill out the form below.
+<br>
 
-To update any dashboard information (e.g., change of affiliation, name), you can either fill out the form below or [email us](mailto:manybabiesconsortium@gmail.com).
+
+The [MB Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/) displays the geographical distribution of MB collaborators. It is a powerful tool for communicating with researchers and the general public, as it quickly and intuitively shows MB diversity and reach.
+
+To be added to the MB Dashboard, please **fill out the form below**.
+
+To update any Dashboard information (*e.g., change of affiliation, name*), you can either fill out the form below or [email us](mailto:manybabiesconsortium@gmail.com).
 
 If you are a project leader and want to add multiple collaborators at once, please [email us](mailto:manybabiesconsortium@gmail.com).
 
