@@ -15,13 +15,13 @@ navbar-links:
   Learn more:
     - About: "about"
     - People: "people"
+    - Contributor Dashboard: "map"
     - News & Events: "news"
     - Workshops: "workshops"
     - Contributions: "contributions"
     - Authorship: "authorship"
     - Publications: "publications"
     - Resources: "resources"
-    - Map: "map"
   Projects:
     - Overview: "projects"
     - MB1: "MB1"
