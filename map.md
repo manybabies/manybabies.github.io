@@ -5,7 +5,7 @@ cover-img: /assets/img/MB_map.png
 ---
 
 <section>
-<h2 align="center">View the ManyBabies <a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="blank">Contributor Dashboard</a></h2>
+<h2 align="center"> > View the ManyBabies <a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="blank">Contributor Dashboard</a> < </h2>
 </section>
 
 The [MB Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/) displays the geographical distribution of MB collaborators. It is a powerful tool for communicating with researchers and the general public, as it quickly and intuitively shows MB diversity and reach.
