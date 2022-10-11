@@ -25,7 +25,7 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 
 ***
 ### Status
-* Stage 1 Registered Report has received an **In Principle Acceptance** at *Developmental Psychology* ([read the preprint](https://psyarxiv.com/aex7v/))
+* Stage 1 Registered Report has received an **In Principle Acceptance** at *Developmental Science* ([read the preprint](https://psyarxiv.com/aex7v/))
 * Collecting data ([sign-up form](https://umanitobapsych.az1.qualtrics.com/jfe/form/SV_4NiYE6jM0399g7r))
 
 > Data Collection Meetings are scheduled for Tuesday Oct 11 11am ET / 5pm, CEST and Thursday Oct 13, 9am CEST. For more information, contact [Ingmar Visser](mailto:i.visser@uva.nl)
@@ -34,6 +34,7 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 ***
 ### Links
 * **Materials, Protocols, and Documentation**: [MB3-OSF](https://osf.io/kqu9v/)
+* **Lab Manual**: [link](https://docs.google.com/document/d/1b-ZaJpbVzvN_fUApXlZkZiT9jxGUYRhHbAC1qOucufo/edit?usp=sharing)
 * **Data and code**: [MB3-GitHub](https://github.com/manybabies/mb3-rules)
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies3)
 * **News**: [MB3-news]({{site.baseurl}}/tags/#MB3)
