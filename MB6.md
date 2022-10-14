@@ -49,7 +49,8 @@ Please contact MB Executive Director, [Heidi Baumgartner](mailto:heidib@stanford
 
 ***
 ### Links
-* **Listserv**: [subscribe here](https://mailman.stanford.edu/mailman/listinfo/manybabies6).
+* **Listserv**: [subscribe here](https://mailman.stanford.edu/mailman/listinfo/manybabies6)
+* **Slack**: [MB workspace](https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ) (*join the #mb6-general channel*)
 
 
 ***

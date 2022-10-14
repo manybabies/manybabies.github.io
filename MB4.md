@@ -36,7 +36,7 @@ In this ongoing project we investigate a fundamental aspect of human nature: eva
 * **Materials, Protocols, and Documentation**: [MB4-OSF](https://osf.io/xe2pj/)
 * **Data and code**: [MB4-GitHub](https://github.com/manybabies/mb4-analysis)
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies4)
-* **News**: [MB4-news]({{site.baseurl}}/tags/#MB4)
+* **Slack**: [MB workspace](https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ) (*join the #mb4-general channel*)
 
 
 ***

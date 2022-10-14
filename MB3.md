@@ -37,7 +37,7 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 * **Lab Manual**: [link](https://docs.google.com/document/d/1b-ZaJpbVzvN_fUApXlZkZiT9jxGUYRhHbAC1qOucufo/edit?usp=sharing)
 * **Data and code**: [MB3-GitHub](https://github.com/manybabies/mb3-rules)
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies3)
-* **News**: [MB3-news]({{site.baseurl}}/tags/#MB3)
+* **Slack**: [MB workspace](https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ) (*join the #mb3-general channel*)
 
 
 ***
