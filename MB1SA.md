@@ -17,7 +17,7 @@ Meta-analyses are often considered to be the most reliable source of information
 
 
 ### Project Leads
-* [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), *University of Applied Sciences, Germany & Max Planck Institute for Psycholinguistics, Netherlands)* [[email]](mailto:chbergma@gmail.com)
+* [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), *University of Applied Sciences, Germany & Max Planck Institute for Psycholinguistics, Netherlands)* [[email]](mailto:chbergma@uni-osnabrueck.de)
 * [Riccardo Fusaroli](https://pure.au.dk/portal/en/persons/riccardo-fusaroli(3f72f2a1-e93a-4689-872c-c11c9703c1cc).html), *Aarhus University, Denmark* [[email]](mailto:fusaroli@cas.au.dk)
 
 ### Status

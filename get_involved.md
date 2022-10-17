@@ -161,7 +161,7 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
         <b>Project Status:</b> <i>Developing stimuli; Preparing Stage 1 RR manuscript</i> 
           <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies5">[subscribe to listserv]</a><br> 
         <b>Project Leads:</b> <a href="mailto:jkosie@princeton.edu">Jessica Kosie</a>, <a href="mailto:martincz@princeton.edu">Martin Zettersten</a>, 
-          <a href="mailto:chbergma@gmail.com">Christina Bergmann</a>, <a href="mailto:da2959@columbia.edu">Dima Amso</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a>
+          <a href="mailto:chbergma@uni-osnabrueck.de">Christina Bergmann</a>, <a href="mailto:da2959@columbia.edu">Dima Amso</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a>
         <hr>
       </div>
     </div>
@@ -224,7 +224,7 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB1SA.md %}">Secondary Analyses</a></h3>
         <h4>Comparison to meta-analytic data</h4>
-        <b>Project Leads:</b> <a href="mailto:chbergma@gmail.com">Christina Bergmann</a>, <a href="mailto:fusaroli@cas.au.dk">Riccardo Fusaroli</a><br>
+        <b>Project Leads:</b> <a href="mailto:chbergma@uni-osnabrueck.de">Christina Bergmann</a>, <a href="mailto:fusaroli@cas.au.dk">Riccardo Fusaroli</a><br>
         <br>
         <h4>Analysis of supplemental demographic variables</h4>
         <b>Project Lead:</b> <a href="mailto:mekline@mit.edu">Melissa Kline Struhl</a>
