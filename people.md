@@ -61,7 +61,7 @@ Project Leads are listed on each [project page]({{site.baseurl}}/projects/), as 
         <h4><a href="https://www.mpi.nl/people/bergmann-christina">Christina Bergmann</a> [2016 - ]</h4>
         <i>University of Applied Sciences (Osnabrück, Germany) & Max Planck Institute for Psycholinguistics (Nijmegen, Netherlands)</i> 
         <br>
-        <a href="mailto:chbergma@gmail.com">[email]</a>
+        <a href="mailto:chbergma@uni-osnabrueck.de">[email]</a>
       </div>
     </div>
     <div class="col-sm-12">
