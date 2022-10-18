@@ -122,9 +122,9 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
         <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3"><i>Subscribe</i></a><br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB3N.md %}">MB3N: Rule Learning using NIRS</a></h3>
-        <b>Project Status:</b> <i>Developing analysis pipeline; preparing Stage 1 RR manuscript</i> 
-          <a href="https://groups.google.com/g/mb3nirs">[subscribe to listserv]</a><br> 
-        <b>Project Lead:</b> <a href="mailto:judit.gervain@parisdescartes.fr">Judit Gervain</a>
+        <b>Project Status:</b> <i>Developing analysis pipeline; preparing Stage 1 RR manuscript</i><br> 
+        <b>Project Lead:</b> <a href="mailto:judit.gervain@parisdescartes.fr">Judit Gervain</a><br>
+        <b>MB3N listserv:</b> <a href="https://groups.google.com/g/mb3nirs"><i>Subscribe</i></a>
         <hr>
       </div>
     </div>
@@ -134,10 +134,9 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB4.md %}">MB4: Social Evaluation</a></h3>
-        <b>Project Status:</b> <i>Collecting data</i> 
-          <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4">[subscribe to listserv]</a><br> 
-        <b>Project Leads:</b> <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a>, <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>,
-          <a href="mailto:kiley.hamlin@psych.ubc.ca">Kiley Hamlin</a>
+        <b>Project Status:</b> <i>Collecting data</i><br> 
+        <b>Project Leads:</b> <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a>, <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>, <a href="mailto:kiley.hamlin@psych.ubc.ca">Kiley Hamlin</a><br>
+        <b>MB4 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4"><i>Subscribe</i></a><br>
         <hr>
       </div>
     </div>
