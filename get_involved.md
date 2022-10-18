@@ -146,10 +146,10 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB5.md %}">MB5: The Hunter & Ames Model of Infant Looking Preference</a></h3>
-        <b>Project Status:</b> <i>Developing stimuli; Preparing Stage 1 RR manuscript</i> 
-          <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies5">[subscribe to listserv]</a><br> 
+        <b>Project Status:</b> <i>Developing stimuli; Preparing Stage 1 RR manuscript</i><br> 
         <b>Project Leads:</b> <a href="mailto:jkosie@princeton.edu">Jessica Kosie</a>, <a href="mailto:martincz@princeton.edu">Martin Zettersten</a>, 
-          <a href="mailto:chbergma@uni-osnabrueck.de">Christina Bergmann</a>, <a href="mailto:da2959@columbia.edu">Dima Amso</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a>
+          <a href="mailto:chbergma@uni-osnabrueck.de">Christina Bergmann</a>, <a href="mailto:da2959@columbia.edu">Dima Amso</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a><br>
+        <b>MB5 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies5"><i>Subscribe</i></a>
         <hr>
       </div>
     </div>
@@ -159,10 +159,9 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB6.md %}">MB6: Neonatal Imitation</a></h3>
-        <b>Project Status:</b> <i>Early planning; Team formation</i> 
-          <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies6">[subscribe to listserv]</a><br> 
-        <b>Project Leads:</b> <a href="mailto:s.farwaha@uq.edu.au">Sumeet Farwaha</a>, <a href="mailto:meltzoff@uw.edu">Andrew Meltzoff</a>, 
-          <a href="mailto:elizabethannsimpson@gmail.com">Elizabeth Simpson</a>, <a href="mailto:vps@psy.uq.edu.au">Virginia Slaughter</a>
+        <b>Project Status:</b> <i>Early planning; Team formation</i><br> 
+        <b>Project Leads:</b> <a href="mailto:s.farwaha@uq.edu.au">Sumeet Farwaha</a>, <a href="mailto:meltzoff@uw.edu">Andrew Meltzoff</a>, <a href="mailto:elizabethannsimpson@gmail.com">Elizabeth Simpson</a>, <a href="mailto:vps@psy.uq.edu.au">Virginia Slaughter</a><br>
+        <b>MB6 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies6"><i>Subscribe</i></a>
         <hr>
       </div>
     </div>
