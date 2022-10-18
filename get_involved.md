@@ -62,37 +62,31 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB1.md %}">MB1: Infant-Directed Speech Preference</a></h3>
         <b>Project Status:</b> <i>Complete</i><br>
-        <b>Project Leads:</b> <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a>
-        <br>
+        <b>Project Leads:</b> <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB1A.md %}">MB1A: Infant-Directed Speech Preference in African Infants</a></h3>
-        <b>MB1A listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-africa"><i>Subscribe</i></a><br>
         <b>Project Status:</b> <i>Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:abc@ucsd.edu">Alex Carstensen</a>, <a href="mailto:kachergis@stanford.edu">George Kachergis</a>, 
           <a href="mailto:angelinetsui@gmail.com">Angeline Tsui</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a>, 
-          <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>
-        <br>
+          <a href="mailto:mcfrank@stanford.edu">Michael Frank</a><br>
+        <b>MB1A listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-africa"><i>Subscribe</i></a><br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB1B.md %}">MB1B: Infant-Directed Speech Preference in Bilingual Infants</a></h3>
         <b>Project Status:</b> <i>Complete</i><br> 
-        <b>Project Lead:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a>
-        <br>
+        <b>Project Lead:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a><br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB1G.md %}">MB1G: Gaze Following in Monolingual and Bilingual Infants</a></h3>
         <b>Project Status:</b> <i>Complete</i><br> 
-        <b>Project Lead:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a>
-        <br>
+        <b>Project Lead:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a><br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB1L.md %}">MB1L: Longitudinal Vocabulary Follow-up</a></h3>
-        <b>MB1L listserv:</b> <a href="https://groups.google.com/u/1/g/mb1-cdi-follow-up"><i>Subscribe</i></a><br>
         <b>Project Status:</b> <i>Stage 2 manuscript prep</i><br> 
-        <b>Project Lead:</b> <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a>
-        <br>
+        <b>Project Lead:</b> <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
+        <b>MB1L listserv:</b> <a href="https://groups.google.com/u/1/g/mb1-cdi-follow-up"><i>Subscribe</i></a><br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB1N.md %}">MB1N: Native Languages Follow-up</a></h3>
         <b>Project Status:</b> <i>Collecting data</i><br> 
-        <b>Project Leads:</b> <a href="mailto:natalia.kartushina@psykologi.uio.no">Natalia Kartushina</a>, <a href="mailto:virginie.durier@univ-rennes1.fr">Virginie Durier</a>
-        <br>
+        <b>Project Leads:</b> <a href="mailto:natalia.kartushina@psykologi.uio.no">Natalia Kartushina</a>, <a href="mailto:virginie.durier@univ-rennes1.fr">Virginie Durier</a><br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB1T.md %}">MB1T: Test-Retest Follow-up</a></h3>
         <b>Project Status:</b> <i>Final manuscript prep</i><br> 
@@ -106,11 +100,9 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB2.md %}">MB2: Theory of Mind in Infancy</a></h3>
-        <b>Project Status:</b> <i>Collecting data</i> 
-          <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies2">[subscribe to listserv]</a><br> 
-        <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:dk@psy.ku.dk">Dora Kampis</a>, 
-          <a href="mailto:hrakocz@uni-goettingen.de">Hannes Rakoczy</a>, <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>
-        <br>
+        <b>Project Status:</b> <i>Collecting data</i><br> 
+        <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:dk@psy.ku.dk">Dora Kampis</a>, <a href="mailto:hrakocz@uni-goettingen.de">Hannes Rakoczy</a>, <a href="mailto:mcfrank@stanford.edu">Michael Frank</a><br>
+        <b>MB1L listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies2"><i>Subscribe</i></a><br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB2P.md %}">MB2P: Pupil Dilation to Measure Violation-of-Expectation</a></h3>
         <b>Project Status:</b> <i>Preparing analysis pipeline; collecting data</i><br> 
