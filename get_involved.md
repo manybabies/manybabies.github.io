@@ -48,10 +48,10 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link index.md %}">ManyBabies </a></h3>
-        <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies">[subscribe to the general MB listserv]</a><br> 
-        <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ">[join the MB Slack workspace]</a><br>
         <b>Contact info:</b> <a href="mailto:manybabies-gb@mailman.stanford.edu">Governing Board</a>, 
-          <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> (more info available <a href="{{site.baseurl}}{% link people.md %}">here</a>)
+          <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> <i>(more info available <a href="{{site.baseurl}}{% link people.md %}">here</a>)</i><br>
+        <b>General MB Listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies"><i>Subscribe</i></a><br> 
+        <b>General MB Slack:</b> <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ"><i>Join</i></a>
         <hr>
       </div>
     </div>
@@ -61,40 +61,32 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB1.md %}">MB1: Infant-Directed Speech Preference</a></h3>
-        <b>Project Status:</b> <i>Complete</i> 
-        <br>
-        <b>Project Leads:</b> <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a>
-        <br>
+        <b>Project Status:</b> <i>Complete</i><br>
+        <b>Project Leads:</b> <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB1A.md %}">MB1A: Infant-Directed Speech Preference in African Infants</a></h3>
-        <b>Project Status:</b> <i>Collecting data</i> 
-          <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-africa">[subscribe to listserv]</a><br>
+        <b>Project Status:</b> <i>Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:abc@ucsd.edu">Alex Carstensen</a>, <a href="mailto:kachergis@stanford.edu">George Kachergis</a>, 
           <a href="mailto:angelinetsui@gmail.com">Angeline Tsui</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a>, 
-          <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>
-        <br>
+          <a href="mailto:mcfrank@stanford.edu">Michael Frank</a><br>
+        <b>MB1A listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-africa"><i>Subscribe</i></a><br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB1B.md %}">MB1B: Infant-Directed Speech Preference in Bilingual Infants</a></h3>
-        <b>Project Status:</b> <i>Complete</i> 
-          <a href="https://groups.google.com/forum/#!forum/manybabies-bilingual">[subscribe to listserv]</a><br> 
-        <b>Project Lead:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a>
-        <br>
+        <b>Project Status:</b> <i>Complete</i><br> 
+        <b>Project Lead:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a><br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB1G.md %}">MB1G: Gaze Following in Monolingual and Bilingual Infants</a></h3>
         <b>Project Status:</b> <i>Complete</i><br> 
-        <b>Project Lead:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a>
-        <br>
+        <b>Project Lead:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a><br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB1L.md %}">MB1L: Longitudinal Vocabulary Follow-up</a></h3>
-        <b>Project Status:</b> <i>Stage 2 manuscript prep</i> 
-          <a href="https://groups.google.com/u/1/g/mb1-cdi-follow-up">[subscribe to listserv]</a><br> 
-        <b>Project Lead:</b> <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a>
-        <br>
+        <b>Project Status:</b> <i>Stage 2 manuscript prep</i><br> 
+        <b>Project Lead:</b> <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
+        <b>MB1L listserv:</b> <a href="https://groups.google.com/u/1/g/mb1-cdi-follow-up"><i>Subscribe</i></a><br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB1N.md %}">MB1N: Native Languages Follow-up</a></h3>
         <b>Project Status:</b> <i>Collecting data</i><br> 
-        <b>Project Leads:</b> <a href="mailto:natalia.kartushina@psykologi.uio.no">Natalia Kartushina</a>, <a href="mailto:virginie.durier@univ-rennes1.fr">Virginie Durier</a>
-        <br>
+        <b>Project Leads:</b> <a href="mailto:natalia.kartushina@psykologi.uio.no">Natalia Kartushina</a>, <a href="mailto:virginie.durier@univ-rennes1.fr">Virginie Durier</a><br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB1T.md %}">MB1T: Test-Retest Follow-up</a></h3>
         <b>Project Status:</b> <i>Final manuscript prep</i><br> 
@@ -108,11 +100,9 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB2.md %}">MB2: Theory of Mind in Infancy</a></h3>
-        <b>Project Status:</b> <i>Collecting data</i> 
-          <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies2">[subscribe to listserv]</a><br> 
-        <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:dk@psy.ku.dk">Dora Kampis</a>, 
-          <a href="mailto:hrakocz@uni-goettingen.de">Hannes Rakoczy</a>, <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>
-        <br>
+        <b>Project Status:</b> <i>Collecting data</i><br> 
+        <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:dk@psy.ku.dk">Dora Kampis</a>, <a href="mailto:hrakocz@uni-goettingen.de">Hannes Rakoczy</a>, <a href="mailto:mcfrank@stanford.edu">Michael Frank</a><br>
+        <b>MB2 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies2"><i>Subscribe</i></a><br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB2P.md %}">MB2P: Pupil Dilation to Measure Violation-of-Expectation</a></h3>
         <b>Project Status:</b> <i>Preparing analysis pipeline; collecting data</i><br> 
@@ -126,16 +116,15 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB3.md %}">MB3: Rule Learning</a></h3>
-        <b>Project Status:</b> <i>Collecting data</i> 
-          <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3">[subscribe to listserv]</a><br> 
+        <b>Project Status:</b> <i>Collecting data</i><br> 
         <b>Project Leads:</b> <a href="mailto:i.visser@uva.nl">Ingmar Visser</a>, <a href="mailto:a.geambasu@hum.leidenuniv.nl">Andreea Geambasu</a>, 
-          <a href="mailto:c.c.levelt@hum.leidenuniv.nl">Claartje Levelt</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a>
-        <br>
+          <a href="mailto:c.c.levelt@hum.leidenuniv.nl">Claartje Levelt</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
+        <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3"><i>Subscribe</i></a><br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB3N.md %}">MB3N: Rule Learning using NIRS</a></h3>
-        <b>Project Status:</b> <i>Developing analysis pipeline; preparing Stage 1 RR manuscript</i> 
-          <a href="https://groups.google.com/g/mb3nirs">[subscribe to listserv]</a><br> 
-        <b>Project Lead:</b> <a href="mailto:judit.gervain@parisdescartes.fr">Judit Gervain</a>
+        <b>Project Status:</b> <i>Developing analysis pipeline; preparing Stage 1 RR manuscript</i><br> 
+        <b>Project Lead:</b> <a href="mailto:judit.gervain@parisdescartes.fr">Judit Gervain</a><br>
+        <b>MB3N listserv:</b> <a href="https://groups.google.com/g/mb3nirs"><i>Subscribe</i></a>
         <hr>
       </div>
     </div>
@@ -145,10 +134,9 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB4.md %}">MB4: Social Evaluation</a></h3>
-        <b>Project Status:</b> <i>Collecting data</i> 
-          <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4">[subscribe to listserv]</a><br> 
-        <b>Project Leads:</b> <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a>, <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>,
-          <a href="mailto:kiley.hamlin@psych.ubc.ca">Kiley Hamlin</a>
+        <b>Project Status:</b> <i>Collecting data</i><br> 
+        <b>Project Leads:</b> <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a>, <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>, <a href="mailto:kiley.hamlin@psych.ubc.ca">Kiley Hamlin</a><br>
+        <b>MB4 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4"><i>Subscribe</i></a><br>
         <hr>
       </div>
     </div>
@@ -158,10 +146,10 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB5.md %}">MB5: The Hunter & Ames Model of Infant Looking Preference</a></h3>
-        <b>Project Status:</b> <i>Developing stimuli; Preparing Stage 1 RR manuscript</i> 
-          <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies5">[subscribe to listserv]</a><br> 
+        <b>Project Status:</b> <i>Developing stimuli; Preparing Stage 1 RR manuscript</i><br> 
         <b>Project Leads:</b> <a href="mailto:jkosie@princeton.edu">Jessica Kosie</a>, <a href="mailto:martincz@princeton.edu">Martin Zettersten</a>, 
-          <a href="mailto:chbergma@uni-osnabrueck.de">Christina Bergmann</a>, <a href="mailto:da2959@columbia.edu">Dima Amso</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a>
+          <a href="mailto:chbergma@uni-osnabrueck.de">Christina Bergmann</a>, <a href="mailto:da2959@columbia.edu">Dima Amso</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a><br>
+        <b>MB5 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies5"><i>Subscribe</i></a>
         <hr>
       </div>
     </div>
@@ -171,10 +159,9 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB6.md %}">MB6: Neonatal Imitation</a></h3>
-        <b>Project Status:</b> <i>Early planning; Team formation</i> 
-          <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies6">[subscribe to listserv]</a><br> 
-        <b>Project Leads:</b> <a href="mailto:s.farwaha@uq.edu.au">Sumeet Farwaha</a>, <a href="mailto:meltzoff@uw.edu">Andrew Meltzoff</a>, 
-          <a href="mailto:elizabethannsimpson@gmail.com">Elizabeth Simpson</a>, <a href="mailto:vps@psy.uq.edu.au">Virginia Slaughter</a>
+        <b>Project Status:</b> <i>Early planning; Team formation</i><br> 
+        <b>Project Leads:</b> <a href="mailto:s.farwaha@uq.edu.au">Sumeet Farwaha</a>, <a href="mailto:meltzoff@uw.edu">Andrew Meltzoff</a>, <a href="mailto:elizabethannsimpson@gmail.com">Elizabeth Simpson</a>, <a href="mailto:vps@psy.uq.edu.au">Virginia Slaughter</a><br>
+        <b>MB6 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies6"><i>Subscribe</i></a>
         <hr>
       </div>
     </div>
@@ -184,11 +171,9 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB-AtHome.md %}">MB-AtHome: Online Infant Data Collection</a></h3>
-        <b>Project Status:</b> <i>Translating materials; collecting pilot data</i> 
-          <a href="https://groups.google.com/forum/#!forum/infantlooksathome">[subscribe to listserv]</a><br> 
-        <b>Project Leads:</b> <a href="mailto:L.Zaadnoordijk@tcd.ie">Lorijn Zaadnoordijk</a>, <a href="mailto:tsujish@gmail.com">Sho Tsuji</a>, 
-          <a href="mailto:katie.m.vonholzen@gmail.com">Katie Von Holzen</a>, <a href="mailto:Helen.Buckler@nottingham.ac.uk">Helen Buckler</a>, 
-          <a href="mailto:rhodricusack@cusacklab.org">Rhodri Cusack</a>
+        <b>Project Status:</b> <i>Translating materials; Collecting pilot data</i><br> 
+        <b>Project Leads:</b> <a href="mailto:L.Zaadnoordijk@tcd.ie">Lorijn Zaadnoordijk</a>, <a href="mailto:tsujish@gmail.com">Sho Tsuji</a>, <a href="mailto:katie.m.vonholzen@gmail.com">Katie Von Holzen</a>, <a href="mailto:Helen.Buckler@nottingham.ac.uk">Helen Buckler</a>, <a href="mailto:rhodricusack@cusacklab.org">Rhodri Cusack</a><br>
+        <b>MB-AH listserv:</b> <a href="https://groups.google.com/forum/#!forum/infantlooksathome"><i>Subscribe</i></a>
         <hr>
       </div>
     </div>
@@ -198,9 +183,9 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB-demographics.md %}">MB-Demographics: Standard Demographics for MB Projects</a></h3>
-        <b>Project Status:</b> <i>Preparing manuscript; developing templates</i> 
-          <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics">[subscribe to listserv]</a><br> 
-        <b>Project Leads:</b> <a href="mailto:leher.singh.nus@gmail.com">Leher Singh</a>, <a href="mailto:mihaela.barokova@gmail.com">Mihaela Barokova</a>
+        <b>Project Status:</b> <i>Preparing manuscript; Developing templates</i><br> 
+        <b>Project Leads:</b> <a href="mailto:leher.singh.nus@gmail.com">Leher Singh</a>, <a href="mailto:mihaela.barokova@gmail.com">Mihaela Barokova</a><br>
+        <b>MB-Demo listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics"><i>Subscribe</i></a>
         <hr>
       </div>
     </div>
@@ -210,10 +195,9 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}">MB-ManyWebcams: Web-based Eye Tracking for Infant Studies</a></h3>
-        <b>Project Status:</b> <i>Collecting data</i> 
-          <a href="https://lists.lrz.de/mailman/listinfo/online_mb2">[subscribe to listserv]</a><br> 
-        <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:adrian.steffan@hotmail.de">Adrian Steffan</a>,
-          <a href="mailto:lucie.zimmer@psy.lmu.de">Lucie Zimmer</a>
+        <b>Project Status:</b> <i>Collecting data</i><br> 
+        <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:adrian.steffan@hotmail.de">Adrian Steffan</a>, <a href="mailto:lucie.zimmer@psy.lmu.de">Lucie Zimmer</a><br>
+        <b>MB-MW listserv:</b> <a href="https://lists.lrz.de/mailman/listinfo/online_mb2"><i>Subscribe</i></a>
         <hr>
       </div>
     </div>
