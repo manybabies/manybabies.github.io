@@ -48,10 +48,10 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link index.md %}">ManyBabies </a></h3>
-        <b>General MB Listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies"><i>Subscribe</i></a><br> 
-        <b>General MB Slack:</b> <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ"><i>Join</i></a><br>
         <b>Contact info:</b> <a href="mailto:manybabies-gb@mailman.stanford.edu">Governing Board</a>, 
-          <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> (more info available <a href="{{site.baseurl}}{% link people.md %}">here</a>)
+          <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> (more info available <a href="{{site.baseurl}}{% link people.md %}">here</a>)<br>
+        <b>General MB Listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies"><i>Subscribe</i></a><br> 
+        <b>General MB Slack:</b> <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ"><i>Join</i></a>
         <hr>
       </div>
     </div>
@@ -66,7 +66,7 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
         <br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB1A.md %}">MB1A: Infant-Directed Speech Preference in African Infants</a></h3>
-        <b>MB1A listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-africa"><i>Subscribe</i></a>
+        <b>MB1A listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-africa"><i>Subscribe</i></a><br>
         <b>Project Status:</b> <i>Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:abc@ucsd.edu">Alex Carstensen</a>, <a href="mailto:kachergis@stanford.edu">George Kachergis</a>, 
           <a href="mailto:angelinetsui@gmail.com">Angeline Tsui</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a>, 
@@ -74,8 +74,7 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
         <br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB1B.md %}">MB1B: Infant-Directed Speech Preference in Bilingual Infants</a></h3>
-        <b>Project Status:</b> <i>Complete</i> 
-          <a href="https://groups.google.com/forum/#!forum/manybabies-bilingual">[subscribe to listserv]</a><br> 
+        <b>Project Status:</b> <i>Complete</i><br> 
         <b>Project Lead:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a>
         <br>
         <br>
@@ -85,8 +84,8 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
         <br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB1L.md %}">MB1L: Longitudinal Vocabulary Follow-up</a></h3>
-        <b>Project Status:</b> <i>Stage 2 manuscript prep</i> 
-          <a href="https://groups.google.com/u/1/g/mb1-cdi-follow-up">[subscribe to listserv]</a><br> 
+        <b>MB1L listserv:</b> <a href="https://groups.google.com/u/1/g/mb1-cdi-follow-up"><i>Subscribe</i></a><br>
+        <b>Project Status:</b> <i>Stage 2 manuscript prep</i><br> 
         <b>Project Lead:</b> <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a>
         <br>
         <br>
