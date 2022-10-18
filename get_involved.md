@@ -102,7 +102,7 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
         <h3><a href="{{site.baseurl}}{% link MB2.md %}">MB2: Theory of Mind in Infancy</a></h3>
         <b>Project Status:</b> <i>Collecting data</i><br> 
         <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:dk@psy.ku.dk">Dora Kampis</a>, <a href="mailto:hrakocz@uni-goettingen.de">Hannes Rakoczy</a>, <a href="mailto:mcfrank@stanford.edu">Michael Frank</a><br>
-        <b>MB1L listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies2"><i>Subscribe</i></a><br>
+        <b>MB2 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies2"><i>Subscribe</i></a><br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB2P.md %}">MB2P: Pupil Dilation to Measure Violation-of-Expectation</a></h3>
         <b>Project Status:</b> <i>Preparing analysis pipeline; collecting data</i><br> 
@@ -116,11 +116,10 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB3.md %}">MB3: Rule Learning</a></h3>
-        <b>Project Status:</b> <i>Collecting data</i> 
-          <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3">[subscribe to listserv]</a><br> 
+        <b>Project Status:</b> <i>Collecting data</i><br> 
         <b>Project Leads:</b> <a href="mailto:i.visser@uva.nl">Ingmar Visser</a>, <a href="mailto:a.geambasu@hum.leidenuniv.nl">Andreea Geambasu</a>, 
-          <a href="mailto:c.c.levelt@hum.leidenuniv.nl">Claartje Levelt</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a>
-        <br>
+          <a href="mailto:c.c.levelt@hum.leidenuniv.nl">Claartje Levelt</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
+        <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3"><i>Subscribe</i></a><br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB3N.md %}">MB3N: Rule Learning using NIRS</a></h3>
         <b>Project Status:</b> <i>Developing analysis pipeline; preparing Stage 1 RR manuscript</i> 
