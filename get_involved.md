@@ -171,11 +171,9 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB-AtHome.md %}">MB-AtHome: Online Infant Data Collection</a></h3>
-        <b>Project Status:</b> <i>Translating materials; Collecting pilot data</i> 
-          <a href="https://groups.google.com/forum/#!forum/infantlooksathome">[subscribe to listserv]</a><br> 
-        <b>Project Leads:</b> <a href="mailto:L.Zaadnoordijk@tcd.ie">Lorijn Zaadnoordijk</a>, <a href="mailto:tsujish@gmail.com">Sho Tsuji</a>, 
-          <a href="mailto:katie.m.vonholzen@gmail.com">Katie Von Holzen</a>, <a href="mailto:Helen.Buckler@nottingham.ac.uk">Helen Buckler</a>, 
-          <a href="mailto:rhodricusack@cusacklab.org">Rhodri Cusack</a>
+        <b>Project Status:</b> <i>Translating materials; Collecting pilot data</i><br> 
+        <b>Project Leads:</b> <a href="mailto:L.Zaadnoordijk@tcd.ie">Lorijn Zaadnoordijk</a>, <a href="mailto:tsujish@gmail.com">Sho Tsuji</a>, <a href="mailto:katie.m.vonholzen@gmail.com">Katie Von Holzen</a>, <a href="mailto:Helen.Buckler@nottingham.ac.uk">Helen Buckler</a>, <a href="mailto:rhodricusack@cusacklab.org">Rhodri Cusack</a><br>
+        <b>MBAH listserv:</b> <a href="https://groups.google.com/forum/#!forum/infantlooksathome"><i>Subscribe</i></a>
         <hr>
       </div>
     </div>
@@ -185,9 +183,9 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB-demographics.md %}">MB-Demographics: Standard Demographics for MB Projects</a></h3>
-        <b>Project Status:</b> <i>Preparing manuscript; Developing templates</i> 
-          <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics">[subscribe to listserv]</a><br> 
-        <b>Project Leads:</b> <a href="mailto:leher.singh.nus@gmail.com">Leher Singh</a>, <a href="mailto:mihaela.barokova@gmail.com">Mihaela Barokova</a>
+        <b>Project Status:</b> <i>Preparing manuscript; Developing templates</i><br> 
+        <b>Project Leads:</b> <a href="mailto:leher.singh.nus@gmail.com">Leher Singh</a>, <a href="mailto:mihaela.barokova@gmail.com">Mihaela Barokova</a><br>
+        <b>MBDemo listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics"><i>Subscribe</i></a>
         <hr>
       </div>
     </div>
