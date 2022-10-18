@@ -49,7 +49,7 @@ If you're unsure of how you'd like to contribute or you'd like to talk with us a
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link index.md %}">ManyBabies </a></h3>
         <b>Contact info:</b> <a href="mailto:manybabies-gb@mailman.stanford.edu">Governing Board</a>, 
-          <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> (more info available <a href="{{site.baseurl}}{% link people.md %}">here</a>)<br>
+          <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> <i>(more info available <a href="{{site.baseurl}}{% link people.md %}">here</a>)</i><br>
         <b>General MB Listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies"><i>Subscribe</i></a><br> 
         <b>General MB Slack:</b> <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ"><i>Join</i></a>
         <hr>
