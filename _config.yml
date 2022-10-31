@@ -58,12 +58,12 @@ round-avatar: true
 social-network-links:
   youtube: channel/UCxhS9WkVPEb1oF5BTOlbkeg
   email: "manybabiesconsortium@mgmail.com"
-  # github: manybabies
-  # twitter: Many_Babies
-  # mastodon: nerdculture.de/@manybabies
-  # slack: https://manybabies.slack.com/#/
-  # osf: https://osf.io/rpw6d
-  # telephone: +16505176685
+  github: manybabies
+  twitter: Many_Babies
+  mastodon: nerdculture.de/@manybabies
+  slack: https://manybabies.slack.com/#/
+  osf: https://osf.io/rpw6d
+  telephone: +16505176685
 #  facebook: deanattali
 #  github: daattali
 #  twitter: daattali
