@@ -57,7 +57,7 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   youtube: channel/UCxhS9WkVPEb1oF5BTOlbkeg
-  # email: "manybabiesconsortium@mgmail.com"
+  email: "manybabiesconsortium@mgmail.com"
   # github: manybabies
   # twitter: Many_Babies
   # mastodon: nerdculture.de/@manybabies
