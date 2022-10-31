@@ -56,14 +56,14 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "manybabiesconsortium@mgmail.com"
-  github: manybabies
-  twitter: Many_Babies
-  mastodon: nerdculture.de/@manybabies
-  slack: https://manybabies.slack.com/#/
   youtube: channel/UCxhS9WkVPEb1oF5BTOlbkeg
-  osf: https://osf.io/rpw6d
-  telephone: +16505176685
+  # email: "manybabiesconsortium@mgmail.com"
+  # github: manybabies
+  # twitter: Many_Babies
+  # mastodon: nerdculture.de/@manybabies
+  # slack: https://manybabies.slack.com/#/
+  # osf: https://osf.io/rpw6d
+  # telephone: +16505176685
 #  facebook: deanattali
 #  github: daattali
 #  twitter: daattali
