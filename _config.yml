@@ -59,11 +59,11 @@ social-network-links:
   email: "manybabiesconsortium@mgmail.com"
   github: manybabies
   twitter: Many_Babies
+  mastodon: nerdculture.de/@manybabies
   slack: https://manybabies.slack.com/#/
   youtube: channel/UCxhS9WkVPEb1oF5BTOlbkeg
   osf: https://osf.io/rpw6d
   telephone: +16505176685
-
 #  facebook: deanattali
 #  github: daattali
 #  twitter: daattali
@@ -76,7 +76,6 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
@@ -114,6 +113,7 @@ hover-col: "#A34A7D"
 footer-col: "#036C9A"
 footer-text-col: "#ABE0DE"
 footer-link-col: "#00B0F0"
+footer-hover-col: "#A34A7D"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
