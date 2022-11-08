@@ -24,6 +24,8 @@ If you know which project you are interested in joining, **you can email one or 
 
 If you're unsure of how you'd like to contribute or you'd like to talk with us about contribution opportunities, please **fill out the Sign-Up Form at the bottom of this page** and we'll be in touch with you as soon as possible. 
 
+You are also welcome to join us at our monthly "Drop-in Hours" (currently on the first Thursday of each month). Times and links to join can be found in our [calendar]({{site.baseurl}}/news/).
+
 ***
 
 <section>

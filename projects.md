@@ -3,17 +3,7 @@ layout: page
 title: Projects
 cover-img: /assets/img/blocks-503109.jpg
 ---
-<!---
-To-do:
-- add link to internal title (Secondary Analysis 2).
 
-Suggestions:
-- Home Spin-offs as bullets right below their main project as spin-off numbers increase.
-
-Notes.
-- research questions in "notes.txt"
-- alphabetical order
---->
 
 The broader goals of **ManyBabies (MB)** come together through collaborative projects. They can be:
 
@@ -22,8 +12,11 @@ The broader goals of **ManyBabies (MB)** come together through collaborative pro
 3. *Secondary analyses*: Conducted on publicly-available **MB** data. In some cases, these analysis may include additional data not collected as part of **MB**. For example if an individual lab investigates relationships between their lab’s **MB** data and other data collected by their lab.
 
 <br>
+
 ***
+
 ### Main projects
+
 #### Empirical
 * [**MB1: Infant-Directed Speech Preference**]({{site.baseurl}}/MB1/)
 * [**MB2: Theory of Mind in Infancy** ]({{site.baseurl}}/MB2/)
@@ -32,7 +25,6 @@ The broader goals of **ManyBabies (MB)** come together through collaborative pro
 * [**MB5: The Hunter & Ames model of Infant Looking Preferences**]({{site.baseurl}}/MB5/)
 * [**MB6: Neonatal Imitation**]({{site.baseurl}}/MB6/)
 
-
 #### Methodological
 * [**MB-AtHome: Online Infant Data Collection**]({{site.baseurl}}/MB-AtHome/)
 * [**MB-Demographics**]({{site.baseurl}}/MB-demographics/)
@@ -40,8 +32,10 @@ The broader goals of **ManyBabies (MB)** come together through collaborative pro
 
 <br>
 
-<!--alphabetical order -->
+***
+
 ### Spin-off projects
+
 #### MB1
 * [**MB1A: Infant-Directed Speech Preference in African Infants**]({{site.baseurl}}/MB1A/)  
 * [**MB1B: Infant-Directed Speech Preference in Bilingual Infants**]({{site.baseurl}}/MB1B/)  
@@ -57,8 +51,10 @@ The broader goals of **ManyBabies (MB)** come together through collaborative pro
 * [**MB3N: Rule Learning using NIRS**]({{site.baseurl}}/MB3N/)    
 
 <br>
+***
 
 ### Secondary Analyses
+
 #### MB1
 * [**Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)
 * [**Analysis of supplemental demographic variables**]({{site.baseurl}}/MB1SA/)
@@ -66,6 +62,7 @@ The broader goals of **ManyBabies (MB)** come together through collaborative pro
 <br>
 
 ***
+
 ## Get Involved 
 We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **not** a prerequisite.
 
