@@ -12,6 +12,9 @@ To fix:
 - open external links in new tab? possible work around with kramdown
 --->
 
+> View our Google Scholar profile [here](https://scholar.google.com/citations?user=JOfosbYAAAAJ&hl=en)
+
+
 ### Stage 1 Registered Reports: In Principle Acceptance
 
 <section>
