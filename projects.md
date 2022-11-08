@@ -57,7 +57,7 @@ The broader goals of **ManyBabies (MB)** come together through collaborative pro
 #### MB1
 * [**Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)
 * [**Analysis of supplemental demographic variables**]({{site.baseurl}}/MB1SA/)
-
+s
 
 ***
 
