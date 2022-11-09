@@ -30,7 +30,6 @@ The broader goals of **ManyBabies (MB)** come together through collaborative pro
 * [**MB-Demographics**]({{site.baseurl}}/MB-demographics/)
 * [**MB-ManyWebcams**]({{site.baseurl}}/MB-ManyWebcams/)
 
-<br>
 
 ***
 
@@ -50,7 +49,7 @@ The broader goals of **ManyBabies (MB)** come together through collaborative pro
 #### MB3
 * [**MB3N: Rule Learning using NIRS**]({{site.baseurl}}/MB3N/)    
 
-<br>
+
 ***
 
 ### Secondary Analyses
@@ -59,7 +58,6 @@ The broader goals of **ManyBabies (MB)** come together through collaborative pro
 * [**Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)
 * [**Analysis of supplemental demographic variables**]({{site.baseurl}}/MB1SA/)
 
-<br>
 
 ***
 
