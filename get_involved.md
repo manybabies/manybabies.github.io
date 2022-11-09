@@ -152,7 +152,7 @@ You are also welcome to join us at our monthly "Drop-in Hours" (currently on the
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB6.md %}">MB6: Neonatal Imitation</a></h3>
         <b>Project Status:</b> <i>Early planning; Team formation</i><br> 
-        <b>Project Leads:</b> <a href="mailto:s.farwaha@uq.edu.au">Sumeet Farwaha</a>, <a href="mailto:meltzoff@uw.edu">Andrew Meltzoff</a>, <a href="mailto:elizabethannsimpson@gmail.com">Elizabeth Simpson</a>, <a href="mailto:vps@psy.uq.edu.au">Virginia Slaughter</a><br>
+        <b>Project Leads:</b> <a href="mailto:s.farwaha@uq.edu.au">Sumeet Farwaha</a>, <a href="mailto:recheleb@uw.edu">Rechele Brooks</a>, <a href="mailto:meltzoff@uw.edu">Andrew Meltzoff</a>, <a href="mailto:m.nielsen@psy.uq.edu.au">Mark Nielsen</a>, <a href="mailto:elizabethannsimpson@gmail.com">Elizabeth Simpson</a>, <a href="mailto:vps@psy.uq.edu.au">Virginia Slaughter</a><br>
         <b>MB6 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies6"><i>Subscribe</i></a>
         <hr>
       </div>
