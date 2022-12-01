@@ -10,7 +10,7 @@ To-do:
 - replace image placeholders.
 - add collaborators map.
 -->
-<img style="float: right;" src="/assets/img/MB1Nmap.png" height="300">
+<img style="float: right;" src="/assets/img/MB1Nmap.png" height="250">
 All infants from MB1, regardless of their linguistic background, heard stimuli recorded in North American English. In this ongoing project we ask how does Infant Directed Speech (IDS) preference to North American English in MB1 compare to IDS preference measured in non-English speaking babies’ native language. Infants who are primary exposed to either French, Dutch, Norwegian, Czech, or Turkish will be tested in their native languages using the same procedure from MB1.
 
 <br>
