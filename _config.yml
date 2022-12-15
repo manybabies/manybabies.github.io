@@ -15,13 +15,11 @@ navbar-links:
   Learn more:
     - About: "about"
     - People: "people"
-    - Contributor Dashboard: "map"
     - News & Events: "news"
     - Workshops: "workshops"
     - Contributions: "contributions"
     - Authorship: "authorship"
     - Publications: "publications"
-    - Resources: "resources"
   Projects:
     - Overview: "projects"
     - MB1: "MB1"
@@ -35,6 +33,10 @@ navbar-links:
     - MB-Demo: "MB-demographics"
     - MB-Many Webcams: "MB-ManyWebcams"
     - Spin-offs: "so_sa"
+  Resources:
+    - Contributor Dashboard: "map"
+    - Data Validator: "https://manybabies.shinyapps.io/validator/"
+    - Additional Resources: "resources"
   Get Involved: "get_involved"
 
 # --- Logo --- #
