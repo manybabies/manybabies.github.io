@@ -10,17 +10,19 @@ cover-img: /assets/img/MB2_logo.png
 The main dependent variable of the MB2 study is children’s anticipatory looking behavior, i.e., how much they anticipate the protagonist to behave in ways congruent to their previously established goals. Crucially, and as part of the experimental design, children never actually see the final outcome of the protagonist’s initiated behavior (in the test trials). In this spin-off to the main MB2-study, we are interested in children’s responses to seeing a goal-congruent vs. a goal-incongruent outcome. We ask whether children are surprised if the protagonist (the bear) responds in a way that is incongruent with their previously established goal (to follow the mouse). To measure surprise, we capture changes in children’s pupil dilation in response to both outcomes. To this end, we have added a final scene at the end of the study, i.e., after the final video was presented, which shows the chaser (the bear) exiting the tube either on the side where the chasee (the mouse) is currently hiding or on opposite side. In addition to capturing changes in pupil dilation, we are also capturing children’s looking time in response to the congruent and incongruent events.
 <br>
 
-<div class="container" >
-  <div class="row" align="center">
-    <div class="col-sm-8" align="center">
-    <img src="/assets/img/MB2P_design.png">
-  </div>
-  <div class="row" align="center">
-    <div class="col-sm-8" align="left">
-    <i>Table 1.</i> Illustrations of the outcomes within the VOE-design. In this example, the mouse is hiding in the left box. The green box marks the congruent outcome while the red box marks the incongruent outcome. Note that by nature of the counterbalancing (across participants) there will also be versions in which the bear exits on the right side but this being the congruent outcome (as opposed being the incongruent outcome in this example). In the ignorance condition, there is no belief congruent or incongruent outcome.
+<section>
+  <div class="container" >
+    <div class="row" align="center">
+      <div class="col-sm-8" align="center">
+      <img src="/assets/img/MB2P_design.png">
     </div>
-  </div>
-<div>
+    <div class="row" align="center">
+      <div class="col-sm-8" align="left">
+      <i>Table 1.</i> Illustrations of the outcomes within the VOE-design. In this example, the mouse is hiding in the left box. The green box marks the congruent outcome while the red box marks the incongruent outcome. Note that by nature of the counterbalancing (across participants) there will also be versions in which the bear exits on the right side but this being the congruent outcome (as opposed being the incongruent outcome in this example). In the ignorance condition, there is no belief congruent or incongruent outcome.
+      </div>
+    </div>
+  <div>
+</section>
 
 
 
