@@ -11,10 +11,11 @@ The main dependent variable of the MB2 study is children’s anticipatory lookin
 <br>
 
 <section>
-  <div class="container" >
+  <div class="container">
     <div class="row">
       <div class="col-sm-8" align="center">
       <img src="/assets/img/MB2P_design.png">
+      </div>
     </div>
     <div class="row">
       <div class="col-sm-8" align="left">
