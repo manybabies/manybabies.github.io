@@ -7,7 +7,7 @@ cover-img: /assets/img/MB2_logo.png
 
 ## A violation-of-expectation paradigm building on the main MB2 study
 
-The main dependent variable of the MB2 study is children’s anticipatory looking behavior, i.e., how much they anticipate the protagonist to behave in ways congruent to their previously established goals. Crucially, and as part of the experimental design, children never actually see the final outcome of the protagonist’s initiated behavior (in the test trials). In this spin-off to the main MB2-study, we are interested in children’s responses to seeing a goal-congruent vs. a goal-incongruent outcome. We ask whether children are surprised if the protagonist (the bear) responds in a way that is incongruent with their previously established goal (to follow the mouse). To measure surprise, we capture changes in children’s pupil dilation in response to both outcomes. To this end, we have added a final scene at the end of the study, i.e., after the final video was presented, which shows the chaser (the bear) exiting the tube either on the side where the chasee (the mouse) is currently hiding or on opposite side. In addition to capturing changes in pupil dilation, we are also capturing children’s looking time in response to the congruent and incongruent events.
+The main dependent variable of the [MB2]({{site.baseurl}}/MB2/) study is children’s anticipatory looking behavior, i.e., how much they anticipate the protagonist to behave in ways congruent to their previously established goals. Crucially, and as part of the experimental design, children never actually see the final outcome of the protagonist’s initiated behavior (in the test trials). In this spin-off to the main MB2 study, we are interested in children’s responses to seeing a goal-congruent vs. a goal-incongruent outcome. We ask whether children are surprised if the protagonist (the bear) responds in a way that is incongruent with their previously established goal (to follow the mouse). To measure surprise, we capture changes in children’s pupil dilation in response to both outcomes. To this end, we have added a final scene at the end of the study, i.e., after the final video was presented, which shows the chaser (the bear) exiting the tube either on the side where the chasee (the mouse) is currently hiding or on opposite side. In addition to capturing changes in pupil dilation, we are also capturing children’s looking time in response to the congruent and incongruent events.
 <br>
 
 <section>
@@ -43,7 +43,7 @@ The main dependent variable of the MB2 study is children’s anticipatory lookin
 
 ***
 ### Status
-* Currently collecting data as part of the MB2 main data collection
+* Currently collecting data as part of the [MB2]({{site.baseurl}}/MB2/) main data collection
 
 
 ***
