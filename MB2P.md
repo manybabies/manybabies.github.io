@@ -11,16 +11,16 @@ The main dependent variable of the [MB2]({{site.baseurl}}/MB2/) study is childre
 <br>
 
 <section>
-  <div class="container">
+  <div class="container" align="center">
     <div class="row">
-      <div class="col-sm-10" align="center">
+      <div class="col-sm-10">
       <img src="/assets/img/MB2P_design.png">
       </div>
     </div>
   </div>
 </section>
 
-</section>
+<section>
   <div class="container">
     <div class="row">
       <div class="col-sm-10"  align="left">
