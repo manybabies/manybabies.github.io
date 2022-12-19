@@ -21,7 +21,7 @@ The main dependent variable of the MB2 study is children’s anticipatory lookin
       <i>Table 1.</i> Illustrations of the outcomes within the VOE-design. In this example, the mouse is hiding in the left box. The green box marks the congruent outcome while the red box marks the incongruent outcome. Note that by nature of the counterbalancing (across participants) there will also be versions in which the bear exits on the right side but this being the congruent outcome (as opposed being the incongruent outcome in this example). In the ignorance condition, there is no belief congruent or incongruent outcome.
       </div>
     </div>
-  <div>
+  </div>
 </section>
 
 
