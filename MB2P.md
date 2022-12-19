@@ -26,7 +26,7 @@ The main dependent variable of the [MB2]({{site.baseurl}}/MB2/) study is childre
     </div>
   </div>
 </section>
-
+<br>
 
 
 ***
