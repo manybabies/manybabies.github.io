@@ -1,0 +1,11 @@
+---
+layout: post
+title: MB Newsletter - December 2022
+tags: [MB, newsletter]
+---
+
+The [December issue](https://mailchi.mp/0df7f611f849/mb-newsletter-nov2022) of the ManyBabies newsletter is out! 
+
+Our last issue of the year features a list of selected 2022 hightlights, some announcements, and project updates. Happy Holidays! 
+
+If you're subscribed to an MB listserv, you should have received the newsletter in your inbox (please [email us](mailto:manybabiesconsortium@gmail.com) if that's not the case). To subscribe for future issues, click [here](https://t.co/7zxifYO7qN?amp=1).
