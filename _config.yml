@@ -34,6 +34,7 @@ navbar-links:
     - MB-Many Webcams: "MB-ManyWebcams"
     - Spin-offs: "so_sa"
   Resources:
+    - Calendar: "calendar"
     - Contributor Dashboard: "map"
     - Data Validator: "https://manybabies.shinyapps.io/validator/"
     - Additional Resources: "resources"
