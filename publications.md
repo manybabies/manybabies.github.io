@@ -255,18 +255,6 @@ To fix:
         <a href="{{site.baseurl}}{% link MB1SA.md %}">[MB1SA]</a></p> 
       </div>
     </div>
-    <div class="row">
-      <div class="col-sm-2" align=center>
-        <br>
-        <a href="{{site.baseurl}}{% link MB1T.md %}" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
-      </div>
-      <div class="col-sm-10">
-        <p style="padding-left: 25px; text-indent: -25px">Schreiner, M. S., Lippold, M., Soderstrom, M., Shukla, M., Bergmann, C., Frank, M. C., Hamlin, J. K., Gonzalez-Gomez, N. (2018, January 24). 
-        <b>Assessing test-retest reliability of the infant preference measures</b>. 
-        <a href="https://osf.io/v5f8t" target="_blank">[OSF Preregistration]</a> 
-        <a href="{{site.baseurl}}{% link MB1T.md %}">[MB1T]</a></p>
-      </div>
-    </div>
   </div>
 </section>
 
