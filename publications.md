@@ -20,12 +20,12 @@ To fix:
 <section>
   <div class="container">
     <div class="row">
-      <div class="col-sm-1" align=center>
+      <div class="col-sm-2" align=center>
         <br>
         <a href="{{site.baseurl}}{% link MB1A.md %}" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a><br>
         <h5>MB1A</h5>
       </div>
-      <div class="col-sm-11">
+      <div class="col-sm-10">
         <p style="padding-left: 25px; text-indent: -25px">Tsui, A. S. M., Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., Mathur, M., Mbagaya, C. V., Mekonnen Mengistie, D., Milton, C., Mushimiyimana, F., Ndhambi, M., Ngina, I., Njoroge, E., Odhiambo Oburu, P., Okyere Omane, P., Singh, A., Ssemata, A. S., Unyuzumutima, J., Zeidler, H., Lew-Williams, C., & Frank, M. C. (Stage 1 RR In Principle Acceptance). 
         <b>Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa</b>. 
         <i>Developmental Science</i>. 
