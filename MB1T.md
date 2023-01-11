@@ -21,7 +21,7 @@ In this ongoing project we investigate the test-retest reliability of the prefer
 
 ***
 ### Status
-* Final manuscript preparation
+* Manuscript has been submitted to *Developmental Science*
 
 
 ***
@@ -39,4 +39,6 @@ In this ongoing project we investigate the test-retest reliability of the prefer
 
 ***
 ### Publications
-Schreiner, M. S., Lippold, M., Soderstrom, M., Shukla, M., Bergmann, C., Frank, M. C., Hamlin, K., Gonzalez-Gomez, N. (2018, January 24). Assessing test-retest reliability of the infant preference measures. [OSF Preregistration](https://osf.io/v5f8t).
+* Schreiner, M. S., Lippold, M., Soderstrom, M., Shukla, M., Bergmann, C., Frank, M. C., Hamlin, K., Gonzalez-Gomez, N. (2018, January 24). Assessing test-retest reliability of the infant preference measures. [OSF Preregistration](https://osf.io/v5f8t).
+
+* Schreiner, M. S., Zettersten, M., Bergmann, C., Frank, M. C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, J. K., Kartushina, N., Kellier, D. J., Mani, N., Mayor, J., Saffran, J., Shukla, M., Silverstein, P., Soderstrom, M., Lippold, M. (2022, December 22). Limited evidence of test-retest reliability in infant-directed speech preference in a large pre-registered infant sample. [PsyArXiv Preprint](https://doi.org/10.31234/osf.io/uwche)
