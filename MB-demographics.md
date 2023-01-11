@@ -22,9 +22,8 @@ If you are interested in collaborating or playing a leadership role in this proj
 
 ***
 ### Status
-* Finalizing constructs/items 
-* Developing templates
-* Preparing manuscript
+* Manuscript has been submitted to *Developmental Psychology*
+* Translating/adapting templates (contact Project Leads for more information or to help!)
 
 
 ***
@@ -45,4 +44,5 @@ If you are interested in collaborating or playing a leadership role in this proj
 > Please note that access to infants/infant lab is **NOT** a prerequisite.
 
 
-<!-- ### Publications -->
+### Publications
+Singh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., Reinelt, T., Schuwerk, T., Soderstrom, M., Tsui, A. S. M., Frank, M. C. (2022, December 22). A unified approach to demographic data collection for research with young children across diverse cultures. [PsyArXiv Preprint](https://doi.org/10.31234/osf.io/agt3d)
