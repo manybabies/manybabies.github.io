@@ -27,7 +27,7 @@ To fix:
         <h5>MB1T</h5>
       </div>
       <div class="col-sm-10">
-        <p style="padding-left: 25px; text-indent: -25px"Schreiner, M. S., Zettersten, M., Bergmann, C., Frank, M. C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, J. K., Kartushina, N., Kellier, D. J., Mani, N., Mayor, J., Saffran, J., Shukla, M., Silverstein, P., Soderstrom, M., Lippold, M. (2022, December 22). 
+        <p style="padding-left: 25px; text-indent: -25px">Schreiner, M. S., Zettersten, M., Bergmann, C., Frank, M. C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, J. K., Kartushina, N., Kellier, D. J., Mani, N., Mayor, J., Saffran, J., Shukla, M., Silverstein, P., Soderstrom, M., Lippold, M. (2022, December 22). 
         <b>Limited evidence of test-retest reliability in infant-directed speech preference in a large pre-registered infant sample</b>. 
         <a href="https://doi.org/10.31234/osf.io/uwche" target="_blank">[PsyArXiv Preprint]</a> 
         <a href="{{site.baseurl}}{% link MB1T.md %}">[MB1T]</a></p> 
@@ -131,8 +131,7 @@ To fix:
     <div class="row">
       <div class="col-sm-2" align=center>
         <br>
-        <a href="{{site.baseurl}}{% link MB-AtHome.md %}" class="image"><img src="/assets/img/MBAH_logo.png" alt="MB-AtHome logo"></a><br>
-        <h5>MB-AH</h5>
+        <a href="{{site.baseurl}}{% link MB-AtHome.md %}" class="image"><img src="/assets/img/MBAH_logo.png" alt="MB-AtHome logo"></a>
       </div>
       <div class="col-sm-10">
         <p style="padding-left: 25px; text-indent: -25px">Zaadnoordijk, L., Buckler, H., Cusack, R., Tsuji, S., & Bergmann, C. (2021). 
@@ -221,11 +220,11 @@ To fix:
 <section>
   <div class="container">
     <div class="row">
-      <div class="col-sm-1" align=center>
+      <div class="col-sm-2" align=center>
         <br>
         <a href="{{site.baseurl}}{% link MB1.md %}" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
       </div>
-      <div class="col-sm-11">
+      <div class="col-sm-10">
         <p style="padding-left: 25px; text-indent: -25px">Kline, M. (2018, June 8). 
         <b>The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes</b>. 
         <a href="https://osf.io/puxbg/" target="_blank">[OSF Preregistration]</a> 
@@ -233,11 +232,11 @@ To fix:
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-1" align=center>
+      <div class="col-sm-2" align=center>
         <br>
         <a href="{{site.baseurl}}{% link MB1T.md %}" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
       </div>
-      <div class="col-sm-11">
+      <div class="col-sm-10">
         <p style="padding-left: 25px; text-indent: -25px">Schreiner, M. S., Lippold, M., Soderstrom, M., Shukla, M., Bergmann, C., Frank, M. C., Hamlin, J. K., Gonzalez-Gomez, N. (2018, January 24). 
         <b>Assessing test-retest reliability of the infant preference measures</b>. 
         <a href="https://osf.io/v5f8t" target="_blank">[OSF Preregistration]</a> 
