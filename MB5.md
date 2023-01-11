@@ -25,8 +25,7 @@ Familiarity and novelty effects are the cornerstone of many infant behavioral me
 
 ***
 ### Status
-* Finalizing stimuli and procedure design
-* Preparing Stage 1 Registered Report manuscript
+* Stage 1 Registered Report manuscript has been submitted to *Nature Human Behaviour*
 
 
 ***
@@ -44,4 +43,5 @@ Familiarity and novelty effects are the cornerstone of many infant behavioral me
 > Please note that access to infants/infant lab is **NOT** a prerequisite.
 
 
-<!-- ### Publications -->
+### Publications
+Kosie, J. E., Zettersten, M., Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H. A., Bazhydai, M., Belia, M., Benavides, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., Dal Ben, R., Dautriche, I., DeBolt, M., Exner, A., Fisher-Thompson, D., Frank, M. C., Gönül, G., Gonzalez-Gomez, N., Grosse Wiesmann, C., Hamlin, J. K., Havron, N., Hochmann, J. R., Hoehl, S., Houston-Price, C., Kachergis, G., Kaldy, Z., Kingo, O., Ko, E. S., Kong, S. P., Krøjgaard, P., Liu, S., Lu, H. S., Maganti, M., Mather, E., Mayor, J., McMillan, B., Molnar, M. T., Moreau, D., Moriguchi, Y., Moulson, M., Mueller, J., Oakes, L. M., Peperkamp, S., Peykarjou, S., Pires, M. T., Raz, G., Requena, P. E., Rocha-Hidalgo, J., Saffran, J., Schaetz, C., Schuwerk, T., Shinskey, J. L., Simpson, E. A., Singh, L., Smolak, E., Soderstrom, M., Sonne, T., Ssemata, A. S., Visser, I., Von Holzen, K., Waxman, S., Westermann, G., White, K., Woodruff Carr, K. L., Zahner-Ritter, K., Zeidler, H., Zimmer, L., Zupan, Z., Lew-Williams, C. (2023, January 10). ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time. [PsyArXiv Preprint](https://doi.org/10.31234/osf.io/ck3vd)
