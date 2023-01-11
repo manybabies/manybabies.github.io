@@ -37,7 +37,7 @@ navbar-links:
     - Calendar: "calendar"
     - Contributor Dashboard: "map"
     - Data Validator: "https://manybabies.shinyapps.io/validator/"
-    - MB YouTube: "https://www.youtube.com/@manybabies"
+    - YouTube/ @ManyBabies: "https://www.youtube.com/@manybabies"
     - Additional Resources: "resources"
   Get Involved: "get_involved"
 
