@@ -15,6 +15,28 @@ To fix:
 > View our Google Scholar profile [here](https://scholar.google.com/citations?user=JOfosbYAAAAJ&hl=en)
 
 
+***
+### Under Review
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-2" align=center>
+        <br>
+        <a href="{{site.baseurl}}{% link MB1T.md %}" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a><br>
+        <h5>MB1T</h5>
+      </div>
+      <div class="col-sm-10">
+        <p style="padding-left: 25px; text-indent: -25px"Schreiner, M. S., Zettersten, M., Bergmann, C., Frank, M. C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, J. K., Kartushina, N., Kellier, D. J., Mani, N., Mayor, J., Saffran, J., Shukla, M., Silverstein, P., Soderstrom, M., Lippold, M. (2022, December 22). 
+        <b>Limited evidence of test-retest reliability in infant-directed speech preference in a large pre-registered infant sample</b>. 
+        <a href="https://doi.org/10.31234/osf.io/uwche" target="_blank">[PsyArXiv Preprint]</a> 
+        <a href="{{site.baseurl}}{% link MB1T.md %}">[MB1T]</a></p> 
+      </div>
+    </div>
+  </div>
+</section>
+
+***
 ### Stage 1 Registered Reports: In Principle Acceptance
 
 <section>
@@ -49,8 +71,7 @@ To fix:
     <div class="row">
       <div class="col-sm-2" align=center>
         <br>
-        <a href="{{site.baseurl}}{% link MB2.md %}" class="image"><img src="/assets/img/MB2_logo.png" alt="ManyBabies2 logo"></a><br>
-        <h5>MB2</h5>
+        <a href="{{site.baseurl}}{% link MB2.md %}" class="image"><img src="/assets/img/MB2_logo.png" alt="ManyBabies2 logo"></a>
       </div>
       <div class="col-sm-10">
         <p style="padding-left: 25px; text-indent: -25px">Schuwerk, T., Kampis, D., Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K., Dörrenberg, S., Fisher, C., Franchin, L., Fulcher, T., Garbisch, I., Geraci, A., Grosse Wiesmann, C., Hamlin, J. K., Haun, D. B. M., Hepach, R., Hunnius, S., Hyde, D. C., Karman, P., Kosakowski, H., Kovács, A. M., Krämer, A., Kulke, L., Lee, C., Lew-Williams, C., Liszkowski, U., Mahowald, K., Mascaro, O., Meyer, M., Moreau, D., PernerJ., Poulin-Dubois, D., Powell, L., Prein, J. C., Priewasser, B., Proft, M., Raz, G., Reschke, P. J., Ross, J., Rothmaler, K., Saxe, R., Schneider, D., Southgate, V., Surian, L., Tebbe, A., Träuble, B., Tsui, A. S. M., Wertz, A., Woodward, A., Yuen, F., Yuile, A. R., Zellner, L., Zimmer, L., Frank, M. C., & Rakoczy, H. (Stage 1 RR In Principle Acceptance). 
@@ -64,7 +85,6 @@ To fix:
       <div class="col-sm-2" align=center>
         <br>
         <a href="{{site.baseurl}}{% link MB3.md %}" class="image"><img src="/assets/img/MB3_logo.png" alt="ManyBabies3 logo"></a><br>
-        <h5>MB3</h5>
       </div>
       <div class="col-sm-10">
         <p style="padding-left: 25px; text-indent: -25px">Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 RR In Principle Acceptance). 
@@ -78,7 +98,6 @@ To fix:
       <div class="col-sm-2" align=center>
         <br>
         <a href="{{site.baseurl}}{% link MB4.md %}" class="image"><img src="/assets/img/MB4_logo.png" alt="ManyBabies4 logo"></a><br>
-        <h5>MB4</h5>
       </div>
       <div class="col-sm-10">
         <p style="padding-left: 25px; text-indent: -25px">Lucca, K., Capelier-Mourguy, A., Cirelli, L., Byers-Heinlein, K., Dal Ben, R., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., Wang, Y., Yuen, F., & Hamlin, J. K. (Stage 1 RR In Principle Acceptance). 
@@ -127,10 +146,10 @@ To fix:
       <div class="col-sm-2" align=center>
         <br>
         <a href="{{site.baseurl}}{% link MB1B.md %}" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo"></a><br>
-        <h5>MB1</h5>
+        <h5>MB1B</h5>
       </div>
       <div class="col-sm-10">
-        <p style="padding-left: 25px; text-indent: -25px">Byers-Heinlein, Tsui, A. S. M., Bergmann, C., Black, A. K., Brown, A., Carbajal,  M. J., Durrant, S., Fennell, C. T., Fiévet, A.,  Frank, M. C., Gampe, A., Gervain, J., Gonzalez-Gomez, N., Hamlin, J. K., Havron, N., Hernik, M., Kerr, S., Killam, H., Klassen, K., Kosie, J. E., Kovács, A. M., Lew-Williams, C., Liu, L., Mani, N., Marino, C., Mastroberardino, M., Mateu, V., Noble, C., Orena, A. J., Polka, L., Potter, C. E., Schreiner, M. S., Singh, L., Soderstrom, M., Sundara, M., Waddell, C., Werker, J. F., Wermelinger, S. (2021). 
+        <p style="padding-left: 25px; text-indent: -25px">Byers-Heinlein, Tsui, A. S. M., Bergmann, C., Black, A. K., Brown, A., Carbajal,  M. J., Durrant, S., Fennell, C. T., Fiévet, A.,  Frank, M. C., Gampe, A., Gervain, J., Gonzalez-Gomez, N., Hamlin, J. K., Havron, N., Hernik, M., Kerr, S., Killam, H., Klassen, K., Kosie, J. E., Kovács, A. M., Lew-Williams, C., Liu, L., Mani, N., Marino, C., Mastroberardino, M., Mateu, V., Noble, C., Orena, A. J., Polka, L., Potter, C. E., Schreiner, M. S., Singh, L., Soderstrom, M., Sundara, M., Waddell, C., Werker, J. F., & Wermelinger, S. (2021). 
         <b>A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech</b>. 
         <i>Advances in Methods and Practices in Psychological Science</i>. 
         <a href="https://doi.org/10.1177/2515245920974622" target="_blank">doi:10.1177/2515245920974622</a>. 
@@ -140,9 +159,7 @@ To fix:
     <div class="row">
       <div class="col-sm-2" align=center>
         <br>
-        <a href="{{site.baseurl}}{% link index.md %}" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo"></a><br>
-        <a href="{{site.baseurl}}{% link MB1.md %}" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo"></a><br>
-        <h5>MB1</h5>
+        <a href="{{site.baseurl}}{% link index.md %}" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo"></a>
       </div>
       <div class="col-sm-10">
         <p style="padding-left: 25px; text-indent: -25px">Byers-Heinlein, K., Bergmann, C., Davies, C., Frank, M. C., Hamlin, J. K., Kline, M., Kominsky, J. F., Kosie, J. E., Lew-Williams, C., Liu, L., Mastroberardino, M., Singh, L., Waddell, C. P. G., Zettersten, M., & Soderstrom, M. (2020). 
@@ -154,11 +171,12 @@ To fix:
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-1" align=center>
+      <div class="col-sm-2" align=center>
         <br>
-        <a href="{{site.baseurl}}{% link MB1G.md %}" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo"></a>
+        <a href="{{site.baseurl}}{% link MB1G.md %}" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo"></a><br>
+        <h5>MB1G</h5>
       </div>
-      <div class="col-sm-11">
+      <div class="col-sm-10">
         <p style="padding-left: 25px; text-indent: -25px">Byers-Heinlein, K., Tsui, R. K. Y., van Renswoude, D., Black, A. K., Barr, R., Brown, A., Colomer, M., Durrant, S., Gampe, A., Gonzalez-Gomez, N., Hay, J. F., Hernik, M., Jartó, M., Kovács, A. M., Laoun-Rubenstein, A., Lew-Williams, C., Liszkowski, U., Liu, L., Noble, C., Potter, C. E., Rocha-Hidalgo, J., Sebastian-Galles, N., Soderstrom, M., Visser, I., Waddell, C., Wermelinger, S., & Singh, L. (2020). 
         <b>The development of gaze following in monolingual and bilingual infants: A multi-lab study</b>. 
         <i>Infancy</i>. 
@@ -168,11 +186,11 @@ To fix:
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-1" align=center>
+      <div class="col-sm-2" align=center>
         <br>
         <a href="{{site.baseurl}}{% link MB1.md %}" class="image"><img src="/assets/img/MB1_logo.png" alt="MB1 logo"></a>
       </div>
-      <div class="col-sm-11">
+      <div class="col-sm-10">
         <p style="padding-left: 25px; text-indent: -25px">ManyBabies Consortium (2020). 
         <b>Quantifying sources of variability in infancy research using the infant-directed speech preference</b>. 
         <i>Advances in Methods and Practices in Psychological Science</i>. 
@@ -182,11 +200,11 @@ To fix:
       </div>
     </div>
     <div class="row">
-      <div class="col-sm-1" align=center>
+      <div class="col-sm-2" align=center>
         <br>
         <a href="{{site.baseurl}}{% link index.md %}" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo"></a>
       </div>
-      <div class="col-sm-11">
+      <div class="col-sm-10">
         <p style="padding-left: 25px; text-indent: -25px">Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., Hamlin, J. K., Hannon, E. E., Kline, M., Levelt, C., Lew-Williams, C., Nazzi, T., Panneton, R., Rabagliati, H., Soderstrom, M., Sullivan, J., Waxman, S., & Yurovsky, D. (2017). 
         <b>A collaborative approach to infant research: Promoting reproducibility, best practices, and theory-building</b>. 
         <i>Infancy</i>. 
@@ -196,11 +214,6 @@ To fix:
     </div>
   </div>
 </section>
-
-***
-### Under Review
-
-<br>
 
 ***
 ### Registrations
