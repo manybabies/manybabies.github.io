@@ -22,7 +22,7 @@ To fix:
     <div class="row">
       <div class="col-sm-1" align=center>
         <br>
-        <a href="{{site.baseurl}}{% link MB1A.md %}" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
+        <a href="{{site.baseurl}}{% link MB1A.md %}" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a><br>
         MB1A
       </div>
       <div class="col-sm-11">
