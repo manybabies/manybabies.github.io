@@ -16,7 +16,7 @@ To fix:
 
 
 ***
-### Under Review
+### Submitted & Under Review
 
 <section>
   <div class="container">
@@ -55,6 +55,18 @@ To fix:
         <b>A unified approach to demographic data collection for research with young children across diverse cultures</b>. 
         <a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">[PsyArXiv Preprint]</a> 
         <a href="{{site.baseurl}}{% link MB-demographics.md %}">[MB-Demographics]</a></p> 
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2" align=center>
+        <br>
+        <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}" class="image"><img src="/assets/img/MBMW_logo.png" alt="ManyBabies-ManyWebcams logo"></a>
+      </div>
+      <div class="col-sm-10">
+        <p style="padding-left: 25px; text-indent: -25px">Steffan, A.*, Zimmer, L.*, Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmannm C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E. S., Kulke, L., Mayor, J., Meristo, M., Moreau, D., Mun, S., Prein, J. C., Rakoczy, H., Rothmaler, K., Santos Oliveira, D., Simpson, E. A., Smith, E. S., Strid, K., Tebbe, A. L., Thiele, M., Yuen, F., & Schuwerk, T. (2023, January 23). 
+        <b>Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood</b>. 
+        <a href="https://psyarxiv.com/7924h/" target="_blank">[PsyArXiv Preprint]</a> 
+        <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}">[MB-ManyWebcams]</a> <i>(*co-first authors)</i> </p> 
       </div>
     </div>
   </div>
