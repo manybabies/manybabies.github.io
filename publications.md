@@ -64,9 +64,9 @@ To fix:
       </div>
       <div class="col-sm-10">
         <p style="padding-left: 25px; text-indent: -25px">Steffan, A.*, Zimmer, L.*, Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmannm C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E. S., Kulke, L., Mayor, J., Meristo, M., Moreau, D., Mun, S., Prein, J. C., Rakoczy, H., Rothmaler, K., Santos Oliveira, D., Simpson, E. A., Smith, E. S., Strid, K., Tebbe, A. L., Thiele, M., Yuen, F., & Schuwerk, T. (2023, January 23). 
-        <b>Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood</b>. 
+        <b>Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood</b>. <i>(*co-first authors)</i> 
         <a href="https://psyarxiv.com/7924h/" target="_blank">[PsyArXiv Preprint]</a> 
-        <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}">[MB-ManyWebcams]</a> <i>(*co-first authors)</i> </p> 
+        <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}">[MB-ManyWebcams]</a></p> 
       </div>
     </div>
   </div>
@@ -112,9 +112,9 @@ To fix:
       <div class="col-sm-10">
         <p style="padding-left: 25px; text-indent: -25px">Schuwerk, T.*, Kampis, D.*, Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K., Dörrenberg, S., Fisher, C., Franchin, L., Fulcher, T., Garbisch, I., Geraci, A., Grosse Wiesmann, C., Hamlin, J. K., Haun, D. B. M., Hepach, R., Hunnius, S., Hyde, D. C., Karman, P., Kosakowski, H., Kovács, A. M., Krämer, A., Kulke, L., Lee, C., Lew-Williams, C., Liszkowski, U., Mahowald, K., Mascaro, O., Meyer, M., Moreau, D., PernerJ., Poulin-Dubois, D., Powell, L., Prein, J. C., Priewasser, B., Proft, M., Raz, G., Reschke, P. J., Ross, J., Rothmaler, K., Saxe, R., Schneider, D., Southgate, V., Surian, L., Tebbe, A., Träuble, B., Tsui, A. S. M., Wertz, A., Woodward, A., Yuen, F., Yuile, A. R., Zellner, L., Zimmer, L., Frank, M. C., & Rakoczy, H. (Stage 1 RR In Principle Acceptance). 
         <b>Action anticipation based on an agent's epistemic state in toddlers and adults</b>. 
-        <i>Child Development</i>. 
+        <i>Child Development</i>. <i>(*co-first authors)</i> 
         <a href="https://psyarxiv.com/x4jbm/" target="_blank">[PsyArXiv Preprint]</a> 
-        <a href="{{site.baseurl}}{% link MB2.md %}">[MB2]</a> <i>(*co-first authors)</i> </p>
+        <a href="{{site.baseurl}}{% link MB2.md %}">[MB2]</a></p>
       </div>
     </div>
     <div class="row">
