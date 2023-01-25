@@ -32,10 +32,11 @@ Alphabetical order
 * [Databrary](https://nyu.databrary.org/): A data library for developmental scientists to securely store, manage, share, discover, and reuse research data (including videos, audio, precedures, stimuli, and related metadata).
 * [Lookit](https://lookit.mit.edu/): A new approach in developmental psychology: running online experiments.
 * [MetaLab](http://metalab.stanford.edu): Interactive tools for community-augmented meta-analysis, power analysis, and experimental planning in cognitive development research.
+* [Peekbank](https://peekbank.stanford.edu/): A flexible and reproducible interface to developmental eyetracking datasets.
 * [TalkBank](https://talkbank.org/): A system for sharing and studying conversational interactions in general.
 * [Web CDI](https://webcdi.stanford.edu/): An online project of the MacArthur-Bates Communicative Development Inventory Advisory Board.
 * [Wordbank](http://wordbank.stanford.edu/): An open database of children's vocabulary development.
-* [Peekbank](https://peekbank.stanford.edu/): A flexible and reproducible interface to developmental eyetracking datasets.
+
 
 ***
 
