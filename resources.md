@@ -13,16 +13,20 @@ Governing Board members' labs
 Alphabetical order
 -->
 
-### MB General
-* [MB Public Calendar]({{site.baseurl}}/calendar/)
-* [MB OSF](https://osf.io/rpw6d/)
-* [MB Logo]({{site.baseurl}}/assets/img/avatar-icon-2022.png)
-* [MB YouTube page](https://www.youtube.com/@manybabies)
-* [MB Contributor Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/)
-* [MB Data Validator](https://manybabies.shinyapps.io/validator/)
-* [MB Collaboration Agreement (template)](https://drive.google.com/file/d/1iEF93crL8iEMAo0HVnEYHZDcwO7ZtxxJ/view?usp=share_link)
-* [MB CRediT Category descriptions (template)](https://drive.google.com/file/d/1aoFctk4pDujOg8UV7LLuWA3o42uO718Z/view?usp=share_link)
-* [MB Ethics Guidance](https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link)
+### ManyBabies Resources
+* [Public Calendar]({{site.baseurl}}/calendar/)
+* [OSF](https://osf.io/rpw6d/)
+* [Github](https://github.com/manybabies)
+* [Logo]({{site.baseurl}}/assets/img/avatar-icon-2022.png)
+* [YouTube page](https://www.youtube.com/@manybabies)
+* [Contributor Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/)
+* [Data Validator](https://manybabies.shinyapps.io/validator/)
+* [Collaboration Agreement (template)](https://drive.google.com/file/d/1iEF93crL8iEMAo0HVnEYHZDcwO7ZtxxJ/view?usp=share_link)
+* [CRediT Category descriptions (template)](https://drive.google.com/file/d/1aoFctk4pDujOg8UV7LLuWA3o42uO718Z/view?usp=share_link)
+* [Ethics Guidance](https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link)
+* Social Media
+  * [@Many_Babies on Twitter](https://twitter.com/Many_Babies)
+  * [@manybabies on Mastodon](https://nerdculture.de/@manybabies)
 
 ***
 
