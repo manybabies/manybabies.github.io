@@ -14,22 +14,19 @@ Alphabetical order
 -->
 
 ### MB General
+* [MB Public Calendar]({{site.baseurl}}/calendar/)
 * [MB OSF](https://osf.io/rpw6d/)
-* [MB logo](https://figshare.com/articles/ManyBabies_project_logo/12246116)
-* [MB collaborator dashboard](https://rodrigodalben.shinyapps.io/shiny_mb_map/)
+* [MB Logo]({{site.baseurl}}/assets/img/MB1_logo.png)
+* [MB YouTube page](https://www.youtube.com/@manybabies)
+* [MB Contributor Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/)
+* [MB Data Validator](https://manybabies.shinyapps.io/validator/)
+* [MB Collaboration Agreement (template)](https://drive.google.com/file/d/1iEF93crL8iEMAo0HVnEYHZDcwO7ZtxxJ/view?usp=share_link)
+* [MB CRediT Category descriptions (template)](https://drive.google.com/file/d/1aoFctk4pDujOg8UV7LLuWA3o42uO718Z/view?usp=share_link)
+* [MB Ethics Guidance](https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link)
 
-### Infant research
+***
 
-#### Labs
-* [Baby & Child Research Center](https://www.babyandchild.nl/en)
-* [Centre for Infant Cognition at UBC](https://cic.psych.ubc.ca/)
-* [Concordia Infant Research Lab](http://infantresearch.ca/)
-* [Princeton Baby Lab](http://babylab.princeton.edu/)
-* [Stanford Language & Cognition Lab](http://langcog.stanford.edu/)
-* [The Child Lab](https://www.thechildlab.com/for-researchers)
-* [UM Baby Language Lab](https://babylanguagelab.org/)
-
-#### Tools
+#### Developmental Science Tools
 * [CHILDES](https://childes.talkbank.org/): A system for sharing and studying conversational interactions of children.
 * [Children Helping Science](https://childrenhelpingscience.com/): Connects parents and researchers to support developmental research.
 * [Databrary](https://nyu.databrary.org/): A data library for developmental scientists to securely store, manage, share, discover, and reuse research data (including videos, audio, precedures, stimuli, and related metadata).
@@ -40,16 +37,33 @@ Alphabetical order
 * [Wordbank](http://wordbank.stanford.edu/): An open database of children's vocabulary development.
 * [Peekbank](https://peekbank.stanford.edu/): A flexible and reproducible interface to developmental eyetracking datasets.
 
-### Open source software
+***
+
+### Open Source Software
 * [Julia](http://julialang.org/): A flexible dynamic language, appropriate for scientific and numerical computing, with performance comparable to traditional statically-typed languages.
 * [Open Sesame](https://osdoc.cogsci.nl/): Create experiments for psychology, neuroscience, and experimental economics.
 * [Psychopy](https://www.psychopy.org/) & [PyHab](https://github.com/jfkominsky/PyHab/): Create experiments in behavioral sciences (neuroscience, psychology, psychophysics, linguistics...). PyHab is especially developed to measure looking time and manage stimulus presentation for infant research.
 * [R](https://www.r-project.org/) & [RStudio](https://rstudio.com/): A free software environment for statistical computing and graphics.
 
-### Open Science
+***
+
+### Open Science Resources
 * [Open Science Framework (OSF)](https://osf.io/): A free, open platform to support your research and enable collaboration.
   * [OSF - Metascience Collection](https://osf.io/collections/metascience/discover)
   * [OSF - Open Psychological Datasets](https://osf.io/th8ew/)
-* [Psychological Science Accelerator](https://psysciacc.org/): A globally distributed network of psychological science laboratories that coordinates data collection for democratically selected studies.
 * [StudySwap](https://osf.io/meetings/StudySwap/): A platform for interlab replication, collaboration, and research resource exchange.
-* [ManyPrimates](https://manyprimates.github.io/): A project that aims to facilitate collaboration across study sites in primate cognition research.
+
+
+***
+
+### Partner Networks & Organizations
+* [Children Helping Science powered by Lookit](https://lookit.mit.edu/): A platform to connect developmental researchers with parents, and to host and run online experiments
+* [Psychological Science Accelerator](https://psysciacc.org/): A globally distributed network of psychological science laboratories that coordinates data collection for democratically selected studies
+* [ManyPrimates](https://manyprimates.github.io/): A project that aims to facilitate collaboration across study sites in primate cognition research
+* [ManyDogs](https://manydogsproject.github.io/): An international consortium of researchers interested in Canine Science
+* [ManyBirds](http://themanybirds.com/): A multi-site collaborative Open Science approach that aims to provide new insight into the evolution of avian cognition and behavior through large-scale comparative studies
+* [ManyFishes](https://twitter.com/TheManyFishes): A large-scale collaborative project dedicated to comparative cognition and behavior in fishes
+* [Strengthening Democracy Challenge](https://www.strengtheningdemocracychallenge.org/): Crowdsourced challenge to bring academics, practitioners, and industry experts together in a collective effort to identify effective interventions to improve Americans' commitment to democratic principles of political engagement
+* [ABRIR](https://abrirpsy.org/): *Advancing Big-team Reproducible science through Increased Representation* is a working group that aims to diagnose the unique barriers to leadership & participation in Big-team/Open Science faced by researchers from LMICs (low-to-middle income countries)
+* [Canadian Reproducibility Network](https://carn-recar.ca/): A national peer-led consortium that aims to promote a healthy and vigorous Canadian research ecosystem where all outputs are trustworthy, rigorous, and reproducible
+
