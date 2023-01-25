@@ -16,7 +16,7 @@ Alphabetical order
 ### MB General
 * [MB Public Calendar]({{site.baseurl}}/calendar/)
 * [MB OSF](https://osf.io/rpw6d/)
-* [MB Logo]({{site.baseurl}}/assets/img/MB1_logo.png)
+* [MB Logo]({{site.baseurl}}/assets/img/avatar-icon-2022.png)
 * [MB YouTube page](https://www.youtube.com/@manybabies)
 * [MB Contributor Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/)
 * [MB Data Validator](https://manybabies.shinyapps.io/validator/)
