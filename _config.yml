@@ -34,11 +34,11 @@ navbar-links:
     - MB-Many Webcams: "MB-ManyWebcams"
     - Spin-offs: "so_sa"
   Resources:
+    - General resources: "resources"
     - Calendar: "calendar"
     - Contributor Dashboard: "map"
     - Data Validator: "https://manybabies.shinyapps.io/validator/"
     - YouTube/ @ManyBabies: "https://www.youtube.com/@manybabies"
-    - Additional Resources: "resources"
   Get Involved: "get_involved"
 
 # --- Logo --- #
