@@ -22,4 +22,4 @@ The [MB Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/) displays the g
 </video>
 
 ***
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8_SKJ0TD0MdRTNsf_f84olEc4MAxSFkA1BtAxDjX-OdlWuw/viewform?embedded=true" width="640" height="2089" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="blank"><iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8_SKJ0TD0MdRTNsf_f84olEc4MAxSFkA1BtAxDjX-OdlWuw/viewform?embedded=true" width="640" height="2089" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe></a>
