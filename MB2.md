@@ -52,6 +52,6 @@ In this ongoing project we aim to investigate a fundamental feature of human soc
 
 ***
 ### Publications
-Schuwerk, T.\*, Kampis, D.\*, (...) Frank, M., Rakoczy, R. (Stage 1 Registered Report). Action anticipation based on an agent's epistemic state in toddlers and adults. <i>(\* co-first authors)</i> [PsyArXiv Preprint](https://psyarxiv.com/x4jbm/)
+Schuwerk, T.\*, Kampis, D.\*, (...) Frank, M., Rakoczy, R. (Stage 1 Registered Report). Action anticipation based on an agent's epistemic state in toddlers and adults. <i>(\* co-first authors)</i> https://doi.org/10.31234/osf.io/x4jbm [[PsyArXiv Preprint]](https://psyarxiv.com/x4jbm/)
 
 > to cite, use (Schuwerk & Kampis et al., accepted pending data collection)
