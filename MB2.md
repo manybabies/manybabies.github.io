@@ -52,6 +52,6 @@ In this ongoing project we aim to investigate a fundamental feature of human soc
 
 ***
 ### Publications
-Schuwerk, T.\*, Kampis, D.\*, (...) Frank, M., Rakoczy, R. (Stage 1 Registered Report). Action anticipation based on an agent's epistemic state in toddlers and adults. <i>(\* co-first authors)</i> [doi:10.31234/osf.io/x4jbm](https://doi.org/10.31234/osf.io/x4jbm) [PsyArXiv Preprint]
+Schuwerk, T.\*, Kampis, D.\*, Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K., Dörrenberg, S., Fisher, C., Franchin, L., Fulcher, T., Garbisch, I., Geraci, A., Grosse Wiesmann, C., Hamlin, J. K., Haun, D. B. M., Hepach, R., Hunnius, S., Hyde, D. C., Karman, P., Kosakowski, H., Kovács, A. M., Krämer, A., Kulke, L., Lee, C., Lew-Williams, C., Liszkowski, U., Mahowald, K., Mascaro, O., Meyer, M., Moreau, D., PernerJ., Poulin-Dubois, D., Powell, L., Prein, J. C., Priewasser, B., Proft, M., Raz, G., Reschke, P. J., Ross, J., Rothmaler, K., Saxe, R., Schneider, D., Southgate, V., Surian, L., Tebbe, A., Träuble, B., Tsui, A. S. M., Wertz, A., Woodward, A., Yuen, F., Yuile, A. R., Zellner, L., Zimmer, L., Frank, M. C., & Rakoczy, H. (Stage 1 Registered Report, In Principle Acceptance). **Action anticipation based on an agent's epistemic state in toddlers and adults**. *Child Development*. (<i>\*co-first authors</i>) PsyArXiv. [doi:10.31234/osf.io/x4jbm](https://doi.org/10.31234/osf.io/x4jbm) 
 
 > to cite, use (Schuwerk & Kampis et al., accepted pending data collection)

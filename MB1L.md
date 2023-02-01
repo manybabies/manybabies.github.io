@@ -45,7 +45,7 @@ In this ongoing project we explore whether early preference for Infant Directed 
 
 ***
 ### Publications
-Soderstrom, M., Werker, J. F., Tsui, A., Skarabela, B., Seidl, A., Searle, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Noble, C., Nave, K., Mayor, J., Martin, A., Lew-Williams, C., Ko, E., Kartushina, N., Kammermeier, M., Jessop, A., Hay, J. F., Hannon, E. E., Hamlin, J. K., Gonzalez-Gomez, N., Gonzalez-Barrero, A. M., Gampe, A., Fritzsche, T., Frank, M. C., Floccia, C., Durrant, S., Delle Luche, C., Davies, C., Cashon, C., Byers-Heinlein, K., Black, A. K., Bergmann, C., Anderson, L. (Stage 1 Registered Report). Testing the Relationship Between Preferences for Infant-Directed Speech and Vocabulary Development: A Multi-Lab Study. [_Preprint_](https://drive.google.com/drive/folders/1yb7bdTtEDOKwIA4qMcfiuKkoI1jIojW7)
+Soderstrom, M., Werker, J. F., Tsui, A., Skarabela, B., Seidl, A., Searle, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Noble, C., Nave, K., Mayor, J., Martin, A., Lew-Williams, C., Ko, E., Kartushina, N., Kammermeier, M., Jessop, A., Hay, J. F., Hannon, E. E., Hamlin, J. K., Gonzalez-Gomez, N., Gonzalez-Barrero, A. M., Gampe, A., Fritzsche, T., Frank, M. C., Floccia, C., Durrant, S., Delle Luche, C., Davies, C., Cashon, C., Byers-Heinlein, K., Black, A. K., Bergmann, C., Anderson, L. (Stage 1 Registered Report, In Principle Acceptance). **Testing the Relationship Between Preferences for Infant-Directed Speech and Vocabulary Development: A Multi-Lab Study**. *Journal of Child Language*.  [Preprint](https://drive.google.com/drive/folders/1yb7bdTtEDOKwIA4qMcfiuKkoI1jIojW7)
 
 <!--  
 **News release**: See also the news releases by
