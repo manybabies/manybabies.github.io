@@ -48,9 +48,12 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 
 > Please note that access to infants/infant lab is **NOT** a prerequisite.
 
-
-<!-- ### Publications -->
-
 ***
 ## Spin-off
 * [**MB3N: Rule Learning using NIRS**]({{site.baseurl}}/MB3N/)
+
+***
+### Publications
+Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 RR In Principle Acceptance). <b>ManyBabies 3: A multi-lab study of infant algebraic rule learning</b>. <i>Developmental Science</i>. <a href="https://psyarxiv.com/aex7v/" target="_blank">[PsyArXiv Preprint]
+
+> to cite, use (Visser et al., accepted pending data collection)

@@ -51,3 +51,5 @@ In this ongoing project we investigate a fundamental aspect of human nature: eva
 ***
 ### Publications
 Lucca, K., (...) Yuen, F., & Hamlin, J. K. (Stage 1 Registered Report). Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study. [PsyArXiv Preprint](https://psyarxiv.com/qhxkm)
+
+> to cite, use (Lucca et al., accepted pending data collection)
