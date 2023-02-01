@@ -65,7 +65,7 @@ To fix:
       <div class="col-sm-10">
         <p style="padding-left: 25px; text-indent: -25px">Steffan, A.*, Zimmer, L.*, Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmannm C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E. S., Kulke, L., Mayor, J., Meristo, M., Moreau, D., Mun, S., Prein, J. C., Rakoczy, H., Rothmaler, K., Santos Oliveira, D., Simpson, E. A., Smith, E. S., Strid, K., Tebbe, A. L., Thiele, M., Yuen, F., & Schuwerk, T. (2023, January 23). 
         <b>Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood</b>. <i>(*co-first authors)</i> PsyArXiv. 
-        <a href="https://doi.org/10.31234/osf.io/7924h" target="_blank">doi:10.31234/osf.io/7924h</a>. 
+        <a href="https://doi.org/10.31234/osf.io/7924h" target="_blank">doi:10.31234/osf.io/7924h</a> 
         <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}">[MB-ManyWebcams]</a></p> 
       </div>
     </div>
@@ -113,7 +113,7 @@ To fix:
         <p style="padding-left: 25px; text-indent: -25px">Schuwerk, T.*, Kampis, D.*, Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K., Dörrenberg, S., Fisher, C., Franchin, L., Fulcher, T., Garbisch, I., Geraci, A., Grosse Wiesmann, C., Hamlin, J. K., Haun, D. B. M., Hepach, R., Hunnius, S., Hyde, D. C., Karman, P., Kosakowski, H., Kovács, A. M., Krämer, A., Kulke, L., Lee, C., Lew-Williams, C., Liszkowski, U., Mahowald, K., Mascaro, O., Meyer, M., Moreau, D., PernerJ., Poulin-Dubois, D., Powell, L., Prein, J. C., Priewasser, B., Proft, M., Raz, G., Reschke, P. J., Ross, J., Rothmaler, K., Saxe, R., Schneider, D., Southgate, V., Surian, L., Tebbe, A., Träuble, B., Tsui, A. S. M., Wertz, A., Woodward, A., Yuen, F., Yuile, A. R., Zellner, L., Zimmer, L., Frank, M. C., & Rakoczy, H. (Stage 1 RR In Principle Acceptance). 
         <b>Action anticipation based on an agent's epistemic state in toddlers and adults</b>. 
         <i>Child Development</i>. <i>(*co-first authors)</i> PsyArXiv. 
-        <a href="https://doi.org/10.31234/osf.io/x4jbm" target="_blank">doi:10.31234/osf.io/x4jbm</a>. 
+        <a href="https://doi.org/10.31234/osf.io/x4jbm" target="_blank">doi:10.31234/osf.io/x4jbm</a> 
         <a href="{{site.baseurl}}{% link MB2.md %}">[MB2]</a></p>
       </div>
     </div>
@@ -126,7 +126,7 @@ To fix:
         <p style="padding-left: 25px; text-indent: -25px">Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 RR In Principle Acceptance). 
         <b>ManyBabies 3: A multi-lab study of infant algebraic rule learning</b>. 
         <i>Developmental Science</i>. PsyArXiv. 
-        <a href="https://doi.org/10.31234/osf.io/aex7v" target="_blank">doi:10.31234/osf.io/aex7v</a>. 
+        <a href="https://doi.org/10.31234/osf.io/aex7v" target="_blank">doi:10.31234/osf.io/aex7v</a> 
         <a href="{{site.baseurl}}{% link MB3.md %}">[MB3]</a></p>  
       </div>
     </div>
@@ -139,7 +139,7 @@ To fix:
         <p style="padding-left: 25px; text-indent: -25px">Lucca, K., Capelier-Mourguy, A., Cirelli, L., Byers-Heinlein, K., Dal Ben, R., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., Wang, Y., Yuen, F., & Hamlin, J. K. (Stage 1 RR In Principle Acceptance). 
         <b>Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study</b>. 
         <i>Developmental Science</i>. PsyArXiv. 
-        <a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">doi:10.31234/osf.io/qhxkm</a>. 
+        <a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">doi:10.31234/osf.io/qhxkm</a> 
         <a href="{{site.baseurl}}{% link MB4.md %}">[MB4]</a></p>  
       </div>
     </div>
@@ -160,7 +160,7 @@ To fix:
         <p style="padding-left: 25px; text-indent: -25px">Visser, I., Bergmann, C., Byers-Heinlein, K., Dal Ben, R., Duch, W., Forbes, S., Franchin, L., Frank, M. C., Geraci, A., Hamlin, J. K., Kaldy, Z., Kulke, L., Laverty, C., Lew-Williams, C., Mateu, V., Mayor, J., Moreau, D., Nomikou, I., Schuwerk, T., Simpson, E. A., Singh, L., Soderstrom, M., Sullivan, J., van den Heuvel, M. I., Westermann, G., Yamada, Y., Zaadnoordijk, L., & Zettersten, M. (2022). 
         <b>Improving the generalizability of infant psychological research: The ManyBabies model (Commentary)</b>. 
         <i>Behavioral and Brain Sciences</i>. 
-        <a href="https://doi.org/10.1017/S0140525X21000455" target="_blank">doi:10.1017/S0140525X21000455</a>. 
+        <a href="https://doi.org/10.1017/S0140525X21000455" target="_blank">doi:10.1017/S0140525X21000455</a> 
         <a href="https://doi.org/10.31234/osf.io/8vwbf" target="_blank">[PsyArXiv Preprint]</a></p> 
       </div>
     </div>
@@ -173,7 +173,7 @@ To fix:
         <p style="padding-left: 25px; text-indent: -25px">Zaadnoordijk, L., Buckler, H., Cusack, R., Tsuji, S., & Bergmann, C. (2021). 
         <b>A Global Perspective on Testing Infants Online: Introducing ManyBabies-AtHome</b>. 
         <i>Frontiers in Psychology</i>. 
-        <a href="https://doi.org/10.3389/fpsyg.2021.703234" target="_blank">doi:10.3389/fpsyg.2021.703234</a>. 
+        <a href="https://doi.org/10.3389/fpsyg.2021.703234" target="_blank">doi:10.3389/fpsyg.2021.703234</a> 
         <a href="{{site.baseurl}}{% link MB1B.md %}">[MB-AtHome]</a></p>   
       </div>
     </div>
@@ -187,7 +187,7 @@ To fix:
         <p style="padding-left: 25px; text-indent: -25px">Byers-Heinlein, Tsui, A. S. M., Bergmann, C., Black, A. K., Brown, A., Carbajal,  M. J., Durrant, S., Fennell, C. T., Fiévet, A.,  Frank, M. C., Gampe, A., Gervain, J., Gonzalez-Gomez, N., Hamlin, J. K., Havron, N., Hernik, M., Kerr, S., Killam, H., Klassen, K., Kosie, J. E., Kovács, A. M., Lew-Williams, C., Liu, L., Mani, N., Marino, C., Mastroberardino, M., Mateu, V., Noble, C., Orena, A. J., Polka, L., Potter, C. E., Schreiner, M. S., Singh, L., Soderstrom, M., Sundara, M., Waddell, C., Werker, J. F., & Wermelinger, S. (2021). 
         <b>A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech</b>. 
         <i>Advances in Methods and Practices in Psychological Science</i>. 
-        <a href="https://doi.org/10.1177/2515245920974622" target="_blank">doi:10.1177/2515245920974622</a>. 
+        <a href="https://doi.org/10.1177/2515245920974622" target="_blank">doi:10.1177/2515245920974622</a> 
         <a href="https://doi.org/10.31234/osf.io/sqh9d" target="_blank">[PsyArXiv Preprint]</a> <a href="{{site.baseurl}}{% link MB1B.md %}">[MB1B]</a></p>  
       </div>
     </div>
@@ -200,7 +200,7 @@ To fix:
         <p style="padding-left: 25px; text-indent: -25px">Byers-Heinlein, K., Bergmann, C., Davies, C., Frank, M. C., Hamlin, J. K., Kline, M., Kominsky, J. F., Kosie, J. E., Lew-Williams, C., Liu, L., Mastroberardino, M., Singh, L., Waddell, C. P. G., Zettersten, M., & Soderstrom, M. (2020). 
         <b>Building a collaborative Psychological Science: Lessons from ManyBabies 1</b>. 
         <i>Canadian Psychology</i>. 
-        <a href="https://doi.org/10.1037/cap0000216" target="_blank">doi:10.1037/cap0000216</a>. 
+        <a href="https://doi.org/10.1037/cap0000216" target="_blank">doi:10.1037/cap0000216</a> 
         <a href="https://doi.org/10.31234/osf.io/dmhk2" target="_blank">[PsyArXiv Preprint]</a> 
         <a href="{{site.baseurl}}{% link MB1.md %}">[MB1]</a></p>  
       </div>
@@ -215,7 +215,7 @@ To fix:
         <p style="padding-left: 25px; text-indent: -25px">Byers-Heinlein, K., Tsui, R. K. Y., van Renswoude, D., Black, A. K., Barr, R., Brown, A., Colomer, M., Durrant, S., Gampe, A., Gonzalez-Gomez, N., Hay, J. F., Hernik, M., Jartó, M., Kovács, A. M., Laoun-Rubenstein, A., Lew-Williams, C., Liszkowski, U., Liu, L., Noble, C., Potter, C. E., Rocha-Hidalgo, J., Sebastian-Galles, N., Soderstrom, M., Visser, I., Waddell, C., Wermelinger, S., & Singh, L. (2020). 
         <b>The development of gaze following in monolingual and bilingual infants: A multi-lab study</b>. 
         <i>Infancy</i>. 
-        <a href="https://doi.org/10.1111/infa.12360" target="_blank">doi:10.1111/infa.12360</a>. 
+        <a href="https://doi.org/10.1111/infa.12360" target="_blank">doi:10.1111/infa.12360</a> 
         <a href="https://doi.org/10.31234/osf.io/sgfhv" target="_blank">[PsyArXiv Preprint]</a> 
         <a href="{{site.baseurl}}{% link MB1G.md %}">[MB1G]</a></p>   
       </div>
@@ -229,7 +229,7 @@ To fix:
         <p style="padding-left: 25px; text-indent: -25px">ManyBabies Consortium (2020). 
         <b>Quantifying sources of variability in infancy research using the infant-directed speech preference</b>. 
         <i>Advances in Methods and Practices in Psychological Science</i>. 
-        <a href="https://doi.org/10.1177/2515245919900809" target="_blank">doi:10.1177/2515245919900809</a>. 
+        <a href="https://doi.org/10.1177/2515245919900809" target="_blank">doi:10.1177/2515245919900809</a> 
         <a href="https://doi.org/10.31234/osf.io/s98ab" target="_blank">[PsyArXiv Preprint]</a> 
         <a href="{{site.baseurl}}{% link MB1.md %}">[MB1]</a></p>   
       </div>
@@ -243,7 +243,7 @@ To fix:
         <p style="padding-left: 25px; text-indent: -25px">Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., Hamlin, J. K., Hannon, E. E., Kline, M., Levelt, C., Lew-Williams, C., Nazzi, T., Panneton, R., Rabagliati, H., Soderstrom, M., Sullivan, J., Waxman, S., & Yurovsky, D. (2017). 
         <b>A collaborative approach to infant research: Promoting reproducibility, best practices, and theory-building</b>. 
         <i>Infancy</i>. 
-        <a href="https://doi.org/10.1111/infa.12182" target="_blank">doi:10.1111/infa.12182</a>. 
+        <a href="https://doi.org/10.1111/infa.12182" target="_blank">doi:10.1111/infa.12182</a> 
         <a href="https://doi.org/10.31234/osf.io/27b43" target="_blank">[PsyArXiv Preprint]</a></p>   
       </div>
     </div>
