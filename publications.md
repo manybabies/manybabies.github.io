@@ -65,7 +65,7 @@ To fix:
       <div class="col-sm-10">
         <p style="padding-left: 25px; text-indent: -25px">Steffan, A.*, Zimmer, L.*, Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmannm C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E. S., Kulke, L., Mayor, J., Meristo, M., Moreau, D., Mun, S., Prein, J. C., Rakoczy, H., Rothmaler, K., Santos Oliveira, D., Simpson, E. A., Smith, E. S., Strid, K., Tebbe, A. L., Thiele, M., Yuen, F., & Schuwerk, T. (2023, January 23). 
         <b>Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood</b>. <i>(*co-first authors)</i> 
-        <a href="https://psyarxiv.com/7924h/" target="_blank">[PsyArXiv Preprint]</a> 
+        <a href="https://doi.org/10.31234/osf.io/7924h" target="_blank">[PsyArXiv Preprint]</a> 
         <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}">[MB-ManyWebcams]</a></p> 
       </div>
     </div>
@@ -113,7 +113,8 @@ To fix:
         <p style="padding-left: 25px; text-indent: -25px">Schuwerk, T.*, Kampis, D.*, Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K., Dörrenberg, S., Fisher, C., Franchin, L., Fulcher, T., Garbisch, I., Geraci, A., Grosse Wiesmann, C., Hamlin, J. K., Haun, D. B. M., Hepach, R., Hunnius, S., Hyde, D. C., Karman, P., Kosakowski, H., Kovács, A. M., Krämer, A., Kulke, L., Lee, C., Lew-Williams, C., Liszkowski, U., Mahowald, K., Mascaro, O., Meyer, M., Moreau, D., PernerJ., Poulin-Dubois, D., Powell, L., Prein, J. C., Priewasser, B., Proft, M., Raz, G., Reschke, P. J., Ross, J., Rothmaler, K., Saxe, R., Schneider, D., Southgate, V., Surian, L., Tebbe, A., Träuble, B., Tsui, A. S. M., Wertz, A., Woodward, A., Yuen, F., Yuile, A. R., Zellner, L., Zimmer, L., Frank, M. C., & Rakoczy, H. (Stage 1 RR In Principle Acceptance). 
         <b>Action anticipation based on an agent's epistemic state in toddlers and adults</b>. 
         <i>Child Development</i>. <i>(*co-first authors)</i> 
-        <a href="https://psyarxiv.com/x4jbm/" target="_blank">[PsyArXiv Preprint]</a> 
+        <a href="https://doi.org/10.31234/osf.io/x4jbm" target="_blank">doi:10.31234/osf.io/x4jbm</a>.
+        <a href="https://doi.org/10.31234/osf.io/x4jbm" target="_blank">[PsyArXiv Preprint]</a> 
         <a href="{{site.baseurl}}{% link MB2.md %}">[MB2]</a></p>
       </div>
     </div>
@@ -126,7 +127,8 @@ To fix:
         <p style="padding-left: 25px; text-indent: -25px">Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 RR In Principle Acceptance). 
         <b>ManyBabies 3: A multi-lab study of infant algebraic rule learning</b>. 
         <i>Developmental Science</i>. 
-        <a href="https://psyarxiv.com/aex7v/" target="_blank">[PsyArXiv Preprint]</a> 
+        <a href="https://doi.org/10.31234/osf.io/aex7v" target="_blank">doi:10.31234/osf.io/aex7v</a>.
+        <a href="https://doi.org/10.31234/osf.io/aex7v" target="_blank">[PsyArXiv Preprint]</a> 
         <a href="{{site.baseurl}}{% link MB3.md %}">[MB3]</a></p>  
       </div>
     </div>
@@ -139,7 +141,8 @@ To fix:
         <p style="padding-left: 25px; text-indent: -25px">Lucca, K., Capelier-Mourguy, A., Cirelli, L., Byers-Heinlein, K., Dal Ben, R., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., Wang, Y., Yuen, F., & Hamlin, J. K. (Stage 1 RR In Principle Acceptance). 
         <b>Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study</b>. 
         <i>Developmental Science</i>. 
-        <a href="https://psyarxiv.com/qhxkm" target="_blank">[PsyArXiv Preprint]</a> 
+        <a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">doi:10.31234/osf.io/qhxkm</a>. 
+        <a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">[PsyArXiv Preprint]</a> 
         <a href="{{site.baseurl}}{% link MB4.md %}">[MB4]</a></p>  
       </div>
     </div>
