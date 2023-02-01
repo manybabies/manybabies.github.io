@@ -54,6 +54,6 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 
 ***
 ### Publications
-Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 RR In Principle Acceptance). <b>ManyBabies 3: A multi-lab study of infant algebraic rule learning</b>. <i>Developmental Science</i>. [doi:10.31234/osf.io/aex7v](https://doi.org/10.31234/osf.io/aex7v)[PsyArXiv Preprint]
+Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 Registered Report, In Principle Acceptance). <b>ManyBabies 3: A multi-lab study of infant algebraic rule learning</b>. <i>Developmental Science</i>. PsyArXiv.  [doi:10.31234/osf.io/aex7v](https://doi.org/10.31234/osf.io/aex7v)
 
 > to cite, use (Visser et al., accepted pending data collection)
