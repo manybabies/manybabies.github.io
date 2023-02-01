@@ -57,4 +57,4 @@ For a detailed index of collaborators (+ institutions, countries, studies), chec
 
 ***
 ### Publications
-Byers-Heinlein, K., Tsui, R. K. Y., ... Singh, L. (2020). The development of gaze following in monolingual and bilingual infants: A multi-lab study. [_Infancy_](https://doi.org/10.1111/infa.12360). [PsyArXiv Preprint](https://doi.org/10.31234/osf.io/sgfhv).
+Byers-Heinlein, K., Tsui, R. K. Y., ... Singh, L. (2020). **The development of gaze following in monolingual and bilingual infants: A multi-lab study**. *Infancy*. [doi:10.1111/infa.12360](https://doi.org/10.1111/infa.12360). [PsyArXiv Preprint](https://doi.org/10.31234/osf.io/sgfhv).

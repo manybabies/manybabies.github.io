@@ -48,7 +48,7 @@ Together, our findings indicate that IDS preference likely makes a similar contr
 
 ***
 ### Publications
-Byers-Heinlein, K., Tsui, A. S. M., Bergmann, C., ..., Wermelinger, S. (2021). A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech. [Advances in Methods and Practices in Psychological Science](https://doi.org/10.1177/2515245920974622). [PsyArXiv PrePrint](https://psyarxiv.com/sqh9d/)
+Byers-Heinlein, K., Tsui, A. S. M., Bergmann, C., ..., Wermelinger, S. (2021). **A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech**. *Advances in Methods and Practices in Psychological Science*. [doi:10.1177/2515245920974622](https://doi.org/10.1177/2515245920974622). [PsyArXiv PrePrint](https://doi.org/10.31234/osf.io/sqh9d)
 
 <!--
 **News release**: See also the news releases by
