@@ -41,7 +41,7 @@ To fix:
       <div class="col-sm-10">
         <p style="padding-left: 25px; text-indent: -25px">Kosie, J. E.*, Zettersten, M.*, Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H. A., Bazhydai, M., Belia, M., Benavides-Varela, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., Dal Ben, R., Dautriche, I., DeBolt, M., Exner, A., Fisher-Thompson, D., Frank, M. C., Gönül, G., Gonzalez-Gomez, N., Grosse Wiesmann, C., Hamlin, J. K., Havron, N., Hochmann, J. R., Hoehl, S., Houston-Price, C., Kachergis, G., Kaldy, Z., Kingo, O. S., Ko, E. S., Kong, S. P., Krøjgaard, P., Liu, S., Lu, H. S., Maganti, M., Mather, E., Mayor, J., McMillan, B. T. M., Molnar, M. T., Moreau, D., Moriguchi, Y., Moulson, M. C., Mueller, J. L., Oakes, L. M., Peperkamp, S., Peykarjou, S., Pires, M. T., Raz, G., Requena, P. E., Rocha-Hidalgo, J., Saffran, J. R., Schaetz, C., Schuwerk, T., Shinskey, J. L., Simpson, E. A., Singh, L., Smolak, E., Soderstrom, M., Sonne, T., Ssemata, A. S., Visser, I., Von Holzen, K., Waxman, S. R., Westermann, G., White, K. S., Woodruff Carr, K. L., Zahner-Ritter, K., Zeidler, H., Zimmer, L., Zupan, Z., & Lew-Williams, C. (2023, January 10). 
         <b>ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time</b>. <i>(*co-first authors)</i>
-        <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">[PsyArXiv Preprint]</a> 
+        <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">10.31234/osf.io/ck3vd</a>. [PsyArXiv Preprint]
         <a href="{{site.baseurl}}{% link MB5.md %}">[MB5]</a></p> 
       </div>
     </div>
@@ -53,7 +53,7 @@ To fix:
       <div class="col-sm-10">
         <p style="padding-left: 25px; text-indent: -25px">Singh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., Reinelt, T., Schuwerk, T., Soderstrom, M., Tsui, A. S. M., & Frank, M. C. (2022, December 22). 
         <b>A unified approach to demographic data collection for research with young children across diverse cultures</b>. 
-        <a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">[PsyArXiv Preprint]</a> 
+        <a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">10.31234/osf.io/agt3d</a>. [PsyArXiv Preprint]
         <a href="{{site.baseurl}}{% link MB-demographics.md %}">[MB-Demographics]</a></p> 
       </div>
     </div>
@@ -65,7 +65,7 @@ To fix:
       <div class="col-sm-10">
         <p style="padding-left: 25px; text-indent: -25px">Steffan, A.*, Zimmer, L.*, Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmannm C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E. S., Kulke, L., Mayor, J., Meristo, M., Moreau, D., Mun, S., Prein, J. C., Rakoczy, H., Rothmaler, K., Santos Oliveira, D., Simpson, E. A., Smith, E. S., Strid, K., Tebbe, A. L., Thiele, M., Yuen, F., & Schuwerk, T. (2023, January 23). 
         <b>Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood</b>. <i>(*co-first authors)</i> 
-        <a href="https://doi.org/10.31234/osf.io/7924h" target="_blank">[PsyArXiv Preprint]</a> 
+        <a href="https://doi.org/10.31234/osf.io/7924h" target="_blank">10.31234/osf.io/7924h</a>. [PsyArXiv Preprint]
         <a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}">[MB-ManyWebcams]</a></p> 
       </div>
     </div>
