@@ -76,4 +76,4 @@ See **MB's** [Code of Conduct]({{site.baseurl}}/code_conduct/) for a full descri
 ## Get involved
 We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **NOT** a prerequisite for contributing to an **MB** project.
 
-All collaborators are encouraged to join the [MB dashboard / map]({{site.baseurl}}/map/) or update your information.
+All collaborators are encouraged to join the [MB Contributor Dashboard]({{site.baseurl}}/map/) or update your information.
