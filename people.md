@@ -11,7 +11,7 @@ cover-img: /assets/img/feet-2796905.jpg
 
 #### For Contributors:
 * **To be added to the MB Dashboard**: Fill out the <a href="#dashboardform"><b>form</b></a> below.
-* **To update any Dashboard information** (e.g., change of affiliation or name, add a study): You can either fill out the <a href="#dashboardform"><b>form</b></a> below or [email us](mailto:manybabiesconsortium@gmail.com) with your updated information.
+* **To update any Dashboard information** (e.g., change of affiliation or name, add a study): You can either fill out the <a href="#dashboardform"><b>form</b></a> below or [**email us**](mailto:manybabiesconsortium@gmail.com) with your updated information.
 
 #### For Project Leads:
 * **To add multiple contributors at once**: [email us](mailto:manybabiesconsortium@gmail.com)

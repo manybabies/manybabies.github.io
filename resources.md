@@ -19,27 +19,28 @@ Alphabetical order
 * [Github](https://github.com/manybabies)
 * [Logo]({{site.baseurl}}/assets/img/avatar-icon-2022.png)
 * [YouTube page](https://www.youtube.com/@manybabies)
-* [Contributor Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/)
+* [Contributor Dashboard](https://manybabies.shinyapps.io/shiny_mb_map/) 
 * [Data Validator](https://manybabies.shinyapps.io/validator/)
 * [Collaboration Agreement (template)](https://drive.google.com/file/d/1iEF93crL8iEMAo0HVnEYHZDcwO7ZtxxJ/view?usp=share_link)
 * [CRediT Category descriptions (template)](https://drive.google.com/file/d/1aoFctk4pDujOg8UV7LLuWA3o42uO718Z/view?usp=share_link)
 * [Ethics Guidance](https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link)
 * Social Media
-  * [@Many_Babies on Twitter](https://twitter.com/Many_Babies)
-  * [@manybabies on Mastodon](https://nerdculture.de/@manybabies)
+  * [@Many_Babies](https://twitter.com/Many_Babies) on Twitter
+  * [@manybabies](https://nerdculture.de/@manybabies) on Mastodon
 
 ***
 
 ### Developmental Science Tools
-* [CHILDES](https://childes.talkbank.org/): A system for sharing and studying conversational interactions of children.
-* [Children Helping Science](https://childrenhelpingscience.com/): Connects parents and researchers to support developmental research.
-* [Databrary](https://nyu.databrary.org/): A data library for developmental scientists to securely store, manage, share, discover, and reuse research data (including videos, audio, precedures, stimuli, and related metadata).
-* [Lookit](https://lookit.mit.edu/): A new approach in developmental psychology: running online experiments.
-* [MetaLab](http://metalab.stanford.edu): Interactive tools for community-augmented meta-analysis, power analysis, and experimental planning in cognitive development research.
-* [Peekbank](https://peekbank.stanford.edu/): A flexible and reproducible interface to developmental eyetracking datasets.
-* [TalkBank](https://talkbank.org/): A system for sharing and studying conversational interactions in general.
-* [Web CDI](https://webcdi.stanford.edu/): An online project of the MacArthur-Bates Communicative Development Inventory Advisory Board.
-* [Wordbank](http://wordbank.stanford.edu/): An open database of children's vocabulary development.
+* [CHILDES](https://childes.talkbank.org/): A system for sharing and studying conversational interactions of children
+* [childes-db](https://langcog.github.io/childes-db-website/): A flexible and reproducible interface to CHILDES
+* [Children Helping Science](https://childrenhelpingscience.com/): Connects parents and researchers to support developmental research
+* [Databrary](https://nyu.databrary.org/): A data library for developmental scientists to securely store, manage, share, discover, and reuse research data (including videos, audio, precedures, stimuli, and related metadata)
+* [Lookit](https://lookit.mit.edu/): A new approach in developmental psychology: running online experiments
+* [MetaLab](http://metalab.stanford.edu): Interactive tools for community-augmented meta-analysis, power analysis, and experimental planning in cognitive development research
+* [Peekbank](https://peekbank.stanford.edu/): A flexible and reproducible interface to developmental eyetracking datasets
+* [TalkBank](https://talkbank.org/): A system for sharing and studying conversational interactions in general
+* [Web CDI](https://webcdi.stanford.edu/): An online project of the MacArthur-Bates Communicative Development Inventory Advisory Board
+* [Wordbank](http://wordbank.stanford.edu/): An open database of children's vocabulary development
 
 
 ***
