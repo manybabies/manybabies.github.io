@@ -97,7 +97,7 @@ You are also welcome to join us at our monthly "Drop-in Hours" (currently on the
         <b>MB2 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies2"><i>Subscribe</i></a><br>
         <br>
         <h3><a href="{{site.baseurl}}{% link MB2P.md %}">MB2P: Pupil Dilation to Measure Violation-of-Expectation</a></h3>
-        <b>Project Status:</b> <i>Preparing analysis pipeline; collecting data</i><br> 
+        <b>Project Status:</b> <i>Preparing analysis pipeline; Collecting data</i><br> 
         <b>Project Lead:</b> <a href="mailto:robert.hepach@psy.ox.ac.uk">Robert Hepach</a>
         <hr>
       </div>
@@ -138,7 +138,7 @@ You are also welcome to join us at our monthly "Drop-in Hours" (currently on the
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB5.md %}">MB5: The Hunter & Ames Model of Infant Looking Preference</a></h3>
-        <b>Project Status:</b> <i>Developing stimuli; Preparing Stage 1 RR manuscript</i><br> 
+        <b>Project Status:</b> <i>Finalizing stimuli; Stage 1 RR manuscript under review</i><br> 
         <b>Project Leads:</b> <a href="mailto:jkosie@princeton.edu">Jessica Kosie</a>, <a href="mailto:martincz@princeton.edu">Martin Zettersten</a>, 
           <a href="mailto:chbergma@uni-osnabrueck.de">Christina Bergmann</a>, <a href="mailto:da2959@columbia.edu">Dima Amso</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a><br>
         <b>MB5 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies5"><i>Subscribe</i></a>
@@ -175,7 +175,7 @@ You are also welcome to join us at our monthly "Drop-in Hours" (currently on the
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB-demographics.md %}">MB-Demographics: Standard Demographics for MB Projects</a></h3>
-        <b>Project Status:</b> <i>Preparing manuscript; Developing templates</i><br> 
+        <b>Project Status:</b> <i>Manuscript submitted</i><br> 
         <b>Project Leads:</b> <a href="mailto:leher.singh.nus@gmail.com">Leher Singh</a>, <a href="mailto:mihaela.barokova@gmail.com">Mihaela Barokova</a><br>
         <b>MB-Demo listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics"><i>Subscribe</i></a>
         <hr>
@@ -187,7 +187,7 @@ You are also welcome to join us at our monthly "Drop-in Hours" (currently on the
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}">MB-ManyWebcams: Web-based Eye Tracking for Infant Studies</a></h3>
-        <b>Project Status:</b> <i>Collecting data</i><br> 
+        <b>Project Status:</b> <i>Manuscript submitted</i><br> 
         <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:adrian.steffan@hotmail.de">Adrian Steffan</a>, <a href="mailto:lucie.zimmer@psy.lmu.de">Lucie Zimmer</a><br>
         <b>MB-MW listserv:</b> <a href="https://lists.lrz.de/mailman/listinfo/online_mb2"><i>Subscribe</i></a>
         <hr>
