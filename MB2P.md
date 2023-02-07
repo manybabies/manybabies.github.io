@@ -35,7 +35,7 @@ The main dependent variable of the [MB2]({{site.baseurl}}/MB2/) study is childre
 ***
 ### Leads
 * [Robert Hepach](https://www.psy.ox.ac.uk/people/robert-hepach), *University of Oxford, UK* [[email]](robert.hepach@psy.ox.ac.uk)
-* [Hannes Rackozy](https://www.psych.uni-goettingen.de/en/development/team/rakoczy-hannes), *University of Göttingen, Germany* [[email]](mailto:hrakocz@uni-goettingen.de)
+* [Hannes Rakoczy](https://www.psych.uni-goettingen.de/en/development/team/rakoczy-hannes), *University of Göttingen, Germany* [[email]](mailto:hrakocz@uni-goettingen.de)
 * Sebastian Dörrenberg
 * Charlotte Grosse Wiesmann
 * Ulf Lizkowski
