@@ -138,7 +138,7 @@ You are also welcome to join us at our monthly "Drop-in Hours" (currently on the
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB5.md %}">MB5: The Hunter & Ames Model of Infant Looking Preference</a></h3>
-        <b>Project Status:</b> <i>Developing stimuli; Preparing Stage 1 RR manuscript</i><br> 
+        <b>Project Status:</b> <i>Finalizing stimuli; Stage 1 RR manuscript under review</i><br> 
         <b>Project Leads:</b> <a href="mailto:jkosie@princeton.edu">Jessica Kosie</a>, <a href="mailto:martincz@princeton.edu">Martin Zettersten</a>, 
           <a href="mailto:chbergma@uni-osnabrueck.de">Christina Bergmann</a>, <a href="mailto:da2959@columbia.edu">Dima Amso</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a><br>
         <b>MB5 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies5"><i>Subscribe</i></a>
@@ -175,7 +175,7 @@ You are also welcome to join us at our monthly "Drop-in Hours" (currently on the
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB-demographics.md %}">MB-Demographics: Standard Demographics for MB Projects</a></h3>
-        <b>Project Status:</b> <i>Preparing manuscript; Developing templates</i><br> 
+        <b>Project Status:</b> <i>Manuscript submitted</i><br> 
         <b>Project Leads:</b> <a href="mailto:leher.singh.nus@gmail.com">Leher Singh</a>, <a href="mailto:mihaela.barokova@gmail.com">Mihaela Barokova</a><br>
         <b>MB-Demo listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics"><i>Subscribe</i></a>
         <hr>
