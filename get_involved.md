@@ -187,7 +187,7 @@ You are also welcome to join us at our monthly "Drop-in Hours" (currently on the
       </div>
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link MB-ManyWebcams.md %}">MB-ManyWebcams: Web-based Eye Tracking for Infant Studies</a></h3>
-        <b>Project Status:</b> <i>Collecting data</i><br> 
+        <b>Project Status:</b> <i>Manuscript submitted</i><br> 
         <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:adrian.steffan@hotmail.de">Adrian Steffan</a>, <a href="mailto:lucie.zimmer@psy.lmu.de">Lucie Zimmer</a><br>
         <b>MB-MW listserv:</b> <a href="https://lists.lrz.de/mailman/listinfo/online_mb2"><i>Subscribe</i></a>
         <hr>
