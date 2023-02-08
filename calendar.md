@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ManyBabies Public Calendar
+title: Public Calendar
 
 ---
 
