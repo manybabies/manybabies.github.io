@@ -22,7 +22,7 @@ To-do:
 
 If you know which project you are interested in joining, **you can email one or more of the Project Leads directly**. You are also encouraged to **subscribe to project listservs** to receive project updates and communications (see links below). 
 
-If you're unsure of how you'd like to contribute or you'd like to talk with us about contribution opportunities, please **fill out the Sign-Up Form at the bottom of this page** and we'll be in touch with you as soon as possible. 
+If you're unsure of how you'd like to contribute or you'd like to talk with us about contribution opportunities, please **fill out the Interest Form at the bottom of this page** and we'll be in touch with you as soon as possible. 
 
 You are also welcome to join us at our monthly "Drop-in Hours" (currently on the first Thursday of each month). Times and links to join can be found in our [calendar]({{site.baseurl}}/news/).
 
@@ -166,6 +166,7 @@ You are also welcome to join us at our monthly "Drop-in Hours" (currently on the
         <b>Project Status:</b> <i>Translating materials; Collecting pilot data</i><br> 
         <b>Project Leads:</b> <a href="mailto:L.Zaadnoordijk@tcd.ie">Lorijn Zaadnoordijk</a>, <a href="mailto:tsujish@gmail.com">Sho Tsuji</a>, <a href="mailto:katie.m.vonholzen@gmail.com">Katie Von Holzen</a>, <a href="mailto:Helen.Buckler@nottingham.ac.uk">Helen Buckler</a>, <a href="mailto:rhodricusack@cusacklab.org">Rhodri Cusack</a><br>
         <b>MB-AH listserv:</b> <a href="https://groups.google.com/forum/#!forum/infantlooksathome"><i>Subscribe</i></a>
+        <b>MB-AH Slack:</b> <a href="https://join.slack.com/t/infantlooksathome/shared_invite/zt-1ow4drttf-O6fvUJFIyvvwpDdR3W2paw"><Join</i></a>
         <hr>
       </div>
     </div>
@@ -219,14 +220,8 @@ If you are interested in leading a new **ManyBabies** project (either a main pro
 <br>
 
 ***
-## Activity Tracking
-If you are a **ManyBabies** contributor, don't forget to keep an updated record of your MB-related activities and initiatives (e.g., workshops, talks etc.). In this [spreadsheet](https://docs.google.com/spreadsheets/d/1esnJTsPB0NJ2PP0fwmWIhSxShKLIN99Ga8ehCDyz3rQ/edit?usp=sharing) you can check a more complete list of **MB** activities and initiatives. To add new activities and initiatives, please complete [this form](https://forms.gle/qaynWvpYLP1J4eYd6).
 
-<br>
-
-***
-
-## Sign-Up Form
+## ManyBabies Interest Form
 To express interest in contributing to one or more **ManyBabies** project(s), please fill out this form. We'll be in touch as soon as possible with more info. 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTzmf11OUsL3kgXtdqYRMTn-k4VBYX5NKBET68uhwMJcbRwA/viewform?embedded=true" width="640" height="3807" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
