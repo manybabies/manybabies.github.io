@@ -84,7 +84,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
         <h4><a href="{{site.baseurl}}{% link MB3.md %}">MB3: Rule Learning</a></h4>
         Do infants learn and generalize identity-based rules from speech stimuli?
         <br>
-        <i>Spin-offs: <a href="{{site.baseurl}}{% link MB3N.md %}">MB3-NIRS</a>, <a href="{{site.baseurl}}{% link MB3L.md %}">MB3L</a></i>, <a href="{{site.baseurl}}{% link MB3T.md %}">MB3T</a></i>
+        <i>Spin-offs: <a href="{{site.baseurl}}{% link MB3N.md %}">MB3-NIRS</a>, <a href="{{site.baseurl}}{% link MB3L.md %}">MB3L</a>, <a href="{{site.baseurl}}{% link MB3T.md %}">MB3T</a></i>
       </div>
     </div>
     <div class="col-sm-12">
