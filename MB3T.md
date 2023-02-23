@@ -16,6 +16,6 @@ In this ongoing project we aim to answer the question to what extent the methods
 * Planning
 
 
-> We encourage everyone who is interested in the project to contact the Project Leads (see above).
+> We encourage everyone who is interested in the project to contact Project Lead [Anna Exner](mailto:anna.exner@posteo.de).
 
 > Please note that access to infants/infant lab is **NOT** a prerequisite.
