@@ -26,6 +26,19 @@ In this workshop, Mike will walk participants through the process of creating re
 #### *Past*
 
 <div class="container" align="left">
+  <img border="0" src="/assets/img/BTSCon2022_logo.png" height="120">
+</div>
+
+## 2022 Big Team Science Conference
+### Co-hosted by ManyBabies, ManyPrimates, & the Psychological Science Accelerator
+#### October 27-28, 2022 
+
+### [Conference website](https://bigteamscienceconference.github.io/)
+<br>
+
+***
+
+<div class="container" align="left">
   <img border="0" src="https://www.cos.io/hs-fs/hubfs/badges_stacked.original.png?width=834&name=badges_stacked.original.png" width="150" height="120">
 </div>
 
@@ -43,7 +56,7 @@ In this workshop, Nicolás and Krista introduce the open science perspective for
 ***
 
 <div class="container" align="left">
-  <img border="0" src="/assets/img/BTSCon2022_logo.png" height="120">
+  <img border="0" src="/assets/img/MBatCDS.png" width="150">
 </div>
 
 ## Big Team Science for Studying Small People
