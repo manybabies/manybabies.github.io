@@ -7,13 +7,17 @@ cover-img: /assets/img/workshop.jpg
 
 #### *Upcoming*
 
+<div class="container" align="left">
+  <img border="0" src="/assets/img/RMarkdown.png" height="120">
+</div>
+
 ## ManyBabies Workshop: Reproducible Writing Using R Markdown
 ### Michael Frank, *Stanford University*
 #### March 21, 2023 9:00-10:30 PDT (San Francisco) on Zoom
 
 In this workshop, Mike will walk participants through the process of creating reproducible manuscripts using R Markdown. Learn how to link your analyses directly to your manuscript, and never worry about copy/paste errors again! 
 
-[REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLSeiZLP9BrclDa1mMMgEWmVyvvZ8mLSjx3FK5bA7v5SSiNdvSw/viewform?usp=sf_link)
+### [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLSeiZLP9BrclDa1mMMgEWmVyvvZ8mLSjx3FK5bA7v5SSiNdvSw/viewform?usp=sf_link)
 
 <br>
 
@@ -21,7 +25,7 @@ In this workshop, Mike will walk participants through the process of creating re
 
 #### *Past*
 
-<div class="container" align="center">
+<div class="container" align="left">
   <img border="0" src="https://www.cos.io/hs-fs/hubfs/badges_stacked.original.png?width=834&name=badges_stacked.original.png" width="150" height="120">
 </div>
 
@@ -38,8 +42,8 @@ In this workshop, Nicolás and Krista introduce the open science perspective for
 
 ***
 
-<div class="container" align="center">
-  <img border="0" src="/assets/img/BTSCon2022_logo.png" width="200">
+<div class="container" align="left">
+  <img border="0" src="/assets/img/BTSCon2022_logo.png" height="120">
 </div>
 
 ## Big Team Science for Studying Small People
