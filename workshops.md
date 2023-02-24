@@ -4,13 +4,28 @@ title: Workshops
 cover-img: /assets/img/workshop.jpg
 ---
 
+
+#### *Upcoming*
+
+## ManyBabies Workshop: Reproducible Writing Using R Markdown
+### Michael Frank, *Stanford University*
+#### March 21, 2023 9:00-10:30 PDT (San Francisco) on Zoom
+
+In this workshop, Mike will walk participants through the process of creating reproducible manuscripts using R Markdown. Learn how to link your analyses directly to your manuscript, and never worry about copy/paste errors again! 
+
+[REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLSeiZLP9BrclDa1mMMgEWmVyvvZ8mLSjx3FK5bA7v5SSiNdvSw/viewform?usp=sf_link)
+
+
+
+***
+
 #### *Past*
 
 <div class="container" align="center">
   <img border="0" src="https://www.cos.io/hs-fs/hubfs/badges_stacked.original.png?width=834&name=badges_stacked.original.png" width="150" height="120">
 </div>
 
-## ManyBabies: An Introduction to Open Science
+## ManyBabies Workshop: An Introduction to Open Science
 ### Nicolás Alessandroni & Krista Byers-Heinlein, *Concordia University*
 #### October 20, 2022 11:00-12:30 EDT (Montréal, Canada) on Zoom
 
@@ -23,7 +38,11 @@ In this workshop, Nicolás and Krista introduce the open science perspective for
 <br>
 
 ***
-<br>
+
+<div class="container" align="center">
+  <img border="0" src="/assets/img/BTSCon2022_logo.png" width="200">
+</div>
+
 ## Big Team Science for Studying Small People
 ### Cognitive Development Society 2022 Pre-Conference 
 #### April 21, 2022 in Madison, Wisconsin, United States
