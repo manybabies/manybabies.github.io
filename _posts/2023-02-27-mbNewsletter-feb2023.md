@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MB Newsletter - January 2023
+title: MB Newsletter - February 2023
 tags: [MB, newsletter]
 ---
 
