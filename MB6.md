@@ -5,15 +5,16 @@ subtitle: Neonatal Imitation
 cover-img: /assets/img/MB6_logo.png
 ---
 
-We are excited to launch our newest ManyBabies experimental project, **MB6: Neonatal Imitation**! 
+## Project Overview
 
-We hosted a pair of planning workshops in July 2022 to hear from experts about their own research and ideas for the project, and to initiate discussions about what a "best test" of neontatal imitation would look like. Subscribe to the listserv (link below) for future updates!
+* *Project Status*: **DESIGN**
+* *Subscribe to the [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies6) to get involved!*
 
-Please contact MB Executive Director, [Heidi Baumgartner](mailto:heidib@stanford.edu), with questions.
 
+
+We hosted a pair of planning workshops in July 2022 to hear from experts about their own research and ideas for the project, and to initiate discussions about what a "best test" of neontatal imitation would look like. 
 
 ### Workshop #1 - July 12/13, 2022 [[View the recording]](https://stanford.zoom.us/rec/share/Gsyuh5B-PnpwWt-6_8ZtMXsLcv8UNn6FPLvsbZqPbQm8X5VWsEDDPHefTPzs5MLs.lFTjsqVJJ-wN8sxJ?startTime=1657663437000) 
-
 
 #### Featuring presentations from: 
 * Sumeet Farwaha & Virginia Slaughter, *University of Queensland, Australia*
@@ -56,8 +57,6 @@ Please contact MB Executive Director, [Heidi Baumgartner](mailto:heidib@stanford
 
 
 ***
-### Contributors
-* *To Be Determined*
 
 > We encourage everyone who is interested in the project to join the listserv using the link above. You can also email one or more of the project leads to indicate your interest.
 
