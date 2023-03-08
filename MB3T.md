@@ -15,6 +15,9 @@ In this ongoing project we aim to investigate the test-retest reliability of the
 ### Status
 * Planning
 
+***
+### Links
+* **Listserv**: [join here](https://groups.google.com/g/mb3t)
 
 > We encourage everyone who is interested in the project to contact Project Lead [Anna Exner](mailto:anna.exner@posteo.de).
 

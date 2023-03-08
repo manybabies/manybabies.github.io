@@ -14,9 +14,13 @@ In this ongoing project we aim to investigate the relationship between infants' 
 * [Roberta Bettoni](https://en.unimib.it/roberta-bettoni), *University of Milano-Bicocca, Italy*, [[email]](mailto:roberta.bettoni@unimib.it)
 * [Ingmar Visser](https://www.uva.nl/profiel/v/i/i.visser/i.visser.html?cb), *University of Amsterdam, Netherlands* [[email]](mailto:i.visser@uva.nl)
 
+***
 ### Status
 * Planning
 
+***
+### Links
+* **Listserv**: [join here](https://groups.google.com/g/mb3l)
 
 > We encourage everyone who is interested in the project to contact Project Lead [Anna Exner](mailto:anna.exner@posteo.de).
 
