@@ -5,7 +5,7 @@ subtitle: Test-Retest Follow-up
 cover-img: /assets/img/MB3_logo.png
 ---
 
-In this ongoing project we aim to answer the question to what extent the methods that have been used to investigate abstract rule learning in infancy during ManyBabies3 are suitable to measure individual differences in infants' rule learning abilities by investigating test-retest reliability. Therefore, participating labs will test the babies again after 7 days using the same method they used for initial testing (head-turn preference procedure, central fixation, or eye tracking).
+In this ongoing project we aim to investigate the extent to which the methods that have been used to assess abstract rule learning in infancy during ManyBabies3 are suitable to measure individual differences in infants' rule learning abilities by measuring test-retest reliability. Participating labs will test babies again after 7 days using the same method they used for initial testing (head-turn preference procedure, central fixation, or eye tracking).
 
 
 ### Leads
