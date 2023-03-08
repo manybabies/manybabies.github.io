@@ -21,3 +21,6 @@ In this ongoing project we aim to investigate the relationship between infants' 
 > We encourage everyone who is interested in the project to contact Project Lead [Anna Exner](mailto:anna.exner@posteo.de).
 
 > Please note that access to infants/infant lab is **NOT** a prerequisite.
+
+***
+### [MB3 main study page]({{site.baseurl}}/MB3/)
