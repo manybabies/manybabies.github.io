@@ -5,7 +5,7 @@ subtitle: Longitudinal Language Follow-up
 cover-img: /assets/img/MB3_logo.png
 ---
 
-In this ongoing project we aim to investigate the relationship between infants' rule learning abilities and their later developing language acquisition skills in a longitudinal design. Participating labs will assess language abilities at 18, 24, and 30 months of age using the CDI as well as language recordings in a naturalistic and a semi-structured setting. We are interested in the extent to which rule learning abilities predict later grammar skills, if this relationship changes with age, and if certain characteristics of the first language infants are exposed to (e.g., complexity) lead to any systematic differences in the strength of this relationship.
+In this ongoing project we aim to investigate the relationship between infants' rule learning abilities and their later developing language acquisition skills in a longitudinal design. Therefore, participating labs will assess language abilities at 18, 24, and 30 months of age using the CDI and additional measures (e.g. language recordings in a semi-structured setting). We are for example interested in the extent to which rule learning abilities predict later grammar skills, if this relationship changes with age, and if certain characteristics of the first language the infants are exposed to (e.g., like complexity) lead to any systematic differences in the strength of this relationship.
 
 
 
