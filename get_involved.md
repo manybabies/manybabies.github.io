@@ -6,17 +6,6 @@ cover-img: /assets/img/siblings-862967.jpg #child-871845.jpg
 ---
  
 
-<!-- testing - page is not building
-To-do:
-- login/password?
-  - good example: https://member.psysciacc.org/register.php
-  - (database -
-    https://wilsonmar.github.io/authentication-on-static-site/ ;
-    https://github.com/apcj/jekyll-google-auth) ;
-    https://stackoverflow.com/questions/12598822/how-can-i-provide-login-feature-to-a-jekyll-site ;
-    https://github.com/benbalter/jekyll-auth
--->
-
 
 **We're excited to have you join our team!** In addition to collecting data, there are many contribution opportunities (e.g., study design, data analysis, writing) which do not require access to an infant lab. **All are welcome!**
 
@@ -24,7 +13,7 @@ If you know which project you are interested in joining, **you can email one or 
 
 If you're unsure of how you'd like to contribute or you'd like to talk with us about contribution opportunities, please **fill out the Interest Form at the bottom of this page** and we'll be in touch with you as soon as possible. 
 
-You are also welcome to join us at our monthly "Drop-in Hours" (currently on the first Thursday of each month). Times and links to join can be found in our [calendar]({{site.baseurl}}/news/).
+You are also welcome to join us at our monthly "Drop-in Hours" (currently on the first Thursday of each month). Times and links to join can be found in our [calendar]({{site.baseurl}}/calendar/).
 
 ***
 
@@ -41,7 +30,7 @@ You are also welcome to join us at our monthly "Drop-in Hours" (currently on the
       <div class="col-sm-9">
         <h3><a href="{{site.baseurl}}{% link index.md %}">ManyBabies </a></h3>
         <b>Contact info:</b> <a href="mailto:manybabies-gb@mailman.stanford.edu">Governing Board</a>, 
-          <a href="mailto:manybabiesconsortium@gmail.com">Executive Director</a> <i>(more info available <a href="{{site.baseurl}}{% link people.md %}">here</a>)</i><br>
+          <a href="mailto:contact@manybabies.org">Executive Director</a> <i>(more info available <a href="{{site.baseurl}}{% link people.md %}">here</a>)</i><br>
         <b>General MB Listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies"><i>Subscribe</i></a><br> 
         <b>General MB Slack:</b> <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ"><i>Join</i></a>
         <hr>
