@@ -15,11 +15,11 @@ cover-img: /assets/img/feet-2796905.jpg
 * **Check out ways to [get involved]({{site.baseurl}}/get_involved/)!**
 
 #### For Contributors:
-* **To be added to the MB Dashboard**: Fill out the <a href="#dashboardform"><b>form<sup>&ast</sup></b></a> below.
-* **To update any Dashboard information** (e.g., change of affiliation or name, add a study): You can either fill out the <a href="#dashboardform"><b>form<sup>&ast</sup></b></a> below or [**email us**](mailto:contact@manybabies.org) with your updated information.
+* **To be added to the MB Dashboard**: Fill out the <a href="#dashboardform"><b>form<sup>\*</sup></b></a> below.
+* **To update any Dashboard information** (e.g., change of affiliation or name, add a study): You can either fill out the <a href="#dashboardform"><b>form<sup>\*</sup></b></a> below or [**email us**](mailto:contact@manybabies.org) with your updated information.
 * **Report MB-related activities**: Don't forget to keep an updated record of your MB-related activities and initiatives (e.g., workshops, talks etc.). Please use <a href="https://forms.gle/qaynWvpYLP1J4eYd6" target="_blank"><b>this form</b></a> to help us keep track of all the amazing work you are doing for ManyBabies! Your reported activities will be added to this <a href="https://docs.google.com/spreadsheets/d/1esnJTsPB0NJ2PP0fwmWIhSxShKLIN99Ga8ehCDyz3rQ/edit?usp=sharing" target="_blank"><b>list of MB activities</b></a>.
 
-> &ast Please note that all responses to the dashboard form are moderated. Thanks for your patience! 
+> \* Please note that all responses to the dashboard form are moderated. Thanks for your patience! 
 
 #### For Project Leads:
 * **To add multiple contributors at once**: [**email us**](mailto:contact@manybabies.org)
