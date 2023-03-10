@@ -96,7 +96,7 @@ You are also welcome to join us at our monthly "Drop-in Hours" (currently on the
         <a href="{{site.baseurl}}{% link MB3.md %}" class="image"><img src="/assets/img/MB3_logo.png" alt="MB3 logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
-        <h3><a href="{{site.baseurl}}{% link MB3.md %}">MB3: Rule Learning</a></h3>
+        <h3><a href="{{site.baseurl}}{% link MB3.md %}">MB3: Rule Learning</a> & <a href="{{site.baseurl}}{% link MB3N.md %}">MB3N: Rule Learning with NIRS</a></h3>
         <b>Project Status:</b> <i>Collecting data</i><br> 
         <b>Project Leads:</b> <a href="mailto:i.visser@uva.nl">Ingmar Visser</a>, <a href="mailto:a.geambasu@hum.leidenuniv.nl">Andreea Geambasu</a>, 
           <a href="mailto:c.c.levelt@hum.leidenuniv.nl">Claartje Levelt</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
