@@ -122,7 +122,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
       </div>
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}{% link MB6.md %}">MB6: Early Imitation</a></h4>
-        What is the nature of young infants' imitation of facial gestures?
+        What is the nature of young infants' imitation of gestures?
       </div>
     </div>
     <div class="col-sm-12">
