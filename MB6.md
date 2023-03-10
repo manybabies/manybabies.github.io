@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MB6
-subtitle: Neonatal Imitation
+subtitle: Early Imitation
 cover-img: /assets/img/MB6_logo.png
 ---
 
@@ -12,7 +12,7 @@ cover-img: /assets/img/MB6_logo.png
 
 
 
-We hosted a pair of planning workshops in July 2022 to hear from experts about their own research and ideas for the project, and to initiate discussions about what a "best test" of neontatal imitation would look like. 
+We hosted a pair of planning workshops in July 2022 to hear from experts about their own research and ideas for the project, and to initiate discussions about what a "best test" of early imitation would look like. 
 
 ### Workshop #1 - July 12/13, 2022 [[View the recording]](https://stanford.zoom.us/rec/share/Gsyuh5B-PnpwWt-6_8ZtMXsLcv8UNn6FPLvsbZqPbQm8X5VWsEDDPHefTPzs5MLs.lFTjsqVJJ-wN8sxJ?startTime=1657663437000) 
 

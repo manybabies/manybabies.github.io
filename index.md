@@ -121,8 +121,8 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
         <a href="{{site.baseurl}}{% link MB6.md %}" class="image"><img src="/assets/img/MB6_logo.png" alt="MB6 logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
-        <h4><a href="{{site.baseurl}}{% link MB6.md %}">MB6: Neonatal Imitation</a></h4>
-        What is the nature of neonatal infants' imitation of facial gestures?
+        <h4><a href="{{site.baseurl}}{% link MB6.md %}">MB6: Early Imitation</a></h4>
+        What is the nature of young infants' imitation of facial gestures?
       </div>
     </div>
     <div class="col-sm-12">
