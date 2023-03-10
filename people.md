@@ -5,21 +5,27 @@ cover-img: /assets/img/feet-2796905.jpg
 ---
 
 
-<h2><a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="_blank">Visit the <b>MB Contributor Dashboard</b></a></h2>
+## Contributors
 
-**ManyBabies** is all about our amazing team of researchers from around the world. The [**Dashboard**](https://manybabies.shinyapps.io/shiny_mb_map/) displays the geographical distribution of **MB** contributors. It is an easy way to browse contributors by region, study, or institution and to get a sense of the MB Consortium's diversity and reach.
+**ManyBabies** is all about our amazing network of researchers from around the world. The **MB Contributor Dashboard** displays the geographical distribution of our contributors. It is an easy way to browse contributors by region, study, or institution and to get a sense of the MB Consortium's diversity and reach.
+
+<h3 align="center"> >>> <a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="_blank">VIEW THE DASHBOARD</a> <<< </h3>
 
 #### To join ManyBabies:
 * **Check out ways to [get involved]({{site.baseurl}}/get_involved/)!**
 
 #### For Contributors:
-* **To be added to the MB Dashboard**: Fill out the <a href="#dashboardform"><b>form</b></a> below.
-* **To update any Dashboard information** (e.g., change of affiliation or name, add a study): You can either fill out the <a href="#dashboardform"><b>form</b></a> below or [**email us**](mailto:manybabiesconsortium@gmail.com) with your updated information.
+* **To be added to the MB Dashboard**: Fill out the <a href="#dashboardform"><b>form<sup>&ast</sup></b></a> below.
+* **To update any Dashboard information** (e.g., change of affiliation or name, add a study): You can either fill out the <a href="#dashboardform"><b>form<sup>&ast</sup></b></a> below or [**email us**](mailto:contact@manybabies.org) with your updated information.
+* **Report MB-related activities**: Don't forget to keep an updated record of your MB-related activities and initiatives (e.g., workshops, talks etc.). Please use <a href="https://forms.gle/qaynWvpYLP1J4eYd6" target="_blank"><b>this form</b></a> to help us keep track of all the amazing work you are doing for ManyBabies! Your reported activities will be added to this <a href="https://docs.google.com/spreadsheets/d/1esnJTsPB0NJ2PP0fwmWIhSxShKLIN99Ga8ehCDyz3rQ/edit?usp=sharing" target="_blank"><b>list of MB activities</b></a>.
+
+> &ast Please note that all responses to the dashboard form are moderated. Thanks for your patience! 
 
 #### For Project Leads:
-* **To add multiple contributors to the dashboard at once**: [email us](mailto:manybabiesconsortium@gmail.com)
+* **To add multiple contributors at once**: [**email us**](mailto:contact@manybabies.org)
 
-> Please note that all responses to the form are moderated before being added to the dashboard. Thanks for your patience! 
+
+
 
 
 ***
