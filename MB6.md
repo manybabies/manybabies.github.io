@@ -1,15 +1,14 @@
 ---
 layout: page
 title: MB6
-subtitle: Neonatal Imitation
+subtitle: Neonatal and Early Imitation
 cover-img: /assets/img/MB6_logo.png
 ---
 
 ## Project Overview
 
-* *Project Status*: **DESIGN**
-* *Subscribe to the [listserv](https://mailman.stanford.edu/mailman/listinfo/manybabies6) to get involved!*
-
+* *Status: **DESIGN and TEAM FORMATION***
+* *Subscribe to the [**MB6 listserv**](https://mailman.stanford.edu/mailman/listinfo/manybabies6) to get involved!*
 
 
 We hosted a pair of planning workshops in July 2022 to hear from experts about their own research and ideas for the project, and to initiate discussions about what a "best test" of neonatal and early imitation would look like. 
@@ -43,11 +42,6 @@ We hosted a pair of planning workshops in July 2022 to hear from experts about t
 * [Mark Nielsen](https://psychology.uq.edu.au/profile/2458/mark-nielsen), *University of Queensland, Australia* [[email]](mailto:m.nielsen@psy.uq.edu.au)
 * [Rechele Brooks](https://ilabs.uw.edu/i-labs-rechele-brooks-phd/), *University of Washington, USA* [[email]](mailto:recheleb@uw.edu)
 
-
-***
-### Status
-* Initial planning discussions
-* Team formation
 
 
 ***
