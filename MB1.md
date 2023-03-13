@@ -22,7 +22,7 @@ Notes:
 * *Status: **COMPLETE***
 * *69 participating labs in 16 countries*
 * *2,329 babies tested* 
-* *149 authors on [_AMPPS_ publication](https://doi.org/10.1177/2515245919900809)*
+* *149 authors on* [AMPPS *publication*](https://doi.org/10.1177/2515245919900809)
 * *Project data, analysis code, and materials available on [OSF](https://osf.io/gf7vh)*
 
 
