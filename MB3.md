@@ -7,8 +7,9 @@ cover-img: /assets/img/MB3_logo.png
 
 ## Project Overview
 
-* *Project Status*: **COLLECTING DATA**
-* *Registered Report given In Principle Acceptance at Developmental Science [PsyArXiv preprint](https://doi.org/10.31234/osf.io/aex7v)*
+* *Project Status*: **COLLECTING DATA** [*(SIGN UP HERE)*](https://umanitobapsych.az1.qualtrics.com/jfe/form/SV_4NiYE6jM0399g7r)
+* *Check the [**MB calendar**]({{site.baseurl}}/calendar/) for regular check-in meetings*
+* *Stage 1 Registered Report given In Principle Acceptance at* Developmental Science *[(PsyArXiv preprint)](https://doi.org/10.31234/osf.io/aex7v)*
 
 
 In this ongoing project we investigate an ability that lies at the heart of cognition: to learn and to apply rules. We ask whether infants (from 5 to 12 months-old) can learn abstract algebraic rules over patterned syllable sequences and generalize those rules to novel syllable sequences. <img style="float: right;" src="/assets/img/BLL1_300px.jpg"> Despite the large research effort on the topic, questions remain about the robustness of the core finding, as many studies failed to find significant learning effects. We believe that a multi-lab approach with a large and diverse sample of infants has the potential to uncover whether and to what extent this core cognitive ability is available in young infants and how it varies across age and different developmental circumstances.
@@ -19,14 +20,6 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 * [Claartje Levelt](https://www.universiteitleiden.nl/en/staffmembers/claartje-levelt#tab-1), *Leiden University, Netherlands* [[email]](mailto:c.c.levelt@hum.leidenuniv.nl) 
 * [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada* [[email]](mailto:M_Soderstrom@umanitoba.ca)
 * [Andreea Geambasu](https://www.universiteitleiden.nl/en/staffmembers/andreea-geambasu#tab-1), *Leiden University, Netherlands* [[email]](mailto:a.geambasu@hum.leidenuniv.nl)
-
-
-***
-### Status
-* Stage 1 Registered Report has received an **In Principle Acceptance** at *Developmental Science* ([read the preprint](https://psyarxiv.com/aex7v/))
-* Collecting data ([sign-up form](https://umanitobapsych.az1.qualtrics.com/jfe/form/SV_4NiYE6jM0399g7r))
-
-> Data Collection Meetings are scheduled for Tuesday Oct 11 11am ET / 5pm, CEST and Thursday Oct 13, 9am CEST. For more information, contact [Ingmar Visser](mailto:i.visser@uva.nl)
 
 
 ***
