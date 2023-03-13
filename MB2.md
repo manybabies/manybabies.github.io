@@ -5,18 +5,11 @@ subtitle: Theory of Mind in Infancy
 cover-img: /assets/img/MB2_logo.png
 ---
 
-<!--
-To-do:
-- grant from germany?
-- check status;
-- publications: where the registred report is archived?
-- add collaborators map.
--->
 
 ## Project Overview
 
-* *Project Status*: **COLLECTING DATA**
-* *Registered Report given In Principle Acceptance at Child Development [PsyArXiv preprint](https://doi.org/10.31234/osf.io/x4jbm)*
+* *Status: **COLLECTING DATA [(sign up here)](https://docs.google.com/forms/d/e/1FAIpQLSduhG_fDWVzLcQlGqgRPDBobbt0DrQRIlRai1_8Gyie6argyQ/viewform)***
+* *Stage 1 Registered Report given 'In Principle Acceptance' at* Child Development [***(PsyArXiv preprint)***](https://doi.org/10.31234/osf.io/x4jbm)
 
 <img style="float: right;" src="/assets/img/MB2_design300px.png"> 
 In this ongoing project we aim to investigate a fundamental feature of human social cognition: Theory of Mind (ToM), or the ability to ascribe mental states to agents. One of the central tests for ToM is the false belief task, in which the participant needs to predict how an agent will act on the basis of her/his (mis)representation of the world. Using a false belief task (3D-animated videos), we ask if infants (18- to 27-month-olds) and adults show anticipatory looking that reflects the false belief of another agent. Our contributors include the authors of the original studies and of previous replication attempts, as well researchers from diverse theoretical orientations (e.g., nativist and core knowledge, dual process, conceptual change and skeptics). Following the anticipatory looking study, we hope to continue the project with other measures such as Violation of Expectation, and interactive tasks.
@@ -29,11 +22,6 @@ In this ongoing project we aim to investigate a fundamental feature of human soc
 * [Tobias Schuwerk](https://www.en.cas.uni-muenchen.de/rir/junior_rir/previous_junior_rir/schuhwerk_tobias/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:Tobias.Schuwerk@psy.lmu.de)
 * [Michael Frank](https://web.stanford.edu/~mcfrank/), *Stanford University, USA* [[email]](mcfrank@stanford.edu)
 
-
-***
-### Status
-* Stage 1 Registered Report has received an **In Principle Acceptance** at *Child Development* ([read the preprint](https://psyarxiv.com/x4jbm/))
-* Collecting data ([sign-up form](https://docs.google.com/forms/d/1SnPZh1FrIGA5qMFM1ZSMcuE_qN9DPTCEic2Nt35XNcc/viewform))
 
 
 ***

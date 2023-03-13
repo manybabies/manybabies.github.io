@@ -5,12 +5,15 @@ subtitle: Social Evaluation
 cover-img: /assets/img/MB4_logo.png
 ---
 
+
 ## Project Overview
 
-* *Project Status*: **COLLECTING DATA**
-* *Registered Report given In Principle Acceptance at Developmental Science [PsyArXiv preprint](https://doi.org/10.31234/osf.io/qhxkm)*
+* *Status: **COLLECTING DATA [(sign up here)](https://docs.google.com/forms/d/e/1FAIpQLScUicLDQnkKpFa1UdKL8wrPY-qdq3PfY6NbrlkLXHhK_WK2yg/viewform)***
+* *Stage 1 Registered Report given 'In Principle Acceptance' at* Developmental Science [***(PsyArXiv preprint)***](https://doi.org/10.31234/osf.io/qhxkm)
 
-In this ongoing project we investigate a fundamental aspect of human nature: evaluating others’ actions as praiseworthy or blameworthy. <img style="float: right;" src="/assets/img/mb4_site_300px.png"> We do so in a closely coordinated, multi-laboratory, standardized study aimed at replicating the helping/hindering finding reported by ([Hamlin, Wynn, & Bloom, 2007](https://www.nature.com/articles/nature06288)). Using a video-taped version of the original [puppet show](https://www.youtube.com/watch?v=anCaGBsBOxM), labs from around the world will collect data from infants between the ages of 5.5 and 10.5 months.
+
+<img style="float: right;" src="/assets/img/mb4_site_300px.png">
+In this ongoing project we investigate a fundamental aspect of human nature: evaluating others’ actions as praiseworthy or blameworthy. We do so in a closely coordinated, multi-laboratory, standardized study aimed at replicating the helping/hindering finding reported by ([Hamlin, Wynn, & Bloom, 2007](https://www.nature.com/articles/nature06288)). Using a video-taped version of the original [puppet show](https://www.youtube.com/watch?v=anCaGBsBOxM), labs from around the world will collect data from infants between the ages of 5.5 and 10.5 months.
 
 
 ***
@@ -18,13 +21,6 @@ In this ongoing project we investigate a fundamental aspect of human nature: eva
 * [Kelsey Lucca](https://isearch.asu.edu/profile/3521043), *Arizona State University, USA* [[email]](mailto:kelsey.lucca@asu.edu)
 * [Francis Yuen](https://cic.psych.ubc.ca/), *University of British Columbia, Canada* [[email]](mailto:francis.yuen@psych.ubc.ca)
 * [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/), *University of British Columbia, Canada* [[email]](mailto:kiley.hamlin@psych.ubc.ca)
-
-
-***
-### Status
-* Pilot data collection complete
-* Stage 1 Registered Report has received an **In Principle Acceptance** to *Developmental Science* ([read the preprint](https://psyarxiv.com/qhxkm))
-* Collecting data ([sign-up form](https://docs.google.com/forms/d/e/1FAIpQLScUicLDQnkKpFa1UdKL8wrPY-qdq3PfY6NbrlkLXHhK_WK2yg/viewform))
 
 
 ***
