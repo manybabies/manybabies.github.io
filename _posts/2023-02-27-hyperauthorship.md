@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MB in Nature - Hyperauthorship
+cover-img: /assets/img/hyperauthorship.png
 tags: [MB, newsletter]
 ---
 

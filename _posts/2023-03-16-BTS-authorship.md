@@ -1,6 +1,7 @@
 ---
 layout: post
 title: BTS Authorship comment
+cover-img: /assets/img/BTS_authorship.png
 tags: [MB, BTS]
 ---
 
