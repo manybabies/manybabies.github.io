@@ -39,6 +39,7 @@ navbar-links:
     - Contributor Dashboard: "map"
     - Data Validator: "https://manybabies.shinyapps.io/validator/"
     - YouTube/ @ManyBabies: "https://www.youtube.com/@manybabies"
+    - Code of Conduct: "codeofconduct"
   Get Involved: "get_involved"
 
 # --- Logo --- #
