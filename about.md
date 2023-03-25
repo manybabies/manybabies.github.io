@@ -22,10 +22,6 @@ Too historical?
 On the other hand, large-scale *collaborative* and *Open Science* projects have the potential to test complex hypothesis and avoid the consequences of low statistical power [(Button et al., 2013)](https://doi.org/10.1038/nrn3475) and the dramatic inflation of false positives caused by “questionable research practices” [(Simmons, Nelson, & Simonsohn, 2011)](https://doi.org/10.1177/0956797611417632). Inspired by [Klein et al. (2014)](http://dx.doi.org/10.1027/1864-9335/a000178) ManyLabs' first study, in which a group of independent labs all ran the same set of replication protocols and pooled their data, an e-mail thread began, which eventually led to a [blog post](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html), and to the formation of the consortium of infancy labs.
 -->
 
-***
-
-## Code of Conduct
-See **MB's** [Code of Conduct]({{site.baseurl}}/code_conduct/) for a full description of our pledge, standards, responsibilities, and scope.
 
 ***
 
@@ -36,8 +32,9 @@ See **MB's** [Code of Conduct]({{site.baseurl}}/code_conduct/) for a full descri
 * <b><i>Collective governance</i></b>: When possible and feasible, decisions are made jointly and transparently
 * <b><i>Inclusivity and diversity</i></b>: **MB** explicitly encourages efforts to increase diversity. This includes active applications for funding to assist laboratories from under-represented communities to participate, outreach efforts, and planning workshops
 * <b><i>Ethical research</i></b>: **MB** projects are committed to best practices and high ethical standards
-* <b><i>Respect</i></b>: Everyone agrees to a general code of conduct which ensures respectful interactions
+* <b><i>Respect</i></b>: Everyone agrees to a general [**Code of Conduct**]({{site.baseurl}}/codeofconduct/) which ensures respectful interactions
 
+> See **MB's** [Code of Conduct]({{site.baseurl}}/codeofconduct/) for a full description of our pledge, standards, responsibilities, and scope.
 
 ### **ManyBabies** [projects]({{site.baseurl}}/projects/) aim to test hypotheses about:
 * <b><i>Validity</i></b>: Assess the replicability, generalizability, and robustness of key findings in infancy (effect + effect size + moderators) in consensus paradigms. Note that these paradigms are not necessarily exact replications of seminal studies
