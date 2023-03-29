@@ -204,7 +204,7 @@ cover-img: /assets/img/MB_map.jpg
 
 ### Alumni
 
-* Grace Zhou, University of Manitoba (Winnipeg, Canada), Office Assistant [2021-2023]
+* Grace Zhou, *University of Manitoba (Winnipeg, Canada)*, Office Assistant [2021-2023]
 
 <br>
 
