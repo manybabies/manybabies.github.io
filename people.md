@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-cover-img: /assets/img/MB_map.jpg
+cover-img: /assets/img/MB_map.png
 ---
 
 ## Contributors
@@ -201,6 +201,8 @@ cover-img: /assets/img/MB_map.jpg
   </div>
 <br>
 </section>
+
+<br>
 
 ### Alumni
 
