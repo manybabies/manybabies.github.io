@@ -200,23 +200,11 @@ cover-img: /assets/img/MB_map.jpg
     </div>
   </div>
 <br>
-  <header class="major">
-			<h3>Office Assistant</h3>
-	</header>
-<br>
-  <div class="container">
-		<div class="row">
-      <div class="col-sm-3 col-xs-6" align="center">
-        <img src="/assets/img/GraceZhou.png" alt="Grace Zhou" width="100" height="100">
-  	  </div>
-  	  <div class="col-sm-9">
-  	    <h4>Grace Zhou <a href="mailto:grace.zhou@umanitoba.ca">[email]</a> [2021 - ]</h4>
-        <i>University of Manitoba (Winnipeg, Canada)</i>  
-      </div>
-    </div>
-  </div>
-<br>
 </section>
+
+### Alumni
+
+* Grace Zhou, University of Manitoba (Winnipeg, Canada), Office Assistant [2021-2023]
 
 <br>
 
