@@ -52,6 +52,9 @@ The broader goals of **ManyBabies** come together through collaborative projects
   </header>
   <div class="container">
     <div class="row">
+      <h3>Empirical projects</h3>
+    </div>
+    <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
         <a href="{{site.baseurl}}/MB1/"><img src="/assets/img/MB1_logo.png" alt="MB1 logo" width="75" height="75"></a>
@@ -208,7 +211,10 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>MB6 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ">Join workspace</a>, then add <b>#mb6-general</b> channel</i><br>
       </div>
     </div>
-    <hr>
+    <br>
+    <div class="row">
+      <h3>Methodological projects</h3>
+    </div>
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
@@ -252,6 +258,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
   </div>
 </section>
 
+<br>
 
 ***
 
