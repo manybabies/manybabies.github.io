@@ -1,76 +1,169 @@
 ---
 layout: page
-title: About
-cover-img: /assets/img/people-3120717.jpg
+title: About MB
 ---
 
-<!---
-To do:
-- update funding information? MB2 Grant?
---->
+## What is ManyBabies?
 
-The **ManyBabies** project was [born](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html) committed to Open Science and to collaborative research practices that allow teams to test hypotheses about infant development that individual labs could perhaps never adequately test. <br>
+The **ManyBabies** consortium was born in 2015 committed to Open Science and to collaborative research practices that allow teams to test hypotheses about infant development that individual labs could perhaps never adequately test. You can read the blog post that led to the formation of ManyBabies [**here**](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html).<br>
 
-**MB's** collaborative nature implies that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made on a consensus-based approach. <br>
+MB's collaborative nature implies that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made using a consensus-based approach. <br>
 
-We strive for an environment of trust and equality that can engage researchers from a broad spectrum of backgrounds. To learn more about **MB's** vision for the role of large-scale collaborations, see [Frank et al. (2017)](https://psyarxiv.com/27b43/) and [Byers-Heinlein et al. (2020)](https://psyarxiv.com/dmhk2/).
+We strive for an environment of trust and equality that can engage researchers from a broad spectrum of backgrounds. To learn more about MB's vision for the role of large-scale collaborations, see [*Frank et al. (2017)*](https://psyarxiv.com/27b43/) and [*Byers-Heinlein et al. (2020)*](https://psyarxiv.com/dmhk2/).
 
-<!-- Too detailed?
-Infant research usually requires significant human and financial resources and is slow to conduct. These aspects, combined with the pressure to publish at a rapid pace to secure promotions and funding, can render the conduction of large-scale projects unpractical under individual labs contexts.
+<br>
 
-Too historical?
-On the other hand, large-scale *collaborative* and *Open Science* projects have the potential to test complex hypothesis and avoid the consequences of low statistical power [(Button et al., 2013)](https://doi.org/10.1038/nrn3475) and the dramatic inflation of false positives caused by “questionable research practices” [(Simmons, Nelson, & Simonsohn, 2011)](https://doi.org/10.1177/0956797611417632). Inspired by [Klein et al. (2014)](http://dx.doi.org/10.1027/1864-9335/a000178) ManyLabs' first study, in which a group of independent labs all ran the same set of replication protocols and pooled their data, an e-mail thread began, which eventually led to a [blog post](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html), and to the formation of the consortium of infancy labs.
--->
+***
+## Code of Conduct
+All MB contributors are expected to abide by our [**Code of Conduct**]({{site.baseurl}}/codeofconduct/). Please read the Code of Conduct for a full description of our pledge, standards, responsibilities, and scope.
+
+<br>
+
+***
+## Guiding Principles
+
+### **ManyBabies** activities are guided by the principles of:
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <img src="/assets/img/transparency_freepik.png" alt="transparency icon (magnifying glass)" width="75" height="75">
+      </div>
+      <div class="col-sm-10">
+        <h4>Transparency</h4>
+        <i>All decisions in a MB project, from design to publication, are as transparent as possible</i>
+        <br>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <img src="/assets/img/collaboration_freepik.png" alt="collaboration icon (three people with a lightbulb above their heads)" width="75" height="75">
+      </div>
+      <div class="col-sm-10">
+        <h4>Collective Governance</h4>
+        <i>When possible and feasible, decisions are made jointly and transparently</i>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <img src="/assets/img/diversity_freepik.png" alt="diversity icon (six people with varying skintones arranged in a circle)" width="75" height="75">
+      </div>
+      <div class="col-sm-10">
+        <h4>Inclusivity & Diversity</h4>
+        <i>MB explicitly encourages efforts to increase inclusivity and diversity in regards our contributors, populations we study, and research questions</i>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <img src="/assets/img/ethics_freepik.png" alt="ethics icon (a scale weighted toward green checkmark and away from red x)" width="75" height="75">
+      </div>
+      <div class="col-sm-10">
+        <h4>Ethical Research</h4>
+        <i>MB projects are committed to best practices and high ethical standards</i>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <img src="/assets/img/respect_dinosoft.png" alt="respect icon (two grapsed hands)" width="75" height="75">
+      </div>
+      <div class="col-sm-10">
+        <h4>Respect</h4>
+        <i>MB contributors agree to a general <a href="{{site.baseurl}}/codeofconduct/">Code of Conduct</a> which ensures respectful interactions</i>
+      </div>
+    </div>
+  </div>
+</section>
+
+<br>
 
 
 ***
+## Aims
+### ManyBabies [projects]({{site.baseurl}}/projects/) aim to test hypotheses about:
 
-## Definitions and Roles
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <img src="/assets/img/target_EdiPrast.png" alt="validity icon (target with arrow hitting bullseye)" width="80" height="80">
+      </div>
+      <div class="col-sm-10">
+        <h4>Validity</h4>
+        <i>Assess the replicability, generalizability, and robustness of key findings in infancy (effect + effect size + moderators) in consensus paradigms. Note that these paradigms are not necessarily exact replications of seminal studies</i>
+        <br>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <img src="/assets/img/theory_uniconlabs.png" alt="theory icon (multicolor theory icon)" width="75" height="75">
+      </div>
+      <div class="col-sm-10">
+        <h4>Theory</h4>
+        <i>Understand infant development across a wide range of ages and experiences (e.g., language and cultural background)</i>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <img src="/assets/img/tool-box_freepik.png" alt="toolbox icon (toolbox with hammer and screwdrivers)" width="70" height="70">
+      </div>
+      <div class="col-sm-10">
+        <h4>Methods</h4>
+        <i>Quantify sources of variability across labs and establish best practices</i>
+      </div>
+    </div>
+  </div>
+</section>
 
-### **ManyBabies** activities are guided by the principles of:
-* <b><i>Transparency</i></b>: All decisions in a **MB** project, from design to publication, are as transparent as possible
-* <b><i>Collective governance</i></b>: When possible and feasible, decisions are made jointly and transparently
-* <b><i>Inclusivity and diversity</i></b>: **MB** explicitly encourages efforts to increase diversity. This includes active applications for funding to assist laboratories from under-represented communities to participate, outreach efforts, and planning workshops
-* <b><i>Ethical research</i></b>: **MB** projects are committed to best practices and high ethical standards
-* <b><i>Respect</i></b>: Everyone agrees to a general [**Code of Conduct**]({{site.baseurl}}/codeofconduct/) which ensures respectful interactions
+<br>
 
-> See **MB's** [Code of Conduct]({{site.baseurl}}/codeofconduct/) for a full description of our pledge, standards, responsibilities, and scope.
+***
+## Roles
+### ManyBabies contributors come from 40+ nations on 6 continents (View the <a href="https://manybabies.shinyapps.io/shiny_mb_map/" target="_blank">MB Contributor Dashboard</a>) 
+### Contributors can serve as:
+* <b>Governing Board Members:</b> <i>Responsible for governance decisions, including decisions about funding, new projects, and other project-wide concerns (see current members [**here**]({{site.baseurl}}/people/))</i>
+* <b>Project Leads:</b> <i>Coordinate all aspects of a study (e.g., setting up work groups, guidelines) and ensure that all aspects adhere to the [**MB Code of Conduct**]({{site.baseurl}}/codeofconduct/) (see Project Leads [**here**]({{site.baseurl}}/projects/))</i>
+* <b>Project Contributors:</b> <i>Create stimuli, protocols, analysis code, and any other relevant tasks</i>
+* <b>Data Contributors:</b> <i>Collect data following an experimental protocol</i>
+* <b>Committee Members:</b> <i>Help develop policies, initiatives, etc.</i>
 
-### **ManyBabies** [projects]({{site.baseurl}}/projects/) aim to test hypotheses about:
-* <b><i>Validity</i></b>: Assess the replicability, generalizability, and robustness of key findings in infancy (effect + effect size + moderators) in consensus paradigms. Note that these paradigms are not necessarily exact replications of seminal studies
-* <b><i>Theory</i></b>: Understand infant development across a wide range of ages and experiences (e.g., language and cultural background)
-* <b><i>Methods</i></b>: Quantify sources of variability across labs and establish best practices
-* <b><i>Diversity</i></b>: Increase diversity of participants, researchers, & research questions
+> Learn how to join or update info on the [MB Contributor Dashboard]({{site.baseurl}}/people/).
 
-> Learn more about our [projects]({{site.baseurl}}/projects/) and [get involved]({{site.baseurl}}/get_involved/)!
-
-
-### **ManyBabies** collaborators come from [40+ nations on 6 continents](https://manybabies.shinyapps.io/shiny_mb_map/). They can serve as:
-* <b><i>Governing Board Members</i></b>: Responsible for governance decisions, including decisions about funding, new projects, and other project-wide concerns (see current members [here]({{site.baseurl}}/people/))
-* <b><i>Project Leads</i></b>: Coordinate all aspects of a study (e.g., setting up work groups, guidelines) and ensure that all aspects adhere to the **MB** [Code of Conduct]({{site.baseurl}}/code_conduct/) (see current Project Leads [here]({{site.baseurl}}/projects/))
-* <b><i>Data Contributors</i></b>: Collect data following an experimental protocol 
-* <b><i>Project Contributors</i></b>: Create stimuli, protocols, analysis code, and any other relevant tasks
-
-> See more detailed descriptions of [roles and responsibilities of each collaborator type](https://docs.google.com/document/d/1UYSevbWnBQwd_eaBe1oKkOBX-8sMsBfiPz2kwNp7Ttc/export?format=pdf), [authorship guidelines]({{site.baseurl}}/authorship/), policies on [derived presentations]({{site.baseurl}}/derived_presentations/), and [get involved]({{site.baseurl}}/get_involved/) in **ManyBabies** projects.
-
-> Learn how to join the [MB Contributor Dashbboard]({{site.baseurl}}/map/) or update your information.
-
+<br>
 
 ***
 
 ## Funding
 **ManyBabies** gratefully acknowledges funding from:
-* The [Social Sciences and Humanities Research Council of Canada](https://www.sshrc-crsh.gc.ca/), through a [Partnership Development Grant](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_development_grants-subventions_partenariat_developpement-eng.aspx). You can find our application materials [here](https://osf.io/xavnd/).
-* The [Association for Psychological Science](https://www.psychologicalscience.org), through a grant from the [Laura and John Arnold Foundation](http://www.laaf.org/ljaf).
-* A grant from the [Jacobs Foundation](https://jacobsfoundation.org).
+* The [***Social Sciences and Humanities Research Council of Canada***](https://www.sshrc-crsh.gc.ca/), through a [**Partnership Development Grant**](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_development_grants-subventions_partenariat_developpement-eng.aspx). You can find our application materials [here](https://osf.io/xavnd/).
+* The [***Association for Psychological Science***](https://www.psychologicalscience.org), through a grant from the [***Laura and John Arnold Foundation***](http://www.laaf.org/ljaf).
+* A grant from the [***Jacobs Foundation***](https://jacobsfoundation.org).
 
+<br>
+
+***
 ## Awards
-* The [Society for the Improvement of Psychological Science (SIPS)](https://improvingpsych.org) has recognized the contribution of **ManyBabies 1** towards improving research practices and honored the project with a Mission Award at their 2019 annual conference in Rotterdam, The Netherlands.
-* The [Einstein Foundatation](https://www.einsteinfoundation.de/index.php?id=1&L=1) awarded [MB5]({{site.baseurl}}/MB5/) Project Leads Jessica Kosie and Martin Zettersten with the [2021 Early Career Award](https://www.einsteinfoundation.de/en/award/recipients/manybabies5/). 
+
+* The [***Society for the Improvement of Psychological Science (SIPS)***](https://improvingpsych.org) has recognized the contribution of MB1 towards improving research practices and honored the project with a [**Mission Award**](https://improvingpsych.org/mission/awards/) at their 2019 annual conference in Rotterdam, The Netherlands.
+* The [***Einstein Foundatation***](https://www.einsteinfoundation.de/index.php?id=1&L=1) awarded MB5 Project Leads Jessica Kosie and Martin Zettersten with the [**2021 Early Career Award**](https://www.einsteinfoundation.de/en/award/recipients/manybabies5/). 
+
+<br>
 
 ***
 
 ## Get involved
-We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **NOT** a prerequisite for contributing to an **MB** project.
+We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **NOT** a prerequisite for contributing to an MB project.
 
-All collaborators are encouraged to join the [MB Contributor Dashboard]({{site.baseurl}}/map/) or update your information.
+All collaborators are encouraged to join the [MB Contributor Dashboard]({{site.baseurl}}/people/) or update your information.
+ 
+<br>
+<br>
+>Icons created by Freepik, DinoSoft, Unicon labs, Edi Prast - <a href="https://www.flaticon.com" title="icons">Flaticon</a> 
