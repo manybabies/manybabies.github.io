@@ -51,7 +51,7 @@ In addition to collecting data, there are many contribution opportunities (e.g.,
 ***
 
 <h2 id="proposal">New Projects</h2>
-If you are interested in leading a new **ManyBabies** project (either a main project or a spin-off that would involve data collection across multiple labs), please fill out our [**project Proposal Form**](https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit) and/or contact the [**MB Governing Board**](mailto:manybabies-gb@mailman.stanford.edu).
+If you are interested in leading a new **ManyBabies** project (either a main project or a spin-off that would involve data collection across multiple labs), please fill out our [**project Proposal Form**](https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit?usp=sharing) and/or contact the [**MB Governing Board**](mailto:govboard@manybabies.org).
 
 <br>
 
