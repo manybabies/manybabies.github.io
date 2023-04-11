@@ -22,6 +22,10 @@ In this ongoing project we investigate a fundamental aspect of human nature: eva
 * [Francis Yuen](https://cic.psych.ubc.ca/), *University of British Columbia, Canada* [[email]](mailto:francis.yuen@psych.ubc.ca)
 * [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/), *University of British Columbia, Canada* [[email]](mailto:kiley.hamlin@psych.ubc.ca)
 
+***
+### Spin-off Projects
+* [MB4E]({{site.baseurl}}/MB4E/): Emotional responses
+* [MB4I]({{site.baseurl}}/MB4I/): Individual differences in infants’ social evaluations across cultures
 
 ***
 ### Links

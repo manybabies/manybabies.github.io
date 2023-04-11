@@ -10,7 +10,7 @@ The goal of this spin-off project of [MB4]({{site.baseurl}}/MB4/) is to examine 
 
 ***
 ### Project Leads
-* [Yiyi Wang](https://orcid.org/0000-0003-1060-0862), *Peking University, China* [[email]](mailto:yiyi_wang@pku.edu.cn)
+* [Yiyi Wang](https://scholar.google.com/citations?user=OIjxPSUAAAAJ&hl=en), *Peking University, China* [[email]](mailto:yiyi_wang@pku.edu.cn)
 * [Hilal Şen](https://www.unak.is/english/moya/ugla/staff/hilal-sen), *University of Akureyri, Iceland & MEF University, Turkey* [[email]](mailto:senh@mef.edu.tr)
 * [Kelsey Lucca](https://isearch.asu.edu/profile/3521043), *Arizona State University, USA* [[email]](mailto:kelsey.lucca@asu.edu)
 
