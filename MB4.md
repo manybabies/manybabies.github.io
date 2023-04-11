@@ -22,10 +22,6 @@ In this ongoing project we investigate a fundamental aspect of human nature: eva
 * [Francis Yuen](https://cic.psych.ubc.ca/), *University of British Columbia, Canada* [[email]](mailto:francis.yuen@psych.ubc.ca)
 * [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/), *University of British Columbia, Canada* [[email]](mailto:kiley.hamlin@psych.ubc.ca)
 
-***
-### Spin-off Projects
-* [MB4E]({{site.baseurl}}/MB4E/): Emotional responses
-* [MB4I]({{site.baseurl}}/MB4I/): Individual differences in infants’ social evaluations across cultures
 
 ***
 ### Links
@@ -50,3 +46,9 @@ In this ongoing project we investigate a fundamental aspect of human nature: eva
 *Lucca, K.*\*, *Yuen, F.*\*, Capelier-Mourguy, A., Cirelli, L., Byers-Heinlein, K., Dal Ben, R., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., Wang, Y., & Hamlin, J. K. (Stage 1 Registered Report, In Principle Acceptance). **Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study**. *Developmental Science*. <i>(\*co-first authors)</i> PsyArXiv. [doi:10.31234/osf.io/qhxkm](https://doi.org/10.31234/osf.io/qhxkm)
 
 > to cite, use (Lucca & Yuen et al., accepted pending data collection)
+
+
+***
+## Spin-off Projects
+* [MB4E: Emotional responses]({{site.baseurl}}/MB4E/)
+* [MB4I: Individual differences in infants’ social evaluations across cultures]({{site.baseurl}}/MB4I/)
