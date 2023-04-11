@@ -73,7 +73,7 @@ Sixty-nine labs from 16 countries participated and collected data from 2,329 inf
 
 
 ***
-## Spin-offs
+## Spin-off Projects
 * [**MB1A: Infant-Directed Speech Preference in African Infants**]({{site.baseurl}}/MB1A/)
 * [**MB1B: Infant-Directed Speech Preference in Bilingual Infants**]({{site.baseurl}}/MB1B/)
 * [**MB1G: Gaze Following in Monolingual and Bilingual Infants**]({{site.baseurl}}/MB1G/)
@@ -83,6 +83,6 @@ Sixty-nine labs from 16 countries participated and collected data from 2,329 inf
 
 
 ***
-## Secondary Analysis
+## Secondary Analyses
 * [**Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)
 * [**Analysis of supplemental demographic variables**]({{site.baseurl}}/MB1SA/)

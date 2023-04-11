@@ -40,14 +40,16 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 
 > Please note that access to infants/infant lab is **NOT** a prerequisite.
 
-***
-## Spin-offs
-* [**MB3N: Rule Learning using NIRS**]({{site.baseurl}}/MB3N/)
-* [**MB3L: Longitudinal Language Follow-up**]({{site.baseurl}}/MB3L/)
-* [**MB3T: Test-Retest Follow-up**]({{site.baseurl}}/MB3T/)
 
 ***
 ### Publications
 Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 Registered Report, In Principle Acceptance). **ManyBabies 3: A multi-lab study of infant algebraic rule learning**. *Developmental Science*. PsyArXiv. [doi:10.31234/osf.io/aex7v](https://doi.org/10.31234/osf.io/aex7v)
 
 > to cite, use (Visser et al., accepted pending data collection)
+
+
+***
+## Spin-off Projects
+* [**MB3N: Rule Learning using NIRS**]({{site.baseurl}}/MB3N/)
+* [**MB3L: Longitudinal Language Follow-up**]({{site.baseurl}}/MB3L/)
+* [**MB3T: Test-Retest Follow-up**]({{site.baseurl}}/MB3T/)
