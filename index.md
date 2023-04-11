@@ -98,7 +98,7 @@ images with link MUST use the class = "image" (.css from ManyPrimates)
         <h4><a href="{{site.baseurl}}{% link MB4.md %}">MB4: Social Evaluation</a></h4>
         Do infants prefer agents who are seen to help over those who are seen to hinder?
         <br>
-        <i>Spin-offs: MB4E (link to come), MB4I (link to come)</i>
+        <i>Spin-offs: MB4E (link to come), <a href="{{site.baseurl}}/MB4I/">MB4I</a></i>
       </div>
     </div>
     <div class="col-sm-12">
