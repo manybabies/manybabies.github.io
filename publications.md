@@ -128,7 +128,7 @@ title: Publications & Manuscripts
         <a href="{{site.baseurl}}/MB4/" class="image"><img src="/assets/img/MB4_logo.png" alt="ManyBabies4 logo"></a>
       </div>
       <div class="col-sm-11">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Lucca, K.</i>, <i>Yuen, F.</i>, Capelier-Mourguy, A., Cirelli, L., Byers-Heinlein, K., Dal Ben, R., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., Wang, Y., & Hamlin, J. K. (Stage 1 RR In Principle Acceptance). 
+        <p style="padding-left: 25px; text-indent: -25px"><i>Lucca, K.*</i>, <i>Yuen, F.*</i>, Capelier-Mourguy, A., Cirelli, L., Byers-Heinlein, K., Dal Ben, R., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., Wang, Y., & Hamlin, J. K. (Stage 1 RR In Principle Acceptance). 
         <b>Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study</b>. 
         <i>Developmental Science</i>. <i>(*co-first authors)</i> PsyArXiv. 
         <a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">doi:10.31234/osf.io/qhxkm</a> 
