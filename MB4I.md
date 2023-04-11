@@ -16,6 +16,10 @@ The goal of this spin-off project of [MB4]({{site.baseurl}}/MB4/) is to examine 
 
 
 ***
+### Status
+* *Collecting data*
+
+***
 ### Links
 * [OSF Preregistration](https://doi.org/10.17605/OSF.IO/RAQ4X)
 * [BCCCD 2023 Poster](https://osf.io/jp532)
