@@ -236,6 +236,7 @@ title: Resources
 ***
 
 ## Partner Networks & Organizations
+* [**ManyManys**](https://manymanys.github.io/): A large-scale collaboration on comparative cognition and behavior across taxa (*co-founded by ManyBabies*)
 * [**Children Helping Science powered by Lookit**](https://lookit.mit.edu/): A platform to connect developmental researchers with parents, and to host and run online experiments
 * [**Psychological Science Accelerator**](https://psysciacc.org/): A globally distributed network of psychological science laboratories that coordinates data collection for democratically selected studies
 * [**ManyPrimates**](https://manyprimates.github.io/): A project that aims to facilitate collaboration across study sites in primate cognition research
