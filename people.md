@@ -55,7 +55,7 @@ cover-img: /assets/img/MB_map.png
       </div>
       <div class="col-sm-9">
         <h4><a href="https://www-csli.stanford.edu/people/baumgartner-heidi">Heidi Baumgartner</a> <a href="mailto:heidib@manybabies.org">[email]</a> [2021 - ]</h4> 
-        <i>Stanford University (Palo Alto, United States)</i>
+        <i>Stanford University (Stanford, United States)</i>
       </div>
     </div>
 	</div>
@@ -95,7 +95,7 @@ cover-img: /assets/img/MB_map.png
       </div>
       <div class="col-sm-9">
         <h4><a href="https://web.stanford.edu/~mcfrank/">Michael Frank</a> <a href="mailto:mcfrank@stanford.edu">[email]</a> [2016 - ]</h4>
-        <i>Stanford University (Palo Alto, United States)</i> 
+        <i>Stanford University (Stanford, United States)</i> 
       </div>
     </div>
     <div class="col-sm-12">
