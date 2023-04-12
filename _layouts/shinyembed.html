@@ -29,6 +29,10 @@ common-ext-js:
         </div>
       {% endif %}
 
+      {% include gtm_body.html %}
+
+      {% include nav.html %}
+  
       {{ content }}
 
       {% if page.after-content %}
