@@ -6,6 +6,8 @@ var BeautifulJekyllJS = {
   numImgs : null,
 
   init : function() {
+    setTimeout(BeautifulJekyllJS.initNavbar, 10);
+
     // Shorten the navbar after scrolling a little bit down
     $(window).scroll(function() {
         if ($(".navbar").offset().top > 50) {
@@ -25,6 +27,23 @@ var BeautifulJekyllJS = {
 
     // show the big header image
     BeautifulJekyllJS.initImgs();
+
+    BeautifulJekyllJS.initSearch();
+  },
+
+  initNavbar : function() {
+    // Set the navbar-dark/light class based on its background color
+    const rgb = $('.navbar').css("background-color").replace(/[^\d,]/g,'').split(",");
+    const brightness = Math.round(( // http://www.w3.org/TR/AERT#color-contrast
+      parseInt(rgb[0]) * 299 +
+      parseInt(rgb[1]) * 587 +
+      parseInt(rgb[2]) * 114
+    ) / 1000);
+    if (brightness <= 125) {
+      $(".navbar").removeClass("navbar-light").addClass("navbar-dark");
+    } else {
+      $(".navbar").removeClass("navbar-dark").addClass("navbar-light");
+    }
   },
 
   initImgs : function() {
@@ -91,6 +110,30 @@ var BeautifulJekyllJS = {
     } else {
       $(".img-desc").hide();
     }
+  },
+
+  initSearch : function() {
+    if (!document.getElementById("beautifuljekyll-search-overlay")) {
+      return;
+    }
+
+    $("#nav-search-link").click(function(e) {
+      e.preventDefault();
+      $("#beautifuljekyll-search-overlay").show();
+      $("#nav-search-input").focus().select();
+      $("body").addClass("overflow-hidden");
+    });
+    $("#nav-search-exit").click(function(e) {
+      e.preventDefault();
+      $("#beautifuljekyll-search-overlay").hide();
+      $("body").removeClass("overflow-hidden");
+    });
+    $(document).on('keyup', function(e) {
+      if (e.key == "Escape") {
+        $("#beautifuljekyll-search-overlay").hide();
+        $("body").removeClass("overflow-hidden");
+      }
+    });
   }
 };
 
