@@ -1,6 +1,6 @@
 # ManyBabies website
 
-Visible at http://manybabies.stanford.edu.
+Visible at manybabies.org
 
 
 ## Run locally to preview changes
