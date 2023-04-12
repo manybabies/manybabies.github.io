@@ -13,6 +13,7 @@ cover-img: /assets/img/curiosity-1910023_cut2.jpg
 * **[Resources]({{site.baseurl}}/resources/)** *(calendar, publications, data validator, OSF, github, etc.)*
 * **[Events]({{site.baseurl}}/events/)** *(workshops, webinars, etc.)*
 * **[News and Updates]({{site.baseurl}}/news/)** *(newletters, publication news, etc.)*
+* **[Get Involved]({{site.baseurl}}/get_involved/)** *(all are welcome, access to an infant lab is not required!)*
 <br>
 <br>
 
