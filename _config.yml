@@ -19,7 +19,6 @@ navbar-links:
     - Events: "events"
     - Contributions: "contributions"
     - Authorship: "authorship"
-    - Publications: "publications"
   Projects:
     - Overview: "projects"
     - MB1: "MB1"
@@ -38,6 +37,7 @@ navbar-links:
     - Calendar: "calendar"
     - Contributor Dashboard: "map"
     - Data Validator: "https://manybabies.shinyapps.io/validator/"
+    - Publications: "publications"
     - YouTube/ @ManyBabies: "https://www.youtube.com/@manybabies"
     - Code of Conduct: "codeofconduct"
   Get Involved: "get_involved"

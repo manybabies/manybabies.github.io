@@ -25,7 +25,7 @@ title: Resources
         <img src="/assets/img/validate.png" alt="checkmark" width="50"> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="{{site.baseurl}}/validator/"><b>Data Validator</b></a>
+        <a href="https://manybabies.shinyapps.io/validator/"><b>Data Validator</b></a>
       </div>
     </div>
     <br>
