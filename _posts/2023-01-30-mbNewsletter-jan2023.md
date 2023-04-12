@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MB Newsletter - January 2023
+cover-img: /assets/img/MBnewsletter.png
 tags: [MB, newsletter]
 ---
 

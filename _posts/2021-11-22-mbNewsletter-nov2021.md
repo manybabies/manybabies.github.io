@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MB Newsletter - November 2021
+cover-img: /assets/img/MBnewsletter.png
 tags: [newsletter, MB]
 ---
 

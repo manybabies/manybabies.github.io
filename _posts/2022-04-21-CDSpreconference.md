@@ -8,7 +8,7 @@ tags: [MB, CDS, workshop]
 #### April 21, 2022 in Madison, Wisconsin, United States
 
 
-### [VIEW THE WEBINAR RECORDING](https://stanford.zoom.us/rec/share/pQXzvhH5PbZwSLdObTd5JQiRWpU4JLy7oYVRRjIoTt219NKv45QW1NPwIe3TIcJT.u9zqXW9NCpBYsRP1)
+### [VIEW THE WEBINAR RECORDINGS](https://www.youtube.com/playlist?list=PLynqjZusW6ntWv0zw3LF5CGVA0UWfM4QN)
 
 
 ## Big Team Science for Studying Small People
