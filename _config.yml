@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: ManyBabiesDev
+title: ManyBabies
 
 # Your name to show in the footer
 author: ManyBabies
@@ -71,7 +71,7 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "manybabiesconsortium@gmail.com"
+  email: "manybabies@manybabies.org"
   github: manybabies
   twitter: many_babies
   mastodon: nerdculture.de/@manybabies
