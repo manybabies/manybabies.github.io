@@ -42,6 +42,8 @@ In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) l
   <a href="https://bigteamscienceconference.github.io"><i>Conference Website</i></a>
 </div>
 
+<h3><a href="https://www.youtube.com/playlist?list=PLynqjZusW6nt9D3wQkyavZmMWl2ZgjszV" target="_blank">VIEW MB TALK RECORDINGS</a></h3>
+
 <br>
 
 ***
