@@ -7,8 +7,8 @@ cover-img: /assets/img/MB1_logo.png
 
 ## Project Overview
 
-* *Project Status*: **COLLECTING DATA**
-* *Registered Report given In Principle Acceptance [OSF preprint](https://osf.io/fqp4b)*
+* *Status: **Collecting data***
+* *[Registered Report](https://osf.io/fqp4b) given 'In Principle Acceptance' at* **Developmental Science**
 
 <div class="flourish-embed" data-src="visualisation/2488103" style="float: right;" data-url="https://flo.uri.sh/visualisation/2488103/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 

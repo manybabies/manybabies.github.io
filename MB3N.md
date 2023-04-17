@@ -11,7 +11,7 @@ To-do:
 -->
 ## Project Overview
 
-* **STATUS:** *Developing processing/analysis pipeline; Preparing Stage 1 Registered Report*
+* *Status: **Developing processing/analysis pipeline; Preparing Stage 1 Registered Report***
 
 In this ongoing project, we extend [MB3]({{site.baseurl}}/MB3/) investigation on the ability to learn and to apply rules by adding a non-invasive brain imaging technique to the experimental design: near-infrared spectroscopy (NIRS). <img style="float: right;" src="/assets/img/nirs_1_300px.jpeg"> With this addition, we may be able to identify neural correlates that inform whether and to what extent rules' processing and learning are abstract, rule-based, and/or language specific. We may also be able to explore the time course of learning, thereby adjudicating between statistical mechanisms requiring extended time for sampling and faster symbolic mechanisms.
 
