@@ -9,7 +9,6 @@ cover-img: /assets/img/MB3_logo.png
 
 * *Status: **COLLECTING DATA [(sign up here)](https://umanitobapsych.az1.qualtrics.com/jfe/form/SV_4NiYE6jM0399g7r)***
 * *Stage 1 Registered Report given 'In Principle Acceptance' at* Developmental Science [***(PsyArXiv preprint)***](https://doi.org/10.31234/osf.io/aex7v)
-* *Check the [**MB calendar**]({{site.baseurl}}/calendar/) for regular check-in meetings*
 
 
 <img style="float: right;" src="/assets/img/BLL1_300px.jpg">

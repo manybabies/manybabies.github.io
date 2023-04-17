@@ -10,6 +10,10 @@ To-do:
 - add collaborators map.
 -->
 
+## Project Overview
+
+* *Status: **PILOTING AND COLLECTING DATA, TRANSLATING STUDY MATERIALS***
+
 In this first ManyBabies methodological project we are developing a remote (online) testing framework that can be used across a range of home environments in a wide array of countries. This include best practices in procedure, documentation, standardization, and analysis. <img style="float: right;" src="/assets/img/logo_mb_athome_250px.png"> Our initial focus is on measuring looks (for instance, in a visual preference paradigm), as it is the main dependent variable of many infant studies.
 
 Recruiting infants in their homes can alleviate problems of high recruitment costs, since the burden for caregivers is smaller compared to a lab visit. Researchers can therefore potentially access larger, more diverse sample sizes, repeat experimental sessions, and assess test-retest reliability. Furthermore, children can be tested in a familiar environment, and in asynchronous setups at times that they are ready to participate.
@@ -22,13 +26,6 @@ Recruiting infants in their homes can alleviate problems of high recruitment cos
 * [Katie Von Holzen](https://kvonholzen.github.io), *TU Braunschweig, Germany* [[email]](mailto:katie.m.vonholzen@gmail.com)
 * [Helen Buckler](https://www.nottingham.ac.uk/english/people/helen.buckler), *University of Nottingham, UK* [[email]](mailto:Helen.Buckler@nottingham.ac.uk)
 * [Rhodri Cusack](https://www.infantcentre.ie/who-we-are-2/our-team/prof-rhodri-cusack), *Trinity College Dublin, Ireland* [[email]](mailto:rhodricusack@cusacklab.org)
-
-
-***
-### Status
-* Surveys of the community’s needs and existing solutions
-* Planning the first studiues on visual preference for different shapes and looking-while-listening
-* Translating study materials
 
 
 ***
