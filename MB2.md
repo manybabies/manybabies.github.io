@@ -8,8 +8,8 @@ cover-img: /assets/img/MB2_logo.png
 
 ## Project Overview
 
-* *Status: **Collecting data [(sign up here)](https://docs.google.com/forms/d/e/1FAIpQLSduhG_fDWVzLcQlGqgRPDBobbt0DrQRIlRai1_8Gyie6argyQ/viewform)***
-* *[Stage 1 Registered Report](https://doi.org/10.31234/osf.io/x4jbm) given 'In Principle Acceptance' at* **Child Development**
+* *Status: **Collecting data (<a href="https://docs.google.com/forms/d/e/1FAIpQLSduhG_fDWVzLcQlGqgRPDBobbt0DrQRIlRai1_8Gyie6argyQ/viewform" target="_blank">sign up here</a>)***
+* *<a href="https://doi.org/10.31234/osf.io/x4jbm" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at* **Child Development**
 
 <img style="float: right;" src="/assets/img/MB2_design300px.png"> 
 In this ongoing project we aim to investigate a fundamental feature of human social cognition: Theory of Mind (ToM), or the ability to ascribe mental states to agents. One of the central tests for ToM is the false belief task, in which the participant needs to predict how an agent will act on the basis of her/his (mis)representation of the world. Using a false belief task (3D-animated videos), we ask if infants (18- to 27-month-olds) and adults show anticipatory looking that reflects the false belief of another agent. Our contributors include the authors of the original studies and of previous replication attempts, as well researchers from diverse theoretical orientations (e.g., nativist and core knowledge, dual process, conceptual change and skeptics). Following the anticipatory looking study, we hope to continue the project with other measures such as Violation of Expectation, and interactive tasks.
