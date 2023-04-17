@@ -267,7 +267,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <h4><a href="{{site.baseurl}}/manymanys/">ManyManys1: Reversal Learning</a></h4>
         <b>Status:</b> <i>Study design; literature review</i><br>
         <b>Project Leads:</b> <a href="mailto:nicolas.alessandroni@concordia.ca">Nicolás Alessandroni <i>(ManyBabies)</i></a>, <a href="mailto:laurent.pretot@gmail.com">Laurent Prétôt <i>(ManyFishes)</i></a><br>
-        <a href="https://manymanys.github.io/" target="_blank"><b>Website</b></a> 
+        <b>Website:</b> <a href="https://manymanys.github.io/MM1/" target="_blank"><i>link</i></a>
       </div>
     </div>
     <br>
