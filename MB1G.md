@@ -15,7 +15,7 @@ To-do:
 * *Status: **COMPLETE***
 * *11 participating labs in 8 countries*
 * *Final sample: 322 babies* 
-* *27 authors on* <a href="https://doi.org/10.1111/infa.12360" target="_blank><b>Infancy</b> <i>publication</i></a>
+* *27 authors on* <a href="https://doi.org/10.1111/infa.12360" target="_blank"><b>Infancy</b> <i>publication</i></a>
 
 In this project we investigated the development of gaze following in monolingual and bilingual infants. Sensitivity to cues such as eye gaze might be particularly important for bilingual infants, as they encounter less consistency between words and objects than monolinguals, and do not always have access to the same word learning heuristics (e.g., mutual exclusivity). <img style="float: right;" src="/assets/img/mb1g_paradigm_300px.jpg">
 
