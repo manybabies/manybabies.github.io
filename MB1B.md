@@ -15,7 +15,7 @@ To-do:
 * *Status:* **COMPLETE**
 * *17 participating labs in 7 countries*
 * *Final sample: 718 babies* 
-* *38 authors on [**AMPPS** publication](https://doi.org/10.1177/2515245920974622)*
+* *38 authors on* <a href="https://doi.org/10.1177/2515245920974622" target="_blank"><b>AMPPS</b> <i>publication</i></a>
 
 In this project we used the diversity of bilingual infant experiences to explore the impact of different types of linguistic experience on infants’ Infant Directed Speech (IDS) preference over Adult Directed Speech (ADS). <img style="float: right;" src="/assets/img/eyetracking_unicph_2yo_3_300px.jpg"> We compared lab-matched samples of 333 bilingual and 385 monolingual infants’ preference for North-American English IDS, tested in 17 labs in 7 countries. Those infants were tested in two age groups: 6–9 months and 12–15 months.
 
