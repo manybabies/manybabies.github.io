@@ -80,7 +80,7 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="left">
-        <a href="{{site.baseurl}}/authorship/"><img src="/assets/img/letter.png" alt="authorship" width="50"><a> 
+        <a href="{{site.baseurl}}/authorship/"><img src="/assets/img/letter.png" alt="authorship" width="50"></a> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="{{site.baseurl}}/authorship/"><b>Authorship</b></a>
