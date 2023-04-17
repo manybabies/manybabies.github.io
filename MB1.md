@@ -22,8 +22,8 @@ Notes:
 * *Status: **COMPLETE***
 * *69 participating labs in 16 countries*
 * *2,329 babies tested* 
-* *149 authors on* [**AMPPS** *publication*](https://doi.org/10.1177/2515245919900809)
-* *Project data, analysis code, and materials available on [OSF](https://osf.io/gf7vh)*
+* *149 authors on* <a href="https://doi.org/10.1177/2515245919900809" target="_blank"><b>AMPPS</b> <i>publication</i></a>
+* *Project data, analysis code, and materials available on <a href="https://osf.io/gf7vh" target="_blank">OSF</a>*
 
 
 In the first **ManyBabies** project, we replicated a robust finding from developmental literature: **infants’ preference for infant-directed speech (IDS) over adult-directed speech (ADS)**. IDS is characterized by a higher pitch, greater pitch excursions, and shorter utterances when compared to ADS. Exposure to IDS has been shown to improve word segmentation and word learning. We asked if infants have a preference for IDS, and how this preference varies across age, native language background, and method.
