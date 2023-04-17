@@ -12,7 +12,7 @@ To-do:
 ## Project Overview
 
 * *Status: **Finalizing data analyses and Stage 2 manuscript***
-* *<a href="https://drive.google.com/drive/folders/1yb7bdTtEDOKwIA4qMcfiuKkoI1jIojW7" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at* **Journal of Child Language**
+* *<a href="https://drive.google.com/file/d/1r-UxWPriMn7AY5xhg6hnpNj_drTHt6In/view?usp=sharing" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at* **Journal of Child Language**
 
 
 In this ongoing project we explore whether early preference for Infant Directed Speech (IDS) is linked to later vocabulary size. <img style="float: right;" src="/assets/img/placeholder.png"> For instance, we are interested in investigating to what extent preference for IDS predicts infants' vocabulary; if the relation between IDS preference and vocabulary size changes over development; and if there is any systematic differences in the strength of this relationship across the language communities. Infants’ preference for IDS was tested as part of the MabyBabies1 project, and follow-up CDI data is being collected from a subsample of this dataset at 18 and 24 months of age.
@@ -42,7 +42,7 @@ In this ongoing project we explore whether early preference for Infant Directed 
 
 ***
 ### Publications
-Soderstrom, M., Werker, J. F., Tsui, A., Skarabela, B., Seidl, A., Searle, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Noble, C., Nave, K., Mayor, J., Martin, A., Lew-Williams, C., Ko, E., Kartushina, N., Kammermeier, M., Jessop, A., Hay, J. F., Hannon, E. E., Hamlin, J. K., Gonzalez-Gomez, N., Gonzalez-Barrero, A. M., Gampe, A., Fritzsche, T., Frank, M. C., Floccia, C., Durrant, S., Delle Luche, C., Davies, C., Cashon, C., Byers-Heinlein, K., Black, A. K., Bergmann, C., Anderson, L. (Stage 1 Registered Report, In Principle Acceptance). **Testing the Relationship Between Preferences for Infant-Directed Speech and Vocabulary Development: A Multi-Lab Study**. *Journal of Child Language*.  [Preprint](https://drive.google.com/drive/folders/1yb7bdTtEDOKwIA4qMcfiuKkoI1jIojW7)
+Soderstrom, M., Werker, J. F., Tsui, A., Skarabela, B., Seidl, A., Searle, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Noble, C., Nave, K., Mayor, J., Martin, A., Lew-Williams, C., Ko, E., Kartushina, N., Kammermeier, M., Jessop, A., Hay, J. F., Hannon, E. E., Hamlin, J. K., Gonzalez-Gomez, N., Gonzalez-Barrero, A. M., Gampe, A., Fritzsche, T., Frank, M. C., Floccia, C., Durrant, S., Delle Luche, C., Davies, C., Cashon, C., Byers-Heinlein, K., Black, A. K., Bergmann, C., Anderson, L. (Stage 1 Registered Report, In Principle Acceptance). **Testing the Relationship Between Preferences for Infant-Directed Speech and Vocabulary Development: A Multi-Lab Study**. *Journal of Child Language*.  [Preprint](https://drive.google.com/file/d/1r-UxWPriMn7AY5xhg6hnpNj_drTHt6In/view?usp=sharing)
 
 <!--  
 **News release**: See also the news releases by
