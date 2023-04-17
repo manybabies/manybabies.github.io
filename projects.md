@@ -35,7 +35,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
       </div>
       <div class="col-sm-10">
         <h4>Secondary Analyses</h4>
-        <i>Conducted on publicly-available <b>MB</b> data. In some cases, may include additional data not collected as part of <b>MB</b> (e.g., if an individual lab investigates relationships between their lab’s <b>MB</b> data and other data collected by their lab)</i>
+        <i>Conducted on publicly-available ManyBabies data. In some cases, may include additional data not collected as part of MB (e.g., if an individual lab investigates relationships between their lab’s MB data and other data collected by their lab)</i>
       </div>
     </div>
   </div>
@@ -44,7 +44,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
 <br>
 
 ***
-<!-- LIST OF PROJECTS WITH PROJECT LEAD CONTACT INFO, LISTSERV SUBSCRIPTION LINKS, ETC. (was previously on "Get Involved" page-->
+<!-- LIST OF PROJECTS WITH PROJECT LEAD CONTACT INFO, LISTSERV SUBSCRIPTION LINKS, ETC. (was previously on "Get Involved" page)-->
 
 <section>
   <header class="major">
