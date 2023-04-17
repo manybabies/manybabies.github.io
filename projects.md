@@ -69,8 +69,8 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>Project Leads:</b> <a href="mailto:abc@ucsd.edu">Alex Carstensen</a>, <a href="mailto:kachergis@stanford.edu">George Kachergis</a>, 
           <a href="mailto:angelinetsui@gmail.com">Angeline Tsui</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a>, 
           <a href="mailto:mcfrank@stanford.edu">Michael Frank</a><br>
-        <b>MB1A listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-africa"><i>Subscribe</i></a><br>
-        <b>MB1A Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ">Join workspace</a>, then add <b>#mb1africa-general</b> channel</i><br>
+        <b>MB1A listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-africa" target="_blank"><i>Subscribe</i></a><br>
+        <b>MB1A Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb1africa-general</b> channel</i><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1B/">MB1B: Infant-Directed Speech Preference in Bilingual Infants</a></b><br>
         <b>Status:</b> <i>Complete</i><br> 
@@ -83,7 +83,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1L/">MB1L: Longitudinal Vocabulary Follow-up</a></b><br>
         <b>Status:</b> <i>Stage 2 manuscript prep</i><br> 
         <b>Project Lead:</b> <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
-        <b>MB1L listserv:</b> <a href="https://groups.google.com/u/1/g/mb1-cdi-follow-up"><i>Subscribe</i></a><br>
+        <b>MB1L listserv:</b> <a href="https://groups.google.com/u/1/g/mb1-cdi-follow-up" target="_blank"><i>Subscribe</i></a><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1N/">MB1N: Native Languages Follow-up</a></b><br>
         <b>Status:</b> <i>Collecting data</i><br> 
@@ -110,8 +110,8 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <h4><a href="{{site.baseurl}}/MB2/">MB2: Theory of Mind</a></h4>
         <b>Status:</b> <i>Stage 1 In Principle Acceptance, Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:dk@psy.ku.dk">Dora Kampis</a>, <a href="mailto:hrakocz@uni-goettingen.de">Hannes Rakoczy</a>, <a href="mailto:mcfrank@stanford.edu">Michael Frank</a><br>
-        <b>MB2 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies2"><i>Subscribe</i></a><br>
-        <b>MB2 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ">Join workspace</a>, then add <b>#mb2-general</b> channel</i><br>
+        <b>MB2 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies2" target="_blank"><i>Subscribe</i></a><br>
+        <b>MB2 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb2-general</b> channel</i><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB2P/">MB2P: Pupil Dilation to Measure Violation-of-Expectation</a></b><br>
         <b>Status:</b> <i>Preparing analysis pipeline; collecting data</i><br>
@@ -129,19 +129,19 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>Status:</b> <i>Stage 1 In Principle Acceptance; Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:i.visser@uva.nl">Ingmar Visser</a>, <a href="mailto:a.geambasu@hum.leidenuniv.nl">Andreea Geambasu</a>, 
           <a href="mailto:c.c.levelt@hum.leidenuniv.nl">Claartje Levelt</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
-        <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3"><i>Subscribe</i></a><br>
-        <b>MB3 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ">Join workspace</a>, then add <b>#mb3-general</b> channel</i><br>
+        <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3" target="_blank"><i>Subscribe</i></a><br>
+        <b>MB3 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb3-general</b> channel</i><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB3L/">MB3L: Longitudinal Follow-up</a></b><br>
         <b>Status:</b> <i>Planning</i><br>
         <b>Project Leads:</b> <a href="mailto:anna.exner@posteo.de">Anna Exner</a>, <a href="mailto:roberta.bettoni@unimib.it">Roberta Bettoni</a>, 
           <a href="mailto:i.visser@uva.nl">Ingmar Visser</a><br>
-        <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3"><i>Subscribe</i></a><br>
+        <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3" target="_blank"><i>Subscribe</i></a><br>
                 <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB3T/">MB3T: Test-Retest Follow-up</a></b><br>
         <b>Status:</b> <i>Planning</i><br>
         <b>Project Leads:</b> <a href="mailto:anna.exner@posteo.de">Anna Exner</a>, <a href="mailto:i.visser@uva.nl">Ingmar Visser</a><br>
-        <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3"><i>Subscribe</i></a><br>
+        <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3" target="_blank"><i>Subscribe</i></a><br>
       </div>
     </div>
     <hr>
@@ -154,8 +154,8 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <h4><a href="{{site.baseurl}}/MB3N/">MB3N: Rule Learning using NIRS</a></h4>
         <b>Status:</b> <i>Developing analysis pipeline; Preparing Stage 1 RR manuscript</i><br>
         <b>Project Lead:</b> <a href="mailto:judit.gervain@parisdescartes.fr">Judit Gervain</a><br>
-        <b>MB3N listserv:</b> <a href="https://groups.google.com/g/mb3nirs"><i>Subscribe</i></a><br>
-        <b>MB3N Slack:</b> <i><a href="https://join.slack.com/t/mb3nirs/shared_invite/zt-1opm3wjvb-Hk5cO2ZDciUhWyuJfeunQQ">Join workspace</a></i>
+        <b>MB3N listserv:</b> <a href="https://groups.google.com/g/mb3nirs" target="_blank"><i>Subscribe</i></a><br>
+        <b>MB3N Slack:</b> <i><a href="https://join.slack.com/t/mb3nirs/shared_invite/zt-1opm3wjvb-Hk5cO2ZDciUhWyuJfeunQQ" target="_blank">Join workspace</a></i>
       </div>
     </div>
     <hr>
@@ -168,18 +168,18 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <h4><a href="{{site.baseurl}}/MB4/">MB4: Social Evaluation</a></h4>
         <b>Project Status:</b> <i>Stage 1 In Principle Acceptance; Collecting data</i><br> 
         <b>Project Leads:</b> <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a>, <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>, <a href="mailto:kiley.hamlin@psych.ubc.ca">Kiley Hamlin</a><br>
-        <b>MB4 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4"><i>Subscribe</i></a><br>
-        <b>MB4 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ">Join workspace</a>, then add <b>#mb4-general</b> channel</i><br>
+        <b>MB4 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4" target="_blank"><i>Subscribe</i></a><br>
+        <b>MB4 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb4-general</b> channel</i><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB4E/">MB4E: Emotional Responses</a></b><br>
         <b>Status:</b> <i>Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>, <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a><br>
-        <b>MB4 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4"><i>Subscribe</i></a><br>
+        <b>MB4 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4" target="_blank"><i>Subscribe</i></a><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB4I/">MB4I: Individual Differences</a></b><br>
         <b>Status:</b> <i>Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:yiyi_wang@pku.edu.cn">YiYi Wang</a>, <a href="mailto:senh@mef.edu.tr">Hilal Şen</a>, <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a><br>
-        <b>MB4 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4"><i>Subscribe</i></a><br>
+        <b>MB4 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4" target="_blank"><i>Subscribe</i></a><br>
       </div>
     </div>
     <hr>
@@ -193,8 +193,8 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>Status:</b> <i>Finalizing stimuli; Stage 1 RR manuscript under review</i><br>
         <b>Project Leads:</b> <a href="mailto:jkosie@princeton.edu">Jessica Kosie</a>, <a href="mailto:martincz@princeton.edu">Martin Zettersten</a>, 
           <a href="mailto:chbergma@uni-osnabrueck.de">Christina Bergmann</a>, <a href="mailto:da2959@columbia.edu">Dima Amso</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a><br>
-        <b>MB5 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies5"><i>Subscribe</i></a><br>
-        <b>MB5 Slack:</b> <i><a href="https://join.slack.com/t/manybabies5/shared_invite/zt-1olgszxpd-1FKLTYOY3o~oBjyw2cLR2Q">Join workspace</a></i>
+        <b>MB5 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies5" target="_blank"><i>Subscribe</i></a><br>
+        <b>MB5 Slack:</b> <i><a href="https://join.slack.com/t/manybabies5/shared_invite/zt-1olgszxpd-1FKLTYOY3o~oBjyw2cLR2Q" target="_blank">Join workspace</a></i>
       </div>
     </div>
     <hr>
@@ -207,8 +207,8 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <h4><a href="{{site.baseurl}}/MB6/">MB6: Neonatal Imitation</a></h4>
         <b>Status:</b> <i>Early planning; Team formation</i><br>
         <b>Project Leads:</b> <a href="mailto:s.farwaha@uq.edu.au">Sumeet Farwaha</a>, <a href="mailto:meltzoff@uw.edu">Andrew Meltzoff</a>, <a href="mailto:elizabethannsimpson@gmail.com">Elizabeth Simpson</a>, <a href="mailto:vps@psy.uq.edu.au">Virginia Slaughter</a>, <a href="mailto:m.nielsen@psy.uq.edu.au">Mark Nielsen</a>, <a href="mailto:recheleb@uw.edu">Rechele Brooks</a><br>
-        <b>MB6 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies6"><i>Subscribe</i></a><br>
-        <b>MB6 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ">Join workspace</a>, then add <b>#mb6-general</b> channel</i><br>
+        <b>MB6 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies6" target="_blank"><i>Subscribe</i></a><br>
+        <b>MB6 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb6-general</b> channel</i><br>
       </div>
     </div>
     <br>
@@ -224,8 +224,8 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <h4><a href="{{site.baseurl}}/MB-AtHome/">MB-AtHome: Online Infant Data Collection</a></h4>
         <b>Status:</b> <i>Translating materials; Collecting pilot data</i><br>
         <b>Project Leads:</b> <a href="mailto:L.Zaadnoordijk@tcd.ie">Lorijn Zaadnoordijk</a>, <a href="mailto:tsujish@gmail.com">Sho Tsuji</a>, <a href="mailto:katie.m.vonholzen@gmail.com">Katie Von Holzen</a>, <a href="mailto:Helen.Buckler@nottingham.ac.uk">Helen Buckler</a>, <a href="mailto:rhodricusack@cusacklab.org">Rhodri Cusack</a><br>
-        <b>MB-AH listserv:</b> <a href="https://groups.google.com/forum/#!forum/infantlooksathome"><i>Subscribe</i></a><br>
-        <b>MB-AH Slack:</b> <i><a href="https://join.slack.com/t/infantlooksathome/shared_invite/zt-1ow4drttf-O6fvUJFIyvvwpDdR3W2paw">Join workspace</a></i><br>
+        <b>MB-AH listserv:</b> <a href="https://groups.google.com/forum/#!forum/infantlooksathome" target="_blank"><i>Subscribe</i></a><br>
+        <b>MB-AH Slack:</b> <i><a href="https://join.slack.com/t/infantlooksathome/shared_invite/zt-1ow4drttf-O6fvUJFIyvvwpDdR3W2paw" target="_blank">Join workspace</a></i><br>
       </div>
     </div>
     <hr>
@@ -238,7 +238,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <h4><a href="{{site.baseurl}}/MB-Demographics/">MB-Demographics: Unified Demographics for MB Projects</a></h4>
         <b>Status:</b> <i>Manuscript under revision</i><br>
         <b>Project Leads:</b> <a href="mailto:leher.singh.nus@gmail.com">Leher Singh</a>, <a href="mailto:mihaela.barokova@gmail.com">Mihaela Barokova</a><br>
-        <b>MB-Demo listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics"><i>Subscribe</i></a>
+        <b>MB-Demo listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics" target="_blank"><i>Subscribe</i></a>
       </div>
     </div>
     <hr>
@@ -251,7 +251,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <h4><a href="{{site.baseurl}}/MB-ManyWebcams/">MB-ManyWebcams: Web-based Eye Tracking for Infant Studies</a></h4>
         <b>Status:</b> <i>Manuscript submitted</i><br>
         <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:adrian.steffan@hotmail.de">Adrian Steffan</a>, <a href="mailto:lucie.zimmer@psy.lmu.de">Lucie Zimmer</a><br>
-        <b>MB-MW listserv:</b> <a href="https://lists.lrz.de/mailman/listinfo/online_mb2"><i>Subscribe</i></a>
+        <b>MB-MW listserv:</b> <a href="https://lists.lrz.de/mailman/listinfo/online_mb2" target="_blank"><i>Subscribe</i></a>
       </div>
     </div>
     <br>
