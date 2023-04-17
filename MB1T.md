@@ -11,7 +11,7 @@ To-do:
 
 ## Project Overview
 
-* *Status: **[Manuscript](https://doi.org/10.31234/osf.io/uwche) under review***
+* *Status: **<a href="https://doi.org/10.31234/osf.io/uwche" target="_blank">Manuscript</a> under review***
 
 In this ongoing project we investigate the test-retest reliability of the preferences measures used in ManyBabies1. <img style="float: right;" src="/assets/img/placeholder.png"> Participating labs will bring in the tested babies for a second appointment retesting infants' IDS preference looking time measure, allowing to compare test-retest reliability for three different methods that have been used to investigate preferential listening in infancy: The head-turn preference procedure, central fixation, and eye tracking.
 
