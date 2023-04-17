@@ -15,7 +15,6 @@ Open data is one of the key mandates in calls for increased transparency, with b
 
 #### Registration link coming soon!
 
-
 <br>
 
 ***
