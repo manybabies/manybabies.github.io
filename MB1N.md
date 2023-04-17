@@ -7,9 +7,12 @@ cover-img: /assets/img/MB1_logo.png
 
 <!--
 To-do:
-- replace image placeholders.
-- add collaborators map.
 -->
+
+## Project Overview
+
+* *Status: **Collecting data***
+
 <img style="float: right;" src="/assets/img/MB1Nmap.png" height="250">
 All infants from MB1, regardless of their linguistic background, heard stimuli recorded in North American English. In this ongoing project we ask how does Infant Directed Speech (IDS) preference to North American English in MB1 compare to IDS preference measured in non-English speaking babies’ native language. Infants who are primary exposed to either French, Dutch, Norwegian, Czech, or Turkish will be tested in their native languages using the same procedure from MB1.
 
@@ -20,11 +23,6 @@ All infants from MB1, regardless of their linguistic background, heard stimuli r
 ### Project Leads
 * [Natalia Kartushina](https://www.sv.uio.no/psi/english/people/aca/natalkar/), *University of Oslo, Norway* [[email]](mailto:natalia.kartushina@psykologi.uio.no)
 * [Virginie Durier](https://ethos.univ-rennes1.fr/interlocuteurs/virginie-durier), *Université de Rennes 1 - CNRS, France* [[email]](mailto:virginie.durier@univ-rennes1.fr)
-
-
-***
-### Status
-* Stimulus creation and data collection is ongoing
 
 
 ***

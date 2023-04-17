@@ -5,6 +5,10 @@ subtitle: Test-Retest Follow-up
 cover-img: /assets/img/MB3_logo.png
 ---
 
+## Project Overview
+
+* *Status: **Planning***
+
 In this ongoing project we aim to investigate the test-retest reliability of the methods that have been used to investigate abstract rule learning in infancy during ManyBabies3. Therefore, participating labs will test babies twice within a certain time interval. Additionally, we are interested in questions regarding the robustness of reliability estimates across different methods (head-turn preference procedure, central fixation, or eye tracking) and over development.
 
 
@@ -12,8 +16,6 @@ In this ongoing project we aim to investigate the test-retest reliability of the
 * [Anna Exner](https://dev.imp10.ruhr-uni-bochum.de/epsy/personen/exner.html.en), *Ruhr University Bochum, Germany* [[email]](mailto:anna.exner@posteo.de) 
 * [Ingmar Visser](https://www.uva.nl/profiel/v/i/i.visser/i.visser.html?cb), *University of Amsterdam, Netherlands* [[email]](mailto:i.visser@uva.nl)
 
-### Status
-* Planning
 
 ***
 ### Links

@@ -7,7 +7,7 @@ cover-img: /assets/img/MBMW_logo.png
 
 ## Project Overview
 
-* **STATUS:** *[Manuscript](https://psyarxiv.com/7924h/) under review*
+* *Status: **[Manuscript](https://psyarxiv.com/7924h/) under review***
 * *16 participating labs*
 * *125 toddlers tested remotely via webcam*
 

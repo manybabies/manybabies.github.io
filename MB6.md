@@ -7,7 +7,7 @@ cover-img: /assets/img/MB6_logo.png
 
 ## Project Overview
 
-* *Status: **DESIGN and TEAM FORMATION***
+* *Status: **Design and Team formation***
 * *Subscribe to the [**MB6 listserv**](https://mailman.stanford.edu/mailman/listinfo/manybabies6) to get involved!*
 
 

@@ -12,7 +12,7 @@ To-do:
 
 ## Project Overview
 
-* **STATUS:** *Piloting and collecting data for Studies 1 and 2; Translating study materials*
+* *Status: **Piloting and collecting data for Studies 1 and 2; Translating study materials***
 
 In this first ManyBabies methodological project we are developing a remote (online) testing framework that can be used across a range of home environments in a wide array of countries. This include best practices in procedure, documentation, standardization, and analysis. <img style="float: right;" src="/assets/img/logo_mb_athome_250px.png"> Our initial focus is on measuring looks (for instance, in a visual preference paradigm), as it is the main dependent variable of many infant studies.
 

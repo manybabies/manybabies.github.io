@@ -12,7 +12,7 @@ To-do:
 
 ## Project Overview
 
-* *Project Status*: **COMPLETE**
+* *Status:* **COMPLETE**
 * *17 participating labs in 7 countries*
 * *Final sample: 718 babies* 
 * *38 authors on [**AMPPS** publication](https://doi.org/10.1177/2515245920974622)*

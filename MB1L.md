@@ -7,10 +7,13 @@ cover-img: /assets/img/MB1_logo.png
 
 <!--
 To-do:
-- add description and images
-- replace image placeholders.
-- add collaborators map.
 -->
+
+## Project Overview
+
+* *Status: **Finalizing data analyses and Stage 2 manuscript***
+* *[Registered Report](https://drive.google.com/drive/folders/1yb7bdTtEDOKwIA4qMcfiuKkoI1jIojW7) given 'In Principle Acceptance' at* **Journal of Child Language**
+
 
 In this ongoing project we explore whether early preference for Infant Directed Speech (IDS) is linked to later vocabulary size. <img style="float: right;" src="/assets/img/placeholder.png"> For instance, we are interested in investigating to what extent preference for IDS predicts infants' vocabulary; if the relation between IDS preference and vocabulary size changes over development; and if there is any systematic differences in the strength of this relationship across the language communities. Infants’ preference for IDS was tested as part of the MabyBabies1 project, and follow-up CDI data is being collected from a subsample of this dataset at 18 and 24 months of age.
 
@@ -18,12 +21,6 @@ In this ongoing project we explore whether early preference for Infant Directed 
 ***
 ### Project Lead
 * [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada* [[email]](mailto:m_soderstrom@umanitoba.ca)
-
-
-***
-### Status
-* Finalizing data analyses
-* Preparing Stage 2 manuscript
 
 
 ***
