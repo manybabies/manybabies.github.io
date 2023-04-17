@@ -3,18 +3,23 @@ layout: page
 title: Events
 ---
 
-#### *Upcoming*
+### *Upcoming*
+<br>
+## Open data for developmental science
+### Christina Bergmann, *Osnabrück University of Applied Sciences & Max Planck Institute for Psycholinguistics*
+#### May 11, 2023 8:30-10:00 CEST (Berlin, GER; UTC +2) on Zoom
 
+Open data is one of the key mandates in calls for increased transparency, with badges, citation advantages, and sometimes even refusal to publish papers when data are not made open. For developmental researchers, this need for transparency stands in stark contrast with confidentiality, especially when working with infants. Christina will review developmental science's impressive history of open data to show that there are ways to ethically and responsibly share data, and then discuss different strategies and emerging best practices to balance participant protection with transparency.
 
-> TBD (Stay tuned!)
+>Note: The workshop will be recorded and shared with registrants.
+
+#### Registration link coming soon!
 
 <br>
 
 ***
-#### *Past*
-
+### *Past*
 <br>
-
 ## Creating reproducible research reports Using RMarkdown
 ### Michael Frank, *Stanford University*
 #### March 21, 2023 9:00-10:30 PDT (San Francisco, US; UTC -7) on Zoom
