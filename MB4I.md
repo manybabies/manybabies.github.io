@@ -7,7 +7,7 @@ cover-img: /assets/img/MB4_logo.png
 
 ## Project Overview
 
-* *Status: **Collecting data and recruiting new labs to collect data! You can sign your lab up for data collection [here](https://docs.google.com/forms/d/e/1FAIpQLScUicLDQnkKpFa1UdKL8wrPY-qdq3PfY6NbrlkLXHhK_WK2yg/viewform)***
+* *Status: **Collecting data and recruiting new labs to collect data! You can sign your lab up for data collection <a href="https://docs.google.com/forms/d/e/1FAIpQLScUicLDQnkKpFa1UdKL8wrPY-qdq3PfY6NbrlkLXHhK_WK2yg/viewform" target="_blank">here</a>***
 
 The goal of this spin-off project of [MB4]({{site.baseurl}}/MB4/) is to examine individual differences in infants' early social evaluations across diverse cultural contexts. Specifically, this project aims to test the relation between infants' preferences for prosocial characters ("helpers") over antisocial characters ("hinderers") and (1) caregiver prosocial characteristics, beliefs, expectations, and socialization practices; (2) the infants' cultural context; (3) infants' everyday prosocial behaviors. We take a multi-method approach, combining experimental, observational, and survey-based measures in a large sample of infants from labs across the world.<br>
 

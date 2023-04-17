@@ -8,7 +8,7 @@ cover-img: /assets/img/MB2_logo.png
 
 ## Project Overview
 
-* *Status: **Collecting data (<a href="https://docs.google.com/forms/d/e/1FAIpQLSduhG_fDWVzLcQlGqgRPDBobbt0DrQRIlRai1_8Gyie6argyQ/viewform" target="_blank">sign up here</a>)***
+* *Status: **Collecting data <a href="https://docs.google.com/forms/d/e/1FAIpQLSduhG_fDWVzLcQlGqgRPDBobbt0DrQRIlRai1_8Gyie6argyQ/viewform" target="_blank">(sign up here)</a>***
 * *<a href="https://doi.org/10.31234/osf.io/x4jbm" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at* **Child Development**
 
 <img style="float: right;" src="/assets/img/MB2_design300px.png"> 

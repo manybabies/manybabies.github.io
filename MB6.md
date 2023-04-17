@@ -8,7 +8,7 @@ cover-img: /assets/img/MB6_logo.png
 ## Project Overview
 
 * *Status: **Design and Team formation***
-* *Subscribe to the [**MB6 listserv**](https://mailman.stanford.edu/mailman/listinfo/manybabies6) to get involved!*
+* *Subscribe to the <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies6" target="_blank"><b>MB6 listserv</b></a> to get involved!*
 
 
 We hosted a pair of planning workshops in July 2022 to hear from experts about their own research and ideas for the project, and to initiate discussions about what a "best test" of neonatal and early imitation would look like. 
