@@ -7,7 +7,7 @@ cover-img: /assets/img/MB5_logo.png
 
 ## Project Overview
 
-* *Status*: **FINALIZING DESIGN**
+* **STATUS:** *Finalizing design*
 * *Stage 1 Registered Report is under review [**(PsyArXiv preprint)**](https://doi.org/10.31234/osf.io/ck3vd)*
 
 

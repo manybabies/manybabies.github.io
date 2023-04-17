@@ -8,7 +8,7 @@ cover-img: /assets/img/MB4_logo.png
 
 ## Project Overview
 
-* *Status: **COLLECTING DATA [(sign up here)](https://docs.google.com/forms/d/e/1FAIpQLScUicLDQnkKpFa1UdKL8wrPY-qdq3PfY6NbrlkLXHhK_WK2yg/viewform)***
+* **STATUS:** *Collecting data **[(sign up here)](https://docs.google.com/forms/d/e/1FAIpQLScUicLDQnkKpFa1UdKL8wrPY-qdq3PfY6NbrlkLXHhK_WK2yg/viewform)***
 * *Stage 1 Registered Report given 'In Principle Acceptance' at* Developmental Science [***(PsyArXiv preprint)***](https://doi.org/10.31234/osf.io/qhxkm)
 
 

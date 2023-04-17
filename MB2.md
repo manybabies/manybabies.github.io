@@ -8,7 +8,7 @@ cover-img: /assets/img/MB2_logo.png
 
 ## Project Overview
 
-* *Status: **COLLECTING DATA [(sign up here)](https://docs.google.com/forms/d/e/1FAIpQLSduhG_fDWVzLcQlGqgRPDBobbt0DrQRIlRai1_8Gyie6argyQ/viewform)***
+* **STATUS:** *Collecting data **[(sign up here)](https://docs.google.com/forms/d/e/1FAIpQLSduhG_fDWVzLcQlGqgRPDBobbt0DrQRIlRai1_8Gyie6argyQ/viewform)***
 * *Stage 1 Registered Report given 'In Principle Acceptance' at* Child Development [***(PsyArXiv preprint)***](https://doi.org/10.31234/osf.io/x4jbm)
 
 <img style="float: right;" src="/assets/img/MB2_design300px.png"> 
