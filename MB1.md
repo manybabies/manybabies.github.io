@@ -61,8 +61,9 @@ Sixty-nine labs from 16 countries participated and collected data from 2,329 inf
 ***
 ### Links
 * **Materials, Protocols, and Documentation**: [MB1-OSF](https://osf.io/re95x/)
+* **Walkthrough videos**: [Databrary](https://nyu.databrary.org/volume/896)
 * **Data and code**: [MB1-GitHub](https://github.com/manybabies/mb1-analysis-public)
-* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1)  
+* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1)
 * **News**: [MB1-news]({{site.baseurl}}/tags/#MB1)
 
 
