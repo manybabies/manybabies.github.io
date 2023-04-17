@@ -8,8 +8,8 @@ cover-img: /assets/img/MB4_logo.png
 
 ## Project Overview
 
-* *Status: **Collecting data [(sign up here)](https://docs.google.com/forms/d/e/1FAIpQLScUicLDQnkKpFa1UdKL8wrPY-qdq3PfY6NbrlkLXHhK_WK2yg/viewform)***
-* *[Stage 1 Registered Report](https://doi.org/10.31234/osf.io/qhxkm) given 'In Principle Acceptance' at* **Developmental Science**
+* *Status: **Collecting data <a href="https://docs.google.com/forms/d/e/1FAIpQLScUicLDQnkKpFa1UdKL8wrPY-qdq3PfY6NbrlkLXHhK_WK2yg/viewform" target="_blank">(sign up here)</a>***
+* *<a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at* **Developmental Science**
 
 
 <img style="float: right;" src="/assets/img/mb4_site_300px.png">

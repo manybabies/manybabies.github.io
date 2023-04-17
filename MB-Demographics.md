@@ -11,7 +11,7 @@ To-do:
 
 ## Project Overview
 
-* *Status: **Manuscript revisions; translating/adapting templates (contact Project Leads for more information or to help!)***
+* *Status: **<a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">Manuscript</a> revisions; translating/adapting templates (contact Project Leads for more information or to help!)***
 
 In this project we are creating unified demographic forms for ManyBabies projects, with instructions for how to customize it to particular countries and what fields are required or recommended to have. These forms would be thoughtful about how to ask questions about variables like prematurity, and would provide guidance about how to tailor questions about race/ethnicity or SES for labs in different countries (e.g., by relying on census categories).
 

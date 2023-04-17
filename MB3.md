@@ -7,7 +7,7 @@ cover-img: /assets/img/MB3_logo.png
 
 ## Project Overview
 
-* *Status: **Collecting data (<a href="https://umanitobapsych.az1.qualtrics.com/jfe/form/SV_4NiYE6jM0399g7r" target="_blank">sign up here</a>)***
+* *Status: **Collecting data <a href="https://umanitobapsych.az1.qualtrics.com/jfe/form/SV_4NiYE6jM0399g7r" target="_blank">(sign up here)</a>***
 * *<a href="https://doi.org/10.31234/osf.io/aex7v" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at* **Developmental Science**
 
 
