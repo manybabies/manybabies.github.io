@@ -9,6 +9,10 @@ cover-img: /assets/img/MBDemo_logo.png
 To-do:
 -->
 
+## Project Overview
+
+* **STATUS:** *Manuscript revisions, translating/adapting templates (contact Project Leads for more information or to help!)*
+
 In this project we are creating unified demographic forms for ManyBabies projects, with instructions for how to customize it to particular countries and what fields are required or recommended to have. These forms would be thoughtful about how to ask questions about variables like prematurity, and would provide guidance about how to tailor questions about race/ethnicity or SES for labs in different countries (e.g., by relying on census categories).
 
 If you are interested in helping to translate or adpate template forms for your context, please let us know. <!--<img style="float: right;" src="/assets/img/baby-623417_1920_500px.jpg">-->
@@ -18,12 +22,6 @@ If you are interested in helping to translate or adpate template forms for your 
 ### Project Leads
 * [Mihaela Barokova](https://barokova.com/about/), *New Bulgarian University, Bulgaria* [[email]](mailto:mihaela.barokova@gmail.com)
 * [Leher Singh](https://fass.nus.edu.sg/psy/people/singh-leher/), *National University of Singapore, Singapore & National Science Foundation, USA* [[email]](mailto:leher.singh.nus@gmail.com)
-
-
-***
-### Status
-* Manuscript is under review at *Developmental Psychology*
-* Translating/adapting templates (contact Project Leads for more information or to help!)
 
 
 ***
