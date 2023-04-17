@@ -65,7 +65,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>Project Leads:</b> <a href="mailto:mcfrank@stanford.edu">Michael Frank</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1A/">MB1A: Infant-Directed Speech Preference in African Infants</a></b><br>
-        <b>Status:</b> <i>Stage 1 In Principle Acceptance; Collecting data</i><br>
+        <b>Status:</b> <i>Stage 1 'In Principle Acceptance'; Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:abc@ucsd.edu">Alex Carstensen</a>, <a href="mailto:kachergis@stanford.edu">George Kachergis</a>, 
           <a href="mailto:angelinetsui@gmail.com">Angeline Tsui</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a>, 
           <a href="mailto:mcfrank@stanford.edu">Michael Frank</a><br>
@@ -81,7 +81,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>Project Lead:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1L/">MB1L: Longitudinal Vocabulary Follow-up</a></b><br>
-        <b>Status:</b> <i>Stage 2 manuscript prep</i><br> 
+        <b>Status:</b> <i>Stage 1 'In Principle Acceptance'; Stage 2 manuscript prep</i><br> 
         <b>Project Lead:</b> <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
         <b>MB1L listserv:</b> <a href="https://groups.google.com/u/1/g/mb1-cdi-follow-up" target="_blank"><i>Subscribe</i></a><br>
         <hr>
@@ -108,7 +108,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB2/">MB2: Theory of Mind</a></h4>
-        <b>Status:</b> <i>Stage 1 In Principle Acceptance, Collecting data</i><br>
+        <b>Status:</b> <i>Stage 1 'In Principle Acceptance'; Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:dk@psy.ku.dk">Dora Kampis</a>, <a href="mailto:hrakocz@uni-goettingen.de">Hannes Rakoczy</a>, <a href="mailto:mcfrank@stanford.edu">Michael Frank</a><br>
         <b>MB2 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies2" target="_blank"><i>Subscribe</i></a><br>
         <b>MB2 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb2-general</b> channel</i><br>
@@ -126,7 +126,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB3/">MB3: Rule Learning</a></h4>
-        <b>Status:</b> <i>Stage 1 In Principle Acceptance; Collecting data</i><br>
+        <b>Status:</b> <i>Stage 1 'In Principle Acceptance'; Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:i.visser@uva.nl">Ingmar Visser</a>, <a href="mailto:a.geambasu@hum.leidenuniv.nl">Andreea Geambasu</a>, 
           <a href="mailto:c.c.levelt@hum.leidenuniv.nl">Claartje Levelt</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
         <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3" target="_blank"><i>Subscribe</i></a><br>
@@ -166,7 +166,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB4/">MB4: Social Evaluation</a></h4>
-        <b>Project Status:</b> <i>Stage 1 In Principle Acceptance; Collecting data</i><br> 
+        <b>Project Status:</b> <i>Stage 1 'In Principle Acceptance'; Collecting data</i><br> 
         <b>Project Leads:</b> <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a>, <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>, <a href="mailto:kiley.hamlin@psych.ubc.ca">Kiley Hamlin</a><br>
         <b>MB4 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4" target="_blank"><i>Subscribe</i></a><br>
         <b>MB4 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb4-general</b> channel</i><br>
