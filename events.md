@@ -11,7 +11,7 @@ title: Events
 
 Open data is one of the key mandates in calls for increased transparency, with badges, citation advantages, and sometimes even refusal to publish papers when data are not made open. For developmental researchers, this need for transparency stands in stark contrast with confidentiality, especially when working with infants. Christina will review developmental science's impressive history of open data to show that there are ways to ethically and responsibly share data, and then discuss different strategies and emerging best practices to balance participant protection with transparency.
 
-### <a href="https://stanford.zoom.us/webinar/register/WN_-frl_usoTIWRESpFbujyEA" target="_blank">REGISTER HERE!</a>
+### <a href="https://stanford.zoom.us/webinar/register/9716818485796/WN_-frl_usoTIWRESpFbujyEA" target="_blank">REGISTER HERE!</a>
 
 >Note: The workshop will be recorded and shared with registrants.
 
