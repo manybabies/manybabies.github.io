@@ -29,7 +29,6 @@ Open data is one of the key mandates in calls for increased transparency, with b
 
 In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) led participants through the benefits of using RMarkdown to create reproducible research reports. Follow along with the exercises to see how simple it is to integrate writing and analyses in your workflow.
 
-<br>
 
 ***
 ## Big Team Science Conference
@@ -44,7 +43,6 @@ In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) l
 
 <h3><a href="https://www.youtube.com/playlist?list=PLynqjZusW6nt9D3wQkyavZmMWl2ZgjszV" target="_blank">VIEW MB TALK RECORDINGS</a></h3>
 
-<br>
 
 ***
 <div class="container" align="center">
@@ -60,7 +58,6 @@ In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) l
 
 In this workshop, Nicolás and Krista introduce the open science perspective for psychological research. The aim is for participants to discover, discuss, and engage in using open science practices (e.g., open access, open data, preprints, pre-registration) and to learn ways to apply them in their own research. The workshop does not require prior knowledge of open science; all those interested in learning or deepening their knowledge of how to do open research are most welcome! 
 
-<br>
 
 ***
 ## Big Team Science for Studying Small People
