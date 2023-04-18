@@ -22,10 +22,10 @@ title: Resources
         <a href="{{site.baseurl}}/dashboard/"><b>Contributor Dashboard</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="left">
-        <a href="https://manybabies.shinyapps.io/validator/"><img src="/assets/img/validate.png" alt="checkmark" width="50"></a> 
+        <a href="{{site.baseurl}}/validator/"><img src="/assets/img/validate.png" alt="checkmark" width="50"></a> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://manybabies.shinyapps.io/validator/"><b>Data Validator</b></a>
+        <a href="{{site.baseurl}}/validator/"><b>Data Validator</b></a>
       </div>
     </div>
     <br>
