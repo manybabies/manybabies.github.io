@@ -13,7 +13,7 @@ Open data is one of the key mandates in calls for increased transparency, with b
 
 >Note: The workshop will be recorded and shared with registrants.
 
-#### Registration link coming soon!
+#### <a href="https://stanford.zoom.us/webinar/register/WN_-frl_usoTIWRESpFbujyEA" target="_blank">Register Now!</a>
 
 <br>
 
