@@ -7,7 +7,7 @@ title: Events
 <br>
 ## Open data for developmental science
 ### Christina Bergmann, *Osnabrück University of Applied Sciences & Max Planck Institute for Psycholinguistics*
-#### May 11, 2023 8:30-10:00 CEST (Berlin, Germany; UTC +2) on Zoom
+#### May 11, 2023 8:30-10:00am CEST (Berlin, Germany; UTC +2) on Zoom
 
 Open data is one of the key mandates in calls for increased transparency, with badges, citation advantages, and sometimes even refusal to publish papers when data are not made open. For developmental researchers, this need for transparency stands in stark contrast with confidentiality, especially when working with infants. Christina will review developmental science's impressive history of open data to show that there are ways to ethically and responsibly share data, and then discuss different strategies and emerging best practices to balance participant protection with transparency.
 
