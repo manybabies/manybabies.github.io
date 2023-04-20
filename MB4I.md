@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MB4I Individual Differences
+title: MB4I
 subtitle: Individual differences in infants’ social evaluations across cultures
 cover-img: /assets/img/MB4_logo.png
 ---
