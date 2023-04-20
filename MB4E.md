@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MB4E: Emotional Responses
+title: MB4E Emotional Responses
 subtitle: Exploring Links Between Infants’ Social Evaluations, Facial Expressions, and Posture
 cover-img: /assets/img/MB4_logo.png
 ---
