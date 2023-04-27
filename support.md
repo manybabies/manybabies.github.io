@@ -4,7 +4,7 @@ title: Support MB
 ---
 
 
-Our work is largely supported by volunteers with independent funding. We would love to be able to fund member lab grants, organize events, hire translators, and collect more diverse and representative samples in our studies. 
+Our work is largely supported by volunteers with independent funding. We would love to be able to do things like fund member lab grants, organize events, hire translators, and collect more diverse and representative samples in our studies. 
 
 If you would like to support us in this way, please visit our <b>Open Collective Foundation\*</b> page to learn more.
 
