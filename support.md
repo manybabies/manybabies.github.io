@@ -9,7 +9,7 @@ Our work is largely supported by volunteers with independent funding. We would l
 If you would like to support us in this way, please visit our 
 <b><a href="https://opencollective.com/manybabies" target="_blank">Open Collective Foundation\* donation page</a></b> to learn more.
 
-<h2><a href="https://opencollective.com/manybabies" target="_blank">LEARN MORE and DONATE</a></h2>
+<h2 align="center"><a href="https://opencollective.com/manybabies" target="_blank"> >>> LEARN MORE and DONATE <<< </a></h2>
 
 
 
