@@ -47,8 +47,9 @@ navbar-links:
     - Contributor Dashboard: "dashboard"
     - Data Validator: "validator"
     - Code of Conduct: "codeofconduct"
-  Get Involved: "get_involved"
-
+  Get Involved: 
+    - Join MB: "get_involved"
+    - Support MB: "support"
 ################
 # --- Logo --- #
 ################
