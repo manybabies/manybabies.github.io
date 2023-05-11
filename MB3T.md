@@ -7,7 +7,7 @@ cover-img: /assets/img/MB3_logo.png
 
 ## Project Overview
 
-* *Status: **Planning***
+* *Status: **Collecting data***
 
 In this ongoing project we aim to investigate the test-retest reliability of the methods that have been used to investigate abstract rule learning in infancy during ManyBabies3. Therefore, participating labs will test babies twice within a certain time interval. Additionally, we are interested in questions regarding the robustness of reliability estimates across different methods (head-turn preference procedure, central fixation, or eye tracking) and over development.
 
@@ -19,7 +19,9 @@ In this ongoing project we aim to investigate the test-retest reliability of the
 
 ***
 ### Links
-* **Listserv**: [join here](https://groups.google.com/g/mb3t)
+* **Listserv:** [subscribe](https://groups.google.com/g/mb3t)
+* **Preregistration:** [OSF](https://osf.io/ma8z5)
+* **Lab manual:** [link](https://docs.google.com/document/d/1lSn2U7gT7v-k0_HLlzoyzsdQiLAgJlDd/edit?usp=sharing&ouid=109835695047974693970&rtpof=true&sd=true)
 
 > We encourage everyone who is interested in the project to contact Project Lead [Anna Exner](mailto:anna.exner@posteo.de).
 
