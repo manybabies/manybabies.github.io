@@ -30,7 +30,7 @@ cover-img: /assets/img/MB6_logo.png
 ### Links
 * **Listserv**: [subscribe here](https://mailman.stanford.edu/mailman/listinfo/manybabies6)
 * **Slack**: [MB workspace](https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ) (*join the #mb6-general channel*)
-* **Initial planning workshops**: [Workshop 1](https://stanford.zoom.us/rec/share/Gsyuh5B-PnpwWt-6_8ZtMXsLcv8UNn6FPLvsbZqPbQm8X5VWsEDDPHefTPzs5MLs.lFTjsqVJJ-wN8sxJ?startTime=1657663437000), [Workshop 2](https://stanford.zoom.us/rec/share/B2ZuwVgR3tdZmGwF4nrI_-lfILXIpzilVITSg_bFacrCkwrKCfWAIohOwNR-1Zgr.OOnc_ovmYHLp_N3Y?startTime=1658991869000)
+* **Initial planning workshops**: [Workshop 1](https://www.youtube.com/watch?v=SIwvMydZUwA), [Workshop 2](https://www.youtube.com/watch?v=61muVqg7mnI)
 
 
 ***
