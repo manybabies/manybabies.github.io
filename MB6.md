@@ -7,31 +7,13 @@ cover-img: /assets/img/MB6_logo.png
 
 ## Project Overview
 
-* *Status: **Design and Team formation***
+* *Status: **Study design***
 * *Subscribe to the <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies6" target="_blank"><b>MB6 listserv</b></a> to get involved!*
 
 
-We hosted a pair of planning workshops in July 2022 to hear from experts about their own research and ideas for the project, and to initiate discussions about what a "best test" of neonatal and early imitation would look like. 
+> Study description to come!
 
-### Workshop #1 - July 12/13, 2022 [[View the recording]](https://stanford.zoom.us/rec/share/Gsyuh5B-PnpwWt-6_8ZtMXsLcv8UNn6FPLvsbZqPbQm8X5VWsEDDPHefTPzs5MLs.lFTjsqVJJ-wN8sxJ?startTime=1657663437000) 
-
-#### Featuring presentations from: 
-* Sumeet Farwaha & Virginia Slaughter, *University of Queensland, Australia*
-* Andrew Meltzoff, *University of Washington, US*
-* Kathleen Akins, *Simon Fraser University, Canada* & Nazim Keven *Bilkent University, Turkey*
-* Laurie Bayet, *American University, US*
-* Jonathan Redshaw, *University of Queensland, Australia*
-
-
-### Workshop #2 - July 28, 2022 [[View the recording]](https://stanford.zoom.us/rec/share/B2ZuwVgR3tdZmGwF4nrI_-lfILXIpzilVITSg_bFacrCkwrKCfWAIohOwNR-1Zgr.OOnc_ovmYHLp_N3Y?startTime=1658991869000)
-
-#### Featuring presentations from:
-* Sumeet Farwaha & Virginia Slaughter, *University of Queensland, Australia*
-* Elizabeth Simpson, *University of Miami, US*
-* Mikael Heimann, *Linköping University, Sweden*
-* Carina De Klerk, *University of Essex, UK*
-* Stefano Vincini, *TU Dortmund, Germany*
-
+<br>
 
 *** 
 ### Project Leads
@@ -48,10 +30,11 @@ We hosted a pair of planning workshops in July 2022 to hear from experts about t
 ### Links
 * **Listserv**: [subscribe here](https://mailman.stanford.edu/mailman/listinfo/manybabies6)
 * **Slack**: [MB workspace](https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ) (*join the #mb6-general channel*)
+* **Initial planning workshops**: [Workshop 1](https://stanford.zoom.us/rec/share/Gsyuh5B-PnpwWt-6_8ZtMXsLcv8UNn6FPLvsbZqPbQm8X5VWsEDDPHefTPzs5MLs.lFTjsqVJJ-wN8sxJ?startTime=1657663437000), [Workshop 2](https://stanford.zoom.us/rec/share/B2ZuwVgR3tdZmGwF4nrI_-lfILXIpzilVITSg_bFacrCkwrKCfWAIohOwNR-1Zgr.OOnc_ovmYHLp_N3Y?startTime=1658991869000)
 
 
 ***
 
-> We encourage everyone who is interested in the project to join the listserv using the link above. You can also email one or more of the project leads to indicate your interest.
+> We encourage everyone who is interested in the project to join the listserv using the link above. You can also email the [project email address](mailto:mb6@manybabies.org) or one or more of the project leads to indicate your interest.
 
 > Please note that access to infants/infant lab is **NOT** a prerequisite.

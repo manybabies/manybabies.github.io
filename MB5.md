@@ -8,7 +8,7 @@ cover-img: /assets/img/MB5_logo.png
 ## Project Overview
 
 * *Status: **Finalizing design***
-* *<a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">Stage 1 Registered Report</a> is under review*
+* *<a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">Stage 1 Registered Report</a> is under revision*
 
 
 Familiarity and novelty effects are the cornerstone of many infant behavioral methods (e.g., habituation, head-turn preference, preferential looking / looking-while-listening, eye tracking). In this ongoing project we investigate [Hunter and Ames’ (1988)](https://psycnet.apa.org/record/1988-98065-003) model of infants’ preference for familiar and novel stimuli. We aim to empirically test whether infant age, task difficulty, and familiarization time interact to predict the direction of infants’ preference for familiar vs. novel stimuli. By comprehensively testing the Hunter and Ames model, we will solidify our foundational understanding of infant curiosity and provide the most comprehensive, global picture of the early foundations of infant cognition to date.
