@@ -11,7 +11,7 @@ To-do:
 
 ## Project Overview
 
-* *Status: **<a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">Manuscript</a> revisions; translating/adapting templates (contact Project Leads for more information or to help!)***
+* *Status: **Revised <a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">Manuscript</a> under review; translating/adapting templates (contact Project Leads for more information or to help!)***
 
 In this project we are creating unified demographic forms for ManyBabies projects, with instructions for how to customize it to particular countries and what fields are required or recommended to have. These forms would be thoughtful about how to ask questions about variables like prematurity, and would provide guidance about how to tailor questions about race/ethnicity or SES for labs in different countries (e.g., by relying on census categories).
 
@@ -29,8 +29,7 @@ If you are interested in helping to translate or adpate template forms for your 
 <!--* **Materials, Protocols, and Documentation**: [Google Drive](https://drive.google.com/drive/folders/1IW0daOJMG37FdoGkX1l12zhjPYSmPcD5).-->
 <!--* **Data and code**: [MB2-GitHub](https://github.com/manybabies/mb2-analysis)-->
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics)
-<!--* **Slack**: Please email any of the members of the leadership team to get a Join invitation-->
-<!--* **News**: [MB-AtHome news]({{site.baseurl}}/tags/#MB-AtHome)-->
+* **OSF**: [main project](https://osf.io/tc7hy/), [form repository](https://osf.io/nqc92/)
 
 
 ***

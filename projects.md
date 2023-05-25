@@ -139,7 +139,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3" target="_blank"><i>Subscribe</i></a><br>
                 <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB3T/">MB3T: Test-Retest Follow-up</a></b><br>
-        <b>Status:</b> <i>Planning</i><br>
+        <b>Status:</b> <i>Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:anna.exner@posteo.de">Anna Exner</a>, <a href="mailto:i.visser@uva.nl">Ingmar Visser</a><br>
         <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3" target="_blank"><i>Subscribe</i></a><br>
       </div>
@@ -190,7 +190,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB5/">MB5: The Hunter & Ames Model of Infant Looking Preference</a></h4>
-        <b>Status:</b> <i>Finalizing stimuli; Stage 1 RR manuscript under review</i><br>
+        <b>Status:</b> <i>Finalizing stimuli; Stage 1 RR manuscript under revision</i><br>
         <b>Project Leads:</b> <a href="mailto:jkosie@princeton.edu">Jessica Kosie</a>, <a href="mailto:martincz@princeton.edu">Martin Zettersten</a>, 
           <a href="mailto:chbergma@uni-osnabrueck.de">Christina Bergmann</a>, <a href="mailto:da2959@columbia.edu">Dima Amso</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a><br>
         <b>MB5 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies5" target="_blank"><i>Subscribe</i></a><br>
@@ -205,8 +205,9 @@ The broader goals of **ManyBabies** come together through collaborative projects
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB6/">MB6: Neonatal Imitation</a></h4>
-        <b>Status:</b> <i>Early planning; Team formation</i><br>
+        <b>Status:</b> <i>Study design</i><br>
         <b>Project Leads:</b> <a href="mailto:s.farwaha@uq.edu.au">Sumeet Farwaha</a>, <a href="mailto:meltzoff@uw.edu">Andrew Meltzoff</a>, <a href="mailto:elizabethannsimpson@gmail.com">Elizabeth Simpson</a>, <a href="mailto:vps@psy.uq.edu.au">Virginia Slaughter</a>, <a href="mailto:m.nielsen@psy.uq.edu.au">Mark Nielsen</a>, <a href="mailto:recheleb@uw.edu">Rechele Brooks</a><br>
+        <b>MB6 email:</b> <a href="mailto:mb6@manybabies.org"><i>Contact</i></a><br>
         <b>MB6 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies6" target="_blank"><i>Subscribe</i></a><br>
         <b>MB6 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb6-general</b> channel</i><br>
       </div>
@@ -236,7 +237,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB-Demographics/">MB-Demographics: Unified Demographics for MB Projects</a></h4>
-        <b>Status:</b> <i>Manuscript under revision</i><br>
+        <b>Status:</b> <i>Manuscript under revision; Form repository building</i><br>
         <b>Project Leads:</b> <a href="mailto:leher.singh.nus@gmail.com">Leher Singh</a>, <a href="mailto:mihaela.barokova@gmail.com">Mihaela Barokova</a><br>
         <b>MB-Demo listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics" target="_blank"><i>Subscribe</i></a>
       </div>
@@ -249,7 +250,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB-ManyWebcams/">MB-ManyWebcams: Web-based Eye Tracking for Infant Studies</a></h4>
-        <b>Status:</b> <i>Manuscript submitted</i><br>
+        <b>Status:</b> <i>Manuscript under revision</i><br>
         <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:adrian.steffan@hotmail.de">Adrian Steffan</a>, <a href="mailto:lucie.zimmer@psy.lmu.de">Lucie Zimmer</a><br>
         <b>MB-MW listserv:</b> <a href="https://lists.lrz.de/mailman/listinfo/online_mb2" target="_blank"><i>Subscribe</i></a>
       </div>
@@ -265,7 +266,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/manymanys/">ManyManys1: Reversal Learning</a></h4>
-        <b>Status:</b> <i>Study design; literature review</i><br>
+        <b>Status:</b> <i>Study design; Literature review</i><br>
         <b>Project Leads:</b> <a href="mailto:nicolas.alessandroni@concordia.ca">Nicolás Alessandroni <i>(ManyBabies)</i></a>, <a href="mailto:laurent.pretot@gmail.com">Laurent Prétôt <i>(ManyFishes)</i></a><br>
         <b>Website:</b> <a href="https://manymanys.github.io/MM1/" target="_blank"><i>link</i></a>
       </div>
