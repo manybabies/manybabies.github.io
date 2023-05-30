@@ -21,7 +21,8 @@ title: Events
 Open data is one of the key mandates in calls for increased transparency, with badges, citation advantages, and sometimes even refusal to publish papers when data are not made open. For developmental researchers, this need for transparency stands in stark contrast with confidentiality, especially when working with infants. Christina reviews developmental science's impressive history of open data to show that there are ways to ethically and responsibly share data, and then discusses different strategies and emerging best practices to balance participant protection with transparency.
 
 
-<br>
+
+***
 ## Creating reproducible research reports Using RMarkdown
 ### Michael Frank, *Stanford University*
 #### March 21, 2023 9:00-10:30 PDT (San Francisco, USA; UTC -7) on Zoom
