@@ -22,6 +22,8 @@ Open data is one of the key mandates in calls for increased transparency, with b
 
 
 <br>
+
+***
 ## Creating reproducible research reports Using RMarkdown
 ### Michael Frank, *Stanford University*
 #### March 21, 2023 9:00-10:30 PDT (San Francisco, USA; UTC -7) on Zoom
