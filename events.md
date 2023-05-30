@@ -5,20 +5,22 @@ title: Events
 
 ### *Upcoming*
 <br>
+> TBD
+
+
+***
+### *Past*
+
 ## Open data for developmental science
 ### Christina Bergmann, *Osnabrück University of Applied Sciences & Max Planck Institute for Psycholinguistics*
 #### May 11, 2023 8:30-10:00am CEST (Berlin, Germany; UTC +2) on Zoom
 
-Open data is one of the key mandates in calls for increased transparency, with badges, citation advantages, and sometimes even refusal to publish papers when data are not made open. For developmental researchers, this need for transparency stands in stark contrast with confidentiality, especially when working with infants. Christina will review developmental science's impressive history of open data to show that there are ways to ethically and responsibly share data, and then discuss different strategies and emerging best practices to balance participant protection with transparency.
+<h3><a href="https://www.youtube.com/watch?v=4nKEnukx7YY" target="_blank">VIEW THE WEBINAR RECORDING</a></h3>
+<h4>Slides available <a href="https://docs.google.com/presentation/d/1ORAagw8vh0tBjEnSiJXECSPZQ90rnSgn7iFGCwzywxo/edit?usp=sharing" target="_blank">here</a></h4>
 
-### <a href="https://stanford.zoom.us/webinar/register/9716818485796/WN_-frl_usoTIWRESpFbujyEA" target="_blank">REGISTER HERE!</a>
+Open data is one of the key mandates in calls for increased transparency, with badges, citation advantages, and sometimes even refusal to publish papers when data are not made open. For developmental researchers, this need for transparency stands in stark contrast with confidentiality, especially when working with infants. Christina reviews developmental science's impressive history of open data to show that there are ways to ethically and responsibly share data, and then discusses different strategies and emerging best practices to balance participant protection with transparency.
 
->Note: The workshop will be recorded and shared with registrants.
 
-<br>
-
-***
-### *Past*
 <br>
 ## Creating reproducible research reports Using RMarkdown
 ### Michael Frank, *Stanford University*
