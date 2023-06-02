@@ -14,6 +14,7 @@ cover-img: /assets/img/curiosity-1910023_cut2.jpg
 * **[Events]({{site.baseurl}}/events/)** *(workshops, webinars, etc.)*
 * **[News and Updates]({{site.baseurl}}/news/)** *(newletters, publication news, etc.)*
 * **[Get Involved]({{site.baseurl}}/get_involved/)** *(all are welcome, access to an infant lab is not required!)*
+* **[Support ManyBabies]({{site.baseurl}}/support/)** *(make a tax-deductible donation to support our work!)*
 <br>
 <br>
 
