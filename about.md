@@ -11,7 +11,7 @@ MB's collaborative nature implies that all project decisions (e.g., research que
 
 We strive for an environment of trust and equality that can engage researchers from a broad spectrum of backgrounds. To learn more about MB's vision for the role of large-scale collaborations, see [*Frank et al. (2017)*](https://psyarxiv.com/27b43/) and [*Byers-Heinlein et al. (2020)*](https://psyarxiv.com/dmhk2/). <br>
 
-<iframe width="420" height="315"
+<iframe align="center" 
 src="https://www.youtube.com/embed/EnI5sIZiwJE">
 </iframe>
 
