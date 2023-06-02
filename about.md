@@ -5,17 +5,18 @@ title: About MB
 
 ## What is ManyBabies?
 
+<iframe align="center" width="700" height="394"
+src="https://www.youtube.com/embed/EnI5sIZiwJE">
+</iframe>
+<br>
+
 The **ManyBabies** consortium was born in 2015 committed to Open Science and to collaborative research practices that allow teams to test hypotheses about infant development that individual labs could perhaps never adequately test. You can read the blog post that led to the formation of ManyBabies [**here**](https://babieslearninglanguage.blogspot.com/2015/12/the-manybabies-project.html).<br>
 
 MB's collaborative nature implies that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made using a consensus-based approach. <br>
 
 We strive for an environment of trust and equality that can engage researchers from a broad spectrum of backgrounds. To learn more about MB's vision for the role of large-scale collaborations, see [*Frank et al. (2017)*](https://psyarxiv.com/27b43/) and [*Byers-Heinlein et al. (2020)*](https://psyarxiv.com/dmhk2/). <br>
 
-<iframe align="center" width="700" height="394"
-src="https://www.youtube.com/embed/EnI5sIZiwJE">
-</iframe>
 
-<br>
 
 ***
 ## Code of Conduct
