@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MB1G - Gaze Following paper published at Infancy
-tags: [paper, publication, MB1G]
+tags: [paper, publications, MB1G]
 ---
 
 The MB1G paper, "The development of gaze following in monolingual and bilingual infants: A multi-lab study" is now out in Infancy, as an advance online publication!

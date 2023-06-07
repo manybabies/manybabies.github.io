@@ -1,7 +1,7 @@
 ---
 layout: post
-title: January 2023
-subtitle: MB Newsletter
+title: Newsletter
+subtitle: January 2023
 cover-img: /assets/img/MBnewsletter.png
 tags: [MB, newsletter]
 ---
