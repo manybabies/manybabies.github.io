@@ -1,8 +1,8 @@
 ---
 layout: post
-title: MB In <I>Nature</I>
+title: MB In <i>Nature</i>
 thumbnail-img: /assets/img/MBNatureComment_web.jpg
-tags: [MB, news]
+tags: [MB, news, publications]
 ---
 
 We are thrilled to share this [commentary in <I>Nature</I>](https://www.nature.com/articles/d41586-022-00150-2), highlighting the promise of (and challenges for) organizations like ManyBabies! 

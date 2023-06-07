@@ -1,6 +1,7 @@
 ---
 layout: post
-title: MB Newsletter - April 2022
+title: Newsletter
+subtitle: April 2022
 cover-img: /assets/img/MBnewsletter.png
 tags: [MB, newsletter]
 ---

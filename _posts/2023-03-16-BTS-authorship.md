@@ -2,7 +2,7 @@
 layout: post
 title: BTS Authorship comment
 thumbnail-img: /assets/img/BTS_authorship.png
-tags: [MB, BTS]
+tags: [MB, BTS, publications]
 ---
 
 ManyBabies members Michael Frank and Heidi Baumgartner joined Big Team Science (BTS) colleagues (led by PSA's Nicholas Coles) to write this comment on how 'BTS challenges us to reconsider authorship'. 

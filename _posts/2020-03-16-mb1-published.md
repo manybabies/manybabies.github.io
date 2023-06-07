@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ManyBabies 1 paper published at AMPPS
-tags: [paper, publication, MB1]
+tags: [paper, publications, MB1]
 ---
 
 The ManyBabies 1 paper, "Quantifying Sources of Variability in Infancy Research Using the Infant-Directed-Speech Preference" is now out in Advances in Methods and Practices in Psychological Science (AMPPS)!
