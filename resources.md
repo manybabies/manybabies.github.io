@@ -89,7 +89,7 @@ title: Resources
         <a href="https://drive.google.com/file/d/1iEF93crL8iEMAo0HVnEYHZDcwO7ZtxxJ/view?usp=share_link" target="_blank"><img src="/assets/img/teamwork_freepik.png" alt="collaboration agreement" width="50"></a>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://drive.google.com/file/d/1iEF93crL8iEMAo0HVnEYHZDcwO7ZtxxJ/view?usp=share_link" target="_blank"><b>Collaboration Agreement</b></a>
+        <a href="https://docs.google.com/document/d/e/2PACX-1vSk3bDRRt2kIR0RkheFbKtn0bh79DSeWayrV8hjH2Z6EsU0_wKe2KSo7kx0Wc1hrLspB_s-dI-5iXlB/pub" target="_blank"><b>Collaboration Agreement</b></a>
       </div>
     </div>
     <br>
