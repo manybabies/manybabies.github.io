@@ -12,6 +12,7 @@ title: Committees
 * <a href="#ethics"><b>Ethics Committee</b></a>
 * <a href="#stats"><b>Statistics, Analysis, & Code Review Committee</b></a>
 <br>
+<br>
 
 #### Who can join? 
 Anyone! We especially encourage Early Career Researchers (including students) and researchers from outside of US/Canada/Western Europe to get involved.
