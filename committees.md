@@ -33,7 +33,7 @@ Email committee chairs (see below) or the [MB Executive Director](mailto:contact
 * Attend monthly Zoom meeting to discuss committee goals and develop materials
 * Contribute to committee objectives either synchronously or asynchronously (~1-2 hours/month)
 
-#### Committee Projects
+#### Example Committee Projects
 * ["What is ManyBabies" intro video](https://www.youtube.com/watch?v=EnI5sIZiwJE)
 * [ManyBabies Workshop Series](https://www.youtube.com/playlist?list=PLynqjZusW6nv30QKSo-I4CrI7Xsm2ph1D)
 * A Beginner's Guide to ManyBabies *(in development)*
@@ -56,7 +56,7 @@ Email committee chairs (see below) or the [MB Executive Director](mailto:contact
 * Attend monthly Zoom meeting to discuss committee goals and develop materials
 * Contribute to committee objectives either synchronously or asynchronously (~1-2 hours/month)
 
-#### Committee Projects
+#### Example Committee Projects
 * Guidelines for inclusive virtual meetings *(in development)*
 * Global research interest survey/database *(in development)*
 
