@@ -149,6 +149,18 @@ title: Publications & Manuscripts
         <a href="{{site.baseurl}}/index/" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo"></a>
       </div>
       <div class="col-sm-11">
+        <p style="padding-left: 25px; text-indent: -25px"><i>Baumgartner, H.A.</i>, Alessandroni, N., Byers-Heinlein, K., Frank, M.C., Hamlin, J.K., Soderstrom, M., Voelkel, J.G., Willer, R., Yuen, F., & Coles, N.A. (2023). 
+        <b>How to build up big team science: a practical guide for large-scale collaborations</b>. 
+        <i>Royal Society Open Science</i>. 
+        <a href="https://doi.org/10.1098/rsos.230235" target="_blank">doi:10.1098/rsos.230235</a> </p> 
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-1" align=center>
+        <br>
+        <a href="{{site.baseurl}}/index/" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo"></a>
+      </div>
+      <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Visser, I.</i>, Bergmann, C., Byers-Heinlein, K., Dal Ben, R., Duch, W., Forbes, S., Franchin, L., Frank, M. C., Geraci, A., Hamlin, J. K., Kaldy, Z., Kulke, L., Laverty, C., Lew-Williams, C., Mateu, V., Mayor, J., Moreau, D., Nomikou, I., Schuwerk, T., Simpson, E. A., Singh, L., Soderstrom, M., Sullivan, J., van den Heuvel, M. I., Westermann, G., Yamada, Y., Zaadnoordijk, L., & Zettersten, M. (2022). 
         <b>Improving the generalizability of infant psychological research: The ManyBabies model (Commentary)</b>. 
         <i>Behavioral and Brain Sciences</i>. 
