@@ -7,10 +7,11 @@ title: Committees
 
 **ManyBabies Committees** are working groups dedicated to brainstorming and implementing ideas on a specific topic for the benefit of the MB community. Our committees are a great way to contribute to the overarching goals of ManyBabies and network with MB colleagues via a minimal time commitment.
 
-* <a href="#ttos">Teaching, Training, & Open Science Committee</a>
-* <a href="#divout">Diversity & Outreach</a>
-* <a href="#ethics">Ethics</a>
-* <a href="#stats">Statistics, Analysis, & Code Review</a>
+* <a href="#ttos"><b>Teaching, Training, & Open Science Committee</b></a>
+* <a href="#divout"><b>Diversity & Outreach Committee</b></a>
+* <a href="#ethics"><b>Ethics Committee</b></a>
+* <a href="#stats"><b>Statistics, Analysis, & Code Review Committee</b></a>
+<br>
 
 #### Who can join? 
 Anyone! We especially encourage Early Career Researchers (including students) and researchers from outside of US/Canada/Western Europe to get involved.
