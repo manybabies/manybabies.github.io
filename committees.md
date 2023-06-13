@@ -16,7 +16,7 @@ Email project chairs (see below) or the [MB Executive Director](mailto:contact@m
 <br>
 
 ***
-## Teaching, Training, & Open Science
+### Teaching, Training, & Open Science
 
 #### Committee Aims
 * Creating open materials for workshops and developing training opportunities (e.g., videos)
@@ -41,7 +41,7 @@ Email project chairs (see below) or the [MB Executive Director](mailto:contact@m
 
 
 ***
-## Diversity & Outreach
+### Diversity & Outreach
 
 #### Committee Aims
 * Promote respectful inclusion, diversity, and outreach in ManyBabies projects.
@@ -62,11 +62,11 @@ Email project chairs (see below) or the [MB Executive Director](mailto:contact@m
 > list to come!
 
 ***
-## Ethics
+### Ethics
 > Coming soon! [Email us](mailto:contact@manybabies.org) to express interest in joining.
 
 ***
-## Statistics, Analysis, & Code Review
+### Statistics, Analysis, & Code Review
 > Coming soon! [Email us](mailto:contact@manybabies.org) to express interest in joining.
 
 
