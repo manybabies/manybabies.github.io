@@ -7,6 +7,10 @@ title: Committees
 
 **ManyBabies Committees** are working groups dedicated to brainstorming and implementing ideas on a specific topic for the benefit of the MB community. Our committees are a great way to contribute to the overarching goals of ManyBabies and network with MB colleagues via a minimal time commitment.
 
+* <a href="#ttos">Teaching, Training, & Open Science Committee</a>
+* <a href="#divout">Diversity & Outreach</a>
+* <a href="#ethics">Ethics</a>
+* <a href="#stats">Statistics, Analysis, & Code Review</a>
 
 #### Who can join? 
 Anyone! We especially encourage Early Career Researchers (including students) and researchers from outside of US/Canada/Western Europe to get involved.
@@ -16,7 +20,7 @@ Email project chairs (see below) or the [MB Executive Director](mailto:contact@m
 <br>
 
 ***
-### Teaching, Training, & Open Science
+<h3 id="ttos">Teaching, Training, & Open Science</h3>
 
 #### Committee Aims
 * Creating open materials for workshops and developing training opportunities (e.g., videos)
@@ -41,7 +45,7 @@ Email project chairs (see below) or the [MB Executive Director](mailto:contact@m
 
 
 ***
-### Diversity & Outreach
+<h3 id="divout">Diversity & Outreach</h3>
 
 #### Committee Aims
 * Promote respectful inclusion, diversity, and outreach in ManyBabies projects.
@@ -62,11 +66,11 @@ Email project chairs (see below) or the [MB Executive Director](mailto:contact@m
 > list to come!
 
 ***
-### Ethics
+<h3 id="ethics">Ethics</h3>
 > Coming soon! [Email us](mailto:contact@manybabies.org) to express interest in joining.
 
 ***
-### Statistics, Analysis, & Code Review
+<h3 id="stats">Statistics, Analysis, & Code Review</h3>
 > Coming soon! [Email us](mailto:contact@manybabies.org) to express interest in joining.
 
 
