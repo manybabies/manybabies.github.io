@@ -18,7 +18,7 @@ title: Committees
 Anyone! We especially encourage Early Career Researchers (including students) and researchers from outside of US/Canada/Western Europe to get involved.
 
 #### How to join?
-Email project chairs (see below) or the [MB Executive Director](mailto:contact@manybabies.org) to learn more and get involved. 
+Email committee chairs (see below) or the [MB Executive Director](mailto:contact@manybabies.org) to learn more and get involved. 
 <br>
 
 ***
