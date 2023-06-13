@@ -3,16 +3,19 @@ layout: page
 title: Committees
 ---
 
-## ManyBabies Committees
+
+
+**ManyBabies Committees** are working groups dedicated to brainstorming and implementing ideas on a specific topic for the benefit of the MB community. Our committees are a great way to contribute to the overarching goals of ManyBabies and network with MB colleagues via a minimal time commitment.
+
 
 #### Who can join? 
 Anyone! We especially encourage students, Early Career Researchers (including students) and researchers from outside of US/Canada/Western Europe to get involved.
 
 #### How to join?
 Email project chairs (see below) or the [MB Executive Director](mailto:contact@manybabies.org) to learn more and get involved. 
+<br>
 
 ***
-
 ## Teaching, Training, & Open Science
 
 #### Committee Aims
@@ -30,15 +33,14 @@ Email project chairs (see below) or the [MB Executive Director](mailto:contact@m
 * A Beginner's Guide to ManyBabies *(in development)*
 
 #### Committee Chairs
-* Nico Alessandroni, *Concordia University, Canada* [email](mailto:nicolas.alessandroni@concordia.ca)
-* Brianna McMillan, *Smith University, US* [email](mailto:bmcmillan@smith.edu))
+* Nico Alessandroni, *Concordia University, Canada* [[email]](mailto:nicolas.alessandroni@concordia.ca)
+* Brianna McMillan, *Smith University, US* [[email]](mailto:bmcmillan@smith.edu)
 
 #### Committee Members
 > list to come!
 
 
 ***
-
 ## Diversity & Outreach
 
 #### Committee Aims
@@ -53,10 +55,18 @@ Email project chairs (see below) or the [MB Executive Director](mailto:contact@m
 * Global research interest survey/database *(in development)*
 
 #### Committee Chairs
-* Casey Lew-Williams, *Princeton University, US* [email](mailto:caseylw@princeton.edu)
-* Jessica Kosie, *Princeton University, US* [email](mailto:jkosie@princeton.edu))
+* Casey Lew-Williams, *Princeton University, US* [[email]](mailto:caseylw@princeton.edu)
+* Jessica Kosie, *Princeton University, US* [[email]](mailto:jkosie@princeton.edu)
 
 #### Committee Members
 > list to come!
+
+***
+## Ethics
+> Coming soon! [Email us](mailto:contact@manybabies.org) to express interest in joining.
+
+***
+## Statistics, Analysis, & Code Review
+> Coming soon! [Email us](mailto:contact@manybabies.org) to express interest in joining.
 
 
