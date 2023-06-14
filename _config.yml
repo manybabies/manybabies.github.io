@@ -24,6 +24,7 @@ navbar-links:
     - Home: "index"
     - About MB: "about"
     - People: "people"
+    - Committees: "committees"
     - Events: "events"
     - News & Updates: "news"
   Projects: 

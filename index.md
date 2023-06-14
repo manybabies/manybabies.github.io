@@ -9,7 +9,7 @@ cover-img: /assets/img/curiosity-1910023_cut2.jpg
 **ManyBabies (MB)** is a collaborative project for replication and best practices in developmental psychology research. Our goal is to bring researchers together to address difficult outstanding theoretical and methodological questions about the nature of early development and how it is studied. 
 
 * **[About ManyBabies]({{site.baseurl}}/about/)** *(principles, roles & responsibilities, etc.)*
-* **[People]({{site.baseurl}}/people/)** & **<a href="{{site.baseurl}}/dashboard/" target="_blank">Contributor Dashboard</a>**
+* **[People]({{site.baseurl}}/people/)**, **[Committees]({{site.baseurl}}/committees/)**, & **<a href="{{site.baseurl}}/dashboard/" target="_blank">Contributor Dashboard</a>**
 * **[Resources]({{site.baseurl}}/resources/)** *(calendar, publications, data validator, OSF, github, etc.)*
 * **[Events]({{site.baseurl}}/events/)** *(workshops, webinars, etc.)*
 * **[News and Updates]({{site.baseurl}}/news/)** *(newletters, publication news, etc.)*
