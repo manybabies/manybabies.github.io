@@ -5,7 +5,7 @@ title: Committees
 
 
 
-**ManyBabies Committees** are working groups dedicated to brainstorming and implementing ideas on a specific topic for the benefit of the MB community. Our committees are a great way to contribute to the overarching goals of ManyBabies and network with MB colleagues via a minimal time commitment.
+**ManyBabies Committees** are working groups dedicated to developing and implementing actionable plans for fostering growth in our community. Our committees are a great way to contribute to the overarching goals of ManyBabies and network with MB colleagues via a minimal time commitment.
 
 * <a href="#ttos"><b>Teaching, Training, & Open Science Committee</b></a>
 * <a href="#divout"><b>Diversity & Outreach Committee</b></a>
@@ -40,7 +40,7 @@ Email committee chairs (see below) or the [MB Executive Director](mailto:contact
 
 #### Committee Chairs
 * Nico Alessandroni, *Concordia University, Canada* [[email]](mailto:nicolas.alessandroni@concordia.ca)
-* Brianna McMillan, *Smith University, US* [[email]](mailto:bmcmillan@smith.edu)
+* Brianna McMillan, *Smith College, US* [[email]](mailto:bmcmillan@smith.edu)
 
 #### Committee Members
 > list to come!
