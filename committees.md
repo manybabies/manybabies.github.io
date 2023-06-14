@@ -5,7 +5,7 @@ title: Committees
 
 
 
-**ManyBabies Committees** are working groups dedicated to brainstorming and implementing ideas on a specific topic for the benefit of the MB community. Our committees are a great way to contribute to the overarching goals of ManyBabies and network with MB colleagues via a minimal time commitment.
+**ManyBabies Committees** are working groups dedicated to developing and implementing actionable plans for fostering growth in our community. Our committees are a great way to contribute to the overarching goals of ManyBabies and network with MB colleagues via a minimal time commitment.
 
 * <a href="#ttos"><b>Teaching, Training, & Open Science Committee</b></a>
 * <a href="#divout"><b>Diversity & Outreach Committee</b></a>
@@ -33,14 +33,14 @@ Email committee chairs (see below) or the [MB Executive Director](mailto:contact
 * Attend monthly Zoom meeting to discuss committee goals and develop materials
 * Contribute to committee objectives either synchronously or asynchronously (~1-2 hours/month)
 
-#### Committee Projects
+#### Example Committee Projects
 * ["What is ManyBabies" intro video](https://www.youtube.com/watch?v=EnI5sIZiwJE)
 * [ManyBabies Workshop Series](https://www.youtube.com/playlist?list=PLynqjZusW6nv30QKSo-I4CrI7Xsm2ph1D)
 * A Beginner's Guide to ManyBabies *(in development)*
 
 #### Committee Chairs
 * Nico Alessandroni, *Concordia University, Canada* [[email]](mailto:nicolas.alessandroni@concordia.ca)
-* Brianna McMillan, *Smith University, US* [[email]](mailto:bmcmillan@smith.edu)
+* Brianna McMillan, *Smith College, US* [[email]](mailto:bmcmillan@smith.edu)
 
 #### Committee Members
 > list to come!
@@ -56,7 +56,7 @@ Email committee chairs (see below) or the [MB Executive Director](mailto:contact
 * Attend monthly Zoom meeting to discuss committee goals and develop materials
 * Contribute to committee objectives either synchronously or asynchronously (~1-2 hours/month)
 
-#### Committee Projects
+#### Example Committee Projects
 * Guidelines for inclusive virtual meetings *(in development)*
 * Global research interest survey/database *(in development)*
 
