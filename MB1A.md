@@ -5,12 +5,13 @@ subtitle: Infant-Directed Speech Preference in African Infants
 cover-img: /assets/img/MB1_logo.png
 ---
 
+
+<div class="flourish-embed" data-src="visualisation/2488103" style="float: right;" data-url="https://flo.uri.sh/visualisation/2488103/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
 ## Project Overview
 
 * *Status: **Collecting data***
 * *<a href="https://osf.io/fqp4b" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at* **Developmental Science**
-
-<div class="flourish-embed" data-src="visualisation/2488103" style="float: right;" data-url="https://flo.uri.sh/visualisation/2488103/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 Infants show a preference for infant-directed speech (IDS) over adult-directed speech (ADS). This preference has been linked to infants’ language processing and word learning in experimental settings, and also correlates with later language outcomes. Recently, the cross-cultural consistency of infants’ IDS preference was confirmed by one of our other ManyBabies projects (ManyBabies1). However, data from this study were primarily from North American and European countries. ManyBabies1-Africa addresses this issue via a large-scale, multisite study of African infants of ages 3-15 months. We investigate whether this understudied population shows a preference for IDS over ADS, and if so, whether the magnitude of their preference differs from estimates from other populations. The project is currently in progress. Please contact the leaders for more information.
 
