@@ -34,15 +34,13 @@ Infants show a preference for infant-directed speech (IDS) over adult-directed s
 ### Links  
 * **Materials, Protocols, and Documentation**: [MB1A-OSF](https://osf.io/jgr79/).  
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies-africa)
-<!--
-* **Data and code**: [MB1B-GitHub](https://github.com/manybabies/mb1b-analysis-public).
-* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1).  
+* **Data and code**: [MB1B-GitHub](https://github.com/manybabies/mb1b-analysis-public)
+* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1)
 * **Slack**: [MB workspace](https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ) (*join the #mb1africa-general channel*)
--->
 
 ***
 ### Contributors
-* For a detailed index of collaborators (+ institutions, countries, studies), see the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
+* For a detailed index of collaborators (+ institutions, countries, studies), see the [**MB** Contributor Dashboard]({{site.baseurl}}/dashboard/).
 
 > We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
 
