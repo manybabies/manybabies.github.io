@@ -20,8 +20,8 @@ If you are interested in helping to translate or adpate template forms for your 
 
 ***
 ### Project Leads
-* [Mihaela Barokova](https://barokova.com/about/), *New Bulgarian University, Bulgaria* [[email]](mailto:mihaela.barokova@gmail.com)
 * [Leher Singh](https://fass.nus.edu.sg/psy/people/singh-leher/), *National University of Singapore, Singapore & National Science Foundation, USA* [[email]](mailto:leher.singh.nus@gmail.com)
+* [Mihaela Barokova](https://barokova.com/about/), *New Bulgarian University, Bulgaria* [[email]](mailto:mihaela.barokova@gmail.com)
 
 
 ***

@@ -18,7 +18,7 @@ In this ongoing project we investigate a fundamental aspect of human nature: eva
 
 ***
 ### Project Leads
-* [Kelsey Lucca](https://isearch.asu.edu/profile/3521043), *Arizona State University, USA* [[email]](mailto:kelsey.lucca@asu.edu)
+* [Kelsey Lucca](https://isearch.asu.edu/profile/3521043), *Arizona State University, US* [[email]](mailto:kelsey.lucca@asu.edu)
 * [Francis Yuen](https://cic.psych.ubc.ca/), *University of British Columbia, Canada* [[email]](mailto:francis.yuen@psych.ubc.ca)
 * [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/), *University of British Columbia, Canada* [[email]](mailto:kiley.hamlin@psych.ubc.ca)
 

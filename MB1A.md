@@ -20,7 +20,7 @@ Infants show a preference for infant-directed speech (IDS) over adult-directed s
 * [Alex Carstensen](http://abcarstensen.com), *University of California, San Diego, US* [[email]](mailto:abc@ucsd.edu)
 * [George Kachergis](http://www.kachergis.com), *Stanford University, US* [[email]](mailto:kachergis@stanford.edu)
 * [Angeline Tsui](https://angelinetsui.github.io/), *Stanford University, US* [[email]](mailto:angelinetsui@gmail.com)
-* [Casey Lew-Williams](https://psych.princeton.edu/person/casey-lew-williams), *Princeton University, USA* [[email]](mailto:caseylw@princeton.edu)
+* [Casey Lew-Williams](https://psych.princeton.edu/person/casey-lew-williams), *Princeton University, US* [[email]](mailto:caseylw@princeton.edu)
 * [Michael Frank]( https://web.stanford.edu/~mcfrank/), *Stanford University, US* [[email]](mailto:mcfrank@stanford.edu)
 
 
