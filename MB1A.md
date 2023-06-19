@@ -31,7 +31,7 @@ Infants show a preference for infant-directed speech (IDS) over adult-directed s
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies-africa)
 * **Data and code**: [MB1B-GitHub](https://github.com/manybabies/mb1b-analysis-public)
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1)
-* **Slack**: [MB workspace](https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ) (*join the #mb1africa-general channel*)
+* **Slack**: [MB workspace](https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ) (*join the **#mb1africa-general** channel*)
 
 ***
 ### Contributors
