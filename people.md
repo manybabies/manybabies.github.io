@@ -70,7 +70,7 @@ cover-img: /assets/img/MB_map.png
         <img src="/assets/img/ChristinaBergmann.png" alt="Christina Bergmann" width="100" height="100">
       </div>
       <div class="col-sm-9">
-        <h4><a href="https://www.mpi.nl/people/bergmann-christina">Christina Bergmann</a> <a href="mailto:chbergma@uni-osnabrueck.de">[email]</a> [2016 - ]</h4>
+        <h4><a href="https://www.mpi.nl/people/bergmann-christina">Christina Bergmann</a> [2016 - ] <a href="mailto:chbergma@uni-osnabrueck.de">[email]</a></h4>
         <i>University of Applied Sciences (Osnabrück, Germany) & Max Planck Institute for Psycholinguistics (Nijmegen, Netherlands)</i> 
       </div>
     </div>
@@ -82,7 +82,7 @@ cover-img: /assets/img/MB_map.png
         <img src="/assets/img/KristaByersHeinlein.png" alt="Krista Byers-Heinlein" width="100" height="100">
       </div>
       <div class="col-sm-9">
-        <h4><a href="">Krista Byers-Heinlein</a> <a href="mailto:k.byers@concordia.ca">[email]</a> [2016 - ]</h4>
+        <h4><a href="">Krista Byers-Heinlein</a> [2016 - ] <a href="mailto:k.byers@concordia.ca">[email]</a></h4>
         <i>Concordia University (Montréal, Canada)</i> 
       </div>
     </div>
@@ -94,7 +94,7 @@ cover-img: /assets/img/MB_map.png
         <img src="/assets/img/MichaelFrank.png" alt="Michael Frank" width="100" height="100">
       </div>
       <div class="col-sm-9">
-        <h4><a href="https://web.stanford.edu/~mcfrank/">Michael Frank</a> <a href="mailto:mcfrank@stanford.edu">[email]</a> [2016 - ]</h4>
+        <h4><a href="https://web.stanford.edu/~mcfrank/">Michael Frank</a> [2016 - ] <a href="mailto:mcfrank@stanford.edu">[email]</a></h4>
         <i>Stanford University (Stanford, United States)</i> 
       </div>
     </div>
@@ -106,7 +106,7 @@ cover-img: /assets/img/MB_map.png
         <img src="/assets/img/KileyHamlin.png" alt="Kiley Hamlin" width="100" height="100">
       </div>
       <div class="col-sm-9">
-        <h4><a href="https://psych.ubc.ca/profile/kiley-hamlin/">Kiley Hamlin</a> <a href="mailto:kiley.hamlin@psych.ubc.ca">[email]</a> [2016 - ]</h4>
+        <h4><a href="https://psych.ubc.ca/profile/kiley-hamlin/">Kiley Hamlin</a> [2016 - ] <a href="mailto:kiley.hamlin@psych.ubc.ca">[email]</a></h4>
         <i>University of British Columbia (Vancouver, Canada)</i>
       </div>
     </div>
@@ -118,7 +118,7 @@ cover-img: /assets/img/MB_map.png
         <img src="/assets/img/MelissaKlineStruhl.png" alt="Melissa Kline Struhl" width="100" height="100">
       </div>
       <div class="col-sm-9">
-        <h4><a href="http://www.melissaklinestruhl.com">Melissa Kline Struhl</a> <a href="mailto:mekline@mit.edu">[email]</a> [2016 - ]</h4>
+        <h4><a href="http://www.melissaklinestruhl.com">Melissa Kline Struhl</a> [2016 - ] <a href="mailto:mekline@mit.edu">[email]</a></h4>
         <i>Lookit & MIT (Cambridge, United States)</i> 
       </div>
     </div>
@@ -130,7 +130,7 @@ cover-img: /assets/img/MB_map.png
         <img src="/assets/img/EonSukKo.png" alt="EonSukKo" width="100" height="100">
       </div>
       <div class="col-sm-9">
-        <h4><a href="https://sites.google.com/site/eonsuk/">Eon-Suk Ko</a> <a href="mailto:eonsuk@gmail.com">[email]</a> [2022 - ]</h4>
+        <h4><a href="https://sites.google.com/site/eonsuk/">Eon-Suk Ko</a> [2022 - ] <a href="mailto:eonsuk@gmail.com">[email]</a></h4>
         <i>Chosun University (Gwangju, South Korea)</i> 
       </div>
     </div>
@@ -142,7 +142,7 @@ cover-img: /assets/img/MB_map.png
         <img src="/assets/img/CaseyLewWilliams.png" alt="Casey Lew-Williams" width="100" height="100">
       </div>
       <div class="col-sm-9">
-        <h4><a href="https://psych.princeton.edu/person/casey-lew-williams">Casey Lew-Williams</a> <a href="mailto:caseylw@princeton.edu">[email]</a> [2016 - ]</h4>
+        <h4><a href="https://psych.princeton.edu/person/casey-lew-williams">Casey Lew-Williams</a> [2016 - ] <a href="mailto:caseylw@princeton.edu">[email]</a></h4>
         <i>Princeton University (Princeton, United States)</i> 
       </div>
     </div>
@@ -154,7 +154,7 @@ cover-img: /assets/img/MB_map.png
         <img src="/assets/img/BriannaMcMillan.png" alt="Brianna McMillan" width="100" height="100">
       </div>
       <div class="col-sm-9">
-        <h4><a href="https://www.smith.edu/academics/faculty/brianna-mcmillan">Brianna McMillan</a> <a href="mailto:bmcmillan@smith.edu">[email]</a> [2022 - ]</h4>
+        <h4><a href="https://www.smith.edu/academics/faculty/brianna-mcmillan">Brianna McMillan</a> [2022 - ] <a href="mailto:bmcmillan@smith.edu">[email]</a></h4>
         <i>Smith College (Northampton, United States)</i> 
       </div>
     </div>
@@ -166,7 +166,7 @@ cover-img: /assets/img/MB_map.png
         <img src="/assets/img/MelanieSoderstrom.png" alt="Melanie Soderstrom" width="100" height="100">
       </div>
       <div class="col-sm-9">
-        <h4><a href="https://home.cc.umanitoba.ca/~soderstr/">Melanie Soderstrom</a> <a href="mailto:m_soderstrom@umanitoba.ca">[email]</a> [2016 - ]</h4>
+        <h4><a href="https://home.cc.umanitoba.ca/~soderstr/">Melanie Soderstrom</a> [2016 - ] <a href="mailto:m_soderstrom@umanitoba.ca">[email]</a></h4>
         <i>University of Manitoba (Winnipeg, Canada)</i> 
       </div>
     </div>
@@ -182,7 +182,7 @@ cover-img: /assets/img/MB_map.png
   	    <img src="/assets/img/MagdaMatetovici.png" alt="Magda Matetovici" width="100" height="100">
   	  </div>
   	  <div class="col-sm-9">
-  	    <h4><a href="https://babylabamsterdam.nl/en/magda-matetovici/">Magda Matetovici</a> <a href="mailto:magda.matetovici@yahoo.com">[email]</a> [July 2023 - June 2024]</h4>
+  	    <h4><a href="https://babylabamsterdam.nl/en/magda-matetovici/">Magda Matetovici</a> [July 2023 - June 2024] <a href="mailto:magda.matetovici@yahoo.com">[email]</a></h4>
         <i>University of Amsterdam (Amsterdam, Netherlands)</i>  
       </div>
     </div>
@@ -194,7 +194,7 @@ cover-img: /assets/img/MB_map.png
         <img src="/assets/img/QuinnPham.png" alt="Que Anh (Quinn) Pham" width="100" height="100">
   	  </div>
   	  <div class="col-sm-9">
-  	    <h4><a href="http://www.quinnpham.pro/">Que Anh (Quinn) Pham</a> <a href="mailto:QueAnh.Pham001@umb.edu">[email]</a> [July 2023 - June 2024]</h4>
+  	    <h4><a href="http://www.quinnpham.pro/">Que Anh (Quinn) Pham</a> [July 2023 - June 2024] <a href="mailto:QueAnh.Pham001@umb.edu">[email]</a></h4>
         <i>University of Massachusetts, Boston (Boston, United States)</i>
       </div>
     </div>
