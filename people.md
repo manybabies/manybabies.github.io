@@ -182,7 +182,7 @@ cover-img: /assets/img/MB_map.png
   	    <img src="/assets/img/MagdaMatetovici.png" alt="Magda Matetovici" width="100" height="100">
   	  </div>
   	  <div class="col-sm-9">
-  	    <h4>Magda Matetovici <a href="mailto:magda.matetovici@yahoo.com">[email]</a> [July 2023 - June 2024]</h4>
+  	    <h4><a href="https://babylabamsterdam.nl/en/magda-matetovici/">Magda Matetovici</a> <a href="mailto:magda.matetovici@yahoo.com">[email]</a> [July 2023 - June 2024]</h4>
         <i>University of Amsterdam (Amsterdam, Netherlands)</i>  
       </div>
     </div>
@@ -194,7 +194,7 @@ cover-img: /assets/img/MB_map.png
         <img src="/assets/img/QuinnPham.png" alt="Que Anh (Quinn) Pham" width="100" height="100">
   	  </div>
   	  <div class="col-sm-9">
-  	    <h4>Que Anh (Quinn) Pham <a href="mailto:QueAnh.Pham001@umb.edu">[email]</a> [July 2023 - June 2024]</h4>
+  	    <h4><a href="http://www.quinnpham.pro/">Que Anh (Quinn) Pham</a> <a href="mailto:QueAnh.Pham001@umb.edu">[email]</a> [July 2023 - June 2024]</h4>
         <i>University of Massachusetts, Boston (Boston, United States)</i>
       </div>
     </div>
