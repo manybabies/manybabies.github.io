@@ -179,11 +179,11 @@ cover-img: /assets/img/MB_map.png
   <div class="container">
 		<div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-  	    <img src="/assets/img/MaryBethNeff.png" alt="Mary Beth Neff" width="100" height="100">
+  	    <img src="/assets/img/MagdaMatetovici.png" alt="Magda Matetovici" width="100" height="100">
   	  </div>
   	  <div class="col-sm-9">
-  	    <h4>Mary Beth Neff <a href="mailto:marybethneff@gmail.com">[email]</a> [July 2022 - June 2023]</h4>
-        <i>University of Oslo (Oslo, Norway)</i>  
+  	    <h4>Magda Matetovici <a href="mailto:magda.matetovici@yahoo.com">[email]</a> [July 2023 - June 2024]</h4>
+        <i>University of Amsterdam (Amsterdam, Netherlands)</i>  
       </div>
     </div>
     <div class="col-sm-12">
@@ -191,11 +191,11 @@ cover-img: /assets/img/MB_map.png
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <img src="/assets/img/FrancisYuen.png" alt="Francis Yuen" width="100" height="100">
+        <img src="/assets/img/QuinnPham.png" alt="Que Anh (Quinn) Pham" width="100" height="100">
   	  </div>
   	  <div class="col-sm-9">
-  	    <h4>Francis Yuen <a href="mailto:francis.yuen@psych.ubc.ca">[email]</a> [July 2022 - June 2023]</h4>
-        <i>University of British Columbia (Vacouver, Canada)</i>
+  	    <h4>Que Anh (Quinn) Pham <a href="mailto:QueAnh.Pham001@umb.edu">[email]</a> [July 2023 - June 2024]</h4>
+        <i>University of Massachusetts, Boston (Boston, United States)</i>
       </div>
     </div>
   </div>
@@ -204,7 +204,12 @@ cover-img: /assets/img/MB_map.png
 
 ### Alumni
 
-* **Grace Zhou**, *University of Manitoba (Winnipeg, Canada)*, Office Assistant [2021-2023]
+#### Student Advisors
+* **Mary Beth Neff**, *University of Oslo (Oslo, Norway)* [2022-2023]
+* **Francis Yuen**, *University of British Columbia (Vacouver, Canada)* [2022-2023]
+
+#### Office Assistant
+* **Grace Zhou**, *University of Manitoba (Winnipeg, Canada)* [2021-2023]
 
 <br>
 
