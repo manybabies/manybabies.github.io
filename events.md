@@ -4,9 +4,18 @@ title: Events
 ---
 
 ### *Upcoming*
-<br>
-> TBD
 
+## Big Team Science Conference
+#### October 23-25, 2023 
+
+> ManyBabies is a proud co-host of the: 
+
+<div class="container" align="center">
+  <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2023_logo.png" alt="2023 Big Team Science Conference, hosted virtually October 23-25" /></a><br>
+  <a href="https://bigteamscienceconference.github.io"><i>Conference Website</i></a>
+</div>
+
+<br>
 
 ***
 ### *Past*
