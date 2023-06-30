@@ -8,7 +8,7 @@ cover-img: /assets/img/MB6_logo.png
 ## Project Overview
 
 * *Status: **Study design***
-* *Subscribe to the <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies6" target="_blank"><b>MB6 listserv</b></a> to get involved!*
+* *Subscribe to the <a href="https://groups.google.com/a/manybabies.org/g/mb6-list" target="_blank"><b>MB6 listserv</b></a> to get involved!*
 
 
 > Study description to come!
