@@ -208,7 +208,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>Status:</b> <i>Study design</i><br>
         <b>Project Leads:</b> <a href="mailto:s.farwaha@uq.edu.au">Sumeet Farwaha</a>, <a href="mailto:meltzoff@uw.edu">Andrew Meltzoff</a>, <a href="mailto:elizabethannsimpson@gmail.com">Elizabeth Simpson</a>, <a href="mailto:vps@psy.uq.edu.au">Virginia Slaughter</a>, <a href="mailto:m.nielsen@psy.uq.edu.au">Mark Nielsen</a>, <a href="mailto:recheleb@uw.edu">Rechele Brooks</a><br>
         <b>MB6 email:</b> <a href="mailto:mb6@manybabies.org"><i>Contact</i></a><br>
-        <b>MB6 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies6" target="_blank"><i>Subscribe</i></a><br>
+        <b>MB6 listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb6-list" target="_blank"><i>Subscribe</i></a><br>
         <b>MB6 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb6-general</b> channel</i><br>
       </div>
     </div>
