@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ManyBabies
-subtitle: A global consortium of develomental researchers
+subtitle: A global consortium of developmental researchers
 cover-img: /assets/img/curiosity-1910023_cut2.jpg
 ---
 
