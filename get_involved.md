@@ -44,12 +44,13 @@ title: Get Involved!
 * <h4>Fill Out the Sign-Up Form</h4>
   * If you're unsure of how you'd like to contribute, please **fill out our <a href="#signupform">Sign-Up Form</a>** and we'll be in touch with you as soon as possible. 
 * <h4>Propose a Project</h4>
-  * **Do you have an idea for a ManyBabies project?** Let us know! You can email Project Leads (for spin-off projects) or the [Governing Board](mailto:govboard@manybabies.org) (for new projects), or **fill out our <a href="#proposal">Project Proposal Form</a>**.
+  * **Do you have an idea for a ManyBabies project?** Let us know! You can email Project Leads (for spin-off projects) or the [**Governing Board**](mailto:govboard@manybabies.org) (for new projects), or **fill out our <a href="https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit?usp=sharing">Project Proposal Form</a>**.
 
 <br>
 
 ***
 
+<!--
 <h2 id="proposal">New Projects</h2>
 If you are interested in leading a new **ManyBabies** project (either a main project or a spin-off that would involve data collection across multiple labs), please fill out our [**project Proposal Form**](https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit?usp=sharing) and/or contact the [**MB Governing Board**](mailto:govboard@manybabies.org).
 
@@ -57,6 +58,8 @@ If you are interested in leading a new **ManyBabies** project (either a main pro
 
 
 ***
+-->
+
 
 <h2 id="signupform">ManyBabies Sign-Up Form</h2>
 To express interest in contributing to one or more **ManyBabies** project(s), please fill out this form. We'll be in touch as soon as possible with more info. 
