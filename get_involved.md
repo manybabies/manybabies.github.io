@@ -30,9 +30,10 @@ title: Get Involved!
 
 ***
 
-> In addition to collecting data, there are many contribution opportunities (e.g., study design, data analysis, writing) which do not require access to an infant lab. <br>
-<br>
-> **All are welcome!**
+In addition to collecting data, there are many contribution opportunities (e.g., study design, data analysis, writing) which do not require access to an infant lab. <br>
+
+**All are welcome!**
+
 
 ### Ways to get involved: 
 * <h4>Subscribe to Listservs</h4>
