@@ -50,6 +50,7 @@ title: Get Involved!
 
 ***
 
+<!--
 <h2 id="proposal">New Projects</h2>
 If you are interested in leading a new **ManyBabies** project (either a main project or a spin-off that would involve data collection across multiple labs), please fill out our [**project Proposal Form**](https://docs.google.com/document/d/1kbnK2us2Svfcf7X4TAI5YUw3_duUNAQoYINTuuWr1Jw/edit?usp=sharing) and/or contact the [**MB Governing Board**](mailto:govboard@manybabies.org).
 
@@ -57,6 +58,8 @@ If you are interested in leading a new **ManyBabies** project (either a main pro
 
 
 ***
+-->
+
 
 <h2 id="signupform">ManyBabies Sign-Up Form</h2>
 To express interest in contributing to one or more **ManyBabies** project(s), please fill out this form. We'll be in touch as soon as possible with more info. 
