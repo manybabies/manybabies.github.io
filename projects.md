@@ -129,7 +129,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>Status:</b> <i>Stage 1 'In Principle Acceptance'; Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:i.visser@uva.nl">Ingmar Visser</a>, <a href="mailto:a.geambasu@hum.leidenuniv.nl">Andreea Geambasu</a>, 
           <a href="mailto:c.c.levelt@hum.leidenuniv.nl">Claartje Levelt</a>, <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
-        <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3" target="_blank"><i>Subscribe</i></a><br>
+        <b>MB3 listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb3-list" target="_blank"><i>Subscribe</i></a><br>
         <b>MB3 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb3-general</b> channel</i><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB3L/">MB3L: Longitudinal Follow-up</a></b><br>
