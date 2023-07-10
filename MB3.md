@@ -27,7 +27,7 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 * **Materials, Protocols, and Documentation**: [MB3-OSF](https://osf.io/kqu9v/)
 * **Lab Manual**: [link](https://docs.google.com/document/d/1b-ZaJpbVzvN_fUApXlZkZiT9jxGUYRhHbAC1qOucufo/edit?usp=sharing)
 * **Data and code**: [MB3-GitHub](https://github.com/manybabies/mb3-rules)
-* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies3)
+* **Listserv**: [subscribe here](https://groups.google.com/a/manybabies.org/g/mb3-list) (click on “for access, try joining the group”)
 * **Slack**: [MB workspace](https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ) (*join the #mb3-general channel*)
 
 
