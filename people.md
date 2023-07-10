@@ -206,7 +206,7 @@ cover-img: /assets/img/MB_map.png
 
 #### Student Advisors
 * **Mary Beth Neff**, *University of Oslo (Oslo, Norway)* [2022-2023]
-* **Francis Yuen**, *University of British Columbia (Vacouver, Canada)* [2022-2023]
+* **Francis Yuen**, *University of British Columbia (Vancouver, Canada)* [2022-2023]
 
 #### Office Assistant
 * **Grace Zhou**, *University of Manitoba (Winnipeg, Canada)* [2021-2023]
