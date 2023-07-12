@@ -3,10 +3,10 @@ layout: page
 title: Events
 ---
 
-### *Upcoming*
+> *Upcoming*
 
-## Big Team Science Conference
 #### October 23-25, 2023 
+### Big Team Science Conference
 
 > ManyBabies is a proud co-host of the: 
 
@@ -18,11 +18,12 @@ title: Events
 <br>
 
 ***
-### *Past*
+> *Past*
 
-## Open data for developmental science
-### Christina Bergmann, *Osnabrück University of Applied Sciences & Max Planck Institute for Psycholinguistics*
 #### May 11, 2023 8:30-10:00am CEST (Berlin, Germany; UTC +2) on Zoom
+### Open data for developmental science
+#### Christina Bergmann, *Osnabrück University of Applied Sciences & Max Planck Institute for Psycholinguistics*
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4nKEnukx7YY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -33,9 +34,9 @@ Open data is one of the key mandates in calls for increased transparency, with b
 
 
 ***
-## Creating reproducible research reports Using RMarkdown
-### Michael Frank, *Stanford University*
 #### March 21, 2023 9:00-10:30 PDT (San Francisco, USA; UTC -7) on Zoom
+### Creating reproducible research reports Using RMarkdown
+#### Michael Frank, *Stanford University*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h1BYMDvGUng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -45,8 +46,9 @@ In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) l
 
 
 ***
-## Big Team Science Conference
 #### October 27-28, 2022 
+### Big Team Science Conference
+
 
 > ManyBabies is a proud co-host of the: 
 
@@ -55,7 +57,7 @@ In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) l
   <a href="https://bigteamscienceconference.github.io"><i>Conference Website</i></a>
 </div>
 
-<h3><a href="https://www.youtube.com/playlist?list=PLynqjZusW6nt9D3wQkyavZmMWl2ZgjszV" target="_blank">VIEW MB TALK RECORDINGS</a></h3>
+<h4><a href="https://www.youtube.com/playlist?list=PLynqjZusW6nt9D3wQkyavZmMWl2ZgjszV" target="_blank">VIEW MB TALK RECORDINGS</a></h4>
 
 
 ***
@@ -63,9 +65,9 @@ In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) l
   <img border="0" src="https://www.cos.io/hs-fs/hubfs/badges_stacked.original.png?width=834&name=badges_stacked.original.png" width="150" height="120">
 </div>
 
-## ManyBabies: An Introduction to Open Science
-### Nicolás Alessandroni & Krista Byers-Heinlein, *Concordia University*
 #### October 20, 2022 11:00-12:30 EDT (Montréal, Canada) on Zoom
+### ManyBabies: An Introduction to Open Science
+#### Nicolás Alessandroni & Krista Byers-Heinlein, *Concordia University*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bUQjJSLLL-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
@@ -75,10 +77,10 @@ In this workshop, Nicolás and Krista introduce the open science perspective for
 
 
 ***
-## Big Team Science for Studying Small People
-### Cognitive Development Society 2022 Pre-Conference 
 #### April 21, 2022 in Madison, Wisconsin, United States
+### Big Team Science for Studying Small People
+#### Cognitive Development Society 2022 Pre-Conference 
 
-### [VIEW THE WEBINAR RECORDINGS](https://www.youtube.com/playlist?list=PLynqjZusW6ntWv0zw3LF5CGVA0UWfM4QN)
+#### [VIEW THE WEBINAR RECORDINGS](https://www.youtube.com/playlist?list=PLynqjZusW6ntWv0zw3LF5CGVA0UWfM4QN)
 
-### [More info]({{site.baseurl}}/2022-04-21-CDSpreconference/)
+#### [More info]({{site.baseurl}}/2022-04-21-CDSpreconference/)
