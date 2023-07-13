@@ -262,7 +262,7 @@ img {
   min-width: 100%;
   {% else %}
   min-width: 0;
-  width: 200%;
+  width: 200px;
   word-break: break-word;
   {% endif %}
 }
@@ -280,7 +280,7 @@ img {
 
 @media (min-width: 1200px) {
   .navbar-custom .nav-item.dropdown .dropdown-menu {
-    text-align: left;
+    text-align: right;
   }
 
   .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
