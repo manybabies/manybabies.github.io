@@ -262,7 +262,7 @@ img {
   min-width: 100%;
   {% else %}
   min-width: 0;
-  width: 200px;
+  width: 150px;
   word-break: break-word;
   {% endif %}
 }
