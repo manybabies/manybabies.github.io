@@ -267,6 +267,14 @@ img {
   {% endif %}
 }
 
+.dropdown-menu {
+  display: flex;
+}
+
+.dropdown-menu > li {
+  flex: 1;
+}
+
 .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
   padding: 0.625rem;
   background-color: {{ site.navbar-col | default: "#EAEAEA" }};
