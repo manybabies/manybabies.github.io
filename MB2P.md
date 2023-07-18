@@ -51,7 +51,7 @@ The main dependent variable of the [MB2]({{site.baseurl}}/MB2/) study is childre
 
 ***
 ### Links
-* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies2).
+* **Listserv**: [join here](https://groups.google.com/a/manybabies.org/g/mb2p-list)
 * **Materials, Protocols, and Documentation**: [MB2 lab manual](https://docs.google.com/document/d/1xAw_EbmvRl1Rj3iAVASazyb4HPxoECfvKaf_7zfFi0o/edit?usp=sharing)
 
 
