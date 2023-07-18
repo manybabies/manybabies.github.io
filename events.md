@@ -18,11 +18,13 @@ title: Events
 <br>
 
 ***
-#### September 1, 2023 
+#### September 1, 2023 10am-12pm ET (Montreal, Canada; UTC -4) on Zoom
 ### ManyManys 1: Reversal Learning
 
 ![MM1 Webinar flyer](https://manymanys.github.io/assets/img/jul2023_webinar_rl.png)
 #### More information and registration link [here](https://manymanys.github.io/events/)
+
+<br>
 
 
 ***
