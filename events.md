@@ -18,11 +18,12 @@ title: Events
 <br>
 
 ***
-#### September 1, 2023 10am-12pm ET (Montreal, Canada; UTC -4) on Zoom
+#### September 1, 2023 - 10am-12pm ET (Montréal, Canada; UTC -4) on Zoom
 ### ManyManys 1: Reversal Learning
+#### More information and registration link [on the ManyManys site](https://manymanys.github.io/events/)
 
 ![MM1 Webinar flyer](https://manymanys.github.io/assets/img/jul2023_webinar_rl.png)
-#### More information and registration link [on the ManyManys site](https://manymanys.github.io/events/)
+
 
 <br>
 
@@ -30,7 +31,7 @@ title: Events
 ***
 > *Past*
 
-#### May 11, 2023 8:30-10:00am CEST (Berlin, Germany; UTC +2) on Zoom
+#### May 11, 2023 - 8:30-10:00am CEST (Berlin, Germany; UTC +2) on Zoom
 ### Open data for developmental science
 #### Christina Bergmann, *Osnabrück University of Applied Sciences & Max Planck Institute for Psycholinguistics*
 
@@ -44,7 +45,7 @@ Open data is one of the key mandates in calls for increased transparency, with b
 
 
 ***
-#### March 21, 2023 9:00-10:30 PDT (San Francisco, USA; UTC -7) on Zoom
+#### March 21, 2023 - 9:00-10:30 PDT (San Francisco, USA; UTC -7) on Zoom
 ### Creating reproducible research reports Using RMarkdown
 #### Michael Frank, *Stanford University*
 
@@ -75,7 +76,7 @@ In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) l
   <img border="0" src="https://www.cos.io/hs-fs/hubfs/badges_stacked.original.png?width=834&name=badges_stacked.original.png" width="150" height="120">
 </div>
 
-#### October 20, 2022 11:00-12:30 EDT (Montréal, Canada) on Zoom
+#### October 20, 2022 - 11:00-12:30 EDT (Montréal, Canada) on Zoom
 ### ManyBabies: An Introduction to Open Science
 #### Nicolás Alessandroni & Krista Byers-Heinlein, *Concordia University*
 
