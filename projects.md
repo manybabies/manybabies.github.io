@@ -116,6 +116,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB2P/">MB2P: Pupil Dilation to Measure Violation-of-Expectation</a></b><br>
         <b>Status:</b> <i>Preparing analysis pipeline; collecting data</i><br>
         <b>Project Lead:</b> <a href="mailto:robert.hepach@psy.ox.ac.uk">Robert Hepach</a><br>
+        <b>MB2P listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb2p-list" target="_blank"><i>Subscribe</i></a><br>
       </div>
     </div>
     <hr>
@@ -141,7 +142,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB3T/">MB3T: Test-Retest Follow-up</a></b><br>
         <b>Status:</b> <i>Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:anna.exner@posteo.de">Anna Exner</a>, <a href="mailto:i.visser@uva.nl">Ingmar Visser</a><br>
-        <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3" target="_blank"><i>Subscribe</i></a><br>
+        <b>MB3T listserv:</b> <a href="https://groups.google.com/g/mb3t" target="_blank"><i>Subscribe</i></a><br>
       </div>
     </div>
     <hr>
