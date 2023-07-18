@@ -114,7 +114,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>MB2 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb2-general</b> channel</i><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB2P/">MB2P: Pupil Dilation to Measure Violation-of-Expectation</a></b><br>
-        <b>Status:</b> <i>Preparing analysis pipeline; collecting data</i><br>
+        <b>Status:</b> <i>Preparing analysis pipeline; Collecting data</i><br>
         <b>Project Lead:</b> <a href="mailto:robert.hepach@psy.ox.ac.uk">Robert Hepach</a><br>
         <b>MB2P listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb2p-list" target="_blank"><i>Subscribe</i></a><br>
         <b>MB2P Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb2p-pupillometry</b> channel</i><br>
