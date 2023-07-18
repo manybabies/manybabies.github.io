@@ -22,7 +22,7 @@ title: Events
 ### ManyManys 1: Reversal Learning
 
 ![MM1 Webinar flyer](https://manymanys.github.io/assets/img/jul2023_webinar_rl.png)
-#### More information and registration link [here](https://manymanys.github.io/events/)
+#### More information and registration link [on the ManyManys site](https://manymanys.github.io/events/)
 
 <br>
 
