@@ -151,3 +151,22 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
     </div>
   </div>
 </section>
+
+### Affiliated Network
+
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <br>
+        <a href="{{site.baseurl}}/manymanys/"><img src="/assets/img/manymanys_logo.png" alt="ManyManys logo" width="100" height="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="{{site.baseurl}}/manymanys/">ManyManys</a></h4>
+        <i>A large-scale collaboration on comparative cognition and behavior across animal taxa</i><br>
+        <b>Project:</b> <a href="https://manymanys.github.io/MM1/" target="_blank">MM1: Reversal Learning</a>
+      </div>
+    </div>
+  </div>
+</section>
+
