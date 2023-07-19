@@ -151,6 +151,7 @@ The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site
     </div>
   </div>
 </section>
+<br>
 
 ### Affiliated Network
 
