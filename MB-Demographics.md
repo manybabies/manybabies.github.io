@@ -17,7 +17,7 @@ To-do:
 
 In this project we are creating unified demographic forms for ManyBabies projects, with instructions for how to customize it to particular countries and what fields are required or recommended to have. These forms would be thoughtful about how to ask questions about variables like prematurity, and would provide guidance about how to tailor questions about race/ethnicity or SES for labs in different countries (e.g., by relying on census categories).
 
-If you are interested in helping to translate or adpate template forms for your context, please let us know. <!--<img style="float: right;" src="/assets/img/baby-623417_1920_500px.jpg">-->
+If you are interested in helping to translate or adpate template forms for your context, please let us know. 
 
 
 ***
