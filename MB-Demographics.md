@@ -11,7 +11,7 @@ To-do:
 
 ## Project Overview
 
-* <i>Status: **The <a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">manuscript</a> has been accepted for publication in</i> Developmental Psychology!**
+* <i>Status: <b>The <a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">manuscript</a> has been accepted for publication in</i> Developmental Psychology!</b>
 * *We are continuing to work on translating/adapting template forms (contact Project Leads for more information or to help!)*
 * *Please [contact us](contact@manybabies.org) if you are interested in adapting the questionnaire for use in your own projects*
 
