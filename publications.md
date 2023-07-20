@@ -39,7 +39,7 @@ title: Publications & Manuscripts
     <div class="row">
       <div class="col-sm-1" align=center>
         <br>
-        <a href="{{site.baseurl}}/MB-demographics/"><img src="/assets/img/MBDemo_logo.png" alt="ManyBabies Demographics logo"></a>
+        <a href="{{site.baseurl}}/MB-Demographics/"><img src="/assets/img/MBDemo_logo.png" alt="ManyBabies Demographics logo"></a>
       </div>
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Singh, L.</i>, Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., Reinelt, T., Schuwerk, T., Soderstrom, M., Tsui, A. S. M., & Frank, M. C. (2023, July 20). 
@@ -47,7 +47,7 @@ title: Publications & Manuscripts
         Accepted, <i>Developmental Psychology</i>.
         PsyArXiv. 
         <a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">doi:10.31234/osf.io/agt3d</a> 
-        <a href="{{site.baseurl}}/MB-demographics/"><b>[MB-Demographics]</b></a></p> 
+        <a href="{{site.baseurl}}/MB-Demographics/"><b>[MB-Demographics]</b></a></p> 
       </div>
     </div>
     <div class="row">
