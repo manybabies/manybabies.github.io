@@ -110,7 +110,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <h4><a href="{{site.baseurl}}/MB2/">MB2: Theory of Mind</a></h4>
         <b>Status:</b> <i>Stage 1 'In Principle Acceptance'; Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:dk@psy.ku.dk">Dora Kampis</a>, <a href="mailto:hrakocz@uni-goettingen.de">Hannes Rakoczy</a>, <a href="mailto:mcfrank@stanford.edu">Michael Frank</a><br>
-        <b>MB2 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies2" target="_blank"><i>Subscribe</i></a><br>
+        <b>MB2 listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb2-list" target="_blank"><i>Subscribe</i></a><br>
         <b>MB2 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb2-general</b> channel</i><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB2P/">MB2P: Pupil Dilation to Measure Violation-of-Expectation</a></b><br>
@@ -138,8 +138,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>Status:</b> <i>Planning</i><br>
         <b>Project Leads:</b> <a href="mailto:anna.exner@posteo.de">Anna Exner</a>, <a href="mailto:roberta.bettoni@unimib.it">Roberta Bettoni</a>, 
           <a href="mailto:i.visser@uva.nl">Ingmar Visser</a><br>
-        <b>MB3 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies3" target="_blank"><i>Subscribe</i></a><br>
-                <hr>
+        <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB3T/">MB3T: Test-Retest Follow-up</a></b><br>
         <b>Status:</b> <i>Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:anna.exner@posteo.de">Anna Exner</a>, <a href="mailto:i.visser@uva.nl">Ingmar Visser</a><br>
@@ -170,18 +169,18 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <h4><a href="{{site.baseurl}}/MB4/">MB4: Social Evaluation</a></h4>
         <b>Project Status:</b> <i>Stage 1 'In Principle Acceptance'; Collecting data</i><br> 
         <b>Project Leads:</b> <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a>, <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>, <a href="mailto:kiley.hamlin@psych.ubc.ca">Kiley Hamlin</a><br>
-        <b>MB4 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4" target="_blank"><i>Subscribe</i></a><br>
+        <b>MB4 listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb4-list" target="_blank"><i>Subscribe</i></a><br>
         <b>MB4 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb4-general</b> channel</i><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB4E/">MB4E: Emotional Responses</a></b><br>
         <b>Status:</b> <i>Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>, <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a><br>
-        <b>MB4 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4" target="_blank"><i>Subscribe</i></a><br>
+        <b>MB4 listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb4-list" target="_blank"><i>Subscribe</i></a><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB4I/">MB4I: Individual Differences</a></b><br>
         <b>Status:</b> <i>Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:yiyi_wang@pku.edu.cn">YiYi Wang</a>, <a href="mailto:hilal@unak.is">Hilal Şen</a>, <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a><br>
-        <b>MB4 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies4" target="_blank"><i>Subscribe</i></a><br>
+        <b>MB4 listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb4-list" target="_blank"><i>Subscribe</i></a><br>
       </div>
     </div>
     <hr>
