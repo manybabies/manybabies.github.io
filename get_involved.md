@@ -36,7 +36,7 @@ In addition to collecting data, there are many contribution opportunities (e.g.,
 
 ### Ways to get involved: 
 * <h4>Subscribe to Listservs</h4>
-  * Most of our communications are done via email. <b>Subscribe to our general MB listserv and/or project-specific listservs</b> to receive announcements and updates. <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSewvzsv3YAwPKCAJmut_X6eVlu7P7TxbGe6vAWwG0CInI4YqA/viewform?embedded=true" width="640" height="640" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  * Most of our communications are done via email. <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSewvzsv3YAwPKCAJmut_X6eVlu7P7TxbGe6vAWwG0CInI4YqA/viewform?usp=sf_link" target="_blank">Subscribe to our general MB listserv and/or project-specific listservs</a></b> to receive announcements and updates.
 * <h4>Email Project Leads</h4>
   * If you know which project you are interested in joining, you can **email one or more of the Project Leads directly** to ask how to get involved. Contact info for all Project Leads is available [**here**]({{site.baseurl}}/projects/).
 * <h4>Come to Drop-In Hours</h4>
