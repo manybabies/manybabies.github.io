@@ -88,6 +88,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1N/">MB1N: Native Languages Follow-up</a></b><br>
         <b>Status:</b> <i>Collecting data</i><br> 
         <b>Project Leads:</b> <a href="mailto:natalia.kartushina@psykologi.uio.no">Natalia Kartushina</a>, <a href="mailto:virginie.durier@univ-rennes1.fr">Virginie Durier</a><br>
+        <b>MB1N listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb1n-list" target="_blank"><i>Subscribe</i></a><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1T/">MB1T: Test-Retest Follow-up</a></b><br>
         <b>Status:</b> <i>Manuscript submitted</i><br> 

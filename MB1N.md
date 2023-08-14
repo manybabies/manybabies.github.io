@@ -28,9 +28,7 @@ All infants from MB1, regardless of their linguistic background, heard stimuli r
 ***
 ### Links
 * **Materials, Protocols, and Documentation**: [MB1N-OSF](https://osf.io/9j87t/).
-* **Data and code**: To be released.
-* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1).
-* **News**: [MB1N-news]({{site.baseurl}}/tags/#MB1N).
+* **Listserv**: [join here](https://groups.google.com/a/manybabies.org/g/mb1n-list).
 
 
 ***
