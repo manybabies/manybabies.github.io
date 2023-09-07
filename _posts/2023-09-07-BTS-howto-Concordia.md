@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MB in the News  
-tags: [MB, BTS, publications]
+tags: [MB, BTS, news]
 ---
 
 
