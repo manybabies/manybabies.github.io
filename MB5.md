@@ -19,10 +19,10 @@ Familiarity and novelty effects are the cornerstone of many infant behavioral me
 ***
 ### Leads
 * [Jessica Kosie](https://jkosie.github.io/), *Princeton University, US* [[email]](mailto:jkosie@princeton.edu)
-* [Martin Zettersten](https://mzettersten.github.io/), *Princeton University, US* [[email]](mailto:martincz@princeton.edu)
-* [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), *University of Applied Sciences, Germany & Max Planck Institute for Psycholinguistics, Netherlands)* [[email]](mailto:chbergma@uni-osnabrueck.de)
-* [Dima Amso](https://psychology.columbia.edu/content/dima-amso), *Columbia University, US* [[email]](mailto:da2959@columbia.edu)
-* [Casey Lew-Williams](https://psych.princeton.edu/person/casey-lew-williams), *Princeton University, US* [[email]](mailto:caseylw@princeton.edu)
+* [Martin Zettersten](https://mzettersten.github.io/), *Princeton University, United States* [[email]](mailto:martincz@princeton.edu)
+* [Christina Bergmann](https://scholar.google.com/citations?user=5e9DkjMAAAAJ&hl=en), *University of Applied Sciences, Germany & Max Planck Institute for Psycholinguistics, Netherlands)* [[email]](mailto:chbergma@gmail.com)
+* [Dima Amso](https://psychology.columbia.edu/content/dima-amso), *Columbia University, United States* [[email]](mailto:da2959@columbia.edu)
+* [Casey Lew-Williams](https://psych.princeton.edu/person/casey-lew-williams), *Princeton University, United States* [[email]](mailto:caseylw@princeton.edu)
 
 
 ***
@@ -41,6 +41,6 @@ Familiarity and novelty effects are the cornerstone of many infant behavioral me
 
 
 ### Publications
-*Kosie, J. E.*\*, *Zettersten, M.*\*, Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H. A., Bazhydai, M., Belia, M., Benavides-Varela, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., Dal Ben, R., Dautriche, I., DeBolt, M., Exner, A., Fisher-Thompson, D., Frank, M. C., Gönül, G., Gonzalez-Gomez, N., Grosse Wiesmann, C., Hamlin, J. K., Havron, N., Hochmann, J. R., Hoehl, S., Houston-Price, C., Kachergis, G., Kaldy, Z., Kingo, O. S., Ko, E. S., Kong, S. P., Krøjgaard, P., Liu, S., Lu, H. S., Maganti, M., Mather, E., Mayor, J., McMillan, B. T. M., Molnar, M. T., Moreau, D., Moriguchi, Y., Moulson, M. C., Mueller, J. L., Oakes, L. M., Peperkamp, S., Peykarjou, S., Pires, M. T., Raz, G., Requena, P. E., Rocha-Hidalgo, J., Saffran, J. R., Schaetz, C., Schuwerk, T., Shinskey, J. L., Simpson, E. A., Singh, L., Smolak, E., Soderstrom, M., Sonne, T., Ssemata, A. S., Visser, I., Von Holzen, K., Waxman, S. R., Westermann, G., White, K. S., Woodruff Carr, K. L., Zahner-Ritter, K., Zeidler, H., Zimmer, L., Zupan, Z., Lew-Williams, C. (2023, August 31). **ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time**. <i>(\*co-first authors)</i> PsyArXiv. [doi:10.31234/osf.io/ck3vd](https://doi.org/10.31234/osf.io/ck3vd)
+*Kosie, J. E.*\*, *Zettersten, M.*\*, Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H. A., Bazhydai, M., Belia, M., Benavides-Varela, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., Dal Ben, R., Dautriche, I., DeBolt, M., Exner, A., Fisher-Thompson, D., Frank, M. C., Gönül, G., Gonzalez-Gomez, N., Grosse Wiesmann, C., Hamlin, J. K., Havron, N., Hochmann, J. R., Hoehl, S., Houston-Price, C., Kachergis, G., Kaldy, Z., Kingo, O. S., Ko, E. S., Kong, S. P., Krøjgaard, P., Liu, S., Lu, H. S., Maganti, M., Mather, E., Mayor, J., McMillan, B. T. M., Molnar, M. T., Moreau, D., Moriguchi, Y., Moulson, M. C., Mueller, J. L., Oakes, L. M., Peperkamp, S., Peykarjou, S., Pires, M. T., Raz, G., Requena, P. E., Rocha-Hidalgo, J., Saffran, J. R., Schaetz, C., Schuwerk, T., Shinskey, J. L., Simpson, E. A., Singh, L., Smolak, E., Soderstrom, M., Sonne, T., Ssemata, A. S., Visser, I., Von Holzen, K., Waxman, S. R., Westermann, G., White, K. S., Woodruff Carr, K. L., Zahner-Ritter, K., Zeidler, H., Zimmer, L., Zupan, Z., & Lew-Williams, C. (2023, August 31). **ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time**. <i>(\*co-first authors)</i> PsyArXiv. [doi:10.31234/osf.io/ck3vd](https://doi.org/10.31234/osf.io/ck3vd)
 
 > to cite, use (Kosie & Zettersten et al., under review)

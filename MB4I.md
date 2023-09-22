@@ -21,7 +21,7 @@ The **surveys** include: Parental justice sensitivity survey; Infant Prosocial B
 ### Leads
 * [Yiyi Wang](https://scholar.google.com/citations?user=OIjxPSUAAAAJ&hl=en), *Peking University, China* [[email]](mailto:yiyi_wang@pku.edu.cn)
 * [Hilal Şen](https://www.unak.is/english/moya/ugla/staff/hilal-sen), *University of Akureyri, Iceland & MEF University, Turkey* [[email]](mailto:hilal@unak.is)
-* [Kelsey Lucca](https://isearch.asu.edu/profile/3521043), *Arizona State University, US* [[email]](mailto:kelsey.lucca@asu.edu)
+* [Kelsey Lucca](https://isearch.asu.edu/profile/3521043), *Arizona State University, United States* [[email]](mailto:kelsey.lucca@asu.edu)
 
 
 ***

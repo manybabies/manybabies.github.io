@@ -70,7 +70,7 @@ cover-img: /assets/img/MB_map.png
         <img src="/assets/img/ChristinaBergmann.png" alt="Christina Bergmann" width="100" height="100">
       </div>
       <div class="col-sm-9">
-        <h4><a href="https://www.mpi.nl/people/bergmann-christina">Christina Bergmann</a> [2016 - ] <a href="mailto:chbergma@uni-osnabrueck.de">[email]</a></h4>
+        <h4><a href="https://scholar.google.com/citations?user=5e9DkjMAAAAJ&hl=en">Christina Bergmann</a> [2016 - ] <a href="mailto:chbergma@gmail.com">[email]</a></h4>
         <i>University of Applied Sciences (Osnabrück, Germany) & Max Planck Institute for Psycholinguistics (Nijmegen, Netherlands)</i> 
       </div>
     </div>

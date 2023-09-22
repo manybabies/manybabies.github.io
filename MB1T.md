@@ -18,7 +18,7 @@ In this ongoing project we investigate the test-retest reliability of the prefer
 
 ***
 ### Project Lead
-[Melanie Schreiner](https://www.psych.uni-goettingen.de/en/lang/team/schreiner-melanie)
+[Melanie Schreiner](https://www.psych.uni-goettingen.de/en/lang/team/schreiner-melanie), *University of Göttingen, Germany* [[email]](mailto:melanie.schreiner@psych.uni-goettingen.de)
 
 
 ***

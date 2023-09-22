@@ -22,7 +22,7 @@ In this project we are creating unified demographic forms for ManyBabies project
 
 ***
 ### Project Leads
-* [Leher Singh](https://fass.nus.edu.sg/psy/people/singh-leher/), *National University of Singapore, Singapore & National Science Foundation, USA* [[email]](mailto:leher.singh.nus@gmail.com)
+* [Leher Singh](https://fass.nus.edu.sg/psy/people/singh-leher/), *National University of Singapore, Singapore & National Science Foundation, United States* [[email]](mailto:leher.singh.nus@gmail.com)
 * [Mihaela Barokova](https://barokova.com/about/), *New Bulgarian University, Bulgaria* [[email]](mailto:mihaela.barokova@gmail.com)
 
 
