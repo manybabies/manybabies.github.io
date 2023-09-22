@@ -17,10 +17,10 @@ Meta-analyses are often considered to be the most reliable source of information
 
 
 ### Project Leads
-* [Martin Zettersten](https://mzettersten.github.io/), *Princeton University, United States)* [[email]](mailto:martincz@princeton.edu)
-* [Christopher Cox](https://chriscox.netlify.app/), *Aarhus University, Denmark)* [[email]](mailto:chris.mm.cox@gmail.com)
-* [Christina Bergmann](https://www.mpi.nl/people/bergmann-christina), *University of Applied Sciences, Germany & Max Planck Institute for Psycholinguistics, Netherlands)* [[email]](mailto:chbergma@uni-osnabrueck.de)
-* [Maya Mathur](https://www.mayamathur.com/), *Stanford University, United States)* [[email]](mailto:mmathur@stanford.edu)
+* [Martin Zettersten](https://mzettersten.github.io/), *Princeton University, United States* [[email]](mailto:martincz@princeton.edu)
+* [Christopher Cox](https://chriscox.netlify.app/), *Aarhus University, Denmark* [[email]](mailto:chris.mm.cox@gmail.com)
+* [Christina Bergmann](https://scholar.google.com/citations?user=5e9DkjMAAAAJ&hl=en), *University of Applied Sciences, Germany & Max Planck Institute for Psycholinguistics, Netherlands* [[email]](mailto:chbergma@gmail.com)
+* [Maya Mathur](https://www.mayamathur.com/), *Stanford University, United States* [[email]](mailto:mmathur@stanford.edu)
 
 
 ### Status
@@ -30,14 +30,14 @@ Manuscript submitted
 * **Data**: [MetaLab](http://metalab.stanford.edu/dataset/idspref.html)
 * **Preprint**: [PsyArXiv](https://doi.org/10.31234/osf.io/etqs7)
 
-
+<br>
 
 ***
 ## MB1-Demo: Analysis of supplemental demographic variables
 The ManyBabies 1 project provides an unique opportunity not only to take stock of the field and discover how our methods and approaches differ, but to begin to understand the factors that make these effects so difficult to measure. In this ongoing exploratory project, we plan to analyze additional variables collected alongside the main MB1 project, consisting of a wide range of 'lab factors' that researchers believe may impact either whether a baby fusses out of a study (e.g., Research Assistant having beard), or whether they truly attend to stimuli (and thus produce an expected effect in the study).
 
 ### Project Lead
-[Melissa Kline](https://osf.io/d5mks/), *Massachusettes Institute of Technology, USA* [[email]](mailto:mekline@mit.edu)
+[Melissa Kline](https://osf.io/d5mks/), *Massachusettes Institute of Technology, United States* [[email]](mailto:mekline@mit.edu)
 
 <!--### Status-->
 
