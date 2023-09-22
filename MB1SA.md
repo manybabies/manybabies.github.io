@@ -21,26 +21,13 @@ Meta-analyses are often considered to be the most reliable source of information
 * [Riccardo Fusaroli](https://pure.au.dk/portal/en/persons/riccardo-fusaroli(3f72f2a1-e93a-4689-872c-c11c9703c1cc).html), *Aarhus University, Denmark* [[email]](mailto:fusaroli@cas.au.dk)
 
 ### Status
-Meta-analysis update sourced from [MetaLab](http://metalab.stanford.edu/dataset/idspref.html) and first analyses. If you have (unpublished) data on infant-directed speech preference, please get in touch with [Christina Bergmann](mailto:chbergma@gmail.com).
+Manuscript submitted
 
 ### Links
 * **Data**: [MetaLab](http://metalab.stanford.edu/dataset/idspref.html)
+* **Preprint**: [PsyArXiv](https://doi.org/10.31234/osf.io/etqs7)
 
-<!--
-* **Materials, Protocols, and Documentation**: [MB1B-OSF](https://osf.io/zauhq/).
-* **Data and code**: [MB1B-GitHub](https://github.com/manybabies/mb1b-analysis-public).
-* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1).
--->
 
-### Contributors
-> We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
-
-> Please note that access to infants/infant lab is **NOT** a prerequisite.
-
-<!--
-### Publications
-**News release**: See also the news releases by
--->
 
 ***
 ## Analysis of supplemental demographic variables
@@ -53,11 +40,10 @@ The ManyBabies 1 project provides an unique opportunity not only to take stock o
 
 ### Links
 * **Materials, Protocols, and Documentation**: [OSF](https://osf.io/ryzmb/).
+* **Preregistration**: [OSF](https://osf.io/puxbg/)
 
 ### Contributors
 > We encourage everyone who is interested in the project to contact the Project Lead (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
 
 > Please note that access to infants/infant lab is **NOT** a prerequisite.
 
-### Publications
-Kline, M. (2018, June 8). [The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes](https://osf.io/puxbg/).

@@ -7,7 +7,7 @@ cover-img: /assets/img/MBMW_logo.png
 
 ## Project Overview
 
-* *Status: **<a href="https://psyarxiv.com/7924h/" target="_blank">Manuscript</a> under review***
+* *Status:* **<a href="https://psyarxiv.com/7924h/" target="_blank">Manuscript</a> has been accepted (pending final revisions) at *Infancy*!**
 * *16 participating labs*
 * *125 toddlers tested remotely via webcam*
 
@@ -49,9 +49,6 @@ Therefore, we aim to replicate findings of an in-lab paradigm of the [ManyBabies
 * [Lucie Zimmer](https://www.psy.lmu.de/pbi/personen/wiss_mitarbeiter/lucie_zimmer/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:lucie.zimmer@psy.lmu.de)
 
 
-***
-### Status
-* Manuscript has been submitted
 
 
 ***
