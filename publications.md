@@ -4,7 +4,7 @@ title: Publications & Manuscripts
 ---
 
 > View our [Google Scholar profile](https://scholar.google.com/citations?user=Mo3vRlsAAAAJ&hl=en)<br>
-> Note: italics indicate corresponding author(s), asterisks indicated co-first authors
+> Note: italics indicate corresponding author(s), asterisks indicate co-first authors
 
 ***
 ## Submitted & Under Review
