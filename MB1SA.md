@@ -27,7 +27,8 @@ Meta-analyses are often considered to be the most reliable source of information
 * Manuscript submitted
 
 ### Links
-* **Data**: [MetaLab](http://metalab.stanford.edu/dataset/idspref.html)
+* **Data, Code**: [OSF](https://osf.io/amj7u/)
+* **MetaLab**: [link](http://metalab.stanford.edu/dataset/idspref.html)
 * **Preprint**: [PsyArXiv](https://doi.org/10.31234/osf.io/etqs7)
 
 <br>
