@@ -27,7 +27,7 @@ Familiarity and novelty effects are the cornerstone of many infant behavioral me
 
 ***
 ### Links
-* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies5).
+* **Listserv**: [join here](https://groups.google.com/a/manybabies.org/g/mb5-list).
 * **Slack group**: [join here](https://join.slack.com/t/manybabies5/shared_invite/zt-qml7l90w-drHG7nZBJtXEAtAGAvP8~g)
 
 
