@@ -85,5 +85,5 @@ Sixty-nine labs from 16 countries participated and collected data from 2,329 inf
 
 ***
 ## Secondary Analyses
-* [**Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)
-* [**Analysis of supplemental demographic variables**]({{site.baseurl}}/MB1SA/)
+* [**MB1-Meta: Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)
+* [**MB1-Demo: Analysis of supplemental demographic variables**]({{site.baseurl}}/MB1SA/)

@@ -18,9 +18,10 @@ title: Publications & Manuscripts
       </div>
       <div class="col-sm-11" align="left">
         <p style="padding-left: 25px; text-indent: -25px"><i>Zettersten, M.*</i>, <i>Cox, C. M. M.*</i>, <i>Bergmann, C.*</i>, Tsui, A. S. M., Soderstrom, M., Mayor, J., Lundwall, R. A., Lewis, M., Kosie, J. E., Kartushina, N., Fusaroli, R., Frank, M. C., Byers-Heinlein, K., Black, A. K., Mathur, M. (2023, September 21). 
-        <b>Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis</b>. PsyArXiv. 
+        <b>Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis</b>. <i>(*co-first authors)</i> 
+        PsyArXiv. 
         <a href="https://doi.org/10.31234/osf.io/etqs7" target="_blank">doi:10.31234/osf.io/etqs7</a> 
-        <a href="{{site.baseurl}}/MB1SA/"><b>[MB1SA]</b></a></p>
+        <a href="{{site.baseurl}}/MB1SA/"><b>[MB1-Meta]</b></a></p>
       </div>
     </div>
     <div class="row" align="center">
@@ -30,7 +31,8 @@ title: Publications & Manuscripts
       </div>
       <div class="col-sm-11" align="left">
         <p style="padding-left: 25px; text-indent: -25px"><i>Schreiner, M. S.</i>, Zettersten, M., Bergmann, C., Frank, M. C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, J. K., Kartushina, N., Kellier, D. J., Mani, N., Mayor, J., Saffran, J. R., Shukla, M., Silverstein, P., Soderstrom, M., & Lippold, M. (2023, September 4). 
-        <b>Limited evidence of test-retest reliability in infant-directed speech preference in a large pre-registered infant sample</b>. PsyArXiv. 
+        <b>Limited evidence of test-retest reliability in infant-directed speech preference in a large pre-registered infant sample</b>. 
+        PsyArXiv. 
         <a href="https://doi.org/10.31234/osf.io/uwche" target="_blank">doi:10.31234/osf.io/uwche</a> 
         <a href="{{site.baseurl}}/MB1T/"><b>[MB1T]</b></a></p>
       </div>
