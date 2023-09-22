@@ -31,5 +31,5 @@ subtitle: Spin-offs & Secondary Analyses
 ## Secondary Analyses
 
 ### MB1: Infant-Directed Speech Preference 
-* [**Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)
-* [**Analysis of supplemental demographic variables**]({{site.baseurl}}/MB1SA/)
+* [**MB1-Meta: Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)
+* [**MB1-Demo: Analysis of supplemental demographic variables**]({{site.baseurl}}/MB1SA/)
