@@ -147,9 +147,10 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
 
 ## Funding
 **ManyBabies** gratefully acknowledges funding from:
-* The [***Social Sciences and Humanities Research Council of Canada***](https://www.sshrc-crsh.gc.ca/), through a [**Partnership Development Grant**](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_development_grants-subventions_partenariat_developpement-eng.aspx). You can find our application materials [here](https://osf.io/xavnd/).
-* The [***Association for Psychological Science***](https://www.psychologicalscience.org), through a grant from the [***Laura and John Arnold Foundation***](http://www.laaf.org/ljaf).
-* A grant from the [***Jacobs Foundation***](https://jacobsfoundation.org).
+* [***Social Sciences and Humanities Research Council of Canada***](https://www.sshrc-crsh.gc.ca/), through a [**Partnership Development Grant**](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_development_grants-subventions_partenariat_developpement-eng.aspx) (Application materials available [here](https://osf.io/xavnd/))
+* [***Association for Psychological Science***](https://www.psychologicalscience.org), through a grant from the [***Laura and John Arnold Foundation***](http://www.laaf.org/ljaf) [[MB1]]({{site.baseurl}}/MB1/))
+* [***Jacobs Foundation***](https://jacobsfoundation.org) [[MB1-Africa]]({{site.baseurl}}/MB1A/))
+* [***Kindness.org***](kindness.org) [[MB4I]]({{site.baseurl}}/MB4I/)
 
 <br>
 
