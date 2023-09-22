@@ -195,7 +195,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>Status:</b> <i>Finalizing stimuli; Stage 1 RR manuscript under review</i><br>
         <b>Project Leads:</b> <a href="mailto:jkosie@princeton.edu">Jessica Kosie</a>, <a href="mailto:martincz@princeton.edu">Martin Zettersten</a>, 
           <a href="mailto:chbergma@gmail.com">Christina Bergmann</a>, <a href="mailto:da2959@columbia.edu">Dima Amso</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a><br>
-        <b>MB5 listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies5" target="_blank"><i>Subscribe</i></a><br>
+        <b>MB5 listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blank"><i>Subscribe</i></a><br>
         <b>MB5 Slack:</b> <i><a href="https://join.slack.com/t/manybabies5/shared_invite/zt-1olgszxpd-1FKLTYOY3o~oBjyw2cLR2Q" target="_blank">Join workspace</a></i>
       </div>
     </div>
