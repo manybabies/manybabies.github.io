@@ -14,10 +14,22 @@ title: Publications & Manuscripts
     <div class="row" align="center">
       <div class="col-sm-1" align="center">
         <br>
+        <a href="{{site.baseurl}}/MB1SA/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
+      </div>
+      <div class="col-sm-11" align="left">
+        <p style="padding-left: 25px; text-indent: -25px"><i>Zettersten, M.*</i>, <i>Cox, C. M. M.*</i>, <i>Bergmann, C.*</i>, Tsui, A. S. M., Soderstrom, M., Mayor, J., Lundwall, R. A., Lewis, M., Kosie, J. E., Kartushina, N., Fusaroli, R., Frank, M. C., Byers-Heinlein, K., Black, A. K., Mathur, M. (2023, September 21). 
+        <b>Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis</b>. PsyArXiv. 
+        <a href="https://doi.org/10.31234/osf.io/etqs7" target="_blank">doi:10.31234/osf.io/etqs7</a> 
+        <a href="{{site.baseurl}}/MB1SA/"><b>[MB1SA]</b></a></p>
+      </div>
+    </div>
+    <div class="row" align="center">
+      <div class="col-sm-1" align="center">
+        <br>
         <a href="{{site.baseurl}}/MB1T/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
       </div>
       <div class="col-sm-11" align="left">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Schreiner, M. S.</i>, Zettersten, M., Bergmann, C., Frank, M. C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, J. K., Kartushina, N., Kellier, D. J., Mani, N., Mayor, J., Saffran, J. R., Shukla, M., Silverstein, P., Soderstrom, M., & Lippold, M. (2022, December 22). 
+        <p style="padding-left: 25px; text-indent: -25px"><i>Schreiner, M. S.</i>, Zettersten, M., Bergmann, C., Frank, M. C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, J. K., Kartushina, N., Kellier, D. J., Mani, N., Mayor, J., Saffran, J. R., Shukla, M., Silverstein, P., Soderstrom, M., & Lippold, M. (2023, September 4). 
         <b>Limited evidence of test-retest reliability in infant-directed speech preference in a large pre-registered infant sample</b>. PsyArXiv. 
         <a href="https://doi.org/10.31234/osf.io/uwche" target="_blank">doi:10.31234/osf.io/uwche</a> 
         <a href="{{site.baseurl}}/MB1T/"><b>[MB1T]</b></a></p>
@@ -58,6 +70,7 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Steffan, A.*</i>, <i>Zimmer, L.*</i>, Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmannm C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E. S., Kulke, L., Mayor, J., Meristo, M., Moreau, D., Mun, S., Prein, J. C., Rakoczy, H., Rothmaler, K., Santos Oliveira, D., Simpson, E. A., Smith, E. S., Strid, K., Tebbe, A. L., Thiele, M., Yuen, F., & Schuwerk, T. (2023, January 23). 
         <b>Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood</b>. <i>(*co-first authors)</i> 
+        Accepted, <i>Infancy</i>.
         PsyArXiv. 
         <a href="https://doi.org/10.31234/osf.io/7924h" target="_blank">doi:10.31234/osf.io/7924h</a> 
         <a href="{{site.baseurl}}/MB-ManyWebcams/"><b>[MB-ManyWebcams]</b></a></p> 
