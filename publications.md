@@ -4,7 +4,7 @@ title: Publications & Manuscripts
 ---
 
 > View our [Google Scholar profile](https://scholar.google.com/citations?user=Mo3vRlsAAAAJ&hl=en)<br>
-> Note: italics indicate corresponding author(s), asterisks indicated co-first authors
+> Note: italics indicate corresponding author(s), asterisks indicate co-first authors
 
 ***
 ## Submitted & Under Review
@@ -17,7 +17,7 @@ title: Publications & Manuscripts
         <a href="{{site.baseurl}}/MB1SA/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
       </div>
       <div class="col-sm-11" align="left">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Zettersten, M.*</i>, <i>Cox, C. M. M.*</i>, <i>Bergmann, C.*</i>, Tsui, A. S. M., Soderstrom, M., Mayor, J., Lundwall, R. A., Lewis, M., Kosie, J. E., Kartushina, N., Fusaroli, R., Frank, M. C., Byers-Heinlein, K., Black, A. K., & Mathur, M. (2023, September 21). 
+        <p style="padding-left: 25px; text-indent: -25px"><i>Zettersten, M.*</i>, <i>Cox, C. M. M.*</i>, <i>Bergmann, C.*</i>, Tsui, A. S. M., Soderstrom, M., Mayor, J., Lundwall, R. A., Lewis, M., Kosie, J. E., Kartushina, N., Fusaroli, R., Frank, M. C., Byers-Heinlein, K., Black, A. K., & Mathur, M. B. (2023, September 21). 
         <b>Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis</b>. <i>(*co-first authors)</i> 
         PsyArXiv. 
         <a href="https://doi.org/10.31234/osf.io/etqs7" target="_blank">doi:10.31234/osf.io/etqs7</a> 
