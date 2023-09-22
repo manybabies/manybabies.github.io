@@ -239,7 +239,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB-Demographics/">MB-Demographics: Unified Demographics for MB Projects</a></h4>
-        <b>Status:</b> <i>Manuscript in press at </i>Developmental Psychology<i>; Form repository development</i><br>
+        <b>Status:</b> <i>Manuscript accepted by </i>Developmental Psychology<i>; Form repository development</i><br>
         <b>Project Leads:</b> <a href="mailto:leher.singh.nus@gmail.com">Leher Singh</a>, <a href="mailto:mihaela.barokova@gmail.com">Mihaela Barokova</a><br>
         <b>MB-Demo listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics" target="_blank"><i>Subscribe</i></a>
       </div>
@@ -252,7 +252,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB-ManyWebcams/">MB-ManyWebcams: Web-based Eye Tracking for Infant Studies</a></h4>
-        <b>Status:</b> <i>Manuscript under review</i><br>
+        <b>Status:</b> <i>Manuscript accepted by </i>Infancy<br>
         <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:adrian.steffan@hotmail.de">Adrian Steffan</a>, <a href="mailto:lucie.zimmer@psy.lmu.de">Lucie Zimmer</a><br>
         <b>MB-MW listserv:</b> <a href="https://lists.lrz.de/mailman/listinfo/online_mb2" target="_blank"><i>Subscribe</i></a>
       </div>
