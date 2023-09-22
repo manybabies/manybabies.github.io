@@ -147,9 +147,11 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
 
 ## Funding
 **ManyBabies** gratefully acknowledges funding from:
-* The [***Social Sciences and Humanities Research Council of Canada***](https://www.sshrc-crsh.gc.ca/), through a [**Partnership Development Grant**](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_development_grants-subventions_partenariat_developpement-eng.aspx). You can find our application materials [here](https://osf.io/xavnd/).
-* The [***Association for Psychological Science***](https://www.psychologicalscience.org), through a grant from the [***Laura and John Arnold Foundation***](http://www.laaf.org/ljaf).
-* A grant from the [***Jacobs Foundation***](https://jacobsfoundation.org).
+* [***Social Sciences and Humanities Research Council of Canada***](https://www.sshrc-crsh.gc.ca/), through a [**Partnership Development Grant**](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_development_grants-subventions_partenariat_developpement-eng.aspx) (Application materials available [here](https://osf.io/xavnd/))
+* [***Association for Psychological Science***](https://www.psychologicalscience.org), through a grant from the [***Laura and John Arnold Foundation***](http://www.laaf.org/ljaf) [[MB1]]({{site.baseurl}}/MB1/)
+* [***Jacobs Foundation***](https://jacobsfoundation.org) [[MB1-Africa]]({{site.baseurl}}/MB1A/)
+* [***Kindness.org***](kindness.org) [[MB4I]]({{site.baseurl}}/MB4I/)
+* [***Einstein Foundataion Berlin***](https://www.einsteinfoundation.de/index.php?id=1&L=1) [[MB5]]({{site.baseurl}}/MB5/)
 
 <br>
 
@@ -157,7 +159,7 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
 ## Awards
 
 * The [***Society for the Improvement of Psychological Science (SIPS)***](https://improvingpsych.org) has recognized the contribution of MB1 towards improving research practices and honored the project with a [**Mission Award**](https://improvingpsych.org/mission/awards/) at their 2019 annual conference in Rotterdam, The Netherlands.
-* The [***Einstein Foundatation***](https://www.einsteinfoundation.de/index.php?id=1&L=1) awarded MB5 Project Leads Jessica Kosie and Martin Zettersten with the [**2021 Early Career Award**](https://www.einsteinfoundation.de/en/award/recipients/manybabies5/). 
+* The [***Einstein Foundatation Berlin***](https://www.einsteinfoundation.de/index.php?id=1&L=1) awarded MB5 Project Leads Jessica Kosie and Martin Zettersten with the [**2021 Early Career Award**](https://www.einsteinfoundation.de/en/award/recipients/manybabies5/). 
 
 <br>
 
