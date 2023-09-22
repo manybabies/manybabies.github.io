@@ -20,7 +20,7 @@ Familiarity and novelty effects are the cornerstone of many infant behavioral me
 ### Leads
 * [Jessica Kosie](https://jkosie.github.io/), *Princeton University, US* [[email]](mailto:jkosie@princeton.edu)
 * [Martin Zettersten](https://mzettersten.github.io/), *Princeton University, United States* [[email]](mailto:martincz@princeton.edu)
-* [Christina Bergmann](https://scholar.google.com/citations?user=5e9DkjMAAAAJ&hl=en), *University of Applied Sciences, Germany & Max Planck Institute for Psycholinguistics, Netherlands)* [[email]](mailto:chbergma@gmail.com)
+* [Christina Bergmann](https://scholar.google.com/citations?user=5e9DkjMAAAAJ&hl=en), *University of Applied Sciences, Germany & Max Planck Institute for Psycholinguistics, Netherlands* [[email]](mailto:chbergma@gmail.com)
 * [Dima Amso](https://psychology.columbia.edu/content/dima-amso), *Columbia University, United States* [[email]](mailto:da2959@columbia.edu)
 * [Casey Lew-Williams](https://psych.princeton.edu/person/casey-lew-williams), *Princeton University, United States* [[email]](mailto:caseylw@princeton.edu)
 

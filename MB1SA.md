@@ -24,7 +24,7 @@ Meta-analyses are often considered to be the most reliable source of information
 
 
 ### Status
-Manuscript submitted
+* Manuscript submitted
 
 ### Links
 * **Data**: [MetaLab](http://metalab.stanford.edu/dataset/idspref.html)
