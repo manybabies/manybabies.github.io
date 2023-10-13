@@ -153,7 +153,7 @@ title: Resources
         <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies" target="_blank"><img src="/assets/img/email.png" alt="email icon" width="50"></a> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies" target="_blank"><b>MB listserv</b></a>
+        <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies" target="_blank"><b>MB General Listserv</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="left">
         <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank"><img src="/assets/img/slack.jpeg" alt="Slack logo" width="50"></a> 
