@@ -17,6 +17,7 @@ Each lab that collects data for ManyBabies has a unique **LabID** which is used 
 <h3>ManyBabies LabID List</h3>
 <!-- iframe embed labID public view -->
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrnPNko928LSk7DS?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="650" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<br>
 
 > To create a new LabID, fill out the <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrrS4GAmjHq8iKUm" target="_blank"><b>ManyBabies LabID Creation Form</b></a><br>
 
