@@ -11,7 +11,9 @@ To-do:
 
 ## Project Overview
 
-* *Status: **The <a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">manuscript</a> has been accepted for publication in <u>Developmental Psychology</u>!***
+* *Status: **COMPLETE***
+* *24 authors on* <a href="https://doi.org/10.1037/dev0001623" target="_blank"><b>Developmental Psychology</b> <i>publication</i></a>
+* *Template forms are available on <a href="https://osf.io/nqc92/" target="_blank">OSF</a>*
 * *We are continuing to work on translating/adapting template forms (contact Project Leads for more information or to help!)*
 * *Please [contact us](contact@manybabies.org) if you are interested in adapting the questionnaire for use in your own projects*
 
@@ -28,8 +30,6 @@ In this project we are creating unified demographic forms for ManyBabies project
 
 ***
 ### Links
-<!--* **Materials, Protocols, and Documentation**: [Google Drive](https://drive.google.com/drive/folders/1IW0daOJMG37FdoGkX1l12zhjPYSmPcD5).-->
-<!--* **Data and code**: [MB2-GitHub](https://github.com/manybabies/mb2-analysis)-->
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics)
 * **OSF**: [main project](https://osf.io/tc7hy/), [form repository](https://osf.io/nqc92/)
 
@@ -44,4 +44,4 @@ In this project we are creating unified demographic forms for ManyBabies project
 
 
 ### Publications
-Singh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., Reinelt, T., Schuwerk, T., Soderstrom, M., Tsui, A. S. M., Frank, M. C. (2023, July 20). **A unified approach to demographic data collection for research with young children across diverse cultures**. Accepted, *Developmental Psychology*. [PsyArXiv Preprint](https://doi.org/10.31234/osf.io/agt3d)
+Singh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., Reinelt, T., Schuwerk, T., Soderstrom, M., Tsui, A. S. M., Frank, M. C. (2023, July 20). **A unified approach to demographic data collection for research with young children across diverse cultures**. *Developmental Psychology*. [Open Access Publication](https://doi.org/10.1037/dev0001623), [PsyArXiv Preprint](https://doi.org/10.31234/osf.io/agt3d)
