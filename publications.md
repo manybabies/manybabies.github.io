@@ -155,7 +155,7 @@ title: Publications & Manuscripts
         <b>A unified approach to demographic data collection for research with young children across diverse cultures</b>. 
         <i>Developmental Psychology</i>.
         <a href="https://doi.org/10.1037/dev0001623" target="_blank">doi.org/10.1037/dev0001623</a> 
-        <a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">[PsyArXiv Preprint]</a></p> 
+        <a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">[PsyArXiv Preprint]</a> 
         <a href="{{site.baseurl}}/MB-Demographics/"><b>[MB-Demographics]</b></a></p> 
       </div>
     </div>
