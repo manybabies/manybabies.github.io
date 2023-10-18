@@ -6,8 +6,15 @@ title: Publications & Manuscripts
 > View our [Google Scholar profile](https://scholar.google.com/citations?user=Mo3vRlsAAAAJ&hl=en)<br>
 > Note: italics indicate corresponding author(s), asterisks indicate co-first authors
 
+* [Submitted & Under Review](#submitted)
+* [Accepted Pending Data Collection (Stage 1 Registered Reports)](#accepted)
+* [Publications](#publications)
+* [Registrations](#registrations)
+* [Conference Presentations](#presentations)
+
+
 ***
-## Submitted & Under Review
+<h2 id="submitted">Submitted & Under Review</h2>
 
 <section>
   <div class="container">
@@ -55,7 +62,7 @@ title: Publications & Manuscripts
 
 
 ***
-## Accepted Pending Data Collection (Stage 1 Registered Reports)
+<h2 id="accepted">Accepted Pending Data Collection (Stage 1 Registered Reports)</h2>
 
 <section>
   <div class="container">
@@ -127,7 +134,7 @@ title: Publications & Manuscripts
 </section>
 
 ***
-## Publications
+<h2 id="publications">Publications</h2>
 
 <section>
   <div class="container">
@@ -269,7 +276,7 @@ title: Publications & Manuscripts
 </section>
 
 ***
-## Registrations
+<h2 id="registrations">Registrations</h2>
 
 <section>
   <div class="container">
@@ -290,7 +297,7 @@ title: Publications & Manuscripts
 
 
 ***
-## Conference Presentations
+<h2 id="presentations">Conference Presentations</h2>
 
 * **2022 BTSCON**: [Presentations](https://www.youtube.com/playlist?list=PLynqjZusW6nt9D3wQkyavZmMWl2ZgjszV)
 * **2022 CDS**: [Pre-conference workshop]({{site.baseurl}}/2022-04-21-CDSpreconference/)
