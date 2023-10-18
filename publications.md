@@ -50,20 +50,6 @@ title: Publications & Manuscripts
         <a href="{{site.baseurl}}/MB5/"><b>[MB5]</b></a></p> 
       </div>
     </div>
-    <div class="row">
-      <div class="col-sm-1" align=center>
-        <br>
-        <a href="{{site.baseurl}}/MB-ManyWebcams/"><img src="/assets/img/MBMW_logo.png" alt="ManyBabies-ManyWebcams logo"></a>
-      </div>
-      <div class="col-sm-11">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Steffan, A.*</i>, <i>Zimmer, L.*</i>, Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmannm C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E. S., Kulke, L., Mayor, J., Meristo, M., Moreau, D., Mun, S., Prein, J. C., Rakoczy, H., Rothmaler, K., Santos Oliveira, D., Simpson, E. A., Smith, E. S., Strid, K., Tebbe, A. L., Thiele, M., Yuen, F., & Schuwerk, T. (2023, September 26). 
-        <b>Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood</b>. <i>(*co-first authors)</i> 
-        Accepted, <i>Infancy</i>.
-        PsyArXiv. 
-        <a href="https://doi.org/10.31234/osf.io/7924h" target="_blank">doi:10.31234/osf.io/7924h</a> 
-        <a href="{{site.baseurl}}/MB-ManyWebcams/"><b>[MB-ManyWebcams]</b></a></p> 
-      </div>
-    </div>
   </div>
 </section>
 
@@ -145,6 +131,20 @@ title: Publications & Manuscripts
 
 <section>
   <div class="container">
+    <div class="row">
+      <div class="col-sm-1" align=center>
+        <br>
+        <a href="{{site.baseurl}}/MB-ManyWebcams/"><img src="/assets/img/MBMW_logo.png" alt="ManyBabies-ManyWebcams logo"></a>
+      </div>
+      <div class="col-sm-11">
+        <p style="padding-left: 25px; text-indent: -25px"><i>Steffan, A.*</i>, <i>Zimmer, L.*</i>, Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmannm C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E. S., Kulke, L., Mayor, J., Meristo, M., Moreau, D., Mun, S., Prein, J. C., Rakoczy, H., Rothmaler, K., Santos Oliveira, D., Simpson, E. A., Smith, E. S., Strid, K., Tebbe, A. L., Thiele, M., Yuen, F., & Schuwerk, T. (2023). 
+        <b>Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood</b>. <i>(*co-first authors)</i> 
+        <i>Infancy</i>.
+        <a href="https://doi.org/10.1111/infa.12564" target="_blank">doi.org/10.1111/infa.12564</a> 
+        <a href="https://doi.org/10.31234/osf.io/7924h" target="_blank">[PsyArXiv Preprint]</a> 
+        <a href="{{site.baseurl}}/MB-ManyWebcams/"><b>[MB-ManyWebcams]</b></a></p> 
+      </div>
+    </div>
     <div class="row">
       <div class="col-sm-1" align=center>
         <br>
