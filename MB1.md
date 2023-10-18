@@ -32,36 +32,40 @@ In the first **ManyBabies** project, we replicated a robust finding from develop
 Sixty-nine labs from 16 countries participated and collected data from 2,329 infants (range: 3-15 months old). We focused on three primary methods for assessing infants’ interest: single-screen central fixation, eye tracking, and the head-turn preference procedure (HPP).
 
 
-## Results
+### Results
 * Confirmed the existence of an IDS preference in infant listeners
 * IDS preference was significantly stronger in older children, in those children for whom the stimuli matched their native language and dialect (North American English, or NAE), and in data from labs using the head-turn preference procedure (magnitude of 0.05 SDs per month), suggesting a modulation by experience, maturation, or both
 * IDS preference for NAE stimuli even among participants whose native language or dialect was not NAE
 * Effect was strongest with the HPP than with the central-fixation or eye-tracking approaches. 
 * One potential interpretation of this finding is that the greater effort on the part of the infant in the HPP (i.e., turning the head, as opposed to making small eye movements) leads to stronger engagement in the task and therefore to stronger effects 
-<img style="float: right;" src="/assets/img/mb1_plot2_lq_replace.jpg">
+<img src="/assets/img/mb1_plot2_lq_replace.jpg">
 <br>
 
-<img style="float: right;" src="/assets/img/mb1_plot1_lq_replace.jpg">
-<br>
-<br>
+<img src="/assets/img/mb1_plot1_lq_replace.jpg">
+
 
 ***
-## Project Leads
+### Project Leads
 * [Michael Frank](https://web.stanford.edu/~mcfrank/), *Stanford University, United States* [[email]](mailto:mcfrank@stanford.edu)
 * [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada* [[email]](mailto:M_Soderstrom@umanitoba.ca)
 
 
 ***
-## Links
+### Links
 * **Materials, Protocols, and Documentation**: [MB1-OSF](https://osf.io/re95x/)
 * **Walkthrough videos**: [Databrary](https://nyu.databrary.org/volume/896)
 * **Data and code**: [MB1-GitHub](https://github.com/manybabies/mb1-analysis-public)
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1)
 * **News**: [MB1-news]({{site.baseurl}}/tags/#MB1)
 
+***
+### MB1 Contributors
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrZ1jpu9RS9lf9jO?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 
 ***
-## Publications
+### Publications
 * Final manuscript: [PsyArXiv preprint](https://psyarxiv.com/s98ab), [*AMPPS* publication](https://doi.org/10.1177/2515245919900809)
 * "Lessons from MB1": [PsyArXiv preprint](https://psyarxiv.com/dmhk2/), [*Canadian Psychology* publication](https://doi.org/10.1037/cap0000216)
 
@@ -81,7 +85,3 @@ Sixty-nine labs from 16 countries participated and collected data from 2,329 inf
 * [**MB1-Meta: Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)
 * [**MB1-Demo: Analysis of supplemental demographic variables**]({{site.baseurl}}/MB1SA/)
 
-***
-## MB1 Contributors
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrZ1jpu9RS9lf9jO?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
