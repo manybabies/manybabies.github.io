@@ -54,11 +54,6 @@ Sixty-nine labs from 16 countries participated and collected data from 2,329 inf
 
 
 ***
-### Collaborators
-* For a detailed index of collaborators (+ institutions, countries, studies), check the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/)
-
-
-***
 ### Links
 * **Materials, Protocols, and Documentation**: [MB1-OSF](https://osf.io/re95x/)
 * **Walkthrough videos**: [Databrary](https://nyu.databrary.org/volume/896)
@@ -87,3 +82,8 @@ Sixty-nine labs from 16 countries participated and collected data from 2,329 inf
 ## Secondary Analyses
 * [**MB1-Meta: Comparison to meta-analytic data**]({{site.baseurl}}/MB1SA/)
 * [**MB1-Demo: Analysis of supplemental demographic variables**]({{site.baseurl}}/MB1SA/)
+
+***
+### MB1 Contributors
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrZ1jpu9RS9lf9jO?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
