@@ -7,7 +7,8 @@ cover-img: /assets/img/MBMW_logo.png
 
 ## Project Overview
 
-* *Status:* **<a href="https://psyarxiv.com/7924h/" target="_blank">Manuscript</a> has been accepted at *Infancy*!**
+* *Status: **COMPLETE***
+* *32 authors on* <a href="https://doi.org/10.1111/infa.12564" target="_blank"><b>Infancy</b> <i>publication</i></a>
 * *16 participating labs*
 * *125 toddlers tested remotely via webcam*
 
@@ -71,4 +72,4 @@ Therefore, we aim to replicate findings of an in-lab paradigm of the [ManyBabies
 
 
 ### Publications
-*Steffan, A.*\*, *Zimmer, L.*\*, Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmannm C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E. S., Kulke, L., Mayor, J., Meristo, M., Moreau, D., Mun, S., Prein, J. C., Rakoczy, H., Rothmaler, K., Santos Oliveira, D., Simpson, E. A., Smith, E. S., Strid, K., Tebbe, A. L., Thiele, M., Yuen, F., & Schuwerk, T. (2023, September 26). **Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood**. [PsyArXiv](https://doi.org/10.31234/osf.io/7924h). <i>(\* co-first authors)</i>
+*Steffan, A.*\*, *Zimmer, L.*\*, Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmannm C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E. S., Kulke, L., Mayor, J., Meristo, M., Moreau, D., Mun, S., Prein, J. C., Rakoczy, H., Rothmaler, K., Santos Oliveira, D., Simpson, E. A., Smith, E. S., Strid, K., Tebbe, A. L., Thiele, M., Yuen, F., & Schuwerk, T. (2023). **Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood**. *Infancy*. [Open Access Publication](),  [PsyArXiv](https://doi.org/10.1111/infa.12564). <i>(\* co-first authors)</i>
