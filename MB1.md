@@ -29,7 +29,7 @@ Notes:
 
 
 
-In the first **ManyBabies** project, we replicated a robust finding from developmental literature: **infants’ preference for infant-directed speech (IDS) over adult-directed speech (ADS)**. IDS is characterized by a higher pitch, greater pitch excursions, and shorter utterances when compared to ADS. Exposure to IDS has been shown to improve word segmentation and word learning. We asked if infants have a preference for IDS, and how this preference varies across age, native language background, and method. <br>
+In the first **ManyBabies** project, we replicated a robust finding from developmental literature: **infants’ preference for infant-directed speech (IDS) over adult-directed speech (ADS)**. IDS is characterized by a higher pitch, greater pitch excursions, and shorter utterances when compared to ADS. Exposure to IDS has been shown to improve word segmentation and word learning. We asked if infants have a preference for IDS, and how this preference varies across age, native language background, and method.
 
 <img style="float: right;" src="/assets/img/ILL.photoshot.baby.in.booth.jpeg">
 <br>
