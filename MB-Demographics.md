@@ -19,7 +19,7 @@ subtitle: Standard demographics for MB projects
 In this project, we present a framework to standardize demographic reporting for early child development (birth to 3 years of age), focusing on six core sociodemographic construct categories: biological information, gestational status, health status, community of descent, caregiving environment, and socioeconomic status. For each category, we discuss potential constructs and measurement items and provide guidance for their use and adaptation to diverse contexts. These items are stored in an [open repository of context-adapted questionnaires](https://osf.io/nqc92/) that provide a consistent approach to obtaining and reporting demographic information so that these data can be archived and shared in a more standardized format. <br>
 <br>
 
-Summary of categories and constructs with examples of individual items, from the [publication](https://doi.org/10.1037/dev0001623):
+A figure from the [publication](https://doi.org/10.1037/dev0001623):
 
 <img src="/assets/img/demographics_figure2.png">
 
