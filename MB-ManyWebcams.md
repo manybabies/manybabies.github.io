@@ -10,7 +10,7 @@ subtitle: Web-based Eye Tracking for Infant Studies
 <img style="float: right;" src="/assets/img/MBMW_logo.png" width="150">
 
 * *Status: **COMPLETE***
-* *32 authors on* <a href="https://doi.org/10.1111/infa.12564" target="_blank"><b>Infancy</b> <i>publication</i></a>
+* *32 authors on* <a href="https://doi.org/10.1111/infa.12564" target="_blank"><b>Infancy</b></a> <i>publication</i>
 * *16 participating labs*
 * *125 toddlers tested remotely via webcam*
 -->
@@ -20,7 +20,7 @@ subtitle: Web-based Eye Tracking for Infant Studies
     <div class="col-lg-8">
       <ul>
         <li><i>Status:</i> <b>COMPLETE</b></li>
-        <li><i>32 authors on</i> <a href="https://doi.org/10.1111/infa.12564" target="_blank"><b>Infancy</b> <i>publication</i></a></li>
+        <li><i>32 authors on</i> <a href="https://doi.org/10.1111/infa.12564" target="_blank"><b>Infancy</b></a> <i>publication</i></li>
         <li><i>16 participating labs<i></li>
         <li><i>125 toddlers tested remotely via webcam<i></li>
       </ul>
