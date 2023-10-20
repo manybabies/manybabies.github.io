@@ -26,7 +26,7 @@ subtitle: Web-based Eye Tracking for Infant Studies
       </ul>
     </div>
     <div class="col-lg-4">
-      <img src="/assets/img/MBMW_logo.png">
+      <img src="/assets/img/MBMW_logo.png" width="150">
     </div>
   </div>
 </div>
