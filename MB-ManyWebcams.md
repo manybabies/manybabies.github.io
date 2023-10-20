@@ -2,10 +2,11 @@
 layout: page
 title: MB-ManyWebcams
 subtitle: Web-based Eye Tracking for Infant Studies
-cover-img: /assets/img/MBMW_logo.png
 ---
 
 ## Project Overview
+
+<img style="float: right;" src="/assets/img/MBMW_logo.png" width="150">
 
 * *Status: **COMPLETE***
 * *32 authors on* <a href="https://doi.org/10.1111/infa.12564" target="_blank"><b>Infancy</b> <i>publication</i></a>
@@ -21,36 +22,17 @@ Therefore, we aim to replicate findings of an in-lab paradigm of the [ManyBabies
    <div class="row justify-content-around">
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
             <img src="/assets/img/manywebcams1.png" height="300">
-            A toddler participating in the task, with her point-of-gaze depicted as a blue dot
+            <h5>A toddler participating in the task, with her point-of-gaze depicted as a blue dot</h5>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
             <img src="/assets/img/manywebcams_AOIs.jpg" height="300">
-            Example areas of interest (AOIs) used during the anticipatory period to distinguish looks to the "Target" region (where the chaser will reappear according to their action goal) and the "Distractor" region (covering the other tunnel exit and it's surroundings)
+            <h5>Example areas of interest (AOIs) used during the anticipatory period to distinguish looks to the "Target" region (where the chaser will reappear according to their action goal) and the "Distractor" region (covering the other tunnel exit and it's surroundings)</h5>
         </div>
     </div>
 </div>
 
-<!--    
-<div class="row justify-content-around"><img style="float: center;" src="/assets/img/manywebcams1.png" width="500">
-  An infant participating in the task, with her point-of-gaze depicted as a blue dot
-</div> 
-<br>
-<div class="row justify-content-around"><img style="float: center;" src="/assets/img/manywebcams_AOIs.jpg" width="400"></div> 
-<br>
---> 
-<!-- <img style="float: center;" src="/assets/img/manywebcams_fig1_new.jpg">-->
 
 <br>
-
-
-***
-### Project Leads
-* [Tobias Schuwerk](https://www.en.cas.uni-muenchen.de/rir/junior_rir/previous_junior_rir/schuhwerk_tobias/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:tobias.schuwerk@psy.lmu.de)
-* [Adrian Steffan](https://adriansteffan.com/), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:adrian.steffan@hotmail.de)
-* [Lucie Zimmer](https://www.psy.lmu.de/pbi/personen/wiss_mitarbeiter/lucie_zimmer/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:lucie.zimmer@psy.lmu.de)
-
-
-
 
 ***
 ### Links
@@ -63,12 +45,16 @@ Therefore, we aim to replicate findings of an in-lab paradigm of the [ManyBabies
 
 
 ***
-### Contributors
-* For a detailed index of collaborators (+ institutions, countries, studies), see the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
+### Project Leads
+* [Tobias Schuwerk](https://www.en.cas.uni-muenchen.de/rir/junior_rir/previous_junior_rir/schuhwerk_tobias/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:tobias.schuwerk@psy.lmu.de)
+* [Adrian Steffan](https://adriansteffan.com/), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:adrian.steffan@hotmail.de)
+* [Lucie Zimmer](https://www.psy.lmu.de/pbi/personen/wiss_mitarbeiter/lucie_zimmer/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:lucie.zimmer@psy.lmu.de)
 
-> We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
 
-> Please note that access to infants/infant lab is **NOT** a prerequisite.
+***
+### MB-ManyWebcams Contributors
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shreiORqClbR8oDn8?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 
 ### Publications
