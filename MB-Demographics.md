@@ -7,7 +7,7 @@ subtitle: Standard demographics for MB projects
 
 ## Project Overview
 
-<img style="float: right;" src="/assets/img/demographics_figure2.png" width="150">
+<img style="float: right;" src="/assets/img/MBDemo_logo.png" width="150">
 
 * *Status: **COMPLETE***
 * *24 authors on* <a href="https://doi.org/10.1037/dev0001623" target="_blank"><b>Developmental Psychology</b> <i>publication</i></a>
