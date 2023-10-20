@@ -2,7 +2,6 @@
 layout: page
 title: MB1
 subtitle: Infant-Directed Speech Preference
-cover-img: /assets/img/MB1_logo.png
 ---
 
 <!--
@@ -18,6 +17,8 @@ Notes:
 
 
 ## Project Overview
+
+<img style="float: right;" src="/assets/img/MB1_logo.png" width="200">
 
 * *Status: **COMPLETE***
 * *69 participating labs in 16 countries*
