@@ -31,7 +31,6 @@ subtitle: Web-based Eye Tracking for Infant Studies
   </div>
 </div>
 
-<br>
 
 In this multi-lab methodological project, we try to validate an open source, web-based, eye-tracking method for research on cognitive development in young children. 
 More specifically, we evaluate whether this method, which is based on WebGazer.js [(Papoutsaki et al., 2016)](http://cs.brown.edu/people/apapouts/papers/ijcai2016webgazer.pdf) and jsPsych [(de Leeuw, 2015)](https://link.springer.com/article/10.3758%2Fs13428-014-0458-y), is comparable to lab-based eye-tracking. 
