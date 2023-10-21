@@ -3,10 +3,10 @@ layout: page
 title: MB-ManyWebcams
 subtitle: Web-based Eye Tracking for Infant Studies
 ---
-
+<!--
 ## Project Overview
 
-<!--
+
 <img style="float: right;" src="/assets/img/MBMW_logo.png" width="150">
 
 * *Status: **COMPLETE***
@@ -18,6 +18,7 @@ subtitle: Web-based Eye Tracking for Infant Studies
 <div class="container">
   <div class="row justify-content-around">
     <div class="col-lg-8">
+      <h2>Project Overview</h2>
       <ul>
         <li><i>Status:</i> <b>COMPLETE</b></li>
         <li><i>32 authors on</i> <a href="https://doi.org/10.1111/infa.12564" target="_blank"><b>Infancy</b></a> <i>publication</i></li>
