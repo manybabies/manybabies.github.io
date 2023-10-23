@@ -55,8 +55,8 @@ Sixty-nine labs from 16 countries participated and collected data from 2,329 inf
 
 ***
 ### Project Leads
-* [Michael Frank](https://web.stanford.edu/~mcfrank/), *Stanford University, United States* [[email]](mailto:mcfrank@stanford.edu)
-* [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada* [[email]](mailto:M_Soderstrom@umanitoba.ca)
+* [**Michael Frank**](https://web.stanford.edu/~mcfrank/), *Stanford University, United States* [[email]](mailto:mcfrank@stanford.edu)
+* [**Melanie Soderstrom**](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada* [[email]](mailto:M_Soderstrom@umanitoba.ca)
 
 
 ***

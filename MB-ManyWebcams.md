@@ -4,16 +4,6 @@ title: MB-ManyWebcams
 subtitle: Web-based Eye Tracking for Infant Studies
 ---
 
-<!--
-## Project Overview
-
-<img style="float: right;" src="/assets/img/MBMW_logo.png" width="150">
-
-* *Status: **COMPLETE***
-* *32 authors on* <a href="https://doi.org/10.1111/infa.12564" target="_blank"><b>Infancy</b></a> <i>publication</i>
-* *16 participating labs*
-* *125 toddlers tested remotely via webcam*
--->
 
 <div class="container">
   <div class="row justify-content-around">
@@ -65,9 +55,9 @@ Therefore, we aim to replicate findings of an in-lab paradigm of the [ManyBabies
 
 ***
 ### Project Leads
-* [Tobias Schuwerk](https://www.en.cas.uni-muenchen.de/rir/junior_rir/previous_junior_rir/schuhwerk_tobias/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:tobias.schuwerk@psy.lmu.de)
-* [Adrian Steffan](https://adriansteffan.com/), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:adrian.steffan@hotmail.de)
-* [Lucie Zimmer](https://www.psy.lmu.de/pbi/personen/wiss_mitarbeiter/lucie_zimmer/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:lucie.zimmer@psy.lmu.de)
+* [**Adrian Steffan**](https://adriansteffan.com/), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:adrian.steffan@hotmail.de)
+* [**Lucie Zimmer**](https://www.psy.lmu.de/pbi/personen/wiss_mitarbeiter/lucie_zimmer/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:lucie.zimmer@psy.lmu.de)
+* [**Tobias Schuwerk**](https://www.en.cas.uni-muenchen.de/rir/junior_rir/previous_junior_rir/schuhwerk_tobias/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:tobias.schuwerk@psy.lmu.de)
 
 
 ***

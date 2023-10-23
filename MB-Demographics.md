@@ -11,9 +11,9 @@ subtitle: Standard demographics for MB projects
       <h2>Project Overview</h2>
       <ul>
         <li><i>Status:</i> <b>COMPLETE</b></li>
-        <li><i>24 authors on</i> <a href="https://doi.org/10.1037/dev0001623" target="_blank"><b>Developmental Psychology</b></a> <i>publication</i></li>
-        <li><i>Template forms available on <a href="https://osf.io/nqc92/" target="_blank">OSF</a></i></li>
+        <li><i>Template forms available on <a href="https://osf.io/nqc92/" target="_blank"><b>OSF</b></a></i></li>
         <li><i>We are continuing to work on translating/adapting template forms (contact Project Leads for more information or to help!)</i></li>
+        <li><i>24 authors on</i> <a href="https://doi.org/10.1037/dev0001623" target="_blank"><b>Developmental Psychology</b></a> <i>publication</i></li>
       </ul>
     </div>
     <div class="col-lg-4">
@@ -40,8 +40,8 @@ A figure from the [publication](https://doi.org/10.1037/dev0001623):
 
 ***
 ### Project Leads
-* [Leher Singh](https://fass.nus.edu.sg/psy/people/singh-leher/), *National University of Singapore, Singapore & National Science Foundation, United States* [[email]](mailto:leher.singh.nus@gmail.com)
-* [Mihaela Barokova](https://barokova.com/about/), *New Bulgarian University, Bulgaria* [[email]](mailto:mihaela.barokova@gmail.com)
+* [**Leher Singh**](https://fass.nus.edu.sg/psy/people/singh-leher/), *National University of Singapore, Singapore & National Science Foundation, United States* [[email]](mailto:leher.singh.nus@gmail.com)
+* [**Mihaela Barokova**](https://barokova.com/about/), *New Bulgarian University, Bulgaria* [[email]](mailto:mihaela.barokova@gmail.com)
 
 
 ***
