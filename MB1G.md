@@ -49,7 +49,7 @@ Our findings suggest that gaze sensitivity is a fundamental aspect of developmen
 
 ***
 ### Project Lead
-[**Krista Byers-Heinlein**](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein), *Concordia University, Canada* [[email]](mailto:k.byers@concordia.ca)
+* [**Krista Byers-Heinlein**](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein), *Concordia University, Canada* [[email]](mailto:k.byers@concordia.ca)
 
 
 ***
