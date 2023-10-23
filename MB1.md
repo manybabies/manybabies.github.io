@@ -4,20 +4,27 @@ title: MB1
 subtitle: Infant-Directed Speech Preference
 ---
 
+
+<div class="container">
+  <div class="row justify-content-around">
+    <div class="col-lg-8">
+      <h2>Project Overview</h2>
+      <ul>
+        <li><i>Status:</i> <b>COMPLETE</b></li>
+        <li><i>69 participating labs collected data in 16 countries</i></li>
+        <li><i>2,329 babies tested</i></li>
+        <li><i>149 authors on</i> <a href="https://doi.org/10.1177/2515245919900809" target="_blank"><b>AMPPS</b> <i>publication</i></a></li>
+      </ul>
+    </div>
+    <div class="col-lg-4">
+      <br>
+      <img src="/assets/img/MB1_logo.png" width="150">
+    </div>
+  </div>
+</div>
+
 <!--
-
-Suggestion:
-- Esther suggestion: "It would be cool to highlight the numbers a bit more on the   mb 1 page – maybe a “project at a glance” element with 69 labs, XY babies, etc etc. I’m thinking of something like this: https://attalitech.com/ The second element on there with “Services include” has columns that could be used to highlight numbers."; github repository for attali website: https://github.com/daattali/attalitech
-
-Notes:
-- add img html syntax:
-  <img style="float: right;" src="/assets/img/avatar-icon_placeholder.png">
-  for in-text images, use imgs with max of 250pix; it will be alligned with the following paragraph
--->
-
-
 ## Project Overview
-
 <img style="float: right;" src="/assets/img/MB1_logo.png" width="150">
 
 * *Status: **COMPLETE***
@@ -26,7 +33,7 @@ Notes:
 * *149 authors on* <a href="https://doi.org/10.1177/2515245919900809" target="_blank"><b>AMPPS</b> <i>publication</i></a>
 * *Project data, analysis code, and materials available on <a href="https://osf.io/gf7vh" target="_blank">OSF</a>*
 <br>
-
+-->
 
 In the first **ManyBabies** project, we replicated a robust finding from developmental literature: **infants’ preference for infant-directed speech (IDS) over adult-directed speech (ADS)**. IDS is characterized by a higher pitch, greater pitch excursions, and shorter utterances when compared to ADS. Exposure to IDS has been shown to improve word segmentation and word learning. We asked if infants have a preference for IDS, and how this preference varies across age, native language background, and method.
 
