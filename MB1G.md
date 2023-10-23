@@ -2,7 +2,6 @@
 layout: page
 title: MB1G
 subtitle: The Development of Gaze Following in Monolingual and Bilingual Infants
-cover-img: /assets/img/MB1_logo.png
 ---
 
 
