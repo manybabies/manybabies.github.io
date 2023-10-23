@@ -5,15 +5,24 @@ subtitle: Standard demographics for MB projects
 ---
 
 
-## Project Overview
+<div class="container">
+  <div class="row justify-content-around">
+    <div class="col-lg-8">
+      <h2>Project Overview</h2>
+      <ul>
+        <li><i>Status:</i> <b>COMPLETE</b></li>
+        <li><i>24 authors on <a href="https://doi.org/10.1037/dev0001623" target="_blank"><b>Developmental Psychology</b></a> <i>publication</i></li>
+        <li><i>Template forms available on <a href="https://osf.io/nqc92/" target="_blank">OSF</a></i></li>
+        <li><i>We are continuing to work on translating/adapting template forms (contact Project Leads for more information or to help!)</i></li>
+      </ul>
+    </div>
+    <div class="col-lg-4">
+      <br>
+      <img src="/assets/img/MBDemo_logo.png" width="150">
+    </div>
+  </div>
+</div>
 
-<img style="float: right;" src="/assets/img/MBDemo_logo.png" width="150">
-
-* *Status: **COMPLETE***
-* *24 authors on* <a href="https://doi.org/10.1037/dev0001623" target="_blank"><b>Developmental Psychology</b> <i>publication</i></a>
-* *Template forms are available on <a href="https://osf.io/nqc92/" target="_blank">OSF</a>*
-* *We are continuing to work on translating/adapting template forms (contact Project Leads for more information or to help!)*
-* *Please [contact us](contact@manybabies.org) if you are interested in adapting the questionnaire for use in your own projects*
 
 
 In this project, we present a framework to standardize demographic reporting for early child development (birth to 3 years of age), focusing on six core sociodemographic construct categories: biological information, gestational status, health status, community of descent, caregiving environment, and socioeconomic status. For each category, we discuss potential constructs and measurement items and provide guidance for their use and adaptation to diverse contexts. These items are stored in an [open repository of context-adapted questionnaires](https://osf.io/nqc92/) that provide a consistent approach to obtaining and reporting demographic information so that these data can be archived and shared in a more standardized format. <br>
