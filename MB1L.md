@@ -25,7 +25,7 @@ subtitle: Longitudinal Vocabulary Follow-up
 
 
 
-In this project we explored whether early preference for Infant Directed Speech (IDS) is linked to later vocabulary size. For instance, does preference for IDS predicts infants' vocabulary? Does the relation between IDS preference and vocabulary size change over development? And are there any systematic differences in the strength of this relationship across language communities? 
+In this project we explored whether early preference for Infant Directed Speech (IDS) is linked to later vocabulary size. For instance, does preference for IDS predict infants' vocabulary? Does the relation between IDS preference and vocabulary size change over development? And are there any systematic differences in the strength of this relationship across language communities? 
 
 Infants’ preference for IDS was tested as part of the [MabyBabies1]({{site.baseurl}}/MB1) project, and follow-up CDI data was collected from a subsample of this dataset at 18 and 24 months of age.
 
