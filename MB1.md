@@ -7,7 +7,11 @@ subtitle: Infant-Directed Speech Preference
 
 <div class="container">
   <div class="row justify-content-around">
-    <div class="col-lg-8">
+    <div class="col-lg-4" align="center">
+      <br>
+      <img src="/assets/img/MB1_logo.png" width="150">
+    </div>
+    <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
         <li><i>Status:</i> <b>COMPLETE</b></li>
@@ -15,10 +19,6 @@ subtitle: Infant-Directed Speech Preference
         <li><i>2,329 babies tested</i></li>
         <li><i>149 authors on</i> <a href="https://doi.org/10.1177/2515245919900809" target="_blank"><b>AMPPS</b></a> <i>publication</i></li>
       </ul>
-    </div>
-    <div class="col-lg-4">
-      <br>
-      <img src="/assets/img/MB1_logo.png" width="150">
     </div>
   </div>
 </div>
