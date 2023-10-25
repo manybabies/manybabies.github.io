@@ -67,10 +67,10 @@ Sixty-nine labs from 16 countries participated and collected data from 2,329 inf
 ***
 ### Publications
 
-<p style="padding-left: 25px; text-indent: -25px">ManyBabies Consortium. (2020). Quantifying sources of variability in infancy research using the infant-directed-speech preference. *Advances in Methods and Practices in Psychological Science*, 3(1), 24–52. <a href="https://doi.org/10.1177/2515245919900809" target="_blank">https://doi.org/10.1177/2515245919900809</a> <a href="https://psyarxiv.com/s98ab" target="_blank">[PsyArXiv preprint]</a></p>
+<p style="padding-left: 25px; text-indent: -25px">ManyBabies Consortium. (2020). Quantifying sources of variability in infancy research using the infant-directed-speech preference. <i>Advances in Methods and Practices in Psychological Science</i>, 3(1), 24–52. <a href="https://doi.org/10.1177/2515245919900809" target="_blank">https://doi.org/10.1177/2515245919900809</a> [<a href="https://psyarxiv.com/s98ab" target="_blank">PsyArXiv preprint</a>]</p>
 <br>
 
-<p style="padding-left: 25px; text-indent: -25px">Byers-Heinlein, K., Bergmann, C., Davies, C., Frank, M. C., Hamlin, J. K., Kline, M., Kominsky, J. F., Kosie, J. E., Lew-Williams, C., Liu, L., Mastroberardino, M., Singh, L., Waddell, C. P. G., Zettersten, M., & Soderstrom, M. (2020). Building a collaborative psychological science: Lessons learned from ManyBabies 1. *Canadian Psychology/Psychologie canadienne*, 61(4), 349–363. <a href="https://doi.org/10.1037/cap0000216" target="_blank"> <a href="https://psyarxiv.com/dmhk2/" target="_blank">[PsyArXiv preprint]</a></p>
+<p style="padding-left: 25px; text-indent: -25px">Byers-Heinlein, K., Bergmann, C., Davies, C., Frank, M. C., Hamlin, J. K., Kline, M., Kominsky, J. F., Kosie, J. E., Lew-Williams, C., Liu, L., Mastroberardino, M., Singh, L., Waddell, C. P. G., Zettersten, M., & Soderstrom, M. (2020). Building a collaborative psychological science: Lessons learned from ManyBabies 1. <i>Canadian Psychology/Psychologie canadienne</i>, 61(4), 349–363. <a href="https://doi.org/10.1037/cap0000216" target="_blank"> [<a href="https://psyarxiv.com/dmhk2/" target="_blank">PsyArXiv preprint</a>]</p>
 
 
 ***
