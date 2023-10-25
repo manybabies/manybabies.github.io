@@ -66,8 +66,11 @@ Sixty-nine labs from 16 countries participated and collected data from 2,329 inf
 
 ***
 ### Publications
-* Final manuscript: [PsyArXiv preprint](https://psyarxiv.com/s98ab), [*AMPPS* publication](https://doi.org/10.1177/2515245919900809)
-* "Lessons Learned From MB1": [PsyArXiv preprint](https://psyarxiv.com/dmhk2/), [*Canadian Psychology* publication](https://doi.org/10.1037/cap0000216)
+
+<p style="padding-left: 25px; text-indent: -25px">ManyBabies Consortium. (2020). Quantifying sources of variability in infancy research using the infant-directed-speech preference. *Advances in Methods and Practices in Psychological Science*, 3(1), 24–52. [https://doi.org/10.1177/2515245919900809](https://doi.org/10.1177/2515245919900809) [[PsyArXiv preprint]](https://psyarxiv.com/s98ab)</p>
+<br>
+
+<p style="padding-left: 25px; text-indent: -25px">Byers-Heinlein, K., Bergmann, C., Davies, C., Frank, M. C., Hamlin, J. K., Kline, M., Kominsky, J. F., Kosie, J. E., Lew-Williams, C., Liu, L., Mastroberardino, M., Singh, L., Waddell, C. P. G., Zettersten, M., & Soderstrom, M. (2020). Building a collaborative psychological science: Lessons learned from ManyBabies 1. *Canadian Psychology/Psychologie canadienne*, 61(4), 349–363. [https://doi.org/10.1037/cap0000216](https://doi.org/10.1037/cap0000216) [[PsyArXiv preprint]](https://psyarxiv.com/dmhk2/)</p>
 
 
 ***
