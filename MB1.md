@@ -26,9 +26,8 @@ subtitle: Infant-Directed Speech Preference
 
 
 <p>In the first **ManyBabies** project, we replicated a robust finding from developmental literature: **infants’ preference for infant-directed speech (IDS) over adult-directed speech (ADS)**. IDS is characterized by a higher pitch, greater pitch excursions, and shorter utterances when compared to ADS. Exposure to IDS has been shown to improve word segmentation and word learning. We asked if infants have a preference for IDS, and how this preference varies across age, native language background, and method. </p>
-<img style="float: right;" src="/assets/img/ILL.photoshot.baby.in.booth.jpeg" width="200"> 
-
-<p>Sixty-nine labs from 16 countries participated and collected data from 2,329 infants (range: 3-15 months old). We focused on three primary methods for assessing infants’ interest: single-screen central fixation, eye tracking, and the head-turn preference procedure (HPP).</p>
+ 
+<p><img style="float: right;" src="/assets/img/ILL.photoshot.baby.in.booth.jpeg" width="200">Sixty-nine labs from 16 countries participated and collected data from 2,329 infants (range: 3-15 months old). We focused on three primary methods for assessing infants’ interest: single-screen central fixation, eye tracking, and the head-turn preference procedure (HPP).</p>
 
 
 ### Results
