@@ -7,7 +7,11 @@ subtitle: Infant-Directed Speech Preference
 
 <div class="container">
   <div class="row justify-content-around">
-    <div class="col-lg-8">
+    <div class="col-lg-4" align="center">
+      <br>
+      <img src="/assets/img/MB1_logo.png" width="150">
+    </div>
+    <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
         <li><i>Status:</i> <b>COMPLETE</b></li>
@@ -15,10 +19,6 @@ subtitle: Infant-Directed Speech Preference
         <li><i>2,329 babies tested</i></li>
         <li><i>149 authors on</i> <a href="https://doi.org/10.1177/2515245919900809" target="_blank"><b>AMPPS</b></a> <i>publication</i></li>
       </ul>
-    </div>
-    <div class="col-lg-4">
-      <br>
-      <img src="/assets/img/MB1_logo.png" width="150">
     </div>
   </div>
 </div>
@@ -66,8 +66,11 @@ Sixty-nine labs from 16 countries participated and collected data from 2,329 inf
 
 ***
 ### Publications
-* Final manuscript: [PsyArXiv preprint](https://psyarxiv.com/s98ab), [*AMPPS* publication](https://doi.org/10.1177/2515245919900809)
-* "Lessons Learned From MB1": [PsyArXiv preprint](https://psyarxiv.com/dmhk2/), [*Canadian Psychology* publication](https://doi.org/10.1037/cap0000216)
+
+<p style="padding-left: 25px; text-indent: -25px">ManyBabies Consortium. (2020). Quantifying sources of variability in infancy research using the infant-directed-speech preference. <i>Advances in Methods and Practices in Psychological Science</i>, 3(1), 24–52. <a href="https://doi.org/10.1177/2515245919900809" target="_blank">https://doi.org/10.1177/2515245919900809</a> [<a href="https://psyarxiv.com/s98ab" target="_blank">PsyArXiv preprint</a>]</p>
+<br>
+
+<p style="padding-left: 25px; text-indent: -25px">Byers-Heinlein, K., Bergmann, C., Davies, C., Frank, M. C., Hamlin, J. K., Kline, M., Kominsky, J. F., Kosie, J. E., Lew-Williams, C., Liu, L., Mastroberardino, M., Singh, L., Waddell, C. P. G., Zettersten, M., & Soderstrom, M. (2020). Building a collaborative psychological science: Lessons learned from ManyBabies 1. <i>Canadian Psychology/Psychologie canadienne</i>, 61(4), 349–363. <a href="https://doi.org/10.1037/cap0000216" target="_blank">https://doi.org/10.1037/cap0000216</a> [<a href="https://psyarxiv.com/dmhk2/" target="_blank">PsyArXiv preprint</a>]</p>
 
 
 ***
