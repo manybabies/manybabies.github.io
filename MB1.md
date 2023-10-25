@@ -25,10 +25,9 @@ subtitle: Infant-Directed Speech Preference
 
 
 
-In the first **ManyBabies** project, we replicated a robust finding from developmental literature: **infants’ preference for infant-directed speech (IDS) over adult-directed speech (ADS)**. IDS is characterized by a higher pitch, greater pitch excursions, and shorter utterances when compared to ADS. Exposure to IDS has been shown to improve word segmentation and word learning. We asked if infants have a preference for IDS, and how this preference varies across age, native language background, and method. 
-<img style="float: right;" src="/assets/img/ILL.photoshot.baby.in.booth.jpeg" width="200"> 
-<br>
-Sixty-nine labs from 16 countries participated and collected data from 2,329 infants (range: 3-15 months old). We focused on three primary methods for assessing infants’ interest: single-screen central fixation, eye tracking, and the head-turn preference procedure (HPP).
+<p>In the first <b>ManyBabies</b> project, we replicated a robust finding from developmental literature: <b>infants’ preference for infant-directed speech (IDS) over adult-directed speech (ADS)</b>. IDS is characterized by a higher pitch, greater pitch excursions, and shorter utterances when compared to ADS. Exposure to IDS has been shown to improve word segmentation and word learning. We asked if infants have a preference for IDS, and how this preference varies across age, native language background, and method. </p>
+ 
+<p><img style="float: right;" src="/assets/img/ILL.photoshot.baby.in.booth.jpeg" width="200">Sixty-nine labs from 16 countries participated and collected data from 2,329 infants (range: 3-15 months old). We focused on three primary methods for assessing infants’ interest: single-screen central fixation, eye tracking, and the head-turn preference procedure (HPP).</p>
 
 
 ### Results
@@ -68,7 +67,6 @@ Sixty-nine labs from 16 countries participated and collected data from 2,329 inf
 ### Publications
 
 <p style="padding-left: 25px; text-indent: -25px">ManyBabies Consortium. (2020). Quantifying sources of variability in infancy research using the infant-directed-speech preference. <i>Advances in Methods and Practices in Psychological Science</i>, 3(1), 24–52. <a href="https://doi.org/10.1177/2515245919900809" target="_blank">https://doi.org/10.1177/2515245919900809</a> [<a href="https://psyarxiv.com/s98ab" target="_blank">PsyArXiv preprint</a>]</p>
-<br>
 
 <p style="padding-left: 25px; text-indent: -25px">Byers-Heinlein, K., Bergmann, C., Davies, C., Frank, M. C., Hamlin, J. K., Kline, M., Kominsky, J. F., Kosie, J. E., Lew-Williams, C., Liu, L., Mastroberardino, M., Singh, L., Waddell, C. P. G., Zettersten, M., & Soderstrom, M. (2020). Building a collaborative psychological science: Lessons learned from ManyBabies 1. <i>Canadian Psychology/Psychologie canadienne</i>, 61(4), 349–363. <a href="https://doi.org/10.1037/cap0000216" target="_blank">https://doi.org/10.1037/cap0000216</a> [<a href="https://psyarxiv.com/dmhk2/" target="_blank">PsyArXiv preprint</a>]</p>
 
