@@ -7,11 +7,11 @@ subtitle: Infant-directed Speech Preference in Bilingual Infants
 
 <div class="container">
   <div class="row justify-content-around">
-    <div class="col-lg-4">
+    <div class="col-lg-4" align="center">
       <br>
       <img src="/assets/img/MB1_logo.png" width="150">
     </div>
-    <div class="col-lg-8">
+    <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
         <li><i>Status:</i> <b>COMPLETE</b></li>
