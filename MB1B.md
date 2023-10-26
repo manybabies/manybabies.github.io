@@ -53,6 +53,6 @@ In this project we used the diversity of bilingual infant experiences to explore
 
 
 ***
-### Publications
+### Publication
 
 <p style="padding-left: 25px; text-indent: -25px">Byers-Heinlein, K., Tsui, A. S. M., Bergmann, C., Black, A. K., Brown, A., Carbajal, M. J., Durrant, S., Fennell, C. T., Fiévet, A.-C., Frank, M. C., Gampe, A., Gervain, J., Gonzalez-Gomez, N., Hamlin, J. K., Havron, N., Hernik, M., Kerr, S., Killam, H., Klassen, K., … Wermelinger, S. (2021). <b>A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech</b>. <i>Advances in Methods and Practices in Psychological Science</i>, 3(1), 24–52. <a href="https://doi.org/10.1177/2515245920974622" target="_blank">https://doi.org/10.1177/2515245920974622</a> [<a href="https://doi.org/10.31234/osf.io/sqh9d" target="_blank">PsyArXiv preprint</a>]</p>
