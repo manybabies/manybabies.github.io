@@ -4,6 +4,7 @@ title: MB1G
 subtitle: The Development of Gaze Following in Monolingual and Bilingual Infants
 ---
 
+***
 
 <div class="container">
   <div class="row justify-content-around">
