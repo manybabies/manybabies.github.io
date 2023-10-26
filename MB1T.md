@@ -30,7 +30,6 @@ In this project we investigate the test-retest reliability of the preferences me
 * **Materials, Protocols, and Documentation**: [MB1T-OSF](https://osf.io/zeqka/).
 * **Preregistration**: [OSF](https://osf.io/v5f8t)
 * **Data and code**: to be released.
-* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1).
 * **News**: [MB1T-news]({{site.baseurl}}/tags/#MB1T).
 
 
