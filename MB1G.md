@@ -24,10 +24,10 @@ subtitle: The Development of Gaze Following in Monolingual and Bilingual Infants
 </div>
 
 
-<p>In this project we investigated the development of gaze following in monolingual and bilingual infants. Sensitivity to cues such as eye gaze might be particularly important for bilingual infants, as they encounter less consistency between words and objects than monolinguals, and do not always have access to the same word learning heuristics (e.g., mutual exclusivity).</p
+<p>In this project we investigated the development of gaze following in monolingual and bilingual infants. Sensitivity to cues such as eye gaze might be particularly important for bilingual infants, as they encounter less consistency between words and objects than monolinguals, and do not always have access to the same word learning heuristics (e.g., <a href="https://en.wikipedia.org/wiki/Mutual_exclusivity_(psychology)" target="_blank">mutual exclusivity</a>).</p
 
 <p><img style="float: right;" src="/assets/img/mb1g_paradigm_300px.jpg">
-To test the hypothesis that bilingual experience would lead to a more pronounced ability to follow another’s gaze, we tested a total of 93 6–9 month-old and 229 12–15 month-old monolingual and bilingual infants (from 11 labs, 8 countries) in a gaze-following paradimg developed by [Senju and Csibra (2008)](https://doi.org/10.1016/j.cub.2008.03.059). Monolingual and bilingual infants showed similar gaze-following abilities, and both groups showed age-related improvements in speed, accuracy, frequency and duration of fixations.</p>
+To test the hypothesis that bilingual experience would lead to a more pronounced ability to follow another’s gaze, we tested a total of 93 6–9 month-old and 229 12–15 month-old monolingual and bilingual infants (from 11 labs in 8 countries) in a gaze-following paradigm developed by <a href="https://doi.org/10.1016/j.cub.2008.03.059" target="_blank">Senju and Csibra (2008)</a>. Monolingual and bilingual infants showed similar gaze-following abilities, and both groups showed age-related improvements in speed, accuracy, frequency and duration of fixations.</p>
 
 <img src="/assets/img/mb1g_first_freq_look.jpg">
 
