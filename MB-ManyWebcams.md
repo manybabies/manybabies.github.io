@@ -4,10 +4,15 @@ title: MB-ManyWebcams
 subtitle: Web-based Eye Tracking for Infant Studies
 ---
 
+***
 
 <div class="container">
   <div class="row justify-content-around">
-    <div class="col-lg-8">
+    <div class="col-lg-4" align="center">
+      <br>
+      <img src="/assets/img/MBMW_logo.png" width="150">
+    </div>
+    <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
         <li><i>Status:</i> <b>COMPLETE</b></li>
@@ -16,16 +21,11 @@ subtitle: Web-based Eye Tracking for Infant Studies
         <li><i>32 authors on</i> <a href="https://doi.org/10.1111/infa.12564" target="_blank"><b>Infancy</b></a> <i>publication</i></li>
       </ul>
     </div>
-    <div class="col-lg-4">
-      <br>
-      <img src="/assets/img/MBMW_logo.png" width="150">
-    </div>
   </div>
 </div>
 
 
-In this multi-lab methodological project, we try to validate an open source, web-based, eye-tracking method for research on cognitive development in young children. 
-More specifically, we evaluate whether this method, which is based on WebGazer.js [(Papoutsaki et al., 2016)](http://cs.brown.edu/people/apapouts/papers/ijcai2016webgazer.pdf) and jsPsych [(de Leeuw, 2015)](https://link.springer.com/article/10.3758%2Fs13428-014-0458-y), is comparable to lab-based eye-tracking. 
+In this multi-lab methodological project, we try to validate an open source, web-based, eye-tracking method for research on cognitive development in young children. More specifically, we evaluate whether this method, which is based on WebGazer.js [(Papoutsaki et al., 2016)](http://cs.brown.edu/people/apapouts/papers/ijcai2016webgazer.pdf) and jsPsych [(de Leeuw, 2015)](https://link.springer.com/article/10.3758%2Fs13428-014-0458-y), is comparable to lab-based eye-tracking. 
 Therefore, we aim to replicate findings of an in-lab paradigm of the [ManyBabies2]({{site.baseurl}}/MB2/) project, which revealed spontaneous goal-directed action anticipation in toddlers using commercial eye-tracking systems [(Schuwerk, Kampis et al., 2021)](https://psyarxiv.com/x4jbm/).
 <br>
 
@@ -66,5 +66,7 @@ Therefore, we aim to replicate findings of an in-lab paradigm of the [ManyBabies
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shreiORqClbR8oDn8?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 
-### Publications
-*Steffan, A.*\*, *Zimmer, L.*\*, Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmannm C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E. S., Kulke, L., Mayor, J., Meristo, M., Moreau, D., Mun, S., Prein, J. C., Rakoczy, H., Rothmaler, K., Santos Oliveira, D., Simpson, E. A., Smith, E. S., Strid, K., Tebbe, A. L., Thiele, M., Yuen, F., & Schuwerk, T. (2023). **Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood**. *Infancy*. [Open Access Publication](https://doi.org/10.1111/infa.12564),  [PsyArXiv](https://doi.org/10.31234/osf.io/7924h). <i>(\* co-first authors)</i>
+### Publication
+
+<p style="padding-left: 25px; text-indent: -25px"><i>Steffan, A.*</i>, <i>Zimmer, L.*</i>, Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmann, C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E.-S., Kulke, L., Mayor, J., Meristo, M., … Schuwerk, T. (2023). <b>Validation of an open source, remote web-based eye-tracking method (WebGazer) for research in early childhood</b>. <i>Infancy</i>. <a href="https://doi.org/10.1111/infa.12564" target="_blank">https://doi.org/10.1111/infa.12564</a> [<a href="https://doi.org/10.31234/osf.io/7924h" target="_blank">PsyArXiv preprint</a>] <i>*co-first authors</i></p>
+
