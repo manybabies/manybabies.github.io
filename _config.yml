@@ -76,10 +76,11 @@ round-avatar: true
 social-network-links:
   email: "manybabies@manybabies.org"
   github: manybabies
+  bluesky: manybabies.org
   twitter: many_babies
-  mastodon: nerdculture.de/@manybabies
   youtube: channel/UCxhS9WkVPEb1oF5BTOlbkeg
   google-scholar: citations?user=Mo3vRlsAAAAJ&hl=en
+#  mastodon: nerdculture.de/@manybabies
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  patreon: DeanAttali
 #  facebook: deanattali
