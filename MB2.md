@@ -37,8 +37,7 @@ In this ongoing project we aim to investigate a fundamental feature of human soc
 
 ***
 ### Project Leads
-* [**Dora Kampis**](https://psychology.ku.dk/staff/academic_staff/?pure=en%2Fpersons%2Fdora-kampis(94aa17eb-739f-486e-a280-4a76aa4d38a7).html), *University of Copenhagen, Denmark* [[email]](mailto:dk@psy.ku.dk)
-* [**Tobias Schuwerk**](https://www.en.cas.uni-muenchen.de/rir/junior_rir/previous_junior_rir/schuhwerk_tobias/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:Tobias.Schuwerk@psy.lmu.de)
+* [**Tobias Schuwerk**](https://www.en.cas.uni-muenchen.de/rir/junior_rir/previous_junior_rir/schuhwerk_tobias/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:Tobias.Schuwerk@psy.lmu.de)* [**Dora Kampis**](https://psychology.ku.dk/staff/academic_staff/?pure=en%2Fpersons%2Fdora-kampis(94aa17eb-739f-486e-a280-4a76aa4d38a7).html), *University of Copenhagen, Denmark* [[email]](mailto:dk@psy.ku.dk)
 * [**Hannes Rakoczy**](https://www.psych.uni-goettingen.de/en/development/team/rakoczy-hannes), *University of Göttingen, Germany* [[email]](mailto:hrakocz@uni-goettingen.de)
 * [**Michael Frank**](https://web.stanford.edu/~mcfrank/), *Stanford University, United States* [[email]](mcfrank@stanford.edu)
 
@@ -58,5 +57,6 @@ In this ongoing project we aim to investigate a fundamental feature of human soc
 
 ***
 ## Spin-off Projects
-* [MB2P: Pupil dilation to measure violation-of-expectation]({{site.baseurl}}/MB2P/)
-* [MB-ManyWebcams: Web-based Eye Tracking for Infant Studies]({{site.baseurl}}/MB-ManyWebcams/)
+
+* [**MB2P**: Pupil dilation to measure violation-of-expectation]({{site.baseurl}}/MB2P/)
+* [**MB-ManyWebcams**: Web-based Eye Tracking for Infant Studies]({{site.baseurl}}/MB-ManyWebcams/)
