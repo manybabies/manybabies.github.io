@@ -35,7 +35,7 @@ In this project we investigate the test-retest reliability of the preferences me
 
 ***
 ### Project Lead
-[**Melanie Schreiner**](https://www.psych.uni-goettingen.de/en/lang/team/schreiner-melanie), *University of Göttingen, Germany* [[email]](mailto:melanie.schreiner@psych.uni-goettingen.de)
+* [**Melanie Schreiner**](https://www.psych.uni-goettingen.de/en/lang/team/schreiner-melanie), *University of Göttingen, Germany* [[email]](mailto:melanie.schreiner@psych.uni-goettingen.de)
 
 
 ***
