@@ -15,7 +15,7 @@ subtitle: Social Evaluation
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Analyzing data</b></li>
+        <li><i>Status:</i> <b>Data collection complete; Analyzing data</b></li>
         <li><i><a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at</i> <b>Developmental Science</b></li>
       </ul>
     </div>
@@ -54,7 +54,7 @@ In this ongoing project we investigate a fundamental aspect of human nature: eva
 ### Publications
 
 <h4>Stage 1 Registered Report</h4>
-<p style="padding-left: 25px; text-indent: -25px"><i>Lucca, K.*</i>, <i>Yuen, F.*</i>, Byers-Heinlein, K., Capelier-Mourguy, A., Cirelli, L. K., Ben, R. D., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., … Hamlin, J. K. (accepted pending data collection). <b>Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study</b>. <i>Developmental Science</i>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">https://doi.org/10.31234/osf.io/qhxkm</a> <i>(\*co-first authors)</i></p>
+<p style="padding-left: 25px; text-indent: -25px"><i>Lucca, K.*</i>, <i>Yuen, F.*</i>, Byers-Heinlein, K., Capelier-Mourguy, A., Cirelli, L. K., Ben, R. D., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., … Hamlin, J. K. (accepted pending data collection). <b>Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study</b>. <i>Developmental Science</i>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">https://doi.org/10.31234/osf.io/qhxkm</a> <i>(*co-first authors)</i></p>
 
 > To cite, use (Lucca & Yuen et al., accepted pending data collection)
 
