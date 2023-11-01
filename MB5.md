@@ -23,7 +23,7 @@ subtitle: The Hunter & Ames Model of Infant Looking Preference
 </div>
 
 
-<p>Familiarity and novelty effects are the cornerstone of many infant behavioral methods (e.g., habituation, head-turn preference, preferential looking / looking-while-listening, eye tracking). In this ongoing project we investigate <a href="https://psycnet.apa.org/record/1988-98065-003" target="_blank">Hunter and Ames’ (1988)</a> model of infants’ preference for familiar and novel stimuli. We aim to empirically test whether infant age, task difficulty, and familiarization time interact to predict the direction of infants’ preference for familiar vs. novel stimuli. By comprehensively testing the Hunter and Ames model, we will solidify our foundational understanding of infant curiosity and provide the most comprehensive, global picture of the early foundations of infant cognition to date.</p>
+<p>Familiarity and novelty effects are the cornerstone of many infant behavioral methods (e.g., habituation, head-turn preference, preferential looking / looking-while-listening, eye tracking). In this ongoing project we investigate <a href="https://psycnet.apa.org/record/1988-98065-003" target="_blank"><b>Hunter and Ames’ (1988)</b></a> model of infants’ preference for familiar and novel stimuli. We aim to empirically test whether infant age, task difficulty, and familiarization time interact to predict the direction of infants’ preference for familiar vs. novel stimuli. By comprehensively testing the Hunter and Ames model, we will solidify our foundational understanding of infant curiosity and provide the most comprehensive, global picture of the early foundations of infant cognition to date.</p>
 
 <img src="/assets/img/MB5_HunterAmesFig.png">
 
