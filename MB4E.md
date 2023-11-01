@@ -15,7 +15,7 @@ subtitle: Exploring Links Between Infants’ Social Evaluations, Facial Expressi
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Collecting data; Piloting coding protocols/software</b></li>
+        <li><i>Status:</i> <b>Collecting data; Piloting coding protocols/software to code infants’ emotional responses and posture</b></li>
         <li>If you have any ideas or suggestions, please do not hesitate to reach out to us and join as a collaborator!</li>
       </ul>
     </div>
