@@ -15,8 +15,8 @@ subtitle: Exploring Links Between Infants’ Social Evaluations, Facial Expressi
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Collecting data; Piloting coding protocols/software</b></li>
-        <li>If you have any ideas or suggestions, please do not hesitate to reach out to us and join as a collaborator!</li>
+        <li><i>Status:</i> <b>Collecting data; Piloting coding protocols/software to code infants’ emotional responses and posture</b></li>
+        <li><i>If you have any ideas or suggestions, please do not hesitate to reach out to us and join as a collaborator!</i></li>
       </ul>
     </div>
   </div>
@@ -29,6 +29,7 @@ The goal of this project is to measure infants’ emotional responses (e.g. posi
 ***
 ## Links
 * **Materials, Protocols, and Documentation**: will be added after the pre-registration is complete 
+* **MB4**: [main project page]({{site.baseurl}}/MB4/)
 
 
 ***
@@ -39,7 +40,7 @@ The goal of this project is to measure infants’ emotional responses (e.g. posi
 
 
 ***
-### Mb4E Contributors
+### MB4E Contributors
 > We encourage everyone who is interested in the project to contact the Project Leads (see above). Please note that access to infants/infant lab is **NOT** a prerequisite.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrw0y0f9tucYd4DM?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
