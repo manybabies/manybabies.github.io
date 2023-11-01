@@ -34,7 +34,7 @@ The main dependent variable of the [MB2]({{site.baseurl}}/MB2/) study is childre
 
 ***
 ### Leads
-* [Robert Hepach](https://www.psy.ox.ac.uk/people/robert-hepach), *University of Oxford, United Kingdom* [[email]](robert.hepach@psy.ox.ac.uk)
+* [Robert Hepach](https://www.psy.ox.ac.uk/people/robert-hepach), *University of Oxford, United Kingdom* [[email]](mailto:robert.hepach@psy.ox.ac.uk)
 * [Hannes Rakoczy](https://www.psych.uni-goettingen.de/en/development/team/rakoczy-hannes), *University of Göttingen, Germany* [[email]](mailto:hrakocz@uni-goettingen.de)
 * Sebastian Dörrenberg
 * Charlotte Grosse Wiesmann
@@ -59,8 +59,6 @@ The main dependent variable of the [MB2]({{site.baseurl}}/MB2/) study is childre
 ### Contributors
 * For a detailed index of collaborators (+ institutions, countries, studies), see the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
 
-> We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
-
-> Please note that access to infants/infant lab is **NOT** a prerequisite.
+> We encourage everyone who is interested in the project to contact [Robert Hepach](mailto:robert.hepach@psy.ox.ac.uk). Please note that access to infants/infant lab is **NOT** a prerequisite.
 
 <!-- ### Publications -->

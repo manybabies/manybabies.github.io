@@ -53,5 +53,6 @@ A total of 341 (18 months) and 327 (24 months) infants were tested across 21 lab
 ***
 ### Publication
 
+<h4>Stage 1 Registered Report</h4>
 <p style="padding-left: 25px; text-indent: -25px">Soderstrom, M., Werker, J. F., Tsui, A., Skarabela, B., Seidl, A., Searle, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Noble, C., Nave, K., Mayor, J., Martin, A., Lew-Williams, C., Ko, E., Kartushina, N., Kammermeier, M., Jessop, A., Hay, J. F., Hannon, E. E., Hamlin, J. K., Gonzalez-Gomez, N., Gonzalez-Barrero, A. M., Gampe, A., Fritzsche, T., Frank, M. C., Floccia, C., Durrant, S., Delle Luche, C., Davies, C., Cashon, C., Byers-Heinlein, K., Black, A. K., Bergmann, C., Anderson, L. (Stage 1 Registered Report, In Principle Acceptance). <b>Testing the Relationship Between Preferences for Infant-Directed Speech and Vocabulary Development: A Multi-Lab Study</b>. <i>Journal of Child Language</i>. [<a href="https://drive.google.com/file/d/1r-UxWPriMn7AY5xhg6hnpNj_drTHt6In/view?usp=sharing" target="_blank">Manuscript</a>]</p>
 
