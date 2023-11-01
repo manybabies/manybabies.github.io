@@ -41,6 +41,7 @@ The goal of this project is to measure infants’ emotional responses (e.g. posi
 
 ***
 ### MB4E Contributors
+
 > We encourage everyone who is interested in the project to contact the Project Leads (see above). Please note that access to infants/infant lab is **NOT** a prerequisite.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrw0y0f9tucYd4DM?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
