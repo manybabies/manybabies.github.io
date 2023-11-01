@@ -46,5 +46,6 @@ In this project we investigate the test-retest reliability of the preferences me
 ***
 ### Publication
 
+<h4>Preprint</h4>
 <p style="padding-left: 25px; text-indent: -25px">Schreiner, M. S., Zettersten, M., Bergmann, C., Frank, M. C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, K., Kartushina, N., Kellier, D. J., Mani, N., Mayor, J., Saffran, J., Shukla, M., Silverstein, P., Soderstrom, M., & Lippold, M. (2022, Dec 21). <b>Limited evidence of test-retest reliability in infant-directed speech preference in a large pre-registered infant sample</b>. <a href="https://doi.org/10.31234/osf.io/uwche" target="_blank">https://doi.org/10.31234/osf.io/uwche</a></p>
 
