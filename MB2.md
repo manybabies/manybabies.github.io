@@ -44,14 +44,17 @@ In this ongoing project we aim to investigate a fundamental feature of human soc
 
 
 ***
-### Contributors
+### MB2 Contributors
+
+> We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [**MB Sign-Up Form**]({{site.baseurl}}/get_involved/). Please note that access to infants/infant lab is **NOT** a prerequisite.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shryxrHCFp88zIuHJ?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ***
 ### Publication
 
-<p style="padding-left: 25px; text-indent: -25px"><i>Schuwerk, T.*</i>, <i>Kampis, D.*</i>, Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K., Dörrenberg, S., Fisher, C., Franchin, L., Fulcher, T., Garbisch, I., Geraci, A., Grosse Wiesmann, C., Hamlin, K., Haun, D. B. M., Hepach, R., Hunnius, S., Hyde, D. C., Karman, P., … Rakoczy, H. (accepted pending data collection). <b>Stage 1 Registered Report: Action anticipation based on an agent's epistemic state in toddlers and adults</b>. <i>Child Development</i>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/x4jbm" target="_blank">https://doi.org/10.31234/osf.io/x4jbm</a> <i>(*co-first authors)</i></p>
+<h4>Stage 1 Registered Report</h4>
+<p style="padding-left: 25px; text-indent: -25px"><i>Schuwerk, T.*</i>, <i>Kampis, D.*</i>, Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K., Dörrenberg, S., Fisher, C., Franchin, L., Fulcher, T., Garbisch, I., Geraci, A., Grosse Wiesmann, C., Hamlin, K., Haun, D. B. M., Hepach, R., Hunnius, S., Hyde, D. C., Karman, P., … Rakoczy, H. (accepted pending data collection). <b>Action anticipation based on an agent's epistemic state in toddlers and adults</b>. <i>Child Development</i>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/x4jbm" target="_blank">https://doi.org/10.31234/osf.io/x4jbm</a> <i>(*co-first authors)</i></p>
 
 > To cite, use (Schuwerk & Kampis et al., accepted pending data collection)
 
