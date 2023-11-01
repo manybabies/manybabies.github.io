@@ -5,21 +5,27 @@ subtitle: Rule Learning
 cover-img: /assets/img/MB3_logo.png
 ---
 
-## Project Overview
+***
 
-* *Status: **Collecting data <a href="https://umanitobapsych.az1.qualtrics.com/jfe/form/SV_4NiYE6jM0399g7r" target="_blank">(sign up here)</a>***
-* *<a href="https://doi.org/10.31234/osf.io/aex7v" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at* **Developmental Science**
+<div class="container">
+  <div class="row justify-content-around">
+    <div class="col-lg-4" align="center">
+      <br>
+      <img src="/assets/img/MB3_logo.png" width="150">
+    </div>
+    <div class="col-lg-8" align="left">
+      <h2>Project Overview</h2>
+      <ul>
+        <li><i>Status:</i> <b>Collecting data</b> <a href="https://umanitobapsych.az1.qualtrics.com/jfe/form/SV_4NiYE6jM0399g7r" target="_blank">(sign up here)</a></li>
+        <li><i><a href="https://doi.org/10.31234/osf.io/aex7v" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at</i> <b>Developmental Science</b></li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 
 <img style="float: right;" src="/assets/img/BLL1_300px.jpg">
 In this ongoing project we investigate an ability that lies at the heart of cognition: to learn and to apply rules. We ask whether infants (from 5 to 12 months-old) can learn abstract algebraic rules over patterned syllable sequences and generalize those rules to novel syllable sequences. Despite the large research effort on the topic, questions remain about the robustness of the core finding, as many studies failed to find significant learning effects. We believe that a multi-lab approach with a large and diverse sample of infants has the potential to uncover whether and to what extent this core cognitive ability is available in young infants and how it varies across age and different developmental circumstances.
-
-***
-### Leads
-* [Ingmar Visser](https://www.uva.nl/profiel/v/i/i.visser/i.visser.html?cb), *University of Amsterdam, Netherlands* [[email]](mailto:i.visser@uva.nl) 
-* [Claartje Levelt](https://www.universiteitleiden.nl/en/staffmembers/claartje-levelt#tab-1), *Leiden University, Netherlands* [[email]](mailto:c.c.levelt@hum.leidenuniv.nl) 
-* [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada* [[email]](mailto:M_Soderstrom@umanitoba.ca)
-* [Andreea Geambasu](https://www.universiteitleiden.nl/en/staffmembers/andreea-geambasu#tab-1), *Leiden University, Netherlands* [[email]](mailto:a.geambasu@hum.leidenuniv.nl)
 
 
 ***
@@ -32,19 +38,28 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 
 
 ***
-### Contributors
-* For a detailed index of collaborators (+ institutions, countries, studies), see the [**MB** collaborator dashboard](https://manybabies.shinyapps.io/shiny_mb_map/).
-
-> We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [MB Sign-Up Form]({{site.baseurl}}/get_involved/).
-
-> Please note that access to infants/infant lab is **NOT** a prerequisite.
+### Leads
+* [**Ingmar Visser**](https://www.uva.nl/profiel/v/i/i.visser/i.visser.html?cb), *University of Amsterdam, Netherlands* [[email]](mailto:i.visser@uva.nl) 
+* [**Claartje Levelt**](https://www.universiteitleiden.nl/en/staffmembers/claartje-levelt#tab-1), *Leiden University, Netherlands* [[email]](mailto:c.c.levelt@hum.leidenuniv.nl) 
+* [**Melanie Soderstrom**](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada* [[email]](mailto:M_Soderstrom@umanitoba.ca)
+* [**Andreea Geambasu**](https://www.universiteitleiden.nl/en/staffmembers/andreea-geambasu#tab-1), *Leiden University, Netherlands* [[email]](mailto:a.geambasu@hum.leidenuniv.nl)
 
 
 ***
-### Publications
-Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., Shukla, M., Tsui, A. S. M., Sirois, S., Westermann, G., Soderstrom, M., & Levelt, C. C. (Stage 1 Registered Report, In Principle Acceptance). **ManyBabies 3: A multi-lab study of infant algebraic rule learning**. *Developmental Science*. PsyArXiv. [doi:10.31234/osf.io/aex7v](https://doi.org/10.31234/osf.io/aex7v)
+### MB3 Contributors
 
-> to cite, use (Visser et al., accepted pending data collection)
+> We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [**MB Sign-Up Form**]({{site.baseurl}}/get_involved/). Please note that access to infants/infant lab is **NOT** a prerequisite.
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrhL9H0PVFq41XHk?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+
+***
+### Publication
+
+<h4>Stage 1 Registered Report</h4>
+<p style="padding-left: 25px; text-indent: -25px">Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E. E., Havron, N., Johnson, S. P., Kachergis, G., Kline Struhl, M., Kosie, J., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M. E. J., … Levelt, C. C. (accepted pending data collection). <b>ManyBabies 3: A multi-lab study of infant algebraic rule learning</b>. <i>Developmental Science</i>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/aex7v" target="_blank">https://doi.org/10.31234/osf.io/aex7v</a></p>
+
+> To cite, use (Visser et al., accepted pending data collection)
 
 
 ***
