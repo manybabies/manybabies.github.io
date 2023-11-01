@@ -15,7 +15,7 @@ subtitle: Social Evaluation
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Analyzing data</b></li>
+        <li><i>Status:</i> <b>Data collection complete; Analyzing data</b></li>
         <li><i><a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at</i> <b>Developmental Science</b></li>
       </ul>
     </div>
