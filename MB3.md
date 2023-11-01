@@ -2,7 +2,6 @@
 layout: page
 title: MB3
 subtitle: Rule Learning
-cover-img: /assets/img/MB3_logo.png
 ---
 
 ***
