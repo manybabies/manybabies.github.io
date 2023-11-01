@@ -31,7 +31,7 @@ NIRS is a relatively new imaging technique. Variation across instruments, analys
 ### Links
 <!-- * **Materials, Protocols, and Documentation**: [MB1B-OSF](https://osf.io/zauhq/).
 * **Data and code**: [MB1B-GitHub](https://github.com/manybabies/mb1b-analysis-public). -->
-* **Listserv**: [email Judit Gervain](mailto:judit.gervain@parisdescartes.fr).
+* **Listserv**: [email Judit Gervain](mailto:judit.gervain@parisdescartes.fr) to subscribe *(subject: MB3N listserv)*
 * **Slack workspace**: [join](https://join.slack.com/t/mb3nirs/shared_invite/zt-1opm3wjvb-Hk5cO2ZDciUhWyuJfeunQQ)
 
 
@@ -43,7 +43,7 @@ NIRS is a relatively new imaging technique. Variation across instruments, analys
 ***
 ### MB3-NIRS Contributors
 
-> We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [**MB Sign-Up Form**]({{site.baseurl}}/get_involved/). Please note that access to infants/infant lab is **NOT** a prerequisite.
+> We encourage everyone who is interested in the project to contact the Project Lead (see above) or fill out the [**MB Sign-Up Form**]({{site.baseurl}}/get_involved/). Please note that access to infants/infant lab is **NOT** a prerequisite.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrGEVnIg50ssHlRq?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
