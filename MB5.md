@@ -23,7 +23,7 @@ subtitle: The Hunter & Ames Model of Infant Looking Preference
 </div>
 
 
-<p>Familiarity and novelty effects are the cornerstone of many infant behavioral methods (e.g., habituation, head-turn preference, preferential looking / looking-while-listening, eye tracking). In this ongoing project we investigate <a href="https://psycnet.apa.org/record/1988-98065-003" target="_blank">Hunter and Ames’ (1988)</a> model of infants’ preference for familiar and novel stimuli. We aim to empirically test whether infant age, task difficulty, and familiarization time interact to predict the direction of infants’ preference for familiar vs. novel stimuli. By comprehensively testing the Hunter and Ames model, we will solidify our foundational understanding of infant curiosity and provide the most comprehensive, global picture of the early foundations of infant cognition to date.</p>
+<p>Familiarity and novelty effects are the cornerstone of many infant behavioral methods (e.g., habituation, head-turn preference, preferential looking / looking-while-listening, eye tracking). In this ongoing project we investigate <a href="https://psycnet.apa.org/record/1988-98065-003" target="_blank"><b>Hunter and Ames’ (1988)</b></a> model of infants’ preference for familiar and novel stimuli. We aim to empirically test whether infant age, task difficulty, and familiarization time interact to predict the direction of infants’ preference for familiar vs. novel stimuli. By comprehensively testing the Hunter and Ames model, we will solidify our foundational understanding of infant curiosity and provide the most comprehensive, global picture of the early foundations of infant cognition to date.</p>
 
 <img src="/assets/img/MB5_HunterAmesFig.png">
 
@@ -53,7 +53,7 @@ subtitle: The Hunter & Ames Model of Infant Looking Preference
 
 ### Publication
 
-<h4>Stage 1 Registered Report</h4>
+<h4>Stage 1 Registered Report (preprint)</h4>
 <p style="padding-left: 25px; text-indent: -25px"><i>Kosie, J. E.*</i>, <i>Zettersten, M.*</i>, Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H. A., Bazhydai, M., Belia, M., Benavides, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., … Lew-Williams, C. (2023, August 31). <b>ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time</b>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">https://doi.org/10.31234/osf.io/ck3vd</a> <i>(*co-first authors)</i></p>
 
 > To cite, use (Kosie & Zettersten et al., under review)
