@@ -37,7 +37,8 @@ In this ongoing project we aim to investigate a fundamental feature of human soc
 
 ***
 ### Project Leads
-* [**Tobias Schuwerk**](https://www.en.cas.uni-muenchen.de/rir/junior_rir/previous_junior_rir/schuhwerk_tobias/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:Tobias.Schuwerk@psy.lmu.de)* [**Dora Kampis**](https://psychology.ku.dk/staff/academic_staff/?pure=en%2Fpersons%2Fdora-kampis(94aa17eb-739f-486e-a280-4a76aa4d38a7).html), *University of Copenhagen, Denmark* [[email]](mailto:dk@psy.ku.dk)
+* [**Tobias Schuwerk**](https://www.en.cas.uni-muenchen.de/rir/junior_rir/previous_junior_rir/schuhwerk_tobias/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:Tobias.Schuwerk@psy.lmu.de)
+* [**Dora Kampis**](https://psychology.ku.dk/staff/academic_staff/?pure=en%2Fpersons%2Fdora-kampis(94aa17eb-739f-486e-a280-4a76aa4d38a7).html), *University of Copenhagen, Denmark* [[email]](mailto:dk@psy.ku.dk)
 * [**Hannes Rakoczy**](https://www.psych.uni-goettingen.de/en/development/team/rakoczy-hannes), *University of Göttingen, Germany* [[email]](mailto:hrakocz@uni-goettingen.de)
 * [**Michael Frank**](https://web.stanford.edu/~mcfrank/), *Stanford University, United States* [[email]](mcfrank@stanford.edu)
 
@@ -52,11 +53,11 @@ In this ongoing project we aim to investigate a fundamental feature of human soc
 
 <p style="padding-left: 25px; text-indent: -25px"><i>Schuwerk, T.*</i>, <i>Kampis, D.*</i>, Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K., Dörrenberg, S., Fisher, C., Franchin, L., Fulcher, T., Garbisch, I., Geraci, A., Grosse Wiesmann, C., Hamlin, K., Haun, D. B. M., Hepach, R., Hunnius, S., Hyde, D. C., Karman, P., … Rakoczy, H. (accepted pending data collection). <b>Stage 1 Registered Report: Action anticipation based on an agent's epistemic state in toddlers and adults</b>. <i>Child Development</i>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/x4jbm" target="_blank">https://doi.org/10.31234/osf.io/x4jbm</a> <i>(*co-first authors)</i></p>
 
-> to cite, use (Schuwerk & Kampis et al., accepted pending data collection)
+> To cite, use (Schuwerk & Kampis et al., accepted pending data collection)
 
 
 ***
 ## Spin-off Projects
 
-* [**MB2P**: Pupil dilation to measure violation-of-expectation]({{site.baseurl}}/MB2P/)
+* [**MB2P**: Pupil Dilation to Measure Violation-of-Expectation]({{site.baseurl}}/MB2P/)
 * [**MB-ManyWebcams**: Web-based Eye Tracking for Infant Studies]({{site.baseurl}}/MB-ManyWebcams/)
