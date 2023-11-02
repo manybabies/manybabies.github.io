@@ -31,9 +31,8 @@ Infants show a preference for infant-directed speech (IDS) over adult-directed s
 ***
 ### Links  
 * **Materials, Protocols, and Documentation**: [MB1A-OSF](https://osf.io/jgr79/).  
-* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies-africa)
 * **Data and code**: [MB1B-GitHub](https://github.com/manybabies/mb1b-analysis-public)
-* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies1)
+* **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies-africa)
 * **Slack**: [MB workspace](https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ) (*join the **#mb1africa-general** channel*)
 * **MB1**: [main project page]({{site.baseurl}}/MB1/)
 
@@ -58,6 +57,6 @@ Infants show a preference for infant-directed speech (IDS) over adult-directed s
 ### Publication
 
 <h4>Stage 1 Registered Report</h4>
-<p style="padding-left: 25px; text-indent: -25px">Tsui, A. S. M., Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., Mathur, M., Mbagaya, C. V., Mekonnen Mengistie, D., Milton, C., Mushimiyimana, F., Ndhambi, M., Ngina, I., Njoroge, E., Odhiambo Oburu, P., Okyere Omane, P., Singh, A., Ssemata, A. S., Unyuzumutima, J., Zeidler, H., Lew-Williams, C., Frank, M. C. (accepted pending data collection). <b>Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa</b>. <i>Developmental Science</i>.<a href="https://osf.io/fqp4b" target="_blank">https://osf.io/fqp4b</a>OSF preprint</a></p>
+<p style="padding-left: 25px; text-indent: -25px">Tsui, A. S. M., Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., Mathur, M., Mbagaya, C. V., Mekonnen Mengistie, D., Milton, C., Mushimiyimana, F., Ndhambi, M., Ngina, I., Njoroge, E., Odhiambo Oburu, P., Okyere Omane, P., Singh, A., Ssemata, A. S., Unyuzumutima, J., Zeidler, H., Lew-Williams, C., Frank, M. C. (accepted pending data collection). <b>Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa</b>. <i>Developmental Science</i>. OSF. <a href="https://osf.io/fqp4b" target="_blank">https://osf.io/fqp4b</a></p>
 
 > To cite, use (Tsui et al., accepted pending data collection)
