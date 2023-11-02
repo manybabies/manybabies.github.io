@@ -2,28 +2,28 @@
 layout: page
 title: MB6
 subtitle: Neonatal and Early Imitation
-cover-img: /assets/img/MB6_logo.png
 ---
 
-## Project Overview
+***
 
-* *Status: **Study design***
-* *Subscribe to the <a href="https://groups.google.com/a/manybabies.org/g/mb6-list" target="_blank"><b>MB6 listserv</b></a> to get involved!*
+<div class="container">
+  <div class="row justify-content-around">
+    <div class="col-lg-4" align="center">
+      <br>
+      <img src="/assets/img/MB6_logo.png" width="150">
+    </div>
+    <div class="col-lg-8" align="left">
+      <h2>Project Overview</h2>
+      <ul>
+        <li><i>Status:</i> <b>Study design</b></li>
+        <li>Subscribe to the <a href="https://groups.google.com/a/manybabies.org/g/mb6-list" target="_blank"><b>MB6 listserv</b></a> to get involved!</li>
+      </ul>
+    </div>
+  </div>
+</div>
 
 
 > Study description to come!
-
-<br>
-
-*** 
-### Project Leads
-* [Sumeet Farwaha](https://ecdc.psychology.uq.edu.au/profile/320/sumeet-farwaha), *University of Queensland, Australia* [[email]](mailto:s.farwaha@uq.edu.au)
-* [Andrew Meltzoff](https://ilabs.uw.edu/meltzoff/), *University of Washington, United States* [[email]](mailto:meltzoff@uw.edu)
-* [Elizabeth Simpson](https://people.miami.edu/profile/exs796@miami.edu), *University of Miami, United States* [[email]](mailto:elizabethannsimpson@gmail.com)
-* [Virginia Slaughter](https://psychology.uq.edu.au/profile/2215/virginia-slaughter), *University of Queensland, Australia* [[email]](mailto:vps@psy.uq.edu.au)
-* [Mark Nielsen](https://psychology.uq.edu.au/profile/2458/mark-nielsen), *University of Queensland, Australia* [[email]](mailto:m.nielsen@psy.uq.edu.au)
-* [Rechele Brooks](https://ilabs.uw.edu/i-labs-rechele-brooks-phd/), *University of Washington, United States* [[email]](mailto:recheleb@uw.edu)
-
 
 
 ***
@@ -33,8 +33,20 @@ cover-img: /assets/img/MB6_logo.png
 * **Initial planning workshops**: [Workshop 1](https://www.youtube.com/watch?v=SIwvMydZUwA), [Workshop 2](https://www.youtube.com/watch?v=61muVqg7mnI)
 
 
+*** 
+### Project Leads
+* [**Sumeet Farwaha**](https://ecdc.psychology.uq.edu.au/profile/320/sumeet-farwaha), *University of Queensland, Australia* [[email]](mailto:s.farwaha@uq.edu.au)
+* [**Andrew Meltzoff**](https://ilabs.uw.edu/meltzoff/), *University of Washington, United States* [[email]](mailto:meltzoff@uw.edu)
+* [**Elizabeth Simpson**](https://people.miami.edu/profile/exs796@miami.edu), *University of Miami, United States* [[email]](mailto:elizabethannsimpson@gmail.com)
+* [**Virginia Slaughter**](https://psychology.uq.edu.au/profile/2215/virginia-slaughter), *University of Queensland, Australia* [[email]](mailto:vps@psy.uq.edu.au)
+* [**Mark Nielsen**](https://psychology.uq.edu.au/profile/2458/mark-nielsen), *University of Queensland, Australia* [[email]](mailto:m.nielsen@psy.uq.edu.au)
+* [**Rechele Brooks**](https://ilabs.uw.edu/i-labs-rechele-brooks-phd/), *University of Washington, United States* [[email]](mailto:recheleb@uw.edu)
+
+
 ***
+### MB6 Contributors
 
-> We encourage everyone who is interested in the project to join the listserv using the link above. You can also email the [project email address](mailto:mb6@manybabies.org) or one or more of the project leads to indicate your interest.
+> We encourage everyone who is interested in the project to email the [project email address](mailto:mb6@manybabies.org) or one or more of the Project Leads (see above) to indicate your interest, or fill out the [**MB Sign-Up Form**]({{site.baseurl}}/get_involved/). Please note that access to infants/infant lab is **NOT** a prerequisite.
 
-> Please note that access to infants/infant lab is **NOT** a prerequisite.
+<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrlM3zLzNYw3ZvYL?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
