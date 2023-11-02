@@ -49,6 +49,7 @@ cover-img: /assets/img/MB2_logo.png
 ### Links
 * **Listserv**: [join here](https://groups.google.com/a/manybabies.org/g/mb2p-list)
 * **Materials, Protocols, and Documentation**: [MB2 lab manual](https://docs.google.com/document/d/1xAw_EbmvRl1Rj3iAVASazyb4HPxoECfvKaf_7zfFi0o/edit?usp=sharing)
+* **MB2**: [main project page]({{site.baseurl}}/MB2/)
 
 
 ***
