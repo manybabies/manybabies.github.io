@@ -2,7 +2,6 @@
 layout: page
 title: MB2P
 subtitle: Measuring Pupil Dilation in Response to Expected and Unexpected Events
-cover-img: /assets/img/MB2_logo.png
 ---
 
 ***
