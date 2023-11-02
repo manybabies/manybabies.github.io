@@ -41,7 +41,7 @@ subtitle: Online Infant Data Collection
 * [**Lorijn Zaadnoordijk**](https://sites.google.com/view/lorijnzaadnoordijk/homepage), *Trinity College Dublin, Ireland* [[email]](mailto:L.Zaadnoordijk@tcd.ie)
 * [**Sho Tsuji**](https://sites.google.com/site/tsujish), *University of Tokyo, Japan* [[email]](mailto:tsujish@gmail.com)
 * [**Katie Von Holzen**](https://kvonholzen.github.io), *TU Braunschweig, Germany* [[email]](mailto:katie.m.vonholzen@gmail.com)
-* [**Helen Buckler**](https://www.nottingham.ac.uk/english/people/helen.buckler), *University of Nottingham, United Kingdom* [[email]](mailto:Helen.Buckler@nottingham.ac.uk)
+* [**Helen Buckler**](https://www.nottingham.ac.uk/english/people/helen.buckler), *University of Nottingham, England* [[email]](mailto:Helen.Buckler@nottingham.ac.uk)
 * [**Rhodri Cusack**](https://www.infantcentre.ie/who-we-are-2/our-team/prof-rhodri-cusack), *Trinity College Dublin, Ireland* [[email]](mailto:rhodricusack@cusacklab.org)
 
 
