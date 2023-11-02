@@ -16,12 +16,13 @@ subtitle: Neonatal and Early Imitation
       <h2>Project Overview</h2>
       <ul>
         <li><i>Status:</i> <b>Study design</b></li>
-        <li>Subscribe to the <a href="https://groups.google.com/a/manybabies.org/g/mb6-list" target="_blank"><b>MB6 listserv</b></a> to get involved!</li>
+        <li><i>Subscribe to the <a href="https://groups.google.com/a/manybabies.org/g/mb6-list" target="_blank"><b>MB6 listserv</b></a> to get involved!</i></li>
       </ul>
     </div>
   </div>
 </div>
 
+<br>
 
 > Study description to come!
 
