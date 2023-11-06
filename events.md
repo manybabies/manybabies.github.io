@@ -10,12 +10,12 @@ title: Events
 
 #### November 7, 2023 - 3pm UTC
 ### MB-ManyWebcams Pulication Party
-> link to publication: https://doi.org/10.1111/infa.12564
+> link to publication: [https://doi.org/10.1111/infa.12564](https://doi.org/10.1111/infa.12564)
 
 
 #### November 15, 2023 - 5pm UTC
 ### MB-Demographics Publication Party
-> link to publication: https://doi.org/10.1037/dev0001623
+> link to publication: [https://doi.org/10.1037/dev0001623](https://doi.org/10.1037/dev0001623)
 
 <br>
 
