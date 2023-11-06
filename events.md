@@ -5,6 +5,24 @@ title: Events
 
 > *Upcoming*
 
+## MB Publication Parties
+> view [MB calendar]({{site.baseurl}}/calendar/) for zoom links
+
+
+#### November 7, 2023 - 3pm UTC
+### MB-ManyWebcams Pulication Party
+> link to publication: https://doi.org/10.1111/infa.12564
+
+
+#### November 15, 2023 - 5pm UTC
+### MB-Demographics Publication Party
+> link to publication: https://doi.org/10.1037/dev0001623
+
+<br>
+
+***
+> *Past*
+
 #### October 23-25, 2023 
 ### Big Team Science Conference
 
@@ -15,7 +33,6 @@ title: Events
   <a href="https://bigteamscienceconference.github.io"><i>Conference Website</i></a>
 </div>
 
-<br>
 
 ***
 #### September 1, 2023 - 10am-12pm ET (Montréal, Canada; UTC -4) on Zoom
@@ -25,12 +42,7 @@ title: Events
 ![MM1 Webinar flyer](https://manymanys.github.io/assets/img/jul2023_webinar_rl.png)
 
 
-<br>
-
-
 ***
-> *Past*
-
 #### May 11, 2023 - 8:30-10:00am CEST (Berlin, Germany; UTC +2) on Zoom
 ### Open data for developmental science
 #### Christina Bergmann, *Osnabrück University of Applied Sciences & Max Planck Institute for Psycholinguistics*
