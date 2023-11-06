@@ -3,7 +3,6 @@ layout: page
 title: Events
 ---
 
-> *Upcoming*
 
 ## MB Publication Parties
 > view [MB calendar]({{site.baseurl}}/calendar/) for zoom links
@@ -11,18 +10,16 @@ title: Events
 
 #### November 7, 2023 - 3pm UTC
 ### MB-ManyWebcams Pulication Party
-> link to publication: https://doi.org/10.1111/infa.12564
+> link to publication: [https://doi.org/10.1111/infa.12564](https://doi.org/10.1111/infa.12564)
 
 
 #### November 15, 2023 - 5pm UTC
 ### MB-Demographics Publication Party
-> link to publication: https://doi.org/10.1037/dev0001623
+> link to publication: [https://doi.org/10.1037/dev0001623](https://doi.org/10.1037/dev0001623)
 
 <br>
 
 ***
-> *Past*
-
 #### October 23-25, 2023 
 ### Big Team Science Conference
 
@@ -32,7 +29,7 @@ title: Events
   <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2023_logo.png" alt="2023 Big Team Science Conference, hosted virtually October 23-25" /></a><br>
   <a href="https://bigteamscienceconference.github.io"><i>Conference Website</i></a>
 </div>
-
+<br>
 
 ***
 #### September 1, 2023 - 10am-12pm ET (Montréal, Canada; UTC -4) on Zoom
@@ -53,8 +50,7 @@ title: Events
 <h4>Slides available <a href="https://docs.google.com/presentation/d/1ORAagw8vh0tBjEnSiJXECSPZQ90rnSgn7iFGCwzywxo/edit?usp=sharing" target="_blank">here</a></h4>
 
 Open data is one of the key mandates in calls for increased transparency, with badges, citation advantages, and sometimes even refusal to publish papers when data are not made open. For developmental researchers, this need for transparency stands in stark contrast with confidentiality, especially when working with infants. Christina reviews developmental science's impressive history of open data to show that there are ways to ethically and responsibly share data, and then discusses different strategies and emerging best practices to balance participant protection with transparency.
-
-
+<br>
 
 ***
 #### March 21, 2023 - 9:00-10:30 PDT (San Francisco, USA; UTC -7) on Zoom
@@ -66,7 +62,7 @@ Open data is one of the key mandates in calls for increased transparency, with b
 <h4>Slides available <a href="https://docs.google.com/presentation/d/1lAzPF558FNvFuTWgitYZrNKSo9SuIxvW-rn7IjTmlhs/edit?usp=sharing" target="_blank">here</a></h4>
 
 In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) led participants through the benefits of using RMarkdown to create reproducible research reports. Follow along with the exercises to see how simple it is to integrate writing and analyses in your workflow.
-
+<br>
 
 ***
 #### October 27-28, 2022 
@@ -81,7 +77,7 @@ In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) l
 </div>
 
 <h4><a href="https://www.youtube.com/playlist?list=PLynqjZusW6nt9D3wQkyavZmMWl2ZgjszV" target="_blank">VIEW MB TALK RECORDINGS</a></h4>
-
+<br>
 
 ***
 <div class="container" align="center">
@@ -97,7 +93,7 @@ In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) l
 #### Slides available on [OSF](https://osf.io/5x8yk/)
 
 In this workshop, Nicolás and Krista introduce the open science perspective for psychological research. The aim is for participants to discover, discuss, and engage in using open science practices (e.g., open access, open data, preprints, pre-registration) and to learn ways to apply them in their own research. The workshop does not require prior knowledge of open science; all those interested in learning or deepening their knowledge of how to do open research are most welcome! 
-
+<br>
 
 ***
 #### April 21, 2022 in Madison, Wisconsin, United States
