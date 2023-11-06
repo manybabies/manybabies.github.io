@@ -6,10 +6,13 @@ title: Events
 > *Upcoming*
 
 ## MB Publication Parties
+> view [MB calendar]({{site.baseurl}}/calendar/) for zoom links
+
 
 #### November 7, 2023 - 3pm UTC
 ### MB-ManyWebcams Pulication Party
 > link to publication: https://doi.org/10.1111/infa.12564
+
 
 #### November 15, 2023 - 5pm UTC
 ### MB-Demographics Publication Party
