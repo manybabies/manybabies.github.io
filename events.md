@@ -3,7 +3,7 @@ layout: page
 title: Events
 ---
 
-
+***
 ## MB Publication Parties
 > view [MB calendar]({{site.baseurl}}/calendar/) for zoom links
 
