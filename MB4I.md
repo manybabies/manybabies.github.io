@@ -47,7 +47,9 @@ subtitle: Individual differences in infants’ social evaluations across culture
 ***
 ### MB4I Contributors
 
-> We encourage everyone who is interested in the project to contact the Project Leads (see above). Please note that access to infants/infant lab is **NOT** a prerequisite.
+We encourage everyone who is interested in the project to contact the Project Leads (see above). Please note that access to infants/an infant lab is **NOT** a prerequisite.
+
+> NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrcO1IcNtJkwri01?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
