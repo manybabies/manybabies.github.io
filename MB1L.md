@@ -47,6 +47,8 @@ A total of 341 (18 months) and 327 (24 months) infants were tested across 21 lab
 
 ***
 ### Contributors
+> NOTE: Default table ordering is by contributor's first name. You can filter, gruop, and/or sort entries by any field.
+
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrVSj85N0OkDVT6k?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 

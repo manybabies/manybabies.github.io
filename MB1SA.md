@@ -17,10 +17,10 @@ Meta-analyses are often considered to be the most reliable source of information
 
 
 ### Project Leads
-* [Martin Zettersten](https://mzettersten.github.io/), *Princeton University, United States* [[email]](mailto:martincz@princeton.edu)
-* [Christopher Cox](https://chriscox.netlify.app/), *Aarhus University, Denmark* [[email]](mailto:chris.mm.cox@gmail.com)
-* [Christina Bergmann](https://scholar.google.com/citations?user=5e9DkjMAAAAJ&hl=en), *University of Applied Sciences, Germany & Max Planck Institute for Psycholinguistics, Netherlands* [[email]](mailto:chbergma@gmail.com)
-* [Maya Mathur](https://www.mayamathur.com/), *Stanford University, United States* [[email]](mailto:mmathur@stanford.edu)
+* [**Martin Zettersten**](https://mzettersten.github.io/), *Princeton University, United States* [[email]](mailto:martincz@princeton.edu)
+* [**Christopher Cox**](https://chriscox.netlify.app/), *Aarhus University, Denmark* [[email]](mailto:chris.mm.cox@gmail.com)
+* [**Christina Bergmann**](https://scholar.google.com/citations?user=5e9DkjMAAAAJ&hl=en), *University of Applied Sciences, Germany & Max Planck Institute for Psycholinguistics, Netherlands* [[email]](mailto:chbergma@gmail.com)
+* [**Maya Mathur**](https://www.mayamathur.com/), *Stanford University, United States* [[email]](mailto:mmathur@stanford.edu)
 
 
 ### Status
