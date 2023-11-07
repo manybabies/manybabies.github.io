@@ -60,7 +60,7 @@ subtitle: Infant-Directed Speech Preference
 
 ***
 ### MB1 Contributors
-> NOTE: Default table ordering is by author's first name. You can filter, sort, group entries by any field.
+> NOTE: Default table ordering is by contributor's first name. You can filter, gruop, and/or sort entries by any field.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrZ1jpu9RS9lf9jO?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
