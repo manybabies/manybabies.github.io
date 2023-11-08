@@ -25,7 +25,7 @@ cover-img: /assets/img/MB_map.png
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrmAhZCMC9Bno7vF?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-#### To be ADDED to the MB Contributor Dashboard: [**MB Dashboard ADD Form**](https://airtable.com/appRoqMKzcK3NsXt4/shrglw1TM1HxDfbYG). 
+#### To be ADDED to the MB Contributor Dashboard: [**MB Dashboard ADD Form**](https://airtable.com/appRoqMKzcK3NsXt4/shrglw1TM1HxDfbYG) 
 
 #### To UPDATE your information on the Dashboard: [**MB Dashboard UPDATE Form**](https://airtable.com/appRoqMKzcK3NsXt4/shrBx1vEakEkyeYbg)
 <br>
