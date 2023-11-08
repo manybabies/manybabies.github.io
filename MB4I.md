@@ -39,7 +39,7 @@ subtitle: Individual differences in infants’ social evaluations across culture
 
 ***
 ### Leads
-* [**Yiyi Wang**](https://scholar.google.com/citations?user=OIjxPSUAAAAJ&hl=en), *Peking University, China* [[email]](mailto:yiyi_wang@pku.edu.cn)
+* [**Yiyi Wang**](https://yiyiwang.webador.com/), *University of Chicago, United States* [[email]](mailto:yiyiwang@uchicago.edu)
 * [**Hilal Şen**](https://www.unak.is/english/moya/ugla/staff/hilal-sen), *University of Akureyri, Iceland & MEF University, Turkey* [[email]](mailto:hilal@unak.is)
 * [**Kelsey Lucca**](https://isearch.asu.edu/profile/3521043), *Arizona State University, United States* [[email]](mailto:kelsey.lucca@asu.edu)
 
