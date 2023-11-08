@@ -204,9 +204,9 @@ cover-img: /assets/img/MB_map.png
 
 ### Alumni
 
-#### Student Advisors
-* **Mary Beth Neff**, *University of Oslo (Oslo, Norway)* [2022-2023]
-* **Francis Yuen**, *University of British Columbia (Vancouver, Canada)* [2022-2023]
+#### 2022-2023 Student Advisors
+* [**Mary Beth Neff**](https://www.hf.uio.no/ifikk/english/people/aca/philosophy/temporary/maryen/index.html), *University of Oslo (Oslo, Norway)*
+* [**Francis Yuen**](https://psych.ubc.ca/profile/francis-yuen/), *University of British Columbia (Vancouver, Canada)*
 
 #### Office Assistant
 * **Grace Zhou**, *University of Manitoba (Winnipeg, Canada)* [2021-2023]
