@@ -4,7 +4,7 @@ title: People
 cover-img: /assets/img/MB_map.png
 ---
 
-## Contributors
+
 
 **ManyBabies** is all about our amazing network of researchers from around the world. The **MB Contributor Dashboard** displays the geographical distribution of our contributors. It is an easy way to browse contributors by region, study, or institution and to get a sense of the MB Consortium's diversity and reach.
 
@@ -22,6 +22,13 @@ cover-img: /assets/img/MB_map.png
 * **To add multiple contributors at once**: [**email us**](mailto:contact@manybabies.org)
 
 <br>
+
+***
+## ManyBabies Contributors
+> NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field.
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrmAhZCMC9Bno7vF?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
 
 ***
 ## ManyBabies Leadership
@@ -202,6 +209,8 @@ cover-img: /assets/img/MB_map.png
 </section>
 <br>
 
+
+***
 ### Alumni
 
 #### 2022-2023 Student Advisors
