@@ -180,7 +180,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB4I/">MB4I: Individual Differences</a></b><br>
         <b>Status:</b> <i>Collecting data</i><br>
-        <b>Project Leads:</b> <a href="mailto:yiyi_wang@pku.edu.cn">YiYi Wang</a>, <a href="mailto:hilal@unak.is">Hilal Şen</a>, <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a><br>
+        <b>Project Leads:</b> <a href="mailto:yiyiwang@uchicago.edu">YiYi Wang</a>, <a href="mailto:hilal@unak.is">Hilal Şen</a>, <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a><br>
         <b>MB4I listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb4i-list" target="_blank"><i>Subscribe</i></a><br>
       </div>
     </div>
