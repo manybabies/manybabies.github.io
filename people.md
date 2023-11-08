@@ -14,20 +14,20 @@ cover-img: /assets/img/MB_map.png
 * **Check out ways to [get involved]({{site.baseurl}}/get_involved/)!**
 
 #### For Contributors:
-* **To be added to the MB Dashboard**: Fill out the <a href="#dashboardform"><b>form</b></a> below.
-* **To update any Dashboard information** *(e.g., change of affiliation or name, add a study)*: You can either fill out the <a href="#dashboardform"><b>form</b></a> below or [**email us**](mailto:contact@manybabies.org) with your updated information.
+* **To be added to the MB Dashboard**: Fill out <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrglw1TM1HxDfbYG"><b>this form</b></a> below.
+* **To update any Dashboard information** *(e.g., change of affiliation or name, add a study)*: You can either fill out <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrBx1vEakEkyeYbg"><b>this form</b></a> or [**email us**](mailto:contact@manybabies.org) with your updated information.
 * **Report MB-related activities**: Don't forget to keep an updated record of your MB-related activities and initiatives *(e.g., workshops, talks etc.)*. Please use <a href="https://forms.gle/qaynWvpYLP1J4eYd6" target="_blank"><b>this form</b></a> to help us keep track of all the amazing work you are doing for ManyBabies! Your reported activities will be added to this <a href="https://docs.google.com/spreadsheets/d/1esnJTsPB0NJ2PP0fwmWIhSxShKLIN99Ga8ehCDyz3rQ/edit?usp=sharing" target="_blank"><b>list of MB activities</b></a>.
 
-#### For Project Leads:
-* **To add multiple contributors at once**: [**email us**](mailto:contact@manybabies.org)
-
-<br>
 
 ***
 ## ManyBabies Contributors
 > NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrmAhZCMC9Bno7vF?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+To be ADDED to the MB Contributor Dashboard, fill out the [MB Dashboard ADD Form](https://airtable.com/appRoqMKzcK3NsXt4/shrglw1TM1HxDfbYG). 
+
+To UPDATE your information on the Dashboard, fill out the [MB Dashboard UPDATE Form](https://airtable.com/appRoqMKzcK3NsXt4/shrBx1vEakEkyeYbg)
 
 
 ***
@@ -222,6 +222,7 @@ cover-img: /assets/img/MB_map.png
 
 <br>
 
+<!--
 ***
 <h2 id="dashboardform">Contributor Dashboard Form</h2>
 
@@ -230,3 +231,5 @@ cover-img: /assets/img/MB_map.png
 > Please note that all responses to the Dashboard Form are moderated. Thanks for your patience! 
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8_SKJ0TD0MdRTNsf_f84olEc4MAxSFkA1BtAxDjX-OdlWuw/viewform?embedded=true" width="640" height="2089" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+-->
