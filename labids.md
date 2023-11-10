@@ -9,9 +9,9 @@ Each lab that collects data for ManyBabies has a unique and consistent identifie
 
 We ask labs to use this identifier in the name of every data file that they submit so that we can track and automatically analyze all submitted data. If your lab is collecting data for more than one project, please use the same LabID for all projects.
 
-### To create a new LabID: <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrrS4GAmjHq8iKUm" target="_blank"><b>MB LabID Creation Form</b></a>
+#### To create a new LabID: <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrrS4GAmjHq8iKUm" target="_blank"><b>MB LabID Creation Form</b></a>
 
-### To update information for an exisiting LabID: <a href="https://airtable.com/appRoqMKzcK3NsXt4/shr27ZHMaelzSrgEz" target="_blank"><b>MB LabID Update Form</b></a>
+#### To update information for an exisiting LabID: <a href="https://airtable.com/appRoqMKzcK3NsXt4/shr27ZHMaelzSrgEz" target="_blank"><b>MB LabID Update Form</b></a>
 
 ***
 ## ManyBabies LabID List
