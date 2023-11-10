@@ -17,7 +17,7 @@ We ask labs to use this identifier in the name of every data file that they subm
 ***
 ## ManyBabies LabID List
 
-> NOTE: Default table ordering is alphabetical by LabID. Scroll to the right to see lab members, links to lab websites, and the projects each lab has collected/plans to collect data for. You can filter, group, and/or sort entries by any field.
+> NOTE: Default table ordering is alphabetical by LabID. Scroll to the right to see lab members (past and present), links to lab websites, and the projects each lab has collected/plans to collect data for. You can filter, group, and/or sort entries by any field.
 
 <!-- iframe embed labID public view -->
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrnPNko928LSk7DS?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="650" style="background: transparent; border: 1px solid #ccc;"></iframe>
