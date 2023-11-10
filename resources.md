@@ -55,7 +55,7 @@ title: Resources
         <a href="{{site.baseurl}}/labids/"><img src="/assets/img/id.png" alt="ID" width="50"></a><br>
       </div>
       <div class="col-sm-5" align="left">
-        <a href="{{site.baseurl}}/calendar/"><b>MB LabIDs</b></a>
+        <a href="{{site.baseurl}}/labids/"><b>MB LabIDs</b></a>
       </div>
     </div>
     <br>
