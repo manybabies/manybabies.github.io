@@ -11,7 +11,7 @@ We ask labs to use this identifier in the name of every data file that they subm
 
 #### To create a new LabID: <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrrS4GAmjHq8iKUm" target="_blank"><b>MB LabID Creation Form</b></a>
 
-#### To add studies, lab members, or otherwise update information for an exisiting LabID: <a href="https://airtable.com/appRoqMKzcK3NsXt4/shr27ZHMaelzSrgEz" target="_blank"><b>MB LabID Update Form</b></a>
+#### To update information for an exisiting LabID: <a href="https://airtable.com/appRoqMKzcK3NsXt4/shr27ZHMaelzSrgEz" target="_blank"><b>MB LabID Update Form</b></a>
 <br>
 
 ***
