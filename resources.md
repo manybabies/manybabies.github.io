@@ -52,8 +52,10 @@ title: Resources
         <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a>
       </div>
       <div class="col-sm-1" align="left">
+        <a href="{{site.baseurl}}/labids/"><img src="/assets/img/id.png" alt="ID" width="50"></a><br>
       </div>
       <div class="col-sm-5" align="left">
+        <a href="{{site.baseurl}}/calendar/"><b>MB LabIDs</b></a>
       </div>
     </div>
     <br>

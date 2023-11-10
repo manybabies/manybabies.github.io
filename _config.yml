@@ -47,6 +47,7 @@ navbar-links:
     - Publications: "publications"
     - Contributor Dashboard: "dashboard"
     - Data Validator: "validator"
+    - LabIDs: "labids"
     - Code of Conduct: "codeofconduct"
   Get Involved: 
     - Join MB: "get_involved"
