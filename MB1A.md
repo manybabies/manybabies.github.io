@@ -55,6 +55,8 @@ We encourage everyone who is interested in the project to contact the Project Le
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shr4PCGtQxZjd2SUm?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
+> <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrBx1vEakEkyeYbg" target="_blank"><b>UPDATE</b></a> your info, or request to be <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrglw1TM1HxDfbYG" target="_blank"><b>ADDED</b></a>
+
 ***
 ### Publication
 

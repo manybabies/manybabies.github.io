@@ -47,3 +47,5 @@ We encourage everyone who is interested in the project to contact Project Lead [
 > NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrjxn6krXcLJO5jk?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+> <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrBx1vEakEkyeYbg" target="_blank"><b>UPDATE</b></a> your info, or request to be <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrglw1TM1HxDfbYG" target="_blank"><b>ADDED</b></a>
