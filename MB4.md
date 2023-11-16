@@ -60,6 +60,10 @@ We encourage everyone who is interested in the project to contact the Project Le
 
 > To cite, use (Lucca & Yuen et al., accepted pending data collection)
 
+<br>
+
+> Additional authors will be added to the Stage 2 Registered Report after data analysis is complete, in late 2023/early 2024
+
 
 ***
 ## Spin-off Projects
