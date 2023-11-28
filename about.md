@@ -150,6 +150,7 @@ All MB contributors are expected to abide by our [**Code of Conduct**]({{site.ba
 * [***Social Sciences and Humanities Research Council of Canada***](https://www.sshrc-crsh.gc.ca/), through a [**Partnership Development Grant**](https://www.sshrc-crsh.gc.ca/funding-financement/programs-programmes/partnership_development_grants-subventions_partenariat_developpement-eng.aspx) (Application materials available [here](https://osf.io/xavnd/))
 * [***Association for Psychological Science***](https://www.psychologicalscience.org), through a grant from the [***Laura and John Arnold Foundation***](http://www.laaf.org/ljaf) [[MB1]]({{site.baseurl}}/MB1/)
 * [***Jacobs Foundation***](https://jacobsfoundation.org) [[MB1-Africa]]({{site.baseurl}}/MB1A/)
+* [***Deutsche Forschungsgemeinschaft***](https://www.dfg.de/en/index.jsp) [[MB2]]({{site.baseurl}}/MB2/)
 * [***Kindness.org***](kindness.org) [[MB4I]]({{site.baseurl}}/MB4I/)
 * [***Einstein Foundataion Berlin***](https://www.einsteinfoundation.de/index.php?id=1&L=1) [[MB5]]({{site.baseurl}}/MB5/)
 
