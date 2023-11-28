@@ -68,3 +68,8 @@ We encourage everyone who is interested in the project to contact the Project Le
 
 * [**MB2P**: Pupil Dilation to Measure Violation-of-Expectation]({{site.baseurl}}/MB2P/)
 * [**MB-ManyWebcams**: Web-based Eye Tracking for Infant Studies]({{site.baseurl}}/MB-ManyWebcams/)
+
+
+***
+### Funding
+* MB2 is supported by a grant from [Deutsche Forschungsgemeinschaft](https://www.dfg.de/en/index.jsp)
