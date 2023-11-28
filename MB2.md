@@ -15,7 +15,7 @@ subtitle: Theory of Mind in Infancy
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Collecting data</b></li>
+        <li><i>Status:</i> <b>Data collection complete; Importing and analyzing data</b></li>
         <li><i><a href="https://doi.org/10.31234/osf.io/x4jbm" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at</i> <b>Child Development</b></li>
       </ul>
     </div>
