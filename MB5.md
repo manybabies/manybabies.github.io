@@ -66,6 +66,5 @@ We encourage everyone who is interested in the project to contact the Project Le
 
 ***
 ### Funding
-* MB5 is supported by a award from the [Einstein Foundataion Berlin](https://www.einsteinfoundation.de/index.php?id=1&L=1)
+* MB5 is supported by an [Early Career Award](https://award.einsteinfoundation.de/award-winners-finalists/recipients-2021/manybabies5) from the [Einstein Foundataion Berlin](https://www.einsteinfoundation.de/index.php?id=1&L=1)
 
-<iframe width="100%" height="550" src="https://vimeo.com/879550832/fd60a7a807?share=copy" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
