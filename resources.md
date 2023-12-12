@@ -15,6 +15,20 @@ title: Resources
       </div>
     </div>
     <div class="row" align="center">
+      <div class="col-sm-1" align="left">
+        <a href="{{site.baseurl}}/calendar/"><img src="/assets/img/calendar.png" alt="calendar" width="50"></a><br>
+      </div>
+      <div class="col-sm-5" align="left">
+        <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a>
+      </div>
+      <div class="col-sm-1 col-xs-6" align="left">
+        <a href="{{site.baseurl}}/publications/"><img src="/assets/img/publications.png" alt="stack of papers" width="50"></a> 
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <a href="{{site.baseurl}}/publications/"><b>Publications</b></a>
+      </div>
+    </div>
+    <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="left">
         <a href="{{site.baseurl}}/dashboard/"><img src="/assets/img/pin.png" alt="globe with pins" width="50"></a> 
       </div>
@@ -30,41 +44,25 @@ title: Resources
     </div>
     <br>
     <div class="row" align="center">
-      <div class="col-sm-1 col-xs-6" align="left">
-        <a href="{{site.baseurl}}/publications/"><img src="/assets/img/publications.png" alt="stack of papers" width="50"></a> 
-      </div>
-      <div class="col-sm-5 col-xs-6" align="left">
-        <a href="{{site.baseurl}}/publications/"><b>Publications</b></a>
-      </div>
-      <div class="col-sm-1 col-xs-6" align="left">
-        <a href="https://www.youtube.com/@manybabies" target="_blank"><img src="/assets/img/youtube.png" alt="YouTube logo" width="50"></a> 
-      </div>
-      <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://www.youtube.com/@manybabies" target="_blank"><b>YouTube/@manybabies</b></a>
-      </div>
-    </div>
-    <br>
-    <div class="row" align="center">
-      <div class="col-sm-1" align="left">
-        <a href="{{site.baseurl}}/calendar/"><img src="/assets/img/calendar.png" alt="calendar" width="50"></a><br>
-      </div>
-      <div class="col-sm-5" align="left">
-        <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a>
-      </div>
       <div class="col-sm-1" align="left">
         <a href="{{site.baseurl}}/labids/"><img src="/assets/img/id.png" alt="ID" width="50"></a><br>
       </div>
       <div class="col-sm-5" align="left">
         <a href="{{site.baseurl}}/labids/"><b>MB LabIDs</b></a>
       </div>
-    </div>
-    <br>
-    <div class="row" align="center">
       <div class="col-sm-1" align="left">
         <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagwIZbZl4BvtlYtF/form" target="_blank"><img src="/assets/img/credit-icon.png" alt="CRediT logo" width="50"></a><br>
       </div>
       <div class="col-sm-5" align="left">
         <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagwIZbZl4BvtlYtF/form" target="_blank"><b>CRediT Reporting Form</b></a>
+      </div>
+    </div>
+    <div class="row" align="center">
+      <div class="col-sm-1 col-xs-6" align="left">
+        <a href="https://www.youtube.com/@manybabies" target="_blank"><img src="/assets/img/youtube.png" alt="YouTube logo" width="50"></a><br>
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
+        <a href="https://www.youtube.com/@manybabies" target="_blank"><b>YouTube/@manybabies</b></a>
       </div>
       <div class="col-sm-1" align="left">
         <br>
