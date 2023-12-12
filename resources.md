@@ -70,7 +70,6 @@ title: Resources
         <br>
       </div>
       <div class="col-sm-5" align="left">
-        </a>
       </div>
     </div>
     <br>
@@ -112,16 +111,14 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="left">
-        <a href="https://drive.google.com/file/d/1aoFctk4pDujOg8UV7LLuWA3o42uO718Z/view?usp=share_link" target="_blank"><img src="/assets/img/credit-icon.png" alt="CRediT categories" width="50"></a> 
-      </div>
-      <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://drive.google.com/file/d/1aoFctk4pDujOg8UV7LLuWA3o42uO718Z/view?usp=share_link" target="_blank"><b>CRediT Categories</b></a>
-      </div>
-      <div class="col-sm-1 col-xs-6" align="left">
         <a href="https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link" target="_blank"><img src="/assets/img/ethics_freepik.png" alt="ethics icon (a scale weighted toward green checkmark and away from red x)" width="50"></a>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link" target="_blank"><b>Ethics Guidance</b></a>
+      </div>
+      <div class="col-sm-1 col-xs-6" align="left">
+      </div>
+      <div class="col-sm-5 col-xs-6" align="left">
       </div>
     </div>
     <br>
