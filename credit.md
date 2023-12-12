@@ -18,6 +18,6 @@ All MB Contributors are asked to report project contributions using the **MB Con
 ***
 ## MB Contribution Reporting Form
 
-> NOTE: Form responses are moderated, so your response will not display fully at first. 
+> NOTE: Form responses are moderated, so your response will not display fully at first (don't worry!). 
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/pagwIZbZl4BvtlYtF/form" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
