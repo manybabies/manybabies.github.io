@@ -72,7 +72,7 @@ title: Publications & Manuscripts
         <a href="{{site.baseurl}}/MB1A/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
       </div>
       <div class="col-sm-11">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Tsui, A. S. M.</i>, Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., Mathur, M., Mbagaya, C. V., Mekonnen Mengistie, D., Milton, C., Mushimiyimana, F., Ndhambi, M., Ngina, I., Njoroge, E., Odhiambo Oburu, P., Okyere Omane, P., Singh, A., Ssemata, A. S., Unyuzumutima, J., Zeidler, H., Lew-Williams, C., & Frank, M. C. (Stage 1 RR In Principle Acceptance). 
+        <p style="padding-left: 25px; text-indent: -25px"><i>Tsui, A. S. M.</i>, Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., ... Lew-Williams, C., & Frank, M. C. (Stage 1 RR In Principle Acceptance). 
         <b>Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa</b>. 
         <i>Developmental Science</i>. 
         <a href="https://osf.io/fqp4b" target="_blank">[OSF Preprint]</a> 
