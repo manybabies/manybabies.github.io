@@ -55,7 +55,7 @@ title: Resources
         <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagwIZbZl4BvtlYtF/form" target="_blank"><img src="/assets/img/credit-icon.png" alt="CRediT logo" width="50"></a><br>
       </div>
       <div class="col-sm-5" align="left">
-        <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagwIZbZl4BvtlYtF/form" target="_blank"><b>CRediT Reporting Form</b></a>
+        <a href="{{site.baseurl}}/credit/"><b>CRediT Table & Reporting Form</b></a>
       </div>
     </div>
     <br>
