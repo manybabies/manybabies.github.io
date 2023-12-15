@@ -111,10 +111,10 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="left">
-        <a href="https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link" target="_blank"><img src="/assets/img/ethics_freepik.png" alt="ethics icon (a scale weighted toward green checkmark and away from red x)" width="50"></a>
+        <a href="https://docs.google.com/document/d/e/2PACX-1vR2nv4Wy1soDS4cBBNy9QZOyewvvjP1ka1reBRhAIzcrNi0reJxgHuhGS7f7i2wE0ScQuppek8Al_21/pub" target="_blank"><img src="/assets/img/ethics_freepik.png" alt="ethics icon (a scale weighted toward green checkmark and away from red x)" width="50"></a>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://drive.google.com/file/d/1QSaPAgf5Y0jmli6BC0fGMS_PMniAvyd-/view?usp=share_link" target="_blank"><b>Ethics Guidance</b></a>
+        <a href="https://docs.google.com/document/d/e/2PACX-1vR2nv4Wy1soDS4cBBNy9QZOyewvvjP1ka1reBRhAIzcrNi0reJxgHuhGS7f7i2wE0ScQuppek8Al_21/pub" target="_blank"><b>Ethics Guidance</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="left">
       </div>
