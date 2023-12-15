@@ -51,7 +51,7 @@ In this project we used the diversity of bilingual infant experiences to explore
 ### MB1B Contributors
 > NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field.
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrDsSICzgW6Cz325?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrPpO5NIi9yLdp87?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 
 ***
