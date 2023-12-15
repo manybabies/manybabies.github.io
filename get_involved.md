@@ -40,7 +40,7 @@ In addition to collecting data, there are many contribution opportunities (e.g.,
 * <h4>Email Project Leads</h4>
   * If you know which project you are interested in joining, you can **email one or more of the Project Leads directly** to ask how to get involved. Contact info for all Project Leads is available [**here**]({{site.baseurl}}/projects/).
 * <h4>Come to Drop-In Hours</h4>
-  * You are welcome to join us at our **monthly "Drop-in Hours"** (currently held on the first Thursday of each month) to talk with us about contribution opportunities. Times and links to join via Zoom can be found in our [**calendar**]({{site.baseurl}}/calendar/).
+  * You are welcome to join us at our **monthly "Drop-in Hours"** (typically held on the first Thursday of each month) to talk with us about contribution opportunities. Times and links to join via Zoom can be found in our [**calendar**]({{site.baseurl}}/calendar/).
 * <h4>Fill Out the Sign-Up Form</h4>
   * If you're unsure of how you'd like to contribute, please **fill out our <a href="#signupform">Sign-Up Form</a>** and we'll be in touch with you as soon as possible. 
 * <h4>Propose a Project</h4>
