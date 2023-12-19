@@ -26,7 +26,7 @@ subtitle: The Hunter & Ames Model of Infant Looking Preference
 <p>Familiarity and novelty effects are the cornerstone of many infant behavioral methods (e.g., habituation, head-turn preference, preferential looking / looking-while-listening, eye tracking). In this ongoing project we investigate <a href="https://psycnet.apa.org/record/1988-98065-003" target="_blank"><b>Hunter and Ames’ (1988)</b></a> model of infants’ preference for familiar and novel stimuli. We aim to empirically test whether infant age, task difficulty, and familiarization time interact to predict the direction of infants’ preference for familiar vs. novel stimuli. By comprehensively testing the Hunter and Ames model, we will solidify our foundational understanding of infant curiosity and provide the most comprehensive, global picture of the early foundations of infant cognition to date.</p>
 
 <div>
-  <div class="container" style="width:80%; margin:0 auto;">
+  <div class="container" style="width:90%; margin:0 auto;">
     <div class="row">
       <div class="col-sm-12" align=center>
         <img src="/assets/img/MB5_HunterAmesFig.png"><br>
@@ -34,7 +34,7 @@ subtitle: The Hunter & Ames Model of Infant Looking Preference
     </div>
     <div class="row">
       <div class="col-sm-12" align=left>
-        <p><b>Figure 1.</b> This figure (adapted from <a href="https://doi.org/10.1111/desc.12341" target="_blank">Bergmann and Cristia, 2016</a>) depicts <a href="https://psycnet.apa.org/record/1988-98065-003" target="_blank">Hunter & Ames’</a> model of infant looking to familiar (plotted up) and novel (plotted down) stimuli at different levels of pre-test familiarization time (shown on the x-axis). The dashed line indicates equal preference for familiar and novel stimuli. The grey line represents the model’s prediction for older infants, and the black line for younger infants. The “lower complexity” and “higher complexity” arrows indicate how the proposed relation between age and familiarization time might shift with variation in stimulus complexity (i.e., the current operationalization of task difficulty).</p>
+        <p style="font-size:12px; "><b>Figure 1.</b> This figure (adapted from <a href="https://doi.org/10.1111/desc.12341" target="_blank">Bergmann and Cristia, 2016</a>) depicts <a href="https://psycnet.apa.org/record/1988-98065-003" target="_blank">Hunter & Ames’</a> model of infant looking to familiar (plotted up) and novel (plotted down) stimuli at different levels of pre-test familiarization time (shown on the x-axis). The dashed line indicates equal preference for familiar and novel stimuli. The grey line represents the model’s prediction for older infants, and the black line for younger infants. The “lower complexity” and “higher complexity” arrows indicate how the proposed relation between age and familiarization time might shift with variation in stimulus complexity (i.e., the current operationalization of task difficulty).</p>
       </div>
     </div>
   </div>
