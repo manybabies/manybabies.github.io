@@ -30,17 +30,18 @@ subtitle: The Hunter & Ames Model of Infant Looking Preference
 
 ***
 ### Links
-* **Listserv**: [join here](https://groups.google.com/a/manybabies.org/g/mb5-list).
-* **Slack group**: [join here](https://join.slack.com/t/manybabies5/shared_invite/zt-qml7l90w-drHG7nZBJtXEAtAGAvP8~g)
+* **Materials, Protocols, and Documentation**: <a href="https://osf.io/g3udp/" target="_blank">MB5-OSF</a>, <a<a href="https://docs.google.com/document/d/e/2PACX-1vRIka7Q4bVt2xYHVN_TPSfLNCxB-5PontNitUNTluOKkPpduDuju9rir4v5lf3CfSzyBJd4v1nep0_0/pub" target="_blank">MB5 Collaboration Agreement</a>
+* **Listserv**: <a href"https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blanks>join here</a> *(click on “for access, try joining the group”)*
+* **Slack group**: <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">MB workspace</a> (*join the #mb5-general channel*)
 
 
 ***
 ### Leads
 * [**Jessica Kosie**](https://jkosie.github.io/), *Princeton University, US* [[email]](mailto:jkosie@princeton.edu)
 * [**Martin Zettersten**](https://mzettersten.github.io/), *Princeton University, United States* [[email]](mailto:martincz@princeton.edu)
+* [**Casey Lew-Williams**](https://psych.princeton.edu/person/casey-lew-williams), *Princeton University, United States* [[email]](mailto:caseylw@princeton.edu)
 * [**Christina Bergmann**](https://scholar.google.com/citations?user=5e9DkjMAAAAJ&hl=en), *University of Applied Sciences, Germany & Max Planck Institute for Psycholinguistics, Netherlands* [[email]](mailto:chbergma@gmail.com)
 * [**Dima Amso**](https://psychology.columbia.edu/content/dima-amso), *Columbia University, United States* [[email]](mailto:da2959@columbia.edu)
-* [**Casey Lew-Williams**](https://psych.princeton.edu/person/casey-lew-williams), *Princeton University, United States* [[email]](mailto:caseylw@princeton.edu)
 
 
 ***
