@@ -29,11 +29,10 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 
 ***
 ### Links
-* **Listserv**: [subscribe here](https://groups.google.com/a/manybabies.org/g/mb3-list) *(click on “for access, try joining the group”)*
-* **Materials, Protocols, and Documentation**: [MB3-OSF](https://osf.io/kqu9v/)
-* **Lab Manual**: [link](https://docs.google.com/document/d/1b-ZaJpbVzvN_fUApXlZkZiT9jxGUYRhHbAC1qOucufo/edit?usp=sharing)
-* **Data and code**: [MB3-GitHub](https://github.com/manybabies/mb3-rules)
-* **Slack**: [MB workspace](https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ) (*join the #mb3-general channel*)
+* **Materials, Protocols, and Documentation**: <a href="https://osf.io/kqu9v/" target="_blank">MB3-OSF</a>, <a href="https://docs.google.com/document/d/1b-ZaJpbVzvN_fUApXlZkZiT9jxGUYRhHbAC1qOucufo/edit?usp=sharing" target="_blank">MB3 Lab Manual</a>, <a href="https://docs.google.com/document/d/e/2PACX-1vQyE0mPU3fKkRTd8OoP6P3iNNsaCvNdUvE2yXqGr4wC_hkRqJmZuu4s-Adgfh781NfmD4pI_8DgpgzA/pub" target="_blank">MB3 Collaboration Agreement</a>
+* **Data and code**: <a href="https://github.com/manybabies/mb3-rules" target="_blank">MB3-GitHub</a>
+* **Listserv**: <a href="https://groups.google.com/a/manybabies.org/g/mb3-list" target="_blank">join here</a> *(click on “for access, try joining the group”)*
+* **Slack**: <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">MB workspace</a> (*join the #mb3-general channel*)
 
 
 ***
