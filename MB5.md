@@ -28,7 +28,7 @@ subtitle: The Hunter & Ames Model of Infant Looking Preference
 <div>
   <div class="container" style="width:80%; margin:0 auto;">
     <div class="row">
-      <div class="col-sm-10" align=center>
+      <div class="col-sm-12" align=center>
         <img src="/assets/img/MB5_HunterAmesFig.png"><br>
       </div>
     </div>
