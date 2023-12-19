@@ -29,7 +29,7 @@ In this ongoing project we aim to investigate a fundamental feature of human soc
 
 ***
 ### Links
-* **Materials, Protocols, and Documentation**: [MB2-OSF](https://osf.io/jmuvd/), [MB2 Lab Manual](https://docs.google.com/document/d/1xAw_EbmvRl1Rj3iAVASazyb4HPxoECfvKaf_7zfFi0o/edit?usp=sharing)
+* **Materials, Protocols, and Documentation**: [MB2-OSF](https://osf.io/jmuvd/), [MB2 Lab Manual](https://docs.google.com/document/d/1xAw_EbmvRl1Rj3iAVASazyb4HPxoECfvKaf_7zfFi0o/edit?usp=sharing), [MB2 Collaboration Agreement](https://docs.google.com/document/d/e/2PACX-1vTnk1Gl6yjtOTCcuEo01B-dEphM4cv852jymrMekurJ0A2TEYU87otWClkMsyCq_vS959vbyEm7xrs7/pub)
 * **Data and code**: [MB2-GitHub](https://github.com/manybabies/mb2-analysis)
 * **Listserv**: [join here](https://groups.google.com/a/manybabies.org/g/mb2-list)
 * **Slack**: [MB workspace](https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ) (*join the #mb2-general channel*)
