@@ -67,6 +67,7 @@ We encourage everyone who is interested in the project to contact the Project Le
 
 ***
 ### Funding
-* MB5 is supported by an [Early Career Award](https://award.einsteinfoundation.de/award-winners-finalists/recipients-2021/manybabies5) from the [Einstein Foundataion Berlin](https://www.einsteinfoundation.de/index.php?id=1&L=1)
+* MB5 is supported by an <a href="https://award.einsteinfoundation.de/award-winners-finalists/recipients-2021/manybabies5" target="_blank">Early Career Award</a> from the <a href="https://www.einsteinfoundation.de/index.php?id=1&L=1" target="_blank">Einstein Foundation Berlin</a>
 
 <iframe  align="center" width="725" height="408" src="https://www.youtube.com/embed/gTYf-5k69LE" title="ManyBabies 5: Einstein Foundation Early Career Award" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+> Credit/© Einstein Foundation Berlin/2470 Media GmbH
