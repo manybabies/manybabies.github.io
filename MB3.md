@@ -67,4 +67,5 @@ We encourage everyone who is interested in the project to contact the Project Le
 ## Spin-off Projects
 * [**MB3N: Rule Learning using NIRS**]({{site.baseurl}}/MB3N/)
 * [**MB3L: Longitudinal Language Follow-up**]({{site.baseurl}}/MB3L/)
+* [**MB3P: Pupil Dilation**]({{site.baseurl}}/MB3P/)
 * [**MB3T: Test-Retest Follow-up**]({{site.baseurl}}/MB3T/)
