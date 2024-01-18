@@ -141,6 +141,10 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>Project Leads:</b> <a href="mailto:anna.exner@posteo.de">Anna Exner</a>, <a href="mailto:roberta.bettoni@unimib.it">Roberta Bettoni</a>, 
           <a href="mailto:i.visser@uva.nl">Ingmar Visser</a><br>
         <hr>
+        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB3P/">MB3P: Pupil Dilation</a></b><br>
+        <b>Status:</b> <i>Collecting data, Planning analyses</i><br>
+        <b>Project Leads:</b> <a href="mailto:i.visser@uva.nl">Ingmar Visser</a><br>
+        <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB3T/">MB3T: Test-Retest Follow-up</a></b><br>
         <b>Status:</b> <i>Collecting data</i><br>
         <b>Project Leads:</b> <a href="mailto:anna.exner@posteo.de">Anna Exner</a>, <a href="mailto:i.visser@uva.nl">Ingmar Visser</a><br>
