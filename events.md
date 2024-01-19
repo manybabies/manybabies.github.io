@@ -13,7 +13,7 @@ title: Events
 In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) will demonstrate ways to become a better collaborator not just with others but with "Future You" (topics will include file management, version control, and organization). 
 <br>
 
-#### REGISTER HERE: [https://airtable.com/appRoqMKzcK3NsXt4/pagKhxRGv5CCdOvib/form](https://airtable.com/appRoqMKzcK3NsXt4/pagKhxRGv5CCdOvib/form)
+#### [REGISTER HERE](https://airtable.com/appRoqMKzcK3NsXt4/pagKhxRGv5CCdOvib/form)
 
 
 ***
@@ -24,7 +24,7 @@ In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) w
 In this workshop, Christopher Cox (with the support of Quinn Pham) will walk participants through why and how to conduct power analyses. Chris will discuss the power analysis run for the MB5 project, and also share how to run a power analysis for your own work. 
 <br>
 
-#### REGISTER HERE: [https://airtable.com/appRoqMKzcK3NsXt4/pagJSx0RmnDZEL8OQ/form](https://airtable.com/appRoqMKzcK3NsXt4/pagJSx0RmnDZEL8OQ/form)
+#### [REGISTER HERE](https://airtable.com/appRoqMKzcK3NsXt4/pagJSx0RmnDZEL8OQ/form)
 
 
 ***
