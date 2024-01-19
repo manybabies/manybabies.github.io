@@ -34,8 +34,6 @@ In this workshop, Christopher Cox (with the support of Quinn Pham) will walk par
 >Past Events
 
 ## MB Publication Parties
-> view [MB calendar]({{site.baseurl}}/calendar/) for zoom links
-
 
 #### November 7, 2023 - 3pm UTC
 ### MB-ManyWebcams Pulication Party
