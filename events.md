@@ -15,6 +15,7 @@ In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) w
 
 #### [REGISTER FOR THE PROJECT MANAGEMENT WORKSHOP HERE](https://airtable.com/appRoqMKzcK3NsXt4/pagKhxRGv5CCdOvib/form)
 
+<br>
 
 ***
 #### March 12, 2024 - 14:00-15:30 UTC (3-4:30pm CET) on Zoom
@@ -26,6 +27,7 @@ In this workshop, Christopher Cox (with the support of Quinn Pham) will walk par
 
 #### [REGISTER FOR THE POWER ANALYSIS WORKSHOP HERE](https://airtable.com/appRoqMKzcK3NsXt4/pagJSx0RmnDZEL8OQ/form)
 
+<br>
 
 ***
 
