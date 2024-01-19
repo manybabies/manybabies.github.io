@@ -3,10 +3,37 @@ layout: page
 title: Events
 ---
 
-***
-## MB Publication Parties
-> view [MB calendar]({{site.baseurl}}/calendar/) for zoom links
 
+>Upcoming Events
+
+#### February 21, 2024 - 16:00-17:30 UTC (8-9:30am PST) on Zoom
+### Project Management workshop
+#### Michael Frank, *Stanford University*
+
+In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) will demonstrate ways to become a better collaborator not just with others but with "Future You" (topics will include file management, version control, and organization). 
+<br>
+
+#### [REGISTER FOR THE PROJECT MANAGEMENT WORKSHOP HERE](https://airtable.com/appRoqMKzcK3NsXt4/pagKhxRGv5CCdOvib/form)
+
+<br>
+
+***
+#### March 12, 2024 - 14:00-15:30 UTC (3-4:30pm CET) on Zoom
+### Power Analysis workshop
+#### Christopher Cox, *Aarhus University*
+
+In this workshop, Christopher Cox (with the support of Quinn Pham) will walk participants through why and how to conduct power analyses. Chris will discuss the power analysis run for the MB5 project, and also share how to run a power analysis for your own work. 
+<br>
+
+#### [REGISTER FOR THE POWER ANALYSIS WORKSHOP HERE](https://airtable.com/appRoqMKzcK3NsXt4/pagJSx0RmnDZEL8OQ/form)
+
+<br>
+
+***
+
+>Past Events
+
+## MB Publication Parties
 
 #### November 7, 2023 - 3pm UTC
 ### MB-ManyWebcams Pulication Party
