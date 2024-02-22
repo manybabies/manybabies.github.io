@@ -30,7 +30,7 @@ In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) d
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BmGlx6acRyg?si=t1w3eiJ8zkUth1oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<h4>Slides available <a href="http://tinyurl.com/mb-project-management" target="_blank">here</a></h4>orm)
+<h4>Slides available <a href="http://tinyurl.com/mb-project-management" target="_blank">here</a></h4>
 
 <br>
 
@@ -74,12 +74,13 @@ In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) d
 ### Open data for developmental science
 #### Christina Bergmann, *Osnabrück University of Applied Sciences & Max Planck Institute for Psycholinguistics*
 
+Open data is one of the key mandates in calls for increased transparency, with badges, citation advantages, and sometimes even refusal to publish papers when data are not made open. For developmental researchers, this need for transparency stands in stark contrast with confidentiality, especially when working with infants. Christina reviews developmental science's impressive history of open data to show that there are ways to ethically and responsibly share data, and then discusses different strategies and emerging best practices to balance participant protection with transparency.
+<br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4nKEnukx7YY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <h4>Slides available <a href="https://docs.google.com/presentation/d/1ORAagw8vh0tBjEnSiJXECSPZQ90rnSgn7iFGCwzywxo/edit?usp=sharing" target="_blank">here</a></h4>
 
-Open data is one of the key mandates in calls for increased transparency, with badges, citation advantages, and sometimes even refusal to publish papers when data are not made open. For developmental researchers, this need for transparency stands in stark contrast with confidentiality, especially when working with infants. Christina reviews developmental science's impressive history of open data to show that there are ways to ethically and responsibly share data, and then discusses different strategies and emerging best practices to balance participant protection with transparency.
 <br>
 
 ***
@@ -87,11 +88,13 @@ Open data is one of the key mandates in calls for increased transparency, with b
 ### Creating reproducible research reports Using RMarkdown
 #### Michael Frank, *Stanford University*
 
+In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) led participants through the benefits of using RMarkdown to create reproducible research reports. Follow along with the exercises to see how simple it is to integrate writing and analyses in your workflow.
+<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h1BYMDvGUng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <h4>Slides available <a href="https://docs.google.com/presentation/d/1lAzPF558FNvFuTWgitYZrNKSo9SuIxvW-rn7IjTmlhs/edit?usp=sharing" target="_blank">here</a></h4>
 
-In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) led participants through the benefits of using RMarkdown to create reproducible research reports. Follow along with the exercises to see how simple it is to integrate writing and analyses in your workflow.
 <br>
 
 ***
@@ -118,12 +121,15 @@ In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) l
 ### ManyBabies: An Introduction to Open Science
 #### Nicolás Alessandroni & Krista Byers-Heinlein, *Concordia University*
 
+In this workshop, Nicolás and Krista introduce the open science perspective for psychological research. The aim is for participants to discover, discuss, and engage in using open science practices (e.g., open access, open data, preprints, pre-registration) and to learn ways to apply them in their own research. The workshop does not require prior knowledge of open science; all those interested in learning or deepening their knowledge of how to do open research are most welcome! 
+<br>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bUQjJSLLL-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Slides available on [OSF](https://osf.io/5x8yk/)
 
-In this workshop, Nicolás and Krista introduce the open science perspective for psychological research. The aim is for participants to discover, discuss, and engage in using open science practices (e.g., open access, open data, preprints, pre-registration) and to learn ways to apply them in their own research. The workshop does not require prior knowledge of open science; all those interested in learning or deepening their knowledge of how to do open research are most welcome! 
 <br>
+
 
 ***
 #### April 21, 2022 in Madison, Wisconsin, United States
