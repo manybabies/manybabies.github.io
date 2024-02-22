@@ -6,18 +6,6 @@ title: Events
 
 >Upcoming Events
 
-#### February 21, 2024 - 16:00-17:30 UTC (8-9:30am PST) on Zoom
-### Project Management workshop
-#### Michael Frank, *Stanford University*
-
-In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) will demonstrate ways to become a better collaborator not just with others but with "Future You" (topics will include file management, version control, and organization). 
-<br>
-
-#### [REGISTER FOR THE PROJECT MANAGEMENT WORKSHOP HERE](https://airtable.com/appRoqMKzcK3NsXt4/pagKhxRGv5CCdOvib/form)
-
-<br>
-
-***
 #### March 12, 2024 - 14:00-15:30 UTC (3-4:30pm CET) on Zoom
 ### Power Analysis workshop
 #### Christopher Cox, *Aarhus University*
@@ -32,6 +20,21 @@ In this workshop, Christopher Cox (with the support of Quinn Pham) will walk par
 ***
 
 >Past Events
+
+#### February 21, 2024 - 16:00-17:30 UTC (8-9:30am PST) on Zoom
+### Project Management workshop
+#### Michael Frank, *Stanford University*
+
+In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) demonstrates ways to become a better collaborator not just with others but with "Future You" (topics include file management, version control, and organization). 
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmGlx6acRyg?si=t1w3eiJ8zkUth1oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h4>Slides available <a href="http://tinyurl.com/mb-project-management" target="_blank">here</a></h4>orm)
+
+<br>
+
+***
 
 ## MB Publication Parties
 
