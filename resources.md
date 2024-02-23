@@ -213,11 +213,12 @@ title: Resources
 
 ***
 
-## Developmental Science Tools
+## Developmental Science Resources
 * [**CHILDES**](https://childes.talkbank.org/): A system for sharing and studying conversational interactions of children
 * [**childes-db**](https://langcog.github.io/childes-db-website/): A flexible and reproducible interface to CHILDES
 * [**Children Helping Science**](https://childrenhelpingscience.com/): Connects parents and researchers to support developmental research
 * [**Databrary**](https://nyu.databrary.org/): A data library for developmental scientists to securely store, manage, share, discover, and reuse research data (including videos, audio, precedures, stimuli, and related metadata)
+* [**Kotoboo**](https://kotoboo.org/): Science-based information about language learning in childhood, in the form of comics
 * [**Lookit**](https://lookit.mit.edu/): A new approach in developmental psychology: running online experiments
 * [**MetaLab**](http://metalab.stanford.edu): Interactive tools for community-augmented meta-analysis, power analysis, and experimental planning in cognitive development research
 * [**Peekbank**](https://peekbank.stanford.edu/): A flexible and reproducible interface to developmental eyetracking datasets
