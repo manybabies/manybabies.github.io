@@ -22,7 +22,7 @@ cover-img: /assets/img/curiosity-1910023_cut2.jpg
 
 ## Projects
 
-The broader goals of <b>ManyBabies</b> come together in a set of <a href="{{site.baseurl}}{% link projects.md %}"> collaborative projects</a>. They are organized in <i>main projects</i> (either empirical or methodological), <i>spin-off projects</i>, and <i>secondary analyses</i>. Check out our main projects, together with their affiliated spin-off projects and secondary analyses (More info available on the [Projects]({{site.baseurl}}/projects/) page):
+The broader goals of <b>ManyBabies</b> come together in a set of collaborative projects. They are organized in <i>main projects</i> (either empirical or methodological), <i>spin-off projects</i>, and <i>secondary analyses</i>. Below is a list of our main projects, together with their affiliated spin-off projects and secondary analyses. More info is available on the **[Projects]({{site.baseurl}}/projects/)** page.
 
 ### Empirical Projects
 
