@@ -3,8 +3,15 @@ layout: page
 title: Events
 ---
 
-
+<!--
 >Upcoming Events
+-->
+
+<br>
+
+***
+
+>Past Events
 
 #### March 12, 2024 - 14:00-15:30 UTC (3-4:30pm CET) on Zoom
 ### Power Analysis workshop
@@ -13,13 +20,14 @@ title: Events
 In this workshop, Christopher Cox (with the support of Quinn Pham) will walk participants through why and how to conduct power analyses. Chris will discuss the power analysis run for the MB5 project, and also share how to run a power analysis for your own work. 
 <br>
 
-#### [REGISTER FOR THE POWER ANALYSIS WORKSHOP HERE](https://airtable.com/appRoqMKzcK3NsXt4/pagJSx0RmnDZEL8OQ/form)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eWCefg0Cq1I?si=y3Olb5FLuDDGQyd1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h4>Slides available <a href="https://tinyurl.com/MB-Power-Slides" target="_blank">here</a></h4>
+<h4>Tutorial materials available <a href="https://4ccoxau.github.io/PowerAnalysisWorkshopManyBabies/">here</a></h4>
 
 <br>
 
 ***
-
->Past Events
 
 #### February 21, 2024 - 16:00-17:30 UTC (8-9:30am PST) on Zoom
 ### Project Management workshop
