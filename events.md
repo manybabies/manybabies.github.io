@@ -3,23 +3,33 @@ layout: page
 title: Events
 ---
 
-
+<!--
 >Upcoming Events
-
-#### March 12, 2024 - 14:00-15:30 UTC (3-4:30pm CET) on Zoom
-### Power Analysis workshop
-#### Christopher Cox, *Aarhus University*
-
-In this workshop, Christopher Cox (with the support of Quinn Pham) will walk participants through why and how to conduct power analyses. Chris will discuss the power analysis run for the MB5 project, and also share how to run a power analysis for your own work. 
-<br>
-
-#### [REGISTER FOR THE POWER ANALYSIS WORKSHOP HERE](https://airtable.com/appRoqMKzcK3NsXt4/pagJSx0RmnDZEL8OQ/form)
+-->
 
 <br>
 
 ***
 
 >Past Events
+
+#### March 12, 2024 - 14:00-15:30 UTC (3-4:30pm CET) on Zoom
+### Power Analysis workshop
+#### Christopher Cox, *Aarhus University*
+
+Presenter Christopher M. M. Cox (Aarhus University) leads an interactive workshop on power analysis. The workshop includes both theoretical and practical components. In the theoretical component, he discusses why to conduct power analyses, how to incorporate information from previous studies, and why we should construe power analyses as useful opportunities to think through the design dynamics of a study.
+
+The practical component includes an R tutorial on how to conduct simulation-based power analyses for linear mixed-effects models (and possible extensions to GLMMS). To gain practical experience in how to simulate data and run power analyses, you can work through the provided tutorial using an up-to-date R version (4 or above) and RStudio (version 1.3 or above). If you do not have experience with R, you can still get a lot out of the workshop and will be able to follow along, as all code and code output are available at the link below.
+<br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eWCefg0Cq1I?si=y3Olb5FLuDDGQyd1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h4>Slides available <a href="https://tinyurl.com/MB-Power-Slides" target="_blank">here</a></h4>
+<h4>Tutorial materials available <a href="https://4ccoxau.github.io/PowerAnalysisWorkshopManyBabies/">here</a></h4>
+
+<br>
+
+***
 
 #### February 21, 2024 - 16:00-17:30 UTC (8-9:30am PST) on Zoom
 ### Project Management workshop
