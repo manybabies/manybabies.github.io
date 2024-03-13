@@ -24,7 +24,7 @@ subtitle: Neonatal and Early Imitation
 
 <br>
 
-> Study description to come!
+<p>In a seminal study, <a href="https://www.science.org/doi/10.1126/science.198.4312.75" target="_blank">Meltzoff and Moore (1977)</a> reported that neonates aged 12 – 21 days imitated the gestures of tongue protrusion, mouth opening and lip pursing, as well as sequential finger movement. This discovery transformed developmental science by suggesting that imitation, a skill that is crucial for human survival and foundational for later development, is available soon after birth. Despite its influence on theories, attempts to replicate and extend these findings have been mixed; some report successful replications of this landmark finding, whereas others find no evidence of early imitation. As such, questions remain about the generalizability of Meltzoff and Moore’s (1977) core findings, and about the sources of variation across labs (e.g., methodology, infant state, culture) that may account for these apparently contradictory findings. As a first step of addressing this ongoing debate, we will explore whether neonates (14 - 28 days) and young infants (39 - 46 days) match tongue protrusion and mouth opening behaviours, using a cross-target approach in a multi-laboratory conceptual replication of Meltzoff and Moore (1977).</p>
 
 
 ***
