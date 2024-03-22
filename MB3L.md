@@ -27,6 +27,7 @@ In this spin-off of the [**MB3**]({{site.baseurl}}/MB3/) project we aim to inves
 
 ***
 ### Links
+* **Preregistration**: [OSF](https://osf.io/hfqkc)
 * **MB3**: [main project page]({{site.baseurl}}/MB3/)
 
 ***
