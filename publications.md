@@ -46,7 +46,7 @@ title: Publications & Manuscripts
         <a href="{{site.baseurl}}/MB1A/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
       </div>
       <div class="col-sm-11">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Tsui, A. S. M.</i>, Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., ... Lew-Williams, C., & Frank, M. C. (Stage 1 RR In Principle Acceptance). 
+        <p style="padding-left: 25px; text-indent: -25px"><i>Tsui, A. S. M.</i>, Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., ... Lew-Williams, C., & Frank, M. C. (2021, September). 
         <b>Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa</b>. 
         <i>Developmental Science</i>. 
         <a href="https://osf.io/fqp4b" target="_blank">[OSF Preprint]</a> 
@@ -84,7 +84,7 @@ title: Publications & Manuscripts
         <a href="{{site.baseurl}}/MB3/" class="image"><img src="/assets/img/MB3_logo.png" alt="ManyBabies3 logo"></a>
       </div>
       <div class="col-sm-11">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Visser, I.</i>, Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., ... Soderstrom, M., & Levelt, C. C. (September, 2022). 
+        <p style="padding-left: 25px; text-indent: -25px"><i>Visser, I.</i>, Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., ... Soderstrom, M., & Levelt, C. C. (2022, September). 
         <b>ManyBabies 3: A multi-lab study of infant algebraic rule learning</b>. 
         <i>Developmental Science</i>. PsyArXiv. 
         <a href="https://doi.org/10.31234/osf.io/aex7v" target="_blank">doi:10.31234/osf.io/aex7v</a> 
