@@ -21,19 +21,6 @@ title: Publications & Manuscripts
     <div class="row" align="center">
       <div class="col-sm-1" align="center">
         <br>
-        <a href="{{site.baseurl}}/MB1SA/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
-      </div>
-      <div class="col-sm-11" align="left">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Zettersten, M.*</i>, <i>Cox, C. M. M.*</i>, <i>Bergmann, C.*</i>, Tsui, A. S. M., Soderstrom, M., Mayor, J., Lundwall, R. A., Lewis, M., Kosie, J. E., Kartushina, N., Fusaroli, R., Frank, M. C., Byers-Heinlein, K., Black, A. K., & Mathur, M. B. (2023, September 21). 
-        <b>Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis</b>. <i>(*co-first authors)</i> 
-        PsyArXiv. 
-        <a href="https://doi.org/10.31234/osf.io/etqs7" target="_blank">doi:10.31234/osf.io/etqs7</a> 
-        <a href="{{site.baseurl}}/MB1SA/"><b>[MB1-Meta]</b></a></p>
-      </div>
-    </div>
-    <div class="row" align="center">
-      <div class="col-sm-1" align="center">
-        <br>
         <a href="{{site.baseurl}}/MB1T/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
       </div>
       <div class="col-sm-11" align="left">
@@ -42,19 +29,6 @@ title: Publications & Manuscripts
         PsyArXiv. 
         <a href="https://doi.org/10.31234/osf.io/uwche" target="_blank">doi:10.31234/osf.io/uwche</a> 
         <a href="{{site.baseurl}}/MB1T/"><b>[MB1T]</b></a></p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-1" align=center>
-        <br>
-        <a href="{{site.baseurl}}/MB5/"><img src="/assets/img/MB5_logo.png" alt="ManyBabies5 logo"></a>
-      </div>
-      <div class="col-sm-11">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Kosie, J. E.*</i>, <i>Zettersten, M.*</i>, Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H. A., Bazhydai, M., Belia, M., Benavides-Varela, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., ... Lew-Williams, C. (2023, August 31). 
-        <b>ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time</b>. <i>(*co-first authors)</i> 
-        PsyArXiv. 
-        <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">doi:10.31234/osf.io/ck3vd</a> 
-        <a href="{{site.baseurl}}/MB5/"><b>[MB5]</b></a></p> 
       </div>
     </div>
   </div>
@@ -130,6 +104,19 @@ title: Publications & Manuscripts
         <a href="{{site.baseurl}}/MB4/"><b>[MB4]</b></a></p>  
       </div>
     </div>
+    <div class="row">
+      <div class="col-sm-1" align=center>
+        <br>
+        <a href="{{site.baseurl}}/MB5/"><img src="/assets/img/MB5_logo.png" alt="ManyBabies5 logo"></a>
+      </div>
+      <div class="col-sm-11">
+        <p style="padding-left: 25px; text-indent: -25px"><i>Kosie, J. E.*</i>, <i>Zettersten, M.*</i>, Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H. A., Bazhydai, M., Belia, M., Benavides-Varela, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., ... Lew-Williams, C. (2023, August 31). 
+        <b>ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time</b>. <i>(*co-first authors)</i> 
+        PsyArXiv. 
+        <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">doi:10.31234/osf.io/ck3vd</a> 
+        <a href="{{site.baseurl}}/MB5/"><b>[MB5]</b></a></p> 
+      </div>
+    </div>
   </div>
 </section>
 
@@ -138,6 +125,20 @@ title: Publications & Manuscripts
 
 <section>
   <div class="container">
+    <div class="row" align="center">
+      <div class="col-sm-1" align="center">
+        <br>
+        <a href="{{site.baseurl}}/MB1SA/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
+      </div>
+      <div class="col-sm-11" align="left">
+        <p style="padding-left: 25px; text-indent: -25px"><i>Zettersten, M.*</i>, <i>Cox, C. M. M.*</i>, <i>Bergmann, C.*</i>, Tsui, A. S. M., Soderstrom, M., Mayor, J., Lundwall, R. A., Lewis, M., Kosie, J. E., Kartushina, N., Fusaroli, R., Frank, M. C., Byers-Heinlein, K., Black, A. K., & Mathur, M. B. (in press). 
+        <b>Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis</b>. <i>(*co-first authors)</i> 
+        <i>Open Mind</i>. 
+        PsyArXiv. 
+        <a href="https://doi.org/10.31234/osf.io/etqs7" target="_blank">doi:10.31234/osf.io/etqs7</a> 
+        <a href="{{site.baseurl}}/MB1SA/"><b>[MB1-Meta]</b></a></p>
+      </div>
+    </div>
     <div class="row">
       <div class="col-sm-1" align=center>
         <br>

@@ -72,9 +72,11 @@ We encourage everyone who is interested in the project to contact the Project Le
 ### Publication
 
 <h4>Stage 1 Registered Report (preprint)</h4>
-<p style="padding-left: 25px; text-indent: -25px"><i>Kosie, J. E.*</i>, <i>Zettersten, M.*</i>, Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H. A., Bazhydai, M., Belia, M., Benavides, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., … Lew-Williams, C. (2023, August 31). <b>ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time</b>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">https://doi.org/10.31234/osf.io/ck3vd</a> <i>(*co-first authors)</i></p>
+<p style="padding-left: 25px; text-indent: -25px"><i>Kosie, J. E.*</i>, <i>Zettersten, M.*</i>, Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H. A., Bazhydai, M., Belia, M., Benavides, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., … Lew-Williams, C. (2024, March 1). <b>ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time</b>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">https://doi.org/10.31234/osf.io/ck3vd</a> <i>(*co-first authors)</i></p>
 
-> To cite, use (Kosie & Zettersten et al., under review)
+> To cite, use (Kosie & Zettersten et al., accepted pending data collection)
+
+> Additional authors will be added to the Stage 2 Registered Report after data analysis is complete
 
 
 ***
