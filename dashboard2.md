@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: page
 ---
 
 <h5><a href="https://manybabies.org/">manybabies.org</a></h5>
@@ -26,11 +26,4 @@ layout: minimal
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrmAhZCMC9Bno7vF?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" height="50%" width="100%" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 </section>
--->
-
-<br>
-
-
-<!-- iframe link to shiny app  
-<iframe src="https://manybabies.shinyapps.io/shiny_mb_map/" style="position: absolute; height: 100%; width: 100%; border: none"></iframe>
 -->
