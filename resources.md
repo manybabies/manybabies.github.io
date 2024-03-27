@@ -179,7 +179,7 @@ title: Resources
     <br>
     <div class="row" align="center">
       <div class="col-sm-1 col-xs-6" align="left">
-        <a href="https://bsky.app/profile/manybabies.org" target="_blank"><img src="/assets/img/bluesky.png" alt="Bluesky logo" width="50"></a> 
+        <a href="https://bsky.app/profile/manybabies.org" target="_blank"><img src="/assets/img/bluesky.png" alt="Bluesky logo" width="50" style="border-radius: 25%;"></a> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://bsky.app/profile/manybabies.org" target="_blank"><b>Bluesky/@manybabies.org</b></a>
