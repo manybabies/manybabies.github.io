@@ -196,7 +196,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB5/">MB5: The Hunter & Ames Model of Infant Looking Preference</a></h4>
-        <b>Status:</b> <i>Finalizing stimuli; Stage 1 RR manuscript under review</i><br>
+        <b>Status:</b> <i>Stage 1 'In Principle Acceptance'; Finalizing stimuli; Preparing for data collection</i><br>
         <b>Project Leads:</b> <a href="mailto:jkosie@princeton.edu">Jessica Kosie</a>, <a href="mailto:martincz@princeton.edu">Martin Zettersten</a>, 
           <a href="mailto:chbergma@gmail.com">Christina Bergmann</a>, <a href="mailto:da2959@columbia.edu">Dima Amso</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a><br>
         <b>MB5 listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blank"><i>Subscribe</i></a><br>
@@ -211,7 +211,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB6/">MB6: Neonatal and Early Imitation</a></h4>
-        <b>Status:</b> <i>Study design</i><br>
+        <b>Status:</b> <i>Study design; Drafting Registered Report</i><br>
         <b>Project Leads:</b> <a href="mailto:s.farwaha@uq.edu.au">Sumeet Farwaha</a>, <a href="mailto:meltzoff@uw.edu">Andrew Meltzoff</a>, <a href="mailto:elizabethannsimpson@gmail.com">Elizabeth Simpson</a>, <a href="mailto:vps@psy.uq.edu.au">Virginia Slaughter</a>, <a href="mailto:m.nielsen@psy.uq.edu.au">Mark Nielsen</a>, <a href="mailto:recheleb@uw.edu">Rechele Brooks</a><br>
         <b>MB6 email:</b> <a href="mailto:mb6@manybabies.org"><i>Contact</i></a><br>
         <b>MB6 listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb6-list" target="_blank"><i>Subscribe</i></a><br>

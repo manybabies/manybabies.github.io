@@ -1,6 +1,7 @@
 ---
 layout: post
 title: MB1B - ManyBabies 1 Bilingual publication
+thumbnail-img: /assets/img/MB1_logo.png
 tags: [paper, publications, MB1B]
 ---
 

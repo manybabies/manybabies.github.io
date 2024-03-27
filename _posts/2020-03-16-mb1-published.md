@@ -1,6 +1,7 @@
 ---
 layout: post
 title: ManyBabies 1 paper published at AMPPS
+thumbnail-img: /assets/img/MB1_logo.png
 tags: [paper, publications, MB1]
 ---
 
