@@ -185,21 +185,6 @@ title: Resources
         <a href="https://bsky.app/profile/manybabies.org" target="_blank"><b>Bluesky/@manybabies.org</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="left">
-        <a href="https://nerdculture.de/@manybabies" target="_blank"><img src="/assets/img/mastodon.png" alt="Mastodon logo" width="50"></a> 
-      </div>
-      <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://nerdculture.de/@manybabies" target="_blank"><b>Mastodon/@manybabies</b></a>
-      </div>
-    </div>
-    <br>
-    <div class="row" align="center">
-      <div class="col-sm-1 col-xs-6" align="left">
-        <a href="https://twitter.com/Many_Babies" target="_blank"><img src="/assets/img/twitter.png" alt="Twitter logo" width="50"></a> 
-      </div>
-      <div class="col-sm-5 col-xs-6" align="left">
-        <a href="https://twitter.com/Many_Babies" target="_blank"><b>Twitter/@Many_Babies</b></a>
-      </div>
-      <div class="col-sm-1 col-xs-6" align="left">
         <a href="https://drive.google.com/drive/folders/1RpcEVJw46S9sQ5QLl5vqExkAhvPg8rbp?usp=sharing" target="_blank"><img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo" width="50"></a> 
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
