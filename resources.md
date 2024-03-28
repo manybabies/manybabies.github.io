@@ -201,10 +201,9 @@ title: Resources
 ## Developmental Science Resources
 * [**CHILDES**](https://childes.talkbank.org/): A system for sharing and studying conversational interactions of children
 * [**childes-db**](https://langcog.github.io/childes-db-website/): A flexible and reproducible interface to CHILDES
-* [**Children Helping Science**](https://childrenhelpingscience.com/): Connects parents and researchers to support developmental research
+* [**Children Helping Science (Powered by Lookit)**](https://childrenhelpingscience.com/): Connects parents and researchers via online studies to support developmental research
 * [**Databrary**](https://nyu.databrary.org/): A data library for developmental scientists to securely store, manage, share, discover, and reuse research data (including videos, audio, precedures, stimuli, and related metadata)
 * [**Kotoboo**](https://kotoboo.org/): Science-based information about language learning in childhood, in the form of comics
-* [**Lookit**](https://lookit.mit.edu/): A new approach in developmental psychology: running online experiments
 * [**MetaLab**](http://metalab.stanford.edu): Interactive tools for community-augmented meta-analysis, power analysis, and experimental planning in cognitive development research
 * [**Peekbank**](https://peekbank.stanford.edu/): A flexible and reproducible interface to developmental eyetracking datasets
 * [**TalkBank**](https://talkbank.org/): A system for sharing and studying conversational interactions in general
@@ -216,6 +215,7 @@ title: Resources
 ***
 
 ## Open Source Software
+* [**Datavyu**](https://datavyu.org/): A data coding and visualization tool
 * [**Julia**](http://julialang.org/): A flexible dynamic language, appropriate for scientific and numerical computing, with performance comparable to traditional statically-typed languages.
 * [**Open Sesame**](https://osdoc.cogsci.nl/): Create experiments for psychology, neuroscience, and experimental economics.
 * [**Psychopy**](https://www.psychopy.org/) & [**PyHab**](https://github.com/jfkominsky/PyHab/): Create experiments in behavioral sciences (neuroscience, psychology, psychophysics, linguistics...). PyHab is especially developed to measure looking time and manage stimulus presentation for infant research.
@@ -231,24 +231,25 @@ title: Resources
   * [**OSF - Open Psychological Datasets**](https://osf.io/th8ew/)
 * [**BITSS Resource Library**](https://www.bitss.org/resource-library/)
 * [**Contributor Roles Taxonomy (CRediT)**](https://credit.niso.org/)
+* [**Framework for Open and Reproducible Research Training (FORRT)**](https://forrt.org/)
 * [**StudySwap**](https://osf.io/meetings/StudySwap/): A platform for interlab replication, collaboration, and research resource exchange.
+* [**The Turing Way**](https://the-turing-way.netlify.app/index.html#)
 
 <br>
 
 ***
 
 ## Partner Networks & Organizations
-* [**ManyManys**](https://manymanys.github.io/): A large-scale collaboration on comparative cognition and behavior across taxa (*co-founded by ManyBabies*)
-* [**Children Helping Science powered by Lookit**](https://lookit.mit.edu/): A platform to connect developmental researchers with parents, and to host and run online experiments
-* [**Psychological Science Accelerator**](https://psysciacc.org/): A globally distributed network of psychological science laboratories that coordinates data collection for democratically selected studies
-* [**ManyPrimates**](https://manyprimates.github.io/): A project that aims to facilitate collaboration across study sites in primate cognition research
-* [**ManyDogs**](https://manydogsproject.github.io/): An international consortium of researchers interested in Canine Science
-* [**ManyBirds**](http://themanybirds.com/): A multi-site collaborative Open Science approach that aims to provide new insight into the evolution of avian cognition and behavior through large-scale comparative studies
-* [**ManyFishes**](https://twitter.com/TheManyFishes): A large-scale collaborative project dedicated to comparative cognition and behavior in fishes
-* [**Strengthening Democracy Challenge**](https://www.strengtheningdemocracychallenge.org/): Crowdsourced challenge to bring academics, practitioners, and industry experts together in a collective effort to identify effective interventions to improve Americans' commitment to democratic principles of political engagement
 * [**ABRIR**](https://abrirpsy.org/): *Advancing Big-team Reproducible science through Increased Representation* is a working group that aims to diagnose the unique barriers to leadership & participation in Big-team/Open Science faced by researchers from LMICs (low-to-middle income countries)
 * [**Canadian Reproducibility Network**](https://carn-recar.ca/): A national peer-led consortium that aims to promote a healthy and vigorous Canadian research ecosystem where all outputs are trustworthy, rigorous, and reproducible
-
+* [**Children Helping Science powered by Lookit**](https://lookit.mit.edu/): A platform to connect developmental researchers with parents, and to host and run online experiments
+* [**ManyBirds**](http://themanybirds.com/): A multi-site collaborative Open Science approach that aims to provide new insight into the evolution of avian cognition and behavior through large-scale comparative studies
+* [**ManyDogs**](https://manydogsproject.github.io/): An international consortium of researchers interested in Canine Science
+* [**ManyFishes**](https://twitter.com/TheManyFishes): A large-scale collaborative project dedicated to comparative cognition and behavior in fishes
+* [**ManyManys**](https://manymanys.github.io/): A large-scale collaboration on comparative cognition and behavior across taxa (*co-founded by ManyBabies*)
+* [**ManyPrimates**](https://manyprimates.github.io/): A project that aims to facilitate collaboration across study sites in primate cognition research
+* [**Psychological Science Accelerator**](https://psysciacc.org/): A globally distributed network of psychological science laboratories that coordinates data collection for democratically selected studies
+* [**Strengthening Democracy Challenge**](https://www.strengtheningdemocracychallenge.org/): Crowdsourced challenge to bring academics, practitioners, and industry experts together in a collective effort to identify effective interventions to improve Americans' commitment to democratic principles of political engagement
 
 
 <br>
