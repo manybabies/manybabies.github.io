@@ -231,9 +231,15 @@ title: Resources
   * [**OSF - Open Psychological Datasets**](https://osf.io/th8ew/)
 * [**BITSS Resource Library**](https://www.bitss.org/resource-library/)
 * [**Contributor Roles Taxonomy (CRediT)**](https://credit.niso.org/)
+* [**Directory of Open Access Journals**](https://doaj.org/)
+* [**Experimentology: An Open Science Approach to Experimental Psychology Methods**](https://experimentology.io/)
 * [**Framework for Open and Reproducible Research Training (FORRT)**](https://forrt.org/)
+* [**NASA TOPS Open Science 101**](https://nasa.github.io/Transform-to-Open-Science/take-os101/)
+* [**Guide to Git and Github**](https://swcarpentry.github.io/git-novice/)
+* [**Stanford Psychology Guide to Doing Open Science**](https://poldrack.github.io/psych-open-science-guide/README.html)
 * [**StudySwap**](https://osf.io/meetings/StudySwap/): A platform for interlab replication, collaboration, and research resource exchange.
 * [**The Turing Way**](https://the-turing-way.netlify.app/index.html#)
+* [**UNESCO Open Science Toolkit**](https://unesdoc.unesco.org/ark:/48223/pf0000387983)
 
 <br>
 
