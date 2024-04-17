@@ -60,9 +60,9 @@ title: Publications & Manuscripts
       </div>
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Soderstrom, M.</i>, Werker, J. F., Tsui, A. S. M., Skarabela, B., Seidl, A., Searle, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Noble, C., Nave, K., Mayor, J., Martin, A., Lew-Williams, C., Ko, E., Kartushina, N., Kammermeier, M., ... Anderson, L. (Stage 1 RR In Principle Acceptance). 
-        <b>Testing the Relationship Between Preferences for Infant-Directed Speech and Vocabulary Development: A Multi-Lab Study</b>. <i>Journal of Child Language</i>. 
-        <a href="https://docs.google.com/document/d/1CbLIEsJkQUctAW8a0VgW59hNMHGwyzSXkhWSFzlQYFE/edit?usp=sharing" target="_blank">[Preprint]</a> 
-        <a href="{{site.baseurl}}/MB1L/"><b>[MB1L]</b></a></p>  
+        <b>Testing the Relationship Between Preferences for Infant-Directed Speech and Vocabulary Development: A Multi-Lab Study</b>. <i>Journal of Child Language</i>. <br>
+        <b>[<a href="https://docs.google.com/document/d/1CbLIEsJkQUctAW8a0VgW59hNMHGwyzSXkhWSFzlQYFE/edit?usp=sharing" target="_blank">Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB1L/">MB1L</a>]</b></p>  
       </div>
     </div>
     <div class="row">
