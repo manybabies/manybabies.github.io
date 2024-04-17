@@ -24,7 +24,7 @@ Meta-analyses are often considered to be the most reliable source of information
 
 
 ### Status
-* Manuscript accepted for publication at *Open Mind*
+* Manuscript in press at [*Open Mind*](https://doi.org/10.1162/opmi_a_00134)
 
 ### Links
 * **Data, Code**: [OSF](https://osf.io/amj7u/)
