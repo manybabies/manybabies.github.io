@@ -291,8 +291,8 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Exner, A., Bettoni, R., Cantiani, C., Koleini, A., Oliveira, C. M., Thompson, A., Visser, I., & Zettersten, M.</i> (2024, March 19). 
         <b>The relationship between rule learning in infancy (5-12 months) and language skills at 24-30 months</b>. 
-        <a href="https://osf.io/hfqkc" target="_blank">[OSF Preregistration]</a> 
-        <a href="{{site.baseurl}}/MB3L/"><b>[MB3L]</b></a></p> 
+        [<a href="https://osf.io/hfqkc" target="_blank">OSF Preregistration</a>] 
+        [<a href="{{site.baseurl}}/MB3L/"><b>MB3L</b></a>]</p> 
       </div>
     </div>
     <div class="row">
@@ -303,8 +303,8 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Kline, M.</i> (2018, June 8). 
         <b>The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes</b>. 
-        <a href="https://osf.io/puxbg/" target="_blank">[OSF Preregistration]</a> 
-        <a href="{{site.baseurl}}/MB1SA/"><b>[MB1SA]</b></a></p> 
+        [<a href="https://osf.io/puxbg/" target="_blank">OSF Preregistration</a>] 
+        [<a href="{{site.baseurl}}/MB1SA/"><b>MB1SA</b></a>]</p> 
       </div>
     </div>
   </div>
