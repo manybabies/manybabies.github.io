@@ -48,7 +48,7 @@ title: Publications & Manuscripts
         <p style="padding-left: 25px; text-indent: -25px"><i>Tsui, A. S. M.</i>, Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., ... Lew-Williams, C., & Frank, M. C. (2021, September). 
         <b>Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa</b>. 
         <i>Developmental Science</i>. <br>
-        <b>[<a href="https://osf.io/fqp4b" target="_blank">OSF Preprint</a> 
+        <b>[<a href="https://osf.io/fqp4b" target="_blank">OSF Preprint</a>] 
         [<a href="{{site.baseurl}}/MB1A/">MB1A</a>]</b></p>  
       </div>
     </div>
