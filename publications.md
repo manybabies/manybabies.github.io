@@ -145,12 +145,12 @@ title: Publications & Manuscripts
         <a href="{{site.baseurl}}/MB-ManyWebcams/"><img src="/assets/img/MBMW_logo.png" alt="ManyBabies-ManyWebcams logo"></a>
       </div>
       <div class="col-sm-11">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Steffan, A.*</i>, <i>Zimmer, L.*</i>, Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmannm C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E. S., Kulke, L., Mayor, J., Meristo, M., ... Schuwerk, T. (2023). 
-        <b>Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood</b>. <i>(*co-first authors)</i> 
-        <i>Infancy</i>.
-        <a href="https://doi.org/10.1111/infa.12564" target="_blank">doi.org/10.1111/infa.12564</a> 
-        <a href="https://doi.org/10.31234/osf.io/7924h" target="_blank">[PsyArXiv Preprint]</a> 
-        <a href="{{site.baseurl}}/MB-ManyWebcams/"><b>[MB-ManyWebcams]</b></a></p> 
+        <p style="padding-left: 25px; text-indent: -25px"><i>Steffan, A.*</i>, <i>Zimmer, L.*</i>, Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmannm C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E. S., Kulke, L., Mayor, J., Meristo, M., ... Schuwerk, T. (2024). 
+        <b>Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood</b>. 
+        <i>Infancy, 29</i>(1), 31-55.
+        <a href="https://doi.org/10.1111/infa.12564" target="_blank">https://doi.org/10.1111/infa.12564</a> <i>(*co-first authors)</i>
+        [<a href="https://doi.org/10.31234/osf.io/7924h" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB-ManyWebcams/"><b>MB-ManyWebcams</b></a>]</p> 
       </div>
     </div>
     <div class="row">
@@ -159,12 +159,12 @@ title: Publications & Manuscripts
         <a href="{{site.baseurl}}/MB-Demographics/"><img src="/assets/img/MBDemo_logo.png" alt="ManyBabies Demographics logo"></a>
       </div>
       <div class="col-sm-11">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Singh, L.</i>, Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., ... Frank, M. C. (2023). 
+        <p style="padding-left: 25px; text-indent: -25px"><i>Singh, L.</i>, Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., ... Frank, M. C. (2024). 
         <b>A unified approach to demographic data collection for research with young children across diverse cultures</b>. 
-        <i>Developmental Psychology</i>.
-        <a href="https://doi.org/10.1037/dev0001623" target="_blank">doi.org/10.1037/dev0001623</a> 
-        <a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">[PsyArXiv Preprint]</a> 
-        <a href="{{site.baseurl}}/MB-Demographics/"><b>[MB-Demographics]</b></a></p> 
+        <i>Developmental Psychology, 60</i>(2), 211-227.
+        <a href="https://doi.org/10.1037/dev0001623" target="_blank">https://doi.org/10.1037/dev0001623</a> 
+        [<a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB-Demographics/"><b>MB-Demographics</b></a>]</p> 
       </div>
     </div>
     <div class="row">
@@ -175,8 +175,9 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Baumgartner, H.A.</i>, Alessandroni, N., Byers-Heinlein, K., Frank, M.C., Hamlin, J.K., Soderstrom, M., Voelkel, J.G., Willer, R., Yuen, F., & Coles, N.A. (2023). 
         <b>How to build up big team science: a practical guide for large-scale collaborations</b>. 
-        <i>Royal Society Open Science</i>. 
-        <a href="https://doi.org/10.1098/rsos.230235" target="_blank">doi:10.1098/rsos.230235</a> </p> 
+        <i>Royal Society Open Science, 10</i>, 230235. 
+        <a href="https://doi.org/10.1098/rsos.230235" target="_blank">https://doi.org/10.1098/rsos.230235</a> 
+        [<a href="https://doi.org/10.31234/osf.io/j7mt4" target="_blank">PsyArXiv Preprint</a>]</p> 
       </div>
     </div>
     <div class="row">
@@ -187,9 +188,9 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Visser, I.</i>, Bergmann, C., Byers-Heinlein, K., Dal Ben, R., Duch, W., Forbes, S., Franchin, L., Frank, M. C., Geraci, A., Hamlin, J. K., Kaldy, Z., Kulke, L., Laverty, C., Lew-Williams, C., Mateu, V., Mayor, J., Moreau, D., Nomikou, I., Schuwerk, T., ... Zettersten, M. (2022). 
         <b>Improving the generalizability of infant psychological research: The ManyBabies model (Commentary)</b>. 
-        <i>Behavioral and Brain Sciences</i>. 
-        <a href="https://doi.org/10.1017/S0140525X21000455" target="_blank">doi:10.1017/S0140525X21000455</a> 
-        <a href="https://doi.org/10.31234/osf.io/8vwbf" target="_blank">[PsyArXiv Preprint]</a></p> 
+        <i>Behavioral and Brain Sciences, 45</i>, e35. 
+        <a href="https://doi.org/10.1017/S0140525X21000455" target="_blank">https://doi.org/10.1017/S0140525X21000455</a> 
+        [<a href="https://doi.org/10.31234/osf.io/8vwbf" target="_blank">PsyArXiv Preprint</a>]</p> 
       </div>
     </div>
     <div class="row">
@@ -200,9 +201,9 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Zaadnoordijk, L.</i>, Buckler, H., Cusack, R., Tsuji, S., & Bergmann, C. (2021). 
         <b>A Global Perspective on Testing Infants Online: Introducing ManyBabies-AtHome</b>. 
-        <i>Frontiers in Psychology</i>. 
-        <a href="https://doi.org/10.3389/fpsyg.2021.703234" target="_blank">doi:10.3389/fpsyg.2021.703234</a> 
-        <a href="{{site.baseurl}}/MB1B/"><b>[MB-AtHome]</b></a></p>   
+        <i>Frontiers in Psychology, 12</i>, 703234. 
+        <a href="https://doi.org/10.3389/fpsyg.2021.703234" target="_blank">https://doi.org/10.3389/fpsyg.2021.703234</a> 
+        [<a href="{{site.baseurl}}/MB1B/"><b>MB-AtHome</b></a>]</p>   
       </div>
     </div>
     <div class="row">
@@ -213,23 +214,10 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Byers-Heinlein, K.</i>, Tsui, A. S. M., Bergmann, C., Black, A. K., Brown, A., Carbajal,  M. J., Durrant, S., Fennell, C. T., Fiévet, A.,  Frank, M. C., Gampe, A., Gervain, J., Gonzalez-Gomez, N., Hamlin, J. K., Havron, N., Hernik, M., Kerr, S., Killam, H., Klassen, K., ... Wermelinger, S. (2021). 
         <b>A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech</b>. 
-        <i>Advances in Methods and Practices in Psychological Science</i>. 
-        <a href="https://doi.org/10.1177/2515245920974622" target="_blank">doi:10.1177/2515245920974622</a> 
-        <a href="https://doi.org/10.31234/osf.io/sqh9d" target="_blank">[PsyArXiv Preprint]</a> <a href="{{site.baseurl}}/MB1B/"><b>[MB1B]</b></a></p>  
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-1" align=center>
-        <br>
-        <a href="{{site.baseurl}}/index/" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo"></a>
-      </div>
-      <div class="col-sm-11">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Byers-Heinlein, K.</i>, Bergmann, C., Davies, C., Frank, M. C., Hamlin, J. K., Kline, M., Kominsky, J. F., Kosie, J. E., Lew-Williams, C., Liu, L., Mastroberardino, M., Singh, L., Waddell, C. P. G., Zettersten, M., & Soderstrom, M. (2020). 
-        <b>Building a collaborative Psychological Science: Lessons from ManyBabies 1</b>. 
-        <i>Canadian Psychology</i>. 
-        <a href="https://doi.org/10.1037/cap0000216" target="_blank">doi:10.1037/cap0000216</a> 
-        <a href="https://doi.org/10.31234/osf.io/dmhk2" target="_blank">[PsyArXiv Preprint]</a> 
-        <a href="{{site.baseurl}}/MB1/"><b>[MB1]</b></a></p>  
+        <i>Advances in Methods and Practices in Psychological Science, 4</i>(1), 1-30. 
+        <a href="https://doi.org/10.1177/2515245920974622" target="_blank">https://doi.org/10.1177/2515245920974622</a> 
+        [<a href="https://doi.org/10.31234/osf.io/sqh9d" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB1B/"><b>MB1B</b></a>]</p>  
       </div>
     </div>
     <div class="row">
@@ -240,10 +228,24 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Byers-Heinlein, K.</i>, Tsui, R. K. Y., van Renswoude, D., Black, A. K., Barr, R., Brown, A., Colomer, M., Durrant, S., Gampe, A., Gonzalez-Gomez, N., Hay, J. F., Hernik, M., Jartó, M., Kovács, A. M., Laoun-Rubenstein, A., Lew-Williams, C., Liszkowski, U., Liu, L., Noble, C., ... Singh, L. (2020). 
         <b>The development of gaze following in monolingual and bilingual infants: A multi-lab study</b>. 
-        <i>Infancy</i>. 
-        <a href="https://doi.org/10.1111/infa.12360" target="_blank">doi:10.1111/infa.12360</a> 
-        <a href="https://doi.org/10.31234/osf.io/sgfhv" target="_blank">[PsyArXiv Preprint]</a> 
-        <a href="{{site.baseurl}}/MB1G/"><b>[MB1G]</b></a></p>   
+        <i>Infancy, 26</i>(1), 4-38. 
+        <a href="https://doi.org/10.1111/infa.12360" target="_blank">https://doi.org/10.1111/infa.12360</a> 
+        [<a href="https://doi.org/10.31234/osf.io/sgfhv" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB1G/"><b>MB1G</b></a>]</p>   
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-1" align=center>
+        <br>
+        <a href="{{site.baseurl}}/index/" class="image"><img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo"></a>
+      </div>
+      <div class="col-sm-11">
+        <p style="padding-left: 25px; text-indent: -25px"><i>Byers-Heinlein, K.</i>, Bergmann, C., Davies, C., Frank, M. C., Hamlin, J. K., Kline, M., Kominsky, J. F., Kosie, J. E., Lew-Williams, C., Liu, L., Mastroberardino, M., Singh, L., Waddell, C. P. G., Zettersten, M., & Soderstrom, M. (2020). 
+        <b>Building a collaborative Psychological Science: Lessons from ManyBabies 1</b>. 
+        <i>Canadian Psychology, 61</i>(4), 349 –363. 
+        <a href="https://doi.org/10.1037/cap0000216" target="_blank">https://doi.org/10.1037/cap0000216</a> 
+        [<a href="https://doi.org/10.31234/osf.io/dmhk2" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB1/"><b>MB1</b></a>]</p>  
       </div>
     </div>
     <div class="row">
@@ -254,10 +256,10 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px">ManyBabies Consortium (2020). 
         <b>Quantifying sources of variability in infancy research using the infant-directed speech preference</b>. 
-        <i>Advances in Methods and Practices in Psychological Science</i>. 
-        <a href="https://doi.org/10.1177/2515245919900809" target="_blank">doi:10.1177/2515245919900809</a> 
-        <a href="https://doi.org/10.31234/osf.io/s98ab" target="_blank">[PsyArXiv Preprint]</a> 
-        <a href="{{site.baseurl}}/MB1/"><b>[MB1]</b></a></p>   
+        <i>Advances in Methods and Practices in Psychological Science, 3</i>(1), 24-52. 
+        <a href="https://doi.org/10.1177/2515245919900809" target="_blank">https://doi.org/10.1177/2515245919900809</a> 
+        [<a href="https://doi.org/10.31234/osf.io/s98ab" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB1/"><b>MB1</b></a>]</p>   
       </div>
     </div>
     <div class="row">
@@ -268,9 +270,9 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Frank, M. C.</i>, Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., Hamlin, J. K., Hannon, E. E., Kline, M., Levelt, C., Lew-Williams, C., Nazzi, T., Panneton, R., Rabagliati, H., Soderstrom, M., Sullivan, J., Waxman, S., & Yurovsky, D. (2017). 
         <b>A collaborative approach to infant research: Promoting reproducibility, best practices, and theory-building</b>. 
-        <i>Infancy</i>. 
-        <a href="https://doi.org/10.1111/infa.12182" target="_blank">doi:10.1111/infa.12182</a> 
-        <a href="https://doi.org/10.31234/osf.io/27b43" target="_blank">[PsyArXiv Preprint]</a></p>   
+        <i>Infancy, 22</i>(4), 421-435. 
+        <a href="https://doi.org/10.1111/infa.12182" target="_blank">https://doi.org/10.1111/infa.12182</a> 
+        [<a href="https://doi.org/10.31234/osf.io/27b43" target="_blank">PsyArXiv Preprint</a>]</p>   
       </div>
     </div>
   </div>
@@ -289,8 +291,8 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Exner, A., Bettoni, R., Cantiani, C., Koleini, A., Oliveira, C. M., Thompson, A., Visser, I., & Zettersten, M.</i> (2024, March 19). 
         <b>The relationship between rule learning in infancy (5-12 months) and language skills at 24-30 months</b>. 
-        <a href="https://osf.io/hfqkc" target="_blank">[OSF Preregistration]</a> 
-        <a href="{{site.baseurl}}/MB3L/"><b>[MB3L]</b></a></p> 
+        [<a href="https://osf.io/hfqkc" target="_blank">OSF Preregistration</a>] 
+        [<a href="{{site.baseurl}}/MB3L/"><b>MB3L</b></a>]</p> 
       </div>
     </div>
     <div class="row">
@@ -301,8 +303,8 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Kline, M.</i> (2018, June 8). 
         <b>The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes</b>. 
-        <a href="https://osf.io/puxbg/" target="_blank">[OSF Preregistration]</a> 
-        <a href="{{site.baseurl}}/MB1SA/"><b>[MB1SA]</b></a></p> 
+        [<a href="https://osf.io/puxbg/" target="_blank">OSF Preregistration</a>] 
+        [<a href="{{site.baseurl}}/MB1SA/"><b>MB1SA</b></a>]</p> 
       </div>
     </div>
   </div>
