@@ -131,12 +131,12 @@ title: Publications & Manuscripts
         <a href="{{site.baseurl}}/MB1SA/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
       </div>
       <div class="col-sm-11" align="left">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Zettersten, M.*</i>, <i>Cox, C. M. M.*</i>, <i>Bergmann, C.*</i>, Tsui, A. S. M., Soderstrom, M., Mayor, J., Lundwall, R. A., Lewis, M., Kosie, J. E., Kartushina, N., Fusaroli, R., Frank, M. C., Byers-Heinlein, K., Black, A. K., & Mathur, M. B. (in press). 
+        <p style="padding-left: 25px; text-indent: -25px"><i>Zettersten, M.*</i>, <i>Cox, C. M. M.*</i>, <i>Bergmann, C.*</i>, Tsui, A. S. M., Soderstrom, M., Mayor, J., Lundwall, R. A., Lewis, M., Kosie, J. E., Kartushina, N., Fusaroli, R., Frank, M. C., Byers-Heinlein, K., Black, A. K., & Mathur, M. B. (2024). 
         <b>Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis</b>. <i>(*co-first authors)</i> 
-        <i>Open Mind</i>. 
-        <a href="https://doi.org/10.1162/opmi_a_00134" target="_blank">doi.org/10.1162/opmi_a_00134</a> 
-        <a href="https://doi.org/10.31234/osf.io/etqs7" target="_blank">[PsyArXiv Preprint]</a> 
-        <a href="{{site.baseurl}}/MB1SA/"><b>[MB1-Meta]</b></a></p>
+        <i>Open Mind: Discoveries in Cognitive Science, 8</i>, 439–461. 
+        <a href="https://doi.org/10.1162/opmi_a_00134" target="_blank">https://doi.org/10 .1162/opmi_a_00134</a> 
+        [<a href="https://doi.org/10.31234/osf.io/etqs7" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB1SA/"><b>MB1-Meta</b></a>]</p>
       </div>
     </div>
     <div class="row">
