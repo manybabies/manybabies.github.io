@@ -242,10 +242,10 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Byers-Heinlein, K.</i>, Tsui, R. K. Y., van Renswoude, D., Black, A. K., Barr, R., Brown, A., Colomer, M., Durrant, S., Gampe, A., Gonzalez-Gomez, N., Hay, J. F., Hernik, M., Jartó, M., Kovács, A. M., Laoun-Rubenstein, A., Lew-Williams, C., Liszkowski, U., Liu, L., Noble, C., ... Singh, L. (2020). 
         <b>The development of gaze following in monolingual and bilingual infants: A multi-lab study</b>. 
-        <i>Infancy</i>. 
-        <a href="https://doi.org/10.1111/infa.12360" target="_blank">doi:10.1111/infa.12360</a> 
-        <a href="https://doi.org/10.31234/osf.io/sgfhv" target="_blank">[PsyArXiv Preprint]</a> 
-        <a href="{{site.baseurl}}/MB1G/"><b>[MB1G]</b></a></p>   
+        <i>Infancy, 26</i>(1), 4-38. 
+        <a href="https://doi.org/10.1111/infa.12360" target="_blank">https://doi.org/10.1111/infa.12360</a> 
+        [<a href="https://doi.org/10.31234/osf.io/sgfhv" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB1G/"><b>MB1G</b></a>]</p>   
       </div>
     </div>
     <div class="row">
