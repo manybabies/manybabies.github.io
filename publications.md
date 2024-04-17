@@ -73,9 +73,9 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Schuwerk, T.*</i>, <i>Kampis, D.*</i>, Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K., Dörrenberg, S., Fisher, C., Franchin, L., Fulcher, T., Garbisch, I., Geraci, A., Grosse Wiesmann, C., Hamlin, J. K., Haun, D. B. M., Hepach, R., Hunnius, S., Hyde, D. C., Karman, P., ... Rakoczy, H. (2022, August). 
         <b>Action anticipation based on an agent's epistemic state in toddlers and adults</b>. 
-        <i>Child Development</i>. <i>(*co-first authors)</i> PsyArXiv. 
-        <a href="https://doi.org/10.31234/osf.io/x4jbm" target="_blank">doi:10.31234/osf.io/x4jbm</a> 
-        <a href="{{site.baseurl}}/MB2/"><b>[MB2]</b></a></p>
+        <i>Child Development</i>. <i>(*co-first authors)</i> <br>
+        <b>[<a href="https://doi.org/10.31234/osf.io/x4jbm" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB2/">MB2</a>]</b></p>
       </div>
     </div>
     <div class="row">
@@ -114,7 +114,7 @@ title: Publications & Manuscripts
         <b>ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time</b>. 
         <i>Nature Human Behaviour</i>. <i>(*co-first authors)</i> <br>
         <b>[<a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">PsyArXiv Preprint</a>] 
-        [<a href="{{site.baseurl}}/MB5/"><b>MB5</b></a>]</b></p> 
+        [<a href="{{site.baseurl}}/MB5/">MB5</a>]</b></p> 
       </div>
     </div>
   </div>
@@ -203,7 +203,7 @@ title: Publications & Manuscripts
         <b>A Global Perspective on Testing Infants Online: Introducing ManyBabies-AtHome</b>. 
         <i>Frontiers in Psychology, 12</i>, 703234. 
         <a href="https://doi.org/10.3389/fpsyg.2021.703234" target="_blank">https://doi.org/10.3389/fpsyg.2021.703234</a> <br>
-        <b>[<a href="{{site.baseurl}}/MB1B/"><b>MB-AtHome</b></a>]</b></p>   
+        <b>[<a href="{{site.baseurl}}/MB1B/">MB-AtHome</a>]</b></p>   
       </div>
     </div>
     <div class="row">
@@ -292,7 +292,7 @@ title: Publications & Manuscripts
         <p style="padding-left: 25px; text-indent: -25px"><i>Exner, A., Bettoni, R., Cantiani, C., Koleini, A., Oliveira, C. M., Thompson, A., Visser, I., & Zettersten, M.</i> (2024, March 19). 
         <b>The relationship between rule learning in infancy (5-12 months) and language skills at 24-30 months</b>.<br> 
         <b>[<a href="https://osf.io/hfqkc" target="_blank">OSF Preregistration</a>] 
-        [<a href="{{site.baseurl}}/MB3L/"><b>MB3L</b></a>]</b></p> 
+        [<a href="{{site.baseurl}}/MB3L/">MB3L</a>]</b></p> 
       </div>
     </div>
     <div class="row">
@@ -304,7 +304,7 @@ title: Publications & Manuscripts
         <p style="padding-left: 25px; text-indent: -25px"><i>Kline, M.</i> (2018, June 8). 
         <b>The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes</b>.<br> 
         <b>[<a href="https://osf.io/puxbg/" target="_blank">OSF Preregistration</a>] 
-        [<a href="{{site.baseurl}}/MB1SA/"><b>MB1SA</b></a>]</b></p> 
+        [<a href="{{site.baseurl}}/MB1SA/">MB1SA</a>]</b></p> 
       </div>
     </div>
   </div>
