@@ -201,9 +201,9 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Zaadnoordijk, L.</i>, Buckler, H., Cusack, R., Tsuji, S., & Bergmann, C. (2021). 
         <b>A Global Perspective on Testing Infants Online: Introducing ManyBabies-AtHome</b>. 
-        <i>Frontiers in Psychology</i>. 
-        <a href="https://doi.org/10.3389/fpsyg.2021.703234" target="_blank">doi:10.3389/fpsyg.2021.703234</a> 
-        <a href="{{site.baseurl}}/MB1B/"><b>[MB-AtHome]</b></a></p>   
+        <i>Frontiers in Psychology, 12</i>, 703234. 
+        <a href="https://doi.org/10.3389/fpsyg.2021.703234" target="_blank">https://doi.org/10.3389/fpsyg.2021.703234</a> 
+        [<a href="{{site.baseurl}}/MB1B/"><b>MB-AtHome</b></a>]</p>   
       </div>
     </div>
     <div class="row">
@@ -214,9 +214,10 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Byers-Heinlein, K.</i>, Tsui, A. S. M., Bergmann, C., Black, A. K., Brown, A., Carbajal,  M. J., Durrant, S., Fennell, C. T., Fiévet, A.,  Frank, M. C., Gampe, A., Gervain, J., Gonzalez-Gomez, N., Hamlin, J. K., Havron, N., Hernik, M., Kerr, S., Killam, H., Klassen, K., ... Wermelinger, S. (2021). 
         <b>A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech</b>. 
-        <i>Advances in Methods and Practices in Psychological Science</i>. 
-        <a href="https://doi.org/10.1177/2515245920974622" target="_blank">doi:10.1177/2515245920974622</a> 
-        <a href="https://doi.org/10.31234/osf.io/sqh9d" target="_blank">[PsyArXiv Preprint]</a> <a href="{{site.baseurl}}/MB1B/"><b>[MB1B]</b></a></p>  
+        <i>Advances in Methods and Practices in Psychological Science, 4</i>(1), 1-30. 
+        <a href="https://doi.org/10.1177/2515245920974622" target="_blank">https://doi.org/10.1177/2515245920974622</a> 
+        [<a href="https://doi.org/10.31234/osf.io/sqh9d" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB1B/"><b>MB1B</b></a>]</p>  
       </div>
     </div>
     <div class="row">
