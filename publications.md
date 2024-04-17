@@ -145,12 +145,12 @@ title: Publications & Manuscripts
         <a href="{{site.baseurl}}/MB-ManyWebcams/"><img src="/assets/img/MBMW_logo.png" alt="ManyBabies-ManyWebcams logo"></a>
       </div>
       <div class="col-sm-11">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Steffan, A.*</i>, <i>Zimmer, L.*</i>, Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmannm C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E. S., Kulke, L., Mayor, J., Meristo, M., ... Schuwerk, T. (2023). 
-        <b>Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood</b>. <i>(*co-first authors)</i> 
-        <i>Infancy</i>.
-        <a href="https://doi.org/10.1111/infa.12564" target="_blank">doi.org/10.1111/infa.12564</a> 
-        <a href="https://doi.org/10.31234/osf.io/7924h" target="_blank">[PsyArXiv Preprint]</a> 
-        <a href="{{site.baseurl}}/MB-ManyWebcams/"><b>[MB-ManyWebcams]</b></a></p> 
+        <p style="padding-left: 25px; text-indent: -25px"><i>Steffan, A.*</i>, <i>Zimmer, L.*</i>, Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmannm C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E. S., Kulke, L., Mayor, J., Meristo, M., ... Schuwerk, T. (2024). 
+        <b>Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood</b>. 
+        <i>Infancy, 29</i>, 31-55.
+        <a href="https://doi.org/10.1111/infa.12564" target="_blank">https://doi.org/10.1111/infa.12564</a> <i>(*co-first authors)</i>
+        [<a href="https://doi.org/10.31234/osf.io/7924h" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB-ManyWebcams/"><b>[MB-ManyWebcams</b></a>]</p> 
       </div>
     </div>
     <div class="row">
@@ -159,12 +159,12 @@ title: Publications & Manuscripts
         <a href="{{site.baseurl}}/MB-Demographics/"><img src="/assets/img/MBDemo_logo.png" alt="ManyBabies Demographics logo"></a>
       </div>
       <div class="col-sm-11">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Singh, L.</i>, Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., ... Frank, M. C. (2023). 
+        <p style="padding-left: 25px; text-indent: -25px"><i>Singh, L.</i>, Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., ... Frank, M. C. (2024). 
         <b>A unified approach to demographic data collection for research with young children across diverse cultures</b>. 
-        <i>Developmental Psychology</i>.
-        <a href="https://doi.org/10.1037/dev0001623" target="_blank">doi.org/10.1037/dev0001623</a> 
-        <a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">[PsyArXiv Preprint]</a> 
-        <a href="{{site.baseurl}}/MB-Demographics/"><b>[MB-Demographics]</b></a></p> 
+        <i>Developmental Psychology, 60</i>(2), 211-227.
+        <a href="https://doi.org/10.1037/dev0001623" target="_blank">https://doi.org/10.1037/dev0001623</a> 
+        [<a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB-Demographics/"><b>[MB-Demographics</b></a>]</p> 
       </div>
     </div>
     <div class="row">
@@ -175,8 +175,9 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Baumgartner, H.A.</i>, Alessandroni, N., Byers-Heinlein, K., Frank, M.C., Hamlin, J.K., Soderstrom, M., Voelkel, J.G., Willer, R., Yuen, F., & Coles, N.A. (2023). 
         <b>How to build up big team science: a practical guide for large-scale collaborations</b>. 
-        <i>Royal Society Open Science</i>. 
-        <a href="https://doi.org/10.1098/rsos.230235" target="_blank">doi:10.1098/rsos.230235</a> </p> 
+        <i>Royal Society Open Science, 10</i>, 230235. 
+        <a href="https://doi.org/10.1098/rsos.230235" target="_blank">https://doi.org/10.1098/rsos.230235</a> 
+        [<a href="https://doi.org/10.31234/osf.io/j7mt4" target="_blank">PsyArXiv Preprint</a>]</p> 
       </div>
     </div>
     <div class="row">
