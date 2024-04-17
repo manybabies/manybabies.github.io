@@ -135,8 +135,8 @@ title: Publications & Manuscripts
         <b>Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis</b>. 
         <i>Open Mind: Discoveries in Cognitive Science, 8</i>, 439–461. 
         <a href="https://doi.org/10.1162/opmi_a_00134" target="_blank">https://doi.org/10 .1162/opmi_a_00134</a> <i>(*co-first authors)</i> <br>
-        [<a href="https://doi.org/10.31234/osf.io/etqs7" target="_blank">PsyArXiv Preprint</a>] 
-        [<a href="{{site.baseurl}}/MB1SA/"><b>MB1-Meta</b></a>]</p>
+        <b>[<a href="https://doi.org/10.31234/osf.io/etqs7" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB1SA/">MB1-Meta</a>]</b></p>
       </div>
     </div>
     <div class="row">
