@@ -147,7 +147,7 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Steffan, A.*</i>, <i>Zimmer, L.*</i>, Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmannm C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E. S., Kulke, L., Mayor, J., Meristo, M., ... Schuwerk, T. (2024). 
         <b>Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood</b>. 
-        <i>Infancy, 29</i>, 31-55.
+        <i>Infancy, 29</i>(1), 31-55.
         <a href="https://doi.org/10.1111/infa.12564" target="_blank">https://doi.org/10.1111/infa.12564</a> <i>(*co-first authors)</i>
         [<a href="https://doi.org/10.31234/osf.io/7924h" target="_blank">PsyArXiv Preprint</a>] 
         [<a href="{{site.baseurl}}/MB-ManyWebcams/"><b>[MB-ManyWebcams</b></a>]</p> 
