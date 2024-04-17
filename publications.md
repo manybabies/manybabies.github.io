@@ -112,9 +112,9 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Kosie, J. E.*</i>, <i>Zettersten, M.*</i>, Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H. A., Bazhydai, M., Belia, M., Benavides-Varela, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., ... Lew-Williams, C. (2024, March). 
         <b>ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time</b>. 
-        <i>Nature Human Behaviour</i>. <i>(*co-first authors)</i> PsyArXiv. 
-        <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">doi:10.31234/osf.io/ck3vd</a> 
-        <a href="{{site.baseurl}}/MB5/"><b>[MB5]</b></a></p> 
+        <i>Nature Human Behaviour</i>. <i>(*co-first authors)</i>
+        <b>[<a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB5/"><b>MB5</b></a>]</b></p> 
       </div>
     </div>
   </div>
