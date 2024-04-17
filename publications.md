@@ -228,10 +228,10 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Byers-Heinlein, K.</i>, Bergmann, C., Davies, C., Frank, M. C., Hamlin, J. K., Kline, M., Kominsky, J. F., Kosie, J. E., Lew-Williams, C., Liu, L., Mastroberardino, M., Singh, L., Waddell, C. P. G., Zettersten, M., & Soderstrom, M. (2020). 
         <b>Building a collaborative Psychological Science: Lessons from ManyBabies 1</b>. 
-        <i>Canadian Psychology</i>. 
-        <a href="https://doi.org/10.1037/cap0000216" target="_blank">doi:10.1037/cap0000216</a> 
-        <a href="https://doi.org/10.31234/osf.io/dmhk2" target="_blank">[PsyArXiv Preprint]</a> 
-        <a href="{{site.baseurl}}/MB1/"><b>[MB1]</b></a></p>  
+        <i>Canadian Psychology, 61</i>(4), 349 –363. 
+        <a href="https://doi.org/10.1037/cap0000216" target="_blank">https://doi.org/10.1037/cap0000216</a> 
+        [<a href="https://doi.org/10.31234/osf.io/dmhk2" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB1/"><b>MB1</b></a>]</p>  
       </div>
     </div>
     <div class="row">
