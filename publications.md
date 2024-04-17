@@ -86,9 +86,9 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Visser, I.</i>, Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., ... Soderstrom, M., & Levelt, C. C. (2022, September). 
         <b>ManyBabies 3: A multi-lab study of infant algebraic rule learning</b>. 
-        <i>Developmental Science</i>. PsyArXiv. 
-        <a href="https://doi.org/10.31234/osf.io/aex7v" target="_blank">doi:10.31234/osf.io/aex7v</a> 
-        <a href="{{site.baseurl}}/MB3/"><b>[MB3]</b></a></p>  
+        <i>Developmental Science</i>. <br>
+        <b>[<a href="https://doi.org/10.31234/osf.io/aex7v" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB3/">MB3</a>]</b></p>  
       </div>
     </div>
     <div class="row">
