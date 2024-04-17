@@ -302,7 +302,7 @@ title: Publications & Manuscripts
       </div>
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Kline, M.</i> (2018, June 8). 
-        <b>The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes</b>. 
+        <b>The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes</b>.<br> 
         [<a href="https://osf.io/puxbg/" target="_blank">OSF Preregistration</a>] 
         [<a href="{{site.baseurl}}/MB1SA/"><b>MB1SA</b></a>]</p> 
       </div>
