@@ -256,10 +256,10 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px">ManyBabies Consortium (2020). 
         <b>Quantifying sources of variability in infancy research using the infant-directed speech preference</b>. 
-        <i>Advances in Methods and Practices in Psychological Science</i>. 
-        <a href="https://doi.org/10.1177/2515245919900809" target="_blank">doi:10.1177/2515245919900809</a> 
-        <a href="https://doi.org/10.31234/osf.io/s98ab" target="_blank">[PsyArXiv Preprint]</a> 
-        <a href="{{site.baseurl}}/MB1/"><b>[MB1]</b></a></p>   
+        <i>Advances in Methods and Practices in Psychological Science, 3</i>(1), 24-52. 
+        <a href="https://doi.org/10.1177/2515245919900809" target="_blank">https://doi.org/10.1177/2515245919900809</a> 
+        [<a href="https://doi.org/10.31234/osf.io/s98ab" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB1/"><b>MB1</b></a>]</p>   
       </div>
     </div>
     <div class="row">
@@ -270,9 +270,9 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Frank, M. C.</i>, Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., Hamlin, J. K., Hannon, E. E., Kline, M., Levelt, C., Lew-Williams, C., Nazzi, T., Panneton, R., Rabagliati, H., Soderstrom, M., Sullivan, J., Waxman, S., & Yurovsky, D. (2017). 
         <b>A collaborative approach to infant research: Promoting reproducibility, best practices, and theory-building</b>. 
-        <i>Infancy</i>. 
-        <a href="https://doi.org/10.1111/infa.12182" target="_blank">doi:10.1111/infa.12182</a> 
-        <a href="https://doi.org/10.31234/osf.io/27b43" target="_blank">[PsyArXiv Preprint]</a></p>   
+        <i>Infancy, 22</i>(4), 421-435. 
+        <a href="https://doi.org/10.1111/infa.12182" target="_blank">https://doi.org/10.1111/infa.12182</a> 
+        [<a href="https://doi.org/10.31234/osf.io/27b43" target="_blank">PsyArXiv Preprint</a>]</p>   
       </div>
     </div>
   </div>
