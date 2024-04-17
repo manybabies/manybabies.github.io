@@ -15,19 +15,19 @@ subtitle: Longitudinal Language Follow-up
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Design</b></li>
+        <li><i>Status:</i> <b>Data collection</b></li>
       </ul>
     </div>
   </div>
 </div>
 
 
-In this spin-off of the [**MB3**]({{site.baseurl}}/MB3/) project we aim to investigate the relationship between infants' rule learning abilities and their later developing language acquisition skills in a longitudinal design. Therefore, participating labs will assess language abilities at 18, 24, and 30 months of age using the CDI and additional measures (e.g. language recordings in a semi-structured setting). We are for example interested in the extent to which rule learning abilities predict later grammar skills, if this relationship changes with age, and if certain characteristics of the first language the infants are exposed to (e.g., like complexity) lead to any systematic differences in the strength of this relationship.
+The MB3L follow-up project will investigate the relationship between infants’ rule learning abilities and their later developing language acquisition skills in a longitudinal design. Therefore, participating labs will assess language abilities at 24 to 30 months of age using the CDI. We are for example interested in the extent to which rule learning abilities predict later grammar skills, whether this relationship changes with age, and if certain characteristics of the first language the infants are exposed to (e.g., like complexity) lead to any systematic differences in the strength of this relationship.
 
 
 ***
 ### Links
-* **Preregistration**: <a href="https://osf.io/hfqkc" target="_blank">OSF</a>
+* **Preregistration**: <a href="https://osf.io/hfqkc" target="_blank">Link</a>
 * **MB3**: [main project page]({{site.baseurl}}/MB3/)
 
 ***
