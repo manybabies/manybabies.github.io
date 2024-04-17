@@ -25,10 +25,9 @@ title: Publications & Manuscripts
       </div>
       <div class="col-sm-11" align="left">
         <p style="padding-left: 25px; text-indent: -25px"><i>Schreiner, M. S.</i>, Zettersten, M., Bergmann, C., Frank, M. C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, J. K., Kartushina, N., Kellier, D. J., Mani, N., Mayor, J., Saffran, J. R., Shukla, M., Silverstein, P., Soderstrom, M., & Lippold, M. (2023, September). 
-        <b>Limited evidence of test-retest reliability in infant-directed speech preference in a large pre-registered infant sample</b>. 
-        PsyArXiv. 
-        <a href="https://doi.org/10.31234/osf.io/uwche" target="_blank">doi:10.31234/osf.io/uwche</a> 
-        <a href="{{site.baseurl}}/MB1T/"><b>[MB1T]</b></a></p>
+        <b>Limited evidence of test-retest reliability in infant-directed speech preference in a large pre-registered infant sample</b>. <br>
+        <b>[<a href="https://doi.org/10.31234/osf.io/uwche" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB1T/">MB1T</a>]</b></p>
       </div>
     </div>
   </div>
@@ -48,9 +47,9 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Tsui, A. S. M.</i>, Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., ... Lew-Williams, C., & Frank, M. C. (2021, September). 
         <b>Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa</b>. 
-        <i>Developmental Science</i>. 
-        <a href="https://osf.io/fqp4b" target="_blank">[OSF Preprint]</a> 
-        <a href="{{site.baseurl}}/MB1A/"><b>[MB1A]</b></a></p>  
+        <i>Developmental Science</i>. <br>
+        <b>[<a href="https://osf.io/fqp4b" target="_blank">OSF Preprint</a> 
+        [<a href="{{site.baseurl}}/MB1A/">MB1A</a>]</b></p>  
       </div>
     </div>
     <div class="row">
