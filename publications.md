@@ -149,8 +149,8 @@ title: Publications & Manuscripts
         <b>Validation of an Open Source, Remote Web-based Eye-tracking Method (WebGazer) for Research in Early Childhood</b>. 
         <i>Infancy, 29</i>(1), 31-55.
         <a href="https://doi.org/10.1111/infa.12564" target="_blank">https://doi.org/10.1111/infa.12564</a> <i>(*co-first authors)</i> <br>
-        [<a href="https://doi.org/10.31234/osf.io/7924h" target="_blank">PsyArXiv Preprint</a>] 
-        [<a href="{{site.baseurl}}/MB-ManyWebcams/"><b>MB-ManyWebcams</b></a>]</p> 
+        <b>[<a href="https://doi.org/10.31234/osf.io/7924h" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB-ManyWebcams/">MB-ManyWebcams</a>]</b></p> 
       </div>
     </div>
     <div class="row">
@@ -163,8 +163,8 @@ title: Publications & Manuscripts
         <b>A unified approach to demographic data collection for research with young children across diverse cultures</b>. 
         <i>Developmental Psychology, 60</i>(2), 211-227.
         <a href="https://doi.org/10.1037/dev0001623" target="_blank">https://doi.org/10.1037/dev0001623</a> <br>
-        [<a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">PsyArXiv Preprint</a>] 
-        [<a href="{{site.baseurl}}/MB-Demographics/"><b>MB-Demographics</b></a>]</p> 
+        <b>[<a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB-Demographics/">MB-Demographics</a>]</b></p> 
       </div>
     </div>
     <div class="row">
@@ -177,7 +177,7 @@ title: Publications & Manuscripts
         <b>How to build up big team science: a practical guide for large-scale collaborations</b>. 
         <i>Royal Society Open Science, 10</i>, 230235. 
         <a href="https://doi.org/10.1098/rsos.230235" target="_blank">https://doi.org/10.1098/rsos.230235</a> <br>
-        [<a href="https://doi.org/10.31234/osf.io/j7mt4" target="_blank">PsyArXiv Preprint</a>]</p> 
+        <b>[<a href="https://doi.org/10.31234/osf.io/j7mt4" target="_blank">PsyArXiv Preprint</a>]</b></p> 
       </div>
     </div>
     <div class="row">
@@ -190,7 +190,7 @@ title: Publications & Manuscripts
         <b>Improving the generalizability of infant psychological research: The ManyBabies model (Commentary)</b>. 
         <i>Behavioral and Brain Sciences, 45</i>, e35. 
         <a href="https://doi.org/10.1017/S0140525X21000455" target="_blank">https://doi.org/10.1017/S0140525X21000455</a> <br>
-        [<a href="https://doi.org/10.31234/osf.io/8vwbf" target="_blank">PsyArXiv Preprint</a>]</p> 
+        <b>[<a href="https://doi.org/10.31234/osf.io/8vwbf" target="_blank">PsyArXiv Preprint</a>]</b></p> 
       </div>
     </div>
     <div class="row">
@@ -203,7 +203,7 @@ title: Publications & Manuscripts
         <b>A Global Perspective on Testing Infants Online: Introducing ManyBabies-AtHome</b>. 
         <i>Frontiers in Psychology, 12</i>, 703234. 
         <a href="https://doi.org/10.3389/fpsyg.2021.703234" target="_blank">https://doi.org/10.3389/fpsyg.2021.703234</a> <br>
-        [<a href="{{site.baseurl}}/MB1B/"><b>MB-AtHome</b></a>]</p>   
+        <b>[<a href="{{site.baseurl}}/MB1B/"><b>MB-AtHome</b></a>]</b></p>   
       </div>
     </div>
     <div class="row">
@@ -216,8 +216,8 @@ title: Publications & Manuscripts
         <b>A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech</b>. 
         <i>Advances in Methods and Practices in Psychological Science, 4</i>(1), 1-30. 
         <a href="https://doi.org/10.1177/2515245920974622" target="_blank">https://doi.org/10.1177/2515245920974622</a> <br>
-        [<a href="https://doi.org/10.31234/osf.io/sqh9d" target="_blank">PsyArXiv Preprint</a>] 
-        [<a href="{{site.baseurl}}/MB1B/"><b>MB1B</b></a>]</p>  
+        <b>[<a href="https://doi.org/10.31234/osf.io/sqh9d" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB1B/">MB1B</a>]</b></p>  
       </div>
     </div>
     <div class="row">
@@ -230,8 +230,8 @@ title: Publications & Manuscripts
         <b>The development of gaze following in monolingual and bilingual infants: A multi-lab study</b>. 
         <i>Infancy, 26</i>(1), 4-38. 
         <a href="https://doi.org/10.1111/infa.12360" target="_blank">https://doi.org/10.1111/infa.12360</a> <br>
-        [<a href="https://doi.org/10.31234/osf.io/sgfhv" target="_blank">PsyArXiv Preprint</a>] 
-        [<a href="{{site.baseurl}}/MB1G/"><b>MB1G</b></a>]</p>   
+        <b>[<a href="https://doi.org/10.31234/osf.io/sgfhv" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB1G/">MB1G</a>]</b></p>   
       </div>
     </div>
     <div class="row">
@@ -244,8 +244,8 @@ title: Publications & Manuscripts
         <b>Building a collaborative Psychological Science: Lessons from ManyBabies 1</b>. 
         <i>Canadian Psychology, 61</i>(4), 349 –363. 
         <a href="https://doi.org/10.1037/cap0000216" target="_blank">https://doi.org/10.1037/cap0000216</a> <br>
-        [<a href="https://doi.org/10.31234/osf.io/dmhk2" target="_blank">PsyArXiv Preprint</a>] 
-        [<a href="{{site.baseurl}}/MB1/"><b>MB1</b></a>]</p>  
+        <b>[<a href="https://doi.org/10.31234/osf.io/dmhk2" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB1/">MB1</a>]</b></p>  
       </div>
     </div>
     <div class="row">
@@ -258,8 +258,8 @@ title: Publications & Manuscripts
         <b>Quantifying sources of variability in infancy research using the infant-directed speech preference</b>. 
         <i>Advances in Methods and Practices in Psychological Science, 3</i>(1), 24-52. 
         <a href="https://doi.org/10.1177/2515245919900809" target="_blank">https://doi.org/10.1177/2515245919900809</a> <br>
-        [<a href="https://doi.org/10.31234/osf.io/s98ab" target="_blank">PsyArXiv Preprint</a>] 
-        [<a href="{{site.baseurl}}/MB1/"><b>MB1</b></a>]</p>   
+        <b>[<a href="https://doi.org/10.31234/osf.io/s98ab" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB1/">MB1</a>]</b></p>   
       </div>
     </div>
     <div class="row">
@@ -272,7 +272,7 @@ title: Publications & Manuscripts
         <b>A collaborative approach to infant research: Promoting reproducibility, best practices, and theory-building</b>. 
         <i>Infancy, 22</i>(4), 421-435. 
         <a href="https://doi.org/10.1111/infa.12182" target="_blank">https://doi.org/10.1111/infa.12182</a> <br> 
-        [<a href="https://doi.org/10.31234/osf.io/27b43" target="_blank">PsyArXiv Preprint</a>]</p>   
+        <b>[<a href="https://doi.org/10.31234/osf.io/27b43" target="_blank">PsyArXiv Preprint</a>]</b></p>   
       </div>
     </div>
   </div>
@@ -291,8 +291,8 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Exner, A., Bettoni, R., Cantiani, C., Koleini, A., Oliveira, C. M., Thompson, A., Visser, I., & Zettersten, M.</i> (2024, March 19). 
         <b>The relationship between rule learning in infancy (5-12 months) and language skills at 24-30 months</b>.<br> 
-        [<a href="https://osf.io/hfqkc" target="_blank">OSF Preregistration</a>] 
-        [<a href="{{site.baseurl}}/MB3L/"><b>MB3L</b></a>]</p> 
+        <b>[<a href="https://osf.io/hfqkc" target="_blank">OSF Preregistration</a>] 
+        [<a href="{{site.baseurl}}/MB3L/"><b>MB3L</b></a>]</b></p> 
       </div>
     </div>
     <div class="row">
@@ -303,8 +303,8 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Kline, M.</i> (2018, June 8). 
         <b>The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes</b>.<br> 
-        [<a href="https://osf.io/puxbg/" target="_blank">OSF Preregistration</a>] 
-        [<a href="{{site.baseurl}}/MB1SA/"><b>MB1SA</b></a>]</p> 
+        <b>[<a href="https://osf.io/puxbg/" target="_blank">OSF Preregistration</a>] 
+        [<a href="{{site.baseurl}}/MB1SA/"><b>MB1SA</b></a>]</b></p> 
       </div>
     </div>
   </div>
