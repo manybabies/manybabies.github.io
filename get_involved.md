@@ -64,6 +64,6 @@ If you are interested in leading a new **ManyBabies** project (either a main pro
 <h2 id="signupform">ManyBabies Sign-Up Form</h2>
 To express interest in contributing to one or more **ManyBabies** project(s), please fill out this form. We'll be in touch as soon as possible with more info. 
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScTzmf11OUsL3kgXtdqYRMTn-k4VBYX5NKBET68uhwMJcbRwA/viewform?embedded=true" width="640" height="3807" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/pagp5tSLS8TAkBvKV/form" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 
