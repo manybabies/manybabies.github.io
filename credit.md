@@ -7,7 +7,7 @@ title: CRediT Reporting
 ***
 All MB Contributors are asked to report project contributions using the **MB Contribution Reporting Form** (below). ManyBabies uses the [**Contributor Roles Taxonomy (CRediT)**](https://credit.niso.org/) to transparently track and report each contributor's specific contribution(s). 
 
-To update your contributions for a project, fill out the form again (newer responses will replace older responses).
+#### To update your contributions for a project, fill out the form again (newer responses will replace older responses).
 
 ***
 ## ManyBabies CRediT Table
