@@ -52,8 +52,6 @@ subtitle: The Hunter & Ames Model of Infant Looking Preference
 * [**Jessica Kosie**](https://jkosie.github.io/), *Arizona State University, United States* [[email]](mailto:jkosie@asu.edu)
 * [**Martin Zettersten**](https://mzettersten.github.io/), *Princeton University, United States* [[email]](mailto:martincz@princeton.edu)
 * [**Casey Lew-Williams**](https://psych.princeton.edu/person/casey-lew-williams), *Princeton University, United States* [[email]](mailto:caseylw@princeton.edu)
-* [**Christina Bergmann**](https://scholar.google.com/citations?user=5e9DkjMAAAAJ&hl=en), *University of Applied Sciences, Germany & Max Planck Institute for Psycholinguistics, Netherlands* [[email]](mailto:chbergma@gmail.com)
-* [**Dima Amso**](https://psychology.columbia.edu/content/dima-amso), *Columbia University, United States* [[email]](mailto:da2959@columbia.edu)
 
 
 ***
