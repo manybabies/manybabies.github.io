@@ -197,8 +197,9 @@ The broader goals of **ManyBabies** come together through collaborative projects
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB5/">MB5: The Hunter & Ames Model of Infant Looking Preference</a></h4>
         <b>Status:</b> <i>Stage 1 'In Principle Acceptance'; Finalizing stimuli; Preparing for data collection</i><br>
-        <b>Project Leads:</b> <a href="mailto:jkosie@princeton.edu">Jessica Kosie</a>, <a href="mailto:martincz@princeton.edu">Martin Zettersten</a>, 
-          <a href="mailto:chbergma@gmail.com">Christina Bergmann</a>, <a href="mailto:da2959@columbia.edu">Dima Amso</a>, <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a><br>
+        <b>Project Leads:</b> <a href="mailto:jkosie@princeton.edu">Jessica Kosie</a>, 
+          <a href="mailto:martincz@princeton.edu">Martin Zettersten</a>, 
+          <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a><br>
         <b>MB5 listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blank"><i>Subscribe</i></a><br>
         <b>MB5 Slack:</b> <i><a href="https://join.slack.com/t/manybabies5/shared_invite/zt-1olgszxpd-1FKLTYOY3o~oBjyw2cLR2Q" target="_blank">Join workspace</a></i>
       </div>
