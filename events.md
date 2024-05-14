@@ -3,9 +3,53 @@ layout: page
 title: Events
 ---
 
-<!--
+
 >Upcoming Events
--->
+
+#### May 24, 2024 - 14:00-15:30 UTC on Zoom
+### Behavioral Coding Software for Developmental Science
+#### An overview of BORIS, Datavyu, and ELAN
+
+Behavioral coding software streamlines the process of analyzing infant behavior by providing tools to record, categorize, and measure observational data. It allows researchers to precisely capture and quantify complex behaviors, thus enabling deeper insights into infant development. Join us in this 90-minute webinar to learn more from representatives of BORIS, Datavyu, and ELAN, who will showcase each software's main features and possibilities. Following the presentations, there will be a Q&A and discussion on potential applications in infant research. Take advantage of this chance to discover how these tools can enhance your research!
+
+<h4><a href="https://airtable.com/appRoqMKzcK3NsXt4/pag9XyWOZIzTZj0Dd/form" target="_blank">REGISTER (for free) NOW!</a><h4>
+ 
+*Note: The webinar will be recorded and shared with registrants.*
+
+***
+#### June 4 & 6, 2024
+### ManyBabies Town Halls
+#### Help shape the future of MB!
+
+ManyBabies, a consortium of developmental researchers dedicated to openness and best practices, has two Town Hall discussions coming up and we’d love to hear from you, members and non-members alike.
+ 
+We are holding two Town Halls to accommodate time differences:
+
+### #1: June 4, 2024 - 1800-1900 UTC (Americas, Africa, & Europe)
+#### 2pm New York / 3pm Buenos Aires / 7pm Lagos / 8pm Amsterdam
+##### [[Zoom link(https://stanford.zoom.us/j/93250971874?pwd=c2loaFRrSGk0VkxmdTMzbjZFV3BnQT09)] 
+##### [[+ add to calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWM5anNxMmQydXNwZTltNXFlZGFwdW5maGcgMmUyOWVmZDI1ODM0MDg5OTk2NzZjZDQyNzM5M2M4NWJmMDZmYWE0M2JjOTk5MGM5MWQxMmU5MjU2Mzg5YmUxY0Bn)]
+
+### #2 June 6, 2024 - 2300-2400 UTC (Americas, Asia, & Oceania)
+#### 7pm New York / 8pm Buenos Aires / 8am (June 7) Seoul / 9am (June 7) Brisbane
+##### [[Zoom link(https://stanford.zoom.us/j/99205382552?pwd=YTltMHlkc1B0Q2V0d3ErUVBVQ1ZBQT09)] 
+##### [[+ add to calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MnZmYzlwcW5lOHNqb3NzZDQyOTVwNG5iaDcgMmUyOWVmZDI1ODM0MDg5OTk2NzZjZDQyNzM5M2M4NWJmMDZmYWE0M2JjOTk5MGM5MWQxMmU5MjU2Mzg5YmUxY0Bn)]
+
+The main goal of these Town Halls is to discuss ManyBabies from a broad perspective: Where should ManyBabies go next in terms of individual projects as well as overall directions? How should our network of developmental scientists evolve to help make the field better and better?
+ 
+Beyond this conceptual discussion, we will talk about:
+* What have been our gaps in understanding/implementation, intellectually or methodologically?
+* How can we best include scientists from underrepresented communities?
+* What have you personally gotten from your engagement with ManyBabies? What (else) would you like to get from it?
+ 
+We will also address these (and many other) topics in person at a **International Congress of Infant Studies (ICIS) pre-conference workshop on July 8**, and notes from the Town Halls will be summarized and shared that day.
+ 
+These Town Halls instantiate MB’s collaborative nature, which means that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made using a consensus-based approach.
+ 
+**If you cannot attend either the Town Halls or the ICIS pre-conference, we would still love to hear your ideas. Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAsflB7grZQtW3t9SahoWP7kpTsNDmrZKt0_s1E80I9mzRKQ/viewform?usp=sf_link" target="_blank">fill out this form</a> to share your thoughts with us!**
+
+
+
 
 <br>
 
