@@ -17,6 +17,7 @@ Behavioral coding software streamlines the process of analyzing infant behavior 
 *Note: The webinar will be recorded and shared with registrants.*
 
 ***
+
 #### June 4 & 6, 2024
 ### ManyBabies Town Halls
 #### Help shape the future of MB!
