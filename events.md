@@ -31,7 +31,7 @@ We are holding two Town Halls to accommodate time differences:
 ### #1: June 4, 2024 - 1800-1900 UTC (Americas, Africa, & Europe)
 #### 2pm New York / 3pm Buenos Aires / 7pm Lagos / 8pm Amsterdam
 #### [[Zoom link](https://stanford.zoom.us/j/93250971874?pwd=c2loaFRrSGk0VkxmdTMzbjZFV3BnQT09)] [[+ add to calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWM5anNxMmQydXNwZTltNXFlZGFwdW5maGcgMmUyOWVmZDI1ODM0MDg5OTk2NzZjZDQyNzM5M2M4NWJmMDZmYWE0M2JjOTk5MGM5MWQxMmU5MjU2Mzg5YmUxY0Bn)]
-#### 
+.
 ### #2 June 6, 2024 - 2300-2400 UTC (Americas, Asia, & Oceania)
 #### 7pm New York / 8pm Buenos Aires / (June 7) 8am  Seoul / (June 7) 9am Brisbane
 #### [[Zoom link](https://stanford.zoom.us/j/99205382552?pwd=YTltMHlkc1B0Q2V0d3ErUVBVQ1ZBQT09)] [[+ add to calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MnZmYzlwcW5lOHNqb3NzZDQyOTVwNG5iaDcgMmUyOWVmZDI1ODM0MDg5OTk2NzZjZDQyNzM5M2M4NWJmMDZmYWE0M2JjOTk5MGM5MWQxMmU5MjU2Mzg5YmUxY0Bn)]
