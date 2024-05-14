@@ -30,13 +30,13 @@ We are holding two Town Halls to accommodate time differences:
 
 ### #1: June 4, 2024 - 1800-1900 UTC (Americas, Africa, & Europe)
 #### 2pm New York / 3pm Buenos Aires / 7pm Lagos / 8pm Amsterdam
-##### [[Zoom link(https://stanford.zoom.us/j/93250971874?pwd=c2loaFRrSGk0VkxmdTMzbjZFV3BnQT09)] 
-##### [[+ add to calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWM5anNxMmQydXNwZTltNXFlZGFwdW5maGcgMmUyOWVmZDI1ODM0MDg5OTk2NzZjZDQyNzM5M2M4NWJmMDZmYWE0M2JjOTk5MGM5MWQxMmU5MjU2Mzg5YmUxY0Bn)]
+#### [[Zoom link](https://stanford.zoom.us/j/93250971874?pwd=c2loaFRrSGk0VkxmdTMzbjZFV3BnQT09)] 
+#### [[+ add to calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWM5anNxMmQydXNwZTltNXFlZGFwdW5maGcgMmUyOWVmZDI1ODM0MDg5OTk2NzZjZDQyNzM5M2M4NWJmMDZmYWE0M2JjOTk5MGM5MWQxMmU5MjU2Mzg5YmUxY0Bn)]
 
 ### #2 June 6, 2024 - 2300-2400 UTC (Americas, Asia, & Oceania)
 #### 7pm New York / 8pm Buenos Aires / 8am (June 7) Seoul / 9am (June 7) Brisbane
-##### [[Zoom link(https://stanford.zoom.us/j/99205382552?pwd=YTltMHlkc1B0Q2V0d3ErUVBVQ1ZBQT09)] 
-##### [[+ add to calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MnZmYzlwcW5lOHNqb3NzZDQyOTVwNG5iaDcgMmUyOWVmZDI1ODM0MDg5OTk2NzZjZDQyNzM5M2M4NWJmMDZmYWE0M2JjOTk5MGM5MWQxMmU5MjU2Mzg5YmUxY0Bn)]
+#### [[Zoom link](https://stanford.zoom.us/j/99205382552?pwd=YTltMHlkc1B0Q2V0d3ErUVBVQ1ZBQT09)] 
+#### [[+ add to calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MnZmYzlwcW5lOHNqb3NzZDQyOTVwNG5iaDcgMmUyOWVmZDI1ODM0MDg5OTk2NzZjZDQyNzM5M2M4NWJmMDZmYWE0M2JjOTk5MGM5MWQxMmU5MjU2Mzg5YmUxY0Bn)]
 
 The main goal of these Town Halls is to discuss ManyBabies from a broad perspective: Where should ManyBabies go next in terms of individual projects as well as overall directions? How should our network of developmental scientists evolve to help make the field better and better?
  
