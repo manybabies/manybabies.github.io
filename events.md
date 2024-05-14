@@ -18,6 +18,16 @@ Behavioral coding software streamlines the process of analyzing infant behavior 
 
 ***
 
+### ManyBabies Town Halls
+#### Help shape the future of MB!
+
+### #1: June 4, 2024 - 1800-1900 UTC - Americas, Africa, & Europe
+#### 2pm New York / 3pm Buenos Aires / 7pm Lagos / 8pm Amsterdam
+##### [[Zoom link(https://stanford.zoom.us/j/93250971874?pwd=c2loaFRrSGk0VkxmdTMzbjZFV3BnQT09)] 
+##### [[+ add to calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWM5anNxMmQydXNwZTltNXFlZGFwdW5maGcgMmUyOWVmZDI1ODM0MDg5OTk2NzZjZDQyNzM5M2M4NWJmMDZmYWE0M2JjOTk5MGM5MWQxMmU5MjU2Mzg5YmUxY0Bn)]
+
+
+
 
 
 
