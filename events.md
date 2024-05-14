@@ -15,6 +15,7 @@ Behavioral coding software streamlines the process of analyzing infant behavior 
 <h4><a href="https://airtable.com/appRoqMKzcK3NsXt4/pag9XyWOZIzTZj0Dd/form" target="_blank">REGISTER (for free) NOW!</a></h4>
  
 *Note: The webinar will be recorded and shared with registrants.*
+
 <br>
 
 ***
