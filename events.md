@@ -32,7 +32,7 @@ We are holding two Town Halls to accommodate time differences:
 ##### [[Zoom link(https://stanford.zoom.us/j/93250971874?pwd=c2loaFRrSGk0VkxmdTMzbjZFV3BnQT09)] 
 ##### [[+ add to calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MWM5anNxMmQydXNwZTltNXFlZGFwdW5maGcgMmUyOWVmZDI1ODM0MDg5OTk2NzZjZDQyNzM5M2M4NWJmMDZmYWE0M2JjOTk5MGM5MWQxMmU5MjU2Mzg5YmUxY0Bn)]
 
->Town Hall #1=2
+>Town Hall #2
 
 ### June 6, 2024 - 2300-2400 UTC - Americas, Asia, & Oceania
 #### 7pm New York / 8pm Buenos Aires / 8am (June 7) Seoul / 9am (June 7) Brisbane
@@ -50,7 +50,7 @@ We will also address these (and many other) topics in person at a **Internationa
  
 These Town Halls instantiate MB’s collaborative nature, which means that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made using a consensus-based approach.
  
-**If you cannot attend either the Town Halls or the ICIS pre-conference, we would still love to hear your ideas. Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAsflB7grZQtW3t9SahoWP7kpTsNDmrZKt0_s1E80I9mzRKQ/viewform?usp=sf_link" target="_blank>fill out this form</a> to share your thoughts with us!**
+**If you cannot attend either the Town Halls or the ICIS pre-conference, we would still love to hear your ideas. Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAsflB7grZQtW3t9SahoWP7kpTsNDmrZKt0_s1E80I9mzRKQ/viewform?usp=sf_link" target="_blank">fill out this form</a> to share your thoughts with us!**
 
 
 
