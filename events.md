@@ -6,19 +6,6 @@ title: Events
 
 >Upcoming Events
 
-#### May 24, 2024 - 14:00-15:30 UTC on Zoom
-### Behavioral Coding Software for Developmental Science:
-### An overview of BORIS, Datavyu, and ELAN
-
-Behavioral coding software streamlines the process of analyzing infant behavior by providing tools to record, categorize, and measure observational data. It allows researchers to precisely capture and quantify complex behaviors, thus enabling deeper insights into infant development. Join us in this 90-minute webinar to learn more from representatives of BORIS, Datavyu, and ELAN, who will showcase each software's main features and possibilities. Following the presentations, there will be a Q&A and discussion on potential applications in infant research. Take advantage of this chance to discover how these tools can enhance your research!
-
-<h4><a href="https://airtable.com/appRoqMKzcK3NsXt4/pag9XyWOZIzTZj0Dd/form" target="_blank">REGISTER (for free) NOW!</a></h4>
- 
-*Note: The webinar will be recorded and shared with registrants.*
-
-<br>
-
-***
 
 #### June 4 & 6, 2024
 ### ManyBabies Town Halls
@@ -54,6 +41,20 @@ These Town Halls instantiate MB’s collaborative nature, which means that all p
 ***
 
 >Past Events
+
+#### May 24, 2024 - 14:00-15:30 UTC on Zoom
+### Behavioral Coding Software for Developmental Science:
+### An overview of BORIS, Datavyu, and ELAN
+
+Behavioral coding software streamlines the process of analyzing infant behavior by providing tools to record, categorize, and measure observational data. It allows researchers to precisely capture and quantify complex behaviors, thus enabling deeper insights into infant development. In this 90-minute webinar hosted by Nicolás Alessandroni and Brianna McMillan, we hear from representatives of <a href="https://www.boris.unito.it/" target="_blank">BORIS</a>, <a href="https://datavyu.org/" target="_blank">Datavyu</a>, and <a href="https://archive.mpi.nl/tla/elan" target="_blank">ELAN</a>, who showcase each software’s main features and possibilities. Following the presentations, there is a Q&A and discussion on potential applications in infant research. Take advantage of this chance to discover how these tools can enhance your research!
+
+**Thank you to Marco Gamba from BORIS, Kasey Soska from Databrary, and Divya Kanekal & Han Sloetjes from ELAN for participating!**
+
+<iframe width="560" height="315" src="https://youtu.be/iSzI9x2w9-M?si=eg_HpShm4gbrXTSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+
+***
 
 #### March 12, 2024 - 14:00-15:30 UTC (3-4:30pm CET) on Zoom
 ### Power Analysis workshop
