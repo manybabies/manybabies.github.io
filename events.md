@@ -50,7 +50,7 @@ Behavioral coding software streamlines the process of analyzing infant behavior 
 
 **Thank you to Marco Gamba from BORIS, Kasey Soska from Databrary, and Divya Kanekal & Han Sloetjes from ELAN for participating!**
 
-<iframe width="560" height="315" src="https://youtu.be/iSzI9x2w9-M?si=eg_HpShm4gbrXTSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iSzI9x2w9-M?si=qEIu-ODso25EOlJE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
