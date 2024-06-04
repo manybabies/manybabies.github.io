@@ -7,18 +7,6 @@ title: Events
 >Upcoming Events
 
 
-#### October 8-10, 2024 
-### Big Team Science Conference
-
-> ManyBabies is a proud co-host of the: 
-
-<div class="container" align="center">
-  <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2024_logo.png" alt="2024 Big Team Science Conference, hosted virtually October 8-10" /></a><br>
-  <a href="https://bigteamscienceconference.github.io"><i>Conference Website</i></a>
-</div>
-<br>
-
-***
 
 #### June 4 & 6, 2024
 ### ManyBabies Town Halls
@@ -47,6 +35,21 @@ These Town Halls instantiate MB’s collaborative nature, which means that all p
 
 ***
 
+#### October 8-10, 2024 
+### Big Team Science Conference
+
+> ManyBabies is a proud co-host of the: 
+
+<div class="container" align="center">
+  <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2024_logo.png" alt="2024 Big Team Science Conference, hosted virtually October 8-10" /></a><br>
+  <a href="https://bigteamscienceconference.github.io"><i>Conference Website</i></a>
+</div>
+
+<br>
+
+***
+
+
 >Past Events
 
 #### June 4 & 6, 2024
@@ -54,7 +57,7 @@ These Town Halls instantiate MB’s collaborative nature, which means that all p
 
 The main goal of these Town Halls was to discuss ManyBabies from a broad perspective: Where should ManyBabies go next in terms of individual projects as well as overall directions? How should our network of developmental scientists evolve to help make the field better?
 
-### #1: June 4, 2024 - 1800-1900 UTC (Americas, Africa, & Europe)
+#### #1: June 4, 2024 - 1800-1900 UTC (Americas, Africa, & Europe)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F2gl1xPmVlE?si=aomVTw0ypFPQioYS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
