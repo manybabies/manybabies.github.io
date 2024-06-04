@@ -7,22 +7,30 @@ title: Events
 >Upcoming Events
 
 
+#### October 8-10, 2024 
+### Big Team Science Conference
+
+> ManyBabies is a proud co-host of the: 
+
+<div class="container" align="center">
+  <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2024_logo.png" alt="2024 Big Team Science Conference, hosted virtually October 8-10" /></a><br>
+  <a href="https://bigteamscienceconference.github.io"><i>Conference Website</i></a>
+</div>
+<br>
+
+***
+
 #### June 4 & 6, 2024
 ### ManyBabies Town Halls
 #### Help shape the future of MB!
 
 ManyBabies, a consortium of developmental researchers dedicated to openness and best practices, has two Town Hall discussions coming up and we’d love to hear from you, members and non-members alike.
  
-### #1: June 4, 2024 - 1800-1900 UTC (Americas, Africa, & Europe)
-#### 2pm New York / 3pm Buenos Aires / 7pm Lagos / 8pm Amsterdam
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F2gl1xPmVlE?si=aomVTw0ypFPQioYS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ### #2 June 6, 2024 - 2300-2400 UTC (Americas, Asia, & Oceania)
 #### 7pm New York / 8pm Buenos Aires / (June 7) 8am  Seoul / (June 7) 9am Brisbane
 #### [[Zoom link](https://stanford.zoom.us/j/99205382552?pwd=YTltMHlkc1B0Q2V0d3ErUVBVQ1ZBQT09)] [[+ add to calendar](https://calendar.google.com/calendar/u/0/r/eventedit/copy/MnZmYzlwcW5lOHNqb3NzZDQyOTVwNG5iaDcgMmUyOWVmZDI1ODM0MDg5OTk2NzZjZDQyNzM5M2M4NWJmMDZmYWE0M2JjOTk5MGM5MWQxMmU5MjU2Mzg5YmUxY0Bn)]
 
-The main goal of these Town Halls is to discuss ManyBabies from a broad perspective: Where should ManyBabies go next in terms of individual projects as well as overall directions? How should our network of developmental scientists evolve to help make the field better and better?
+The main goal of these Town Halls is to discuss ManyBabies from a broad perspective: Where should ManyBabies go next in terms of individual projects as well as overall directions? How should our network of developmental scientists evolve to help make the field better?
  
 Beyond this conceptual discussion, we will talk about:
 * What have been our gaps in understanding/implementation, intellectually or methodologically?
@@ -40,6 +48,19 @@ These Town Halls instantiate MB’s collaborative nature, which means that all p
 ***
 
 >Past Events
+
+#### June 4 & 6, 2024
+### ManyBabies Town Halls
+
+The main goal of these Town Halls was to discuss ManyBabies from a broad perspective: Where should ManyBabies go next in terms of individual projects as well as overall directions? How should our network of developmental scientists evolve to help make the field better?
+
+### #1: June 4, 2024 - 1800-1900 UTC (Americas, Africa, & Europe)
+#### 2pm New York / 3pm Buenos Aires / 7pm Lagos / 8pm Amsterdam
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F2gl1xPmVlE?si=aomVTw0ypFPQioYS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+***
 
 #### May 24, 2024 - 14:00-15:30 UTC on Zoom
 ### Behavioral Coding Software for Developmental Science:
