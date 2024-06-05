@@ -6,8 +6,6 @@ title: Events
 
 >Upcoming Events
 
-
-
 #### June 4 & 6, 2024
 ### ManyBabies Town Halls
 #### Help shape the future of MB!
