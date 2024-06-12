@@ -124,7 +124,7 @@ In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) d
 
 > ManyBabies is a proud co-host of the: 
 
-<div class="container" align="center">
+<div class="container" align="left">
   <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2023_logo.png" width="560" alt="2023 Big Team Science Conference, hosted virtually October 23-25" /></a><br>
   <a href="https://bigteamscienceconference.github.io"><i>Conference Website</i></a>
 </div>
