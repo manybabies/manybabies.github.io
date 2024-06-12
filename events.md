@@ -40,19 +40,18 @@ title: Events
 #### June 4 & 6, 2024
 ### ManyBabies Town Halls
 
-The main goal of these Town Halls was to discuss ManyBabies from a broad perspective: Where should ManyBabies go next in terms of individual projects as well as overall directions? How should our network of developmental scientists evolve to help make the field better?
+<p>The main goal of these Town Halls was to discuss ManyBabies from a broad perspective: Where should ManyBabies go next in terms of individual projects as well as overall directions? How should our network of developmental scientists evolve to help make the field better?</p>
+
+<p><i>If you were unable to attend either the Town Hall, we would still love to hear your ideas. Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAsflB7grZQtW3t9SahoWP7kpTsNDmrZKt0_s1E80I9mzRKQ/viewform?usp=sf_link" target="_blank">fill out this form</a> to share your thoughts with us!</i></p>
+
 
 #### #1: June 4, 2024 - 1800-1900 UTC (Americas, Africa, & Europe)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F2gl1xPmVlE?si=aomVTw0ypFPQioYS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<br>
-
 #### #2 June 6, 2024 - 2300-2400 UTC (Americas, Asia, & Oceania)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bU3wmcSGZes?si=aet4YZUNq2konS07&amp;start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-**If you were unable to attend either the Town Hall, we would still love to hear your ideas. Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAsflB7grZQtW3t9SahoWP7kpTsNDmrZKt0_s1E80I9mzRKQ/viewform?usp=sf_link" target="_blank">fill out this form</a> to share your thoughts with us!**
 
 <br>
 
