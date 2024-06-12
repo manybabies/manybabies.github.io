@@ -9,10 +9,11 @@ title: Events
 #### July 8, 2024
 ### ManyBabies preconference workshop @ ICIS 2024
 
-> Full day pre-conference workshop:
-
+*Full day pre-conference workshop:*
+<br>
 **Insights from global collaboration: ManyBabies updates and new initiatives**
-[Learn more](https://infantstudies.org/program/)
+<br>
+[[learn more](https://infantstudies.org/program/)]
 
 <br>
 
@@ -46,9 +47,9 @@ The main goal of these Town Halls was to discuss ManyBabies from a broad perspec
 
 <br>
 
-### #2 June 6, 2024 - 2300-2400 UTC (Americas, Asia, & Oceania)
+#### #2 June 6, 2024 - 2300-2400 UTC (Americas, Asia, & Oceania)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bU3wmcSGZes?si=lqhf__arIaPUKH-l" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bU3wmcSGZes?si=aet4YZUNq2konS07&amp;start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **If you were unable to attend either the Town Hall, we would still love to hear your ideas. Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAsflB7grZQtW3t9SahoWP7kpTsNDmrZKt0_s1E80I9mzRKQ/viewform?usp=sf_link" target="_blank">fill out this form</a> to share your thoughts with us!**
 
