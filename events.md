@@ -6,26 +6,13 @@ title: Events
 
 >Upcoming Events
 
-#### June 4 & 6, 2024
-### ManyBabies Town Halls
-#### Help shape the future of MB!
+#### July 8, 2024
+### ManyBabies preconference workshop @ ICIS 2024
 
-ManyBabies, a consortium of developmental researchers dedicated to openness and best practices, has two Town Hall discussions coming up and we’d love to hear from you, members and non-members alike.
- 
+> Full day pre-conference workshop:
 
-
-The main goal of these Town Halls is to discuss ManyBabies from a broad perspective: Where should ManyBabies go next in terms of individual projects as well as overall directions? How should our network of developmental scientists evolve to help make the field better?
- 
-Beyond this conceptual discussion, we will talk about:
-* What have been our gaps in understanding/implementation, intellectually or methodologically?
-* How can we best include scientists from underrepresented communities?
-* What have you personally gotten from your engagement with ManyBabies? What (else) would you like to get from it?
- 
-We will also address these (and many other) topics in person at a **International Congress of Infant Studies (ICIS) pre-conference workshop on July 8**, and notes from the Town Halls will be summarized and shared that day.
- 
-These Town Halls instantiate MB’s collaborative nature, which means that all project decisions (e.g., research question, study design, stimulus creation, piloting, data collection, analysis, interpretation of the findings, and writing) are made using a consensus-based approach.
- 
-**If you cannot attend either the Town Halls or the ICIS pre-conference, we would still love to hear your ideas. Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAsflB7grZQtW3t9SahoWP7kpTsNDmrZKt0_s1E80I9mzRKQ/viewform?usp=sf_link" target="_blank">fill out this form</a> to share your thoughts with us!**
+**Insights from global collaboration: ManyBabies updates and new initiatives**
+[Learn more](https://infantstudies.org/program/)
 
 <br>
 
