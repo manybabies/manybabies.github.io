@@ -182,7 +182,7 @@ In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) l
 <br>
 
 ***
-<div class="container" align="center">
+<div class="container" align="left">
   <img border="0" src="https://www.cos.io/hs-fs/hubfs/badges_stacked.original.png?width=834&name=badges_stacked.original.png" width="150" height="120">
 </div>
 
