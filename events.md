@@ -9,10 +9,11 @@ title: Events
 #### July 8, 2024
 ### ManyBabies preconference workshop @ ICIS 2024
 
-> Full day pre-conference workshop:
-
+*Full day pre-conference workshop:*
+<br>
 **Insights from global collaboration: ManyBabies updates and new initiatives**
-[Learn more](https://infantstudies.org/program/)
+<br>
+[[learn more](https://infantstudies.org/program/)]
 
 <br>
 
