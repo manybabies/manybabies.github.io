@@ -23,9 +23,8 @@ title: Events
 #### October 8-10, 2024 
 ### Big Team Science Conference
 
-> ManyBabies is a proud co-host of the: 
-
 <div class="container" align="left">
+  <i>ManyBabies is a proud co-host of the:</i>
   <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2024_logo.png" width="560" alt="2024 Big Team Science Conference, hosted virtually October 8-10" /></a><br>
   <a href="https://bigteamscienceconference.github.io"><i>Conference Website</i></a>
 </div>
