@@ -119,7 +119,6 @@ share-links-active:
   facebook: false
   linkedin: false
   vk: false
-  mastodon: true # added this as test. doesn't seem to do anything, but doesn't break anything either
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
