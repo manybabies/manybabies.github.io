@@ -46,8 +46,6 @@ The main goal of these Town Halls was to discuss ManyBabies from a broad perspec
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F2gl1xPmVlE?si=aomVTw0ypFPQioYS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<br>
-
 #### #2 June 6, 2024 - 2300-2400 UTC (Americas, Asia, & Oceania)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bU3wmcSGZes?si=aet4YZUNq2konS07&amp;start=7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
