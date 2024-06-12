@@ -23,9 +23,8 @@ title: Events
 #### October 8-10, 2024 
 ### Big Team Science Conference
 
-> ManyBabies is a proud co-host of the: 
-
 <div class="container" align="left">
+  <i>ManyBabies is a proud co-host of the:</i>
   <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2024_logo.png" width="560" alt="2024 Big Team Science Conference, hosted virtually October 8-10" /></a><br>
   <a href="https://bigteamscienceconference.github.io"><i>Conference Website</i></a>
 </div>
@@ -42,7 +41,7 @@ title: Events
 
 <p>The main goal of these Town Halls was to discuss ManyBabies from a broad perspective: Where should ManyBabies go next in terms of individual projects as well as overall directions? How should our network of developmental scientists evolve to help make the field better?</p>
 
-<p><i>If you were unable to attend either the Town Hall, we would still love to hear your ideas. Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAsflB7grZQtW3t9SahoWP7kpTsNDmrZKt0_s1E80I9mzRKQ/viewform?usp=sf_link" target="_blank">fill out this form</a> to share your thoughts with us!</i></p>
+<p><i>If you were unable to attend either Town Hall, we would still love to hear your ideas. Please <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAsflB7grZQtW3t9SahoWP7kpTsNDmrZKt0_s1E80I9mzRKQ/viewform?usp=sf_link" target="_blank">fill out this form</a> to share your thoughts with us!</i></p>
 
 
 #### #1: June 4, 2024 - 1800-1900 UTC (Americas, Africa, & Europe)
