@@ -50,9 +50,9 @@ navbar-links:
     - Lab IDs: "labids"
     - Contribution Reporting: "credit"
     - Code of Conduct: "codeofconduct"
-  Get Involved: 
-    - Join MB: "get_involved"
-    - Support MB: "support"
+  Get Involved: "get_involved"
+    # - Join MB: "get_involved"
+    # - Support MB: "support"
 ################
 # --- Logo --- #
 ################
