@@ -81,7 +81,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>Project Lead:</b> <a href="mailto:k.byers@concordia.ca">Krista Byers-Heinlein</a><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1L/">MB1L: Longitudinal Vocabulary Follow-up</a></b><br>
-        <b>Status:</b> <i>Stage 1 'In Principle Acceptance'; Stage 2 manuscript prep</i><br> 
+        <b>Status:</b> <i>Complete</i><br> 
         <b>Project Lead:</b> <a href="mailto:M_Soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
         <b>MB1L listserv:</b> <a href="https://groups.google.com/u/1/g/mb1-cdi-follow-up" target="_blank"><i>Subscribe</i></a><br>
         <hr>
