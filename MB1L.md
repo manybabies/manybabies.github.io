@@ -15,10 +15,10 @@ subtitle: Longitudinal Vocabulary Follow-up
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Stage 2 manuscript UNDER REVIEW</b></li>
+        <li><i>Status:</i> <b>Stage 2 manuscript ACCEPTED!</b></li>
         <li><i>21 participating labs collected data in 14 countries</i></li>
         <li><i>467 babies tested and 668 CDIs collected</i></li>
-        <li><i>45 authors on</i> <b>Journal of Child Language</b> <i>manuscript</i></li>
+        <li><i>45 authors on</i> <b>Journal of Child Language</b> <i>article</i></li>
       </ul>
     </div>
   </div>
