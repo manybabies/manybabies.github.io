@@ -6,14 +6,10 @@ title: Public Calendar
 
 
 * *[**Email us**](mailto:contact@manybabies.org) with questions or to get your event added to the calendar*
-* ***Subscribe** to the ManyBabies calendar using this [**link**](https://calendar.google.com/calendar/u/0?cid=Y29udGFjdEBtYW55YmFiaWVzLm9yZw)*
+* ***Subscribe** to the ManyBabies calendar using this [**link**](https://calendar.google.com/calendar/ical/c_98a9c4fa07bea63bbc3fe1c8865878e018147155d06f7255fa668c926c56eb61%40group.calendar.google.com/public/basic.ics)*
 * *Click on an event to view more information* 
 
-> NOTE: events shown in Coordinated Universal Time (UTC) [[time converter](https://www.worldtimebuddy.com/)]
-
-<!-- contact@manybabies.org
-<iframe src="https://calendar.google.com/calendar/embed?src=contact%40manybabies.org&ctz=UTC" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
--->
+> NOTE: events shown in **Coordinated Universal Time (UTC)** [[time converter](https://www.worldtimebuddy.com/)]
 
 
-<iframe src="https://calendar.google.com/calendar/embed?src=2e29efd2583408999676cd427393c85bf06faa43bc9990c91d12e9256389be1c%40group.calendar.google.com&ctz=UTC" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=UTC&bgcolor=%23ffffff&mode=MONTH&src=Y185OGE5YzRmYTA3YmVhNjNiYmMzZmUxYzg4NjU4NzhlMDE4MTQ3MTU1ZDA2ZjcyNTVmYTY2OGM5MjZjNTZlYjYxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23F09300" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
