@@ -12,4 +12,4 @@ title: Public Calendar
 > NOTE: events shown in **Coordinated Universal Time (UTC)** [[time converter](https://www.worldtimebuddy.com/)]
 
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=UTC&bgcolor=%23ffffff&mode=MONTH&src=Y185OGE5YzRmYTA3YmVhNjNiYmMzZmUxYzg4NjU4NzhlMDE4MTQ3MTU1ZDA2ZjcyNTVmYTY2OGM5MjZjNTZlYjYxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23F09300" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=America%2FLos_Angeles&bgcolor=%23ffffff&src=Y185OGE5YzRmYTA3YmVhNjNiYmMzZmUxYzg4NjU4NzhlMDE4MTQ3MTU1ZDA2ZjcyNTVmYTY2OGM5MjZjNTZlYjYxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%2333B679" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
