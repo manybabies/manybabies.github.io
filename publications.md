@@ -30,18 +30,6 @@ title: Publications & Manuscripts
         [<a href="{{site.baseurl}}/MB-Demographics/">MB-Demographics</a>]</b></p>
       </div>
     </div>
-    <div class="row" align="center">
-      <div class="col-sm-1" align="center">
-        <br>
-        <a href="{{site.baseurl}}/MB1T/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
-      </div>
-      <div class="col-sm-11" align="left">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Schreiner, M. S.</i>, Zettersten, M., Bergmann, C., Frank, M. C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, J. K., Kartushina, N., Kellier, D. J., Mani, N., Mayor, J., Saffran, J. R., Shukla, M., Silverstein, P., Soderstrom, M., & Lippold, M. (2023, September). 
-        <b>Limited evidence of test-retest reliability in infant-directed speech preference in a large pre-registered infant sample</b>. <br>
-        <b>[<a href="https://doi.org/10.31234/osf.io/uwche" target="_blank">PsyArXiv Preprint</a>] 
-        [<a href="{{site.baseurl}}/MB1T/">MB1T</a>]</b></p>
-      </div>
-    </div>
   </div>
 </section>
 
@@ -139,13 +127,27 @@ title: Publications & Manuscripts
     <div class="row" align="center">
       <div class="col-sm-1" align="center">
         <br>
+        <a href="{{site.baseurl}}/MB1T/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
+      </div>
+      <div class="col-sm-11" align="left">
+        <p style="padding-left: 25px; text-indent: -25px"><i>Schreiner, M. S.</i>, Zettersten, M., Bergmann, C., Frank, M. C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, J. K., Kartushina, N., Kellier, D. J., Mani, N., Mayor, J., Saffran, J. R., Shukla, M., Silverstein, P., Soderstrom, M., & Lippold, M. (2024). 
+        <b>Limited evidence of test-retest reliability in infant-directed speech preference in a large pre-registered infant sample</b>. 
+        <i>Developmental Science</i>, e13551. 
+        <a href="https://doi.org/10.1111/desc.13551" target="_blank">https://doi.org/10.1111/desc.13551</a><br>
+        <b>[<a href="https://doi.org/10.31234/osf.io/uwche" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB1T/">MB1T</a>]</b></p>
+      </div>
+    </div>
+    <div class="row" align="center">
+      <div class="col-sm-1" align="center">
+        <br>
         <a href="{{site.baseurl}}/MB1SA/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
       </div>
       <div class="col-sm-11" align="left">
         <p style="padding-left: 25px; text-indent: -25px"><i>Zettersten, M.*</i>, <i>Cox, C. M. M.*</i>, <i>Bergmann, C.*</i>, Tsui, A. S. M., Soderstrom, M., Mayor, J., Lundwall, R. A., Lewis, M., Kosie, J. E., Kartushina, N., Fusaroli, R., Frank, M. C., Byers-Heinlein, K., Black, A. K., & Mathur, M. B. (2024). 
         <b>Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis</b>. 
         <i>Open Mind: Discoveries in Cognitive Science, 8</i>, 439–461. 
-        <a href="https://doi.org/10.1162/opmi_a_00134" target="_blank">https://doi.org/10 .1162/opmi_a_00134</a> <i>(*co-first authors)</i> <br>
+        <a href="https://doi.org/10.1162/opmi_a_00134" target="_blank">https://doi.org/10.1162/opmi_a_00134</a> <i>(*co-first authors)</i> <br>
         <b>[<a href="https://doi.org/10.31234/osf.io/etqs7" target="_blank">PsyArXiv Preprint</a>] 
         [<a href="{{site.baseurl}}/MB1SA/">MB1-Meta</a>]</b></p>
       </div>

@@ -91,7 +91,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>MB1N listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb1n-list" target="_blank"><i>Subscribe</i></a><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1T/">MB1T: Test-Retest Follow-up</a></b><br>
-        <b>Status:</b> <i>Manuscript submitted</i><br> 
+        <b>Status:</b> <i>Complete</i><br> 
         <b>Project Lead:</b> <a href="mailto:melanie.schreiner@psych.uni-goettingen.de">Melanie Schreiner</a>
         <hr>
         <img src="/assets/img/analysis.png" alt="analysis icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1SA/">MB1-Meta: Comparison to meta-analytic data</a></b><br>
