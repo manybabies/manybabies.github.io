@@ -210,7 +210,7 @@ cover-img: /assets/img/MB_map.png
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <img src="/assets/img/AbdellahElouatiq.jpg" alt="Abdellah Elouatiq" width="100" height="100" border-radius=50%>
+        <img src="/assets/img/AbdellahElouatiq.jpg" alt="Abdellah Elouatiq" width="100" height="100" style="border-radius: 50%;">
   	  </div>
   	  <div class="col-sm-9">
   	    <h4><a href="https://www.mpi.nl/people/elouatiq-abdellah">Abdellah Elouatiq</a> [August 2024 - ] <a href="mailto:">[email]</a></h4>
