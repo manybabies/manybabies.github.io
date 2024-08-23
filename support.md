@@ -15,4 +15,4 @@ If you would like to support us in this way, please visit our financial collecti
 <br>
 
 
->\*[Open Collective Europe]https://www.oceurope.org/) is a a non-profit association registered in Belgium with 501(c)(3) equivalency in the United States. Learn more [here](https://www.oceurope.org/).
+>\*[Open Collective Europe](https://www.oceurope.org/) is a a non-profit association registered in Belgium with 501(c)(3) equivalency in the United States. Learn more [here](https://www.oceurope.org/).
