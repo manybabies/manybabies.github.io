@@ -3,7 +3,7 @@ layout: page
 title: Publications & Manuscripts
 ---
 
-> View our [Google Scholar profile](https://scholar.google.com/citations?user=Mo3vRlsAAAAJ&hl=en)<br>
+> View our [Google Scholar profile](https://scholar.google.com/citations?user=_55C1_cAAAAJ&hl=en)<br>
 > Note: italics indicate corresponding author(s), asterisks indicate co-first authors
 
 * [**Submitted & Under Review**](#submitted)
