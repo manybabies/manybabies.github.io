@@ -120,7 +120,7 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Soderstrom, M.</i>, Rocha-Hidalgo, J., Muñoz, L. E., Bochynska, A., Werker, J. F., Skarabela, B., Seidl, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Olesen, N. M., Nave, K., Mayor, J., Martin, A., Machon, L. C., Lew-Williams, C., Ko, E., Kim, H., Kartushina, N., ... Tsui, A. S. M. (2024). 
         <b>Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study</b>.
-        <i>Journal of Child Language</i>, 1-26. <br>
+        <i>Journal of Child Language</i>, 1-26. 
         <a href="https://doi.org/10.1017/S0305000924000254" target="_blank">https://doi.org/10.1017/S0305000924000254</a><br>
         <b>[<a href="https://docs.google.com/document/d/1CbLIEsJkQUctAW8a0VgW59hNMHGwyzSXkhWSFzlQYFE/edit?usp=sharing" target="_blank">PsyArXivPreprint</a>] 
         [<a href="{{site.baseurl}}/MB1L/">MB1L</a>]</b></p>  
