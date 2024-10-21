@@ -55,18 +55,6 @@ title: Publications & Manuscripts
     <div class="row">
       <div class="col-sm-1" align=center>
         <br>
-        <a href="{{site.baseurl}}/MB1L/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
-      </div>
-      <div class="col-sm-11">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Soderstrom, M.</i>, Werker, J. F., Tsui, A. S. M., Skarabela, B., Seidl, A., Searle, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Noble, C., Nave, K., Mayor, J., Martin, A., Lew-Williams, C., Ko, E., Kartushina, N., Kammermeier, M., ... Anderson, L. (Stage 1 RR In Principle Acceptance). 
-        <b>Testing the Relationship Between Preferences for Infant-Directed Speech and Vocabulary Development: A Multi-Lab Study</b>. <i>Journal of Child Language</i>. <br>
-        <b>[<a href="https://docs.google.com/document/d/1CbLIEsJkQUctAW8a0VgW59hNMHGwyzSXkhWSFzlQYFE/edit?usp=sharing" target="_blank">Preprint</a>] 
-        [<a href="{{site.baseurl}}/MB1L/">MB1L</a>]</b></p>  
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-1" align=center>
-        <br>
         <a href="{{site.baseurl}}/MB2/" class="image"><img src="/assets/img/MB2_logo.png" alt="ManyBabies2 logo"></a>
       </div>
       <div class="col-sm-11">
@@ -124,6 +112,20 @@ title: Publications & Manuscripts
 
 <section>
   <div class="container">
+    <div class="row">
+      <div class="col-sm-1" align=center>
+        <br>
+        <a href="{{site.baseurl}}/MB1L/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
+      </div>
+      <div class="col-sm-11">
+        <p style="padding-left: 25px; text-indent: -25px"><i>Soderstrom, M.</i>, Rocha-Hidalgo, J., Muñoz, L. E., Bochynska, A., Werker, J. F., Skarabela, B., Seidl, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Olesen, N. M., Nave, K., Mayor, J., Martin, A., Machon, L. C., Lew-Williams, C., Ko, E., Kim, H., Kartushina, N., ... Tsui, A. S. M. (2024). 
+        <b>Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study</b>.
+        <i>Journal of Child Language</i>, 1-26. 
+        <a href="https://doi.org/10.1017/S0305000924000254" target="_blank">https://doi.org/10.1017/S0305000924000254</a><br>
+        <b>[<a href="https://docs.google.com/document/d/1CbLIEsJkQUctAW8a0VgW59hNMHGwyzSXkhWSFzlQYFE/edit?usp=sharing" target="_blank">PsyArXivPreprint</a>] 
+        [<a href="{{site.baseurl}}/MB1L/">MB1L</a>]</b></p>  
+      </div>
+    </div>
     <div class="row" align="center">
       <div class="col-sm-1" align="center">
         <br>
