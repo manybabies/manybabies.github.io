@@ -173,7 +173,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB4/">MB4: Social Evaluation</a></h4>
-        <b>Project Status:</b> <i>Stage 1 'In Principle Acceptance'; Data analysis</i><br> 
+        <b>Project Status:</b> <i>COMPLETE</i><br> 
         <b>Project Leads:</b> <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a>, <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>, <a href="mailto:kiley.hamlin@psych.ubc.ca">Kiley Hamlin</a><br>
         <b>MB4 listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb4-list" target="_blank"><i>Subscribe</i></a><br>
         <b>MB4 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb4-general</b> channel</i><br>
