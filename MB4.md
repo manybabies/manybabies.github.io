@@ -15,8 +15,8 @@ subtitle: Social Evaluation
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Data collection complete; Analyzing data</b></li>
-        <li><i><a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at</i> <b>Developmental Science</b></li>
+        <li><i>Status:</i> <b>COMPLETE</b></li>
+        <li><i><a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at</i> <b>Developmental Science</b></li>; Stage 2 Registered Report accepted! (link coming soon)
       </ul>
     </div>
   </div>
@@ -60,9 +60,8 @@ We encourage everyone who is interested in the project to contact the Project Le
 <h4>Stage 1 Registered Report</h4>
 <p style="padding-left: 25px; text-indent: -25px"><i>Lucca, K.*</i>, <i>Yuen, F.*</i>, Byers-Heinlein, K., Capelier-Mourguy, A., Cirelli, L. K., Ben, R. D., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., … Hamlin, J. K. (accepted pending data collection). <b>Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study</b>. <i>Developmental Science</i>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">https://doi.org/10.31234/osf.io/qhxkm</a> <i>(*co-first authors)</i></p>
 
-> To cite, use (Lucca & Yuen et al., accepted pending data collection)
+> To cite, use (Lucca, Yuen, et al., in press)
 
-> Additional authors will be added to the Stage 2 Registered Report after data analysis is complete, in late 2023/early 2024
 
 
 ***
