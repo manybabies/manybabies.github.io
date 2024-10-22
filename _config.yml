@@ -79,11 +79,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "contact@manybabies.org"
-  github: manybabies
+  github: manybabies    
   bluesky: manybabies.org
 #  twitter: many_babies
   youtube: channel/UCxhS9WkVPEb1oF5BTOlbkeg
-  google-scholar: 55C1_cAAAAJ&hl=en
+  google-scholar: 55C1_cAAAAJ
 #  mastodon: nerdculture.de/@manybabies
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  patreon: DeanAttali
