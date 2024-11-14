@@ -18,6 +18,7 @@ title: Publications & Manuscripts
 
 <section>
   <div class="container">
+    <br>
   </div>
 </section>
 
