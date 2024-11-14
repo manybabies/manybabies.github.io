@@ -19,6 +19,7 @@ subtitle: Standard demographics for MB projects
         <li><i>Template forms available on <a href="https://osf.io/nqc92/" target="_blank"><b>OSF</b></a></i></li>
         <li><i>We are continuing to work on translating & adapting template forms (contact Project Leads for more information or to help!)</i></li>
         <li><i>24 authors on</i> <a href="https://doi.org/10.1037/dev0001623" target="_blank"><b>Developmental Psychology</b></a> <i>publication</i></li>
+        <li><i>14 authors on</i> <a href="" target="_blank"><b>Journal of Cognition and Development</b></a> <i>"Tools of the Trade" publication</i></li>
       </ul>
     </div>
   </div>
@@ -57,4 +58,4 @@ A figure from the [publication](https://doi.org/10.1037/dev0001623):
 
 <p style="padding-left: 25px; text-indent: -25px">Singh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F. L., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., … Frank, M. C. (2023). <b>A unified approach to demographic data collection for research with young children across diverse cultures</b>. <i>Developmental Psychology</i>. <a href="https://doi.org/10.1037/dev0001623" target="_blank">https://doi.org/10.1037/dev0001623</a> [<a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">PsyArXiv preprint</a>]</p>
 
-<p style="padding-left: 25px; text-indent: -25px">Singh, L., Barokova, M., Bazhydai, M., Baumgartner, H. A., Franchin, L., Kosie, J., Lew-Williams, C., Omane, P. O., Reinelt, T., Schuwerk, T., Sheskin, M., Soderstrom, M., Wu, Y., & Frank, M. C. (2024, May). <b>Tools of the Trade: A guide to sociodemographic reporting for researchers, reviewers, and editors</b>. [<a href="https://doi.org/10.31234/osf.io/cz3bv" target="_blank">PsyArXiv preprint</a>]</p>
+<p style="padding-left: 25px; text-indent: -25px">Singh, L., Barokova, M., Bazhydai, M., Baumgartner, H. A., Franchin, L., Kosie, J., Lew-Williams, C., Omane, P. O., Reinelt, T., Schuwerk, T., Sheskin, M., Soderstrom, M., Wu, Y., & Frank, M. C. (2024). <b>Tools of the Trade: A guide to sociodemographic reporting for researchers, reviewers, and editors</b>. <i>Journal of Cognition and Development</i>. <a href="" target="_blank">link coming soon</a> [<a href="https://doi.org/10.31234/osf.io/cz3bv" target="_blank">PsyArXiv preprint</a>]</p>
