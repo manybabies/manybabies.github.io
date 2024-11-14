@@ -18,18 +18,6 @@ title: Publications & Manuscripts
 
 <section>
   <div class="container">
-    <div class="row" align="center">
-      <div class="col-sm-1" align="center">
-        <br>
-        <a href="{{site.baseurl}}/MB-Demographics/" class="image"><img src="/assets/img/MBDemo_logo.png" alt="ManyBabies Demographics logo"></a>
-      </div>
-      <div class="col-sm-11" align="left">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Singh, L.</i>, Barokova, M., Bazhydai, M., Baumgartner, H. A., Franchin, L., Kosie, J., Lew-Williams, C., Omane, P. O., Reinelt, T., Schuwerk, T., Sheskin, M., Soderstrom, M., Wu, Y., & Frank, M. C. (2024, May). 
-        <b>Tools of the Trade: A guide to sociodemographic reporting for researchers, reviewers, and editors</b>. <br>
-        <b>[<a href="https://doi.org/10.31234/osf.io/cz3bv" target="_blank">PsyArXiv Preprint</a>] 
-        [<a href="{{site.baseurl}}/MB-Demographics/">MB-Demographics</a>]</b></p>
-      </div>
-    </div>
   </div>
 </section>
 
@@ -112,6 +100,20 @@ title: Publications & Manuscripts
 
 <section>
   <div class="container">
+    <div class="row" align="center">
+      <div class="col-sm-1" align="center">
+        <br>
+        <a href="{{site.baseurl}}/MB-Demographics/" class="image"><img src="/assets/img/MBDemo_logo.png" alt="ManyBabies Demographics logo"></a>
+      </div>
+      <div class="col-sm-11" align="left">
+        <p style="padding-left: 25px; text-indent: -25px"><i>Singh, L.</i>, Barokova, M., Bazhydai, M., Baumgartner, H. A., Franchin, L., Kosie, J., Lew-Williams, C., Omane, P. O., Reinelt, T., Schuwerk, T., Sheskin, M., Soderstrom, M., Wu, Y., & Frank, M. C. (2024).
+        <b>Tools of the Trade: A guide to sociodemographic reporting for researchers, reviewers, and editors</b>. <br>
+        <i>Journal of Cognition and Development</i>, in press. 
+        <a href="" target="_blank">link coming soon</a><br>
+        <b>[<a href="https://doi.org/10.31234/osf.io/cz3bv" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB-Demographics/">MB-Demographics</a>]</b></p>
+      </div>
+    </div>
     <div class="row">
       <div class="col-sm-1" align=center>
         <br>
