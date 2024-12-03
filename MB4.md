@@ -16,7 +16,7 @@ subtitle: Social Evaluation
       <h2>Project Overview</h2>
       <ul>
         <li><i>Status:</i> <b>COMPLETE</b></li>
-        <li><i><a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at</i> <b>Developmental Science</b></li>; Stage 2 Registered Report accepted! (link coming soon)
+        <li><i>94 authors on</i> <a href="https://doi.org/10.1111/desc.13581" target="_blank"><b>Developmental Science</b></a> <i>publication</i></li>
       </ul>
     </div>
   </div>
@@ -24,7 +24,7 @@ subtitle: Social Evaluation
 
 
 <p><img style="float: right;" src="/assets/img/mb4_site_300px.png">
-In this ongoing project we investigate a fundamental aspect of human nature: evaluating others’ actions as praiseworthy or blameworthy. We do so in a closely coordinated, multi-laboratory, standardized study aimed at replicating the helping/hindering finding reported by <a href="https://doi.org/10.1038/nature06288" target="_blank">Hamlin, Wynn, & Bloom, 2007</a>. Using a video-taped version of the original <a href="https://www.youtube.com/watch?v=anCaGBsBOxM" target="_blank">puppet show</a>, labs from around the world are collecting data from infants between the ages of 5.5 and 10.5 months.</p>
+In this project we investigate a fundamental aspect of human nature: evaluating others’ actions as praiseworthy or blameworthy. We do so in a closely coordinated, multi-laboratory, standardized study aimed at replicating the helping/hindering finding reported by <a href="https://doi.org/10.1038/nature06288" target="_blank">Hamlin, Wynn, & Bloom, 2007</a>. Using a video-taped version of the original <a href="https://www.youtube.com/watch?v=anCaGBsBOxM" target="_blank">puppet show</a>, labs from around the world are collecting data from infants between the ages of 5.5 and 10.5 months.</p>
 
 
 ***
@@ -58,9 +58,9 @@ We encourage everyone who is interested in the project to contact the Project Le
 ### Publication
 
 <h4>Stage 1 Registered Report</h4>
-<p style="padding-left: 25px; text-indent: -25px"><i>Lucca, K.*</i>, <i>Yuen, F.*</i>, Byers-Heinlein, K., Capelier-Mourguy, A., Cirelli, L. K., Ben, R. D., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., … Hamlin, J. K. (accepted pending data collection). <b>Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study</b>. <i>Developmental Science</i>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">https://doi.org/10.31234/osf.io/qhxkm</a> <i>(*co-first authors)</i></p>
+<p style="padding-left: 25px; text-indent: -25px"><i>Lucca, K.*</i>, <i>Yuen, F.*</i>, Byers-Heinlein, K., Capelier-Mourguy, A., Cirelli, L. K., Ben, R. D., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., … Hamlin, J. K. (accepted pending data collection). <b>Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study</b>. <i>Developmental Science, 28</i>(1). <a href="https://doi.org/10.1111/desc.13581" target="_blank">https://doi.org/10.1111/desc.13581</a>. <i>(*co-first authors)</i> [<a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">PsyArXiv preprint</a>] </p>
 
-> To cite, use (Lucca, Yuen, et al., in press)
+> To cite, use (Lucca, Yuen, et al., 2024)
 
 
 
