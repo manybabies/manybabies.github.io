@@ -16,6 +16,8 @@ subtitle: Social Evaluation
       <h2>Project Overview</h2>
       <ul>
         <li><i>Status:</i> <b>COMPLETE</b></li>
+        <li>37 participating labs collected data in 18 countries on 5 continents</li>
+        <li>1018 babies tested</li>
         <li><i>94 authors on</i> <a href="https://doi.org/10.1111/desc.13581" target="_blank"><b>Developmental Science</b></a> <i>publication</i></li>
       </ul>
     </div>
