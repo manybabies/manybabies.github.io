@@ -88,6 +88,20 @@ title: Publications & Manuscripts
 
 <section>
   <div class="container">
+    <div class="row">
+      <div class="col-sm-1" align=center>
+        <br>
+        <a href="{{site.baseurl}}/MB4/" class="image"><img src="/assets/img/MB4_logo.png" alt="ManyBabies4 logo"></a>
+      </div>
+      <div class="col-sm-11">
+        <p style="padding-left: 25px; text-indent: -25px"><i>Lucca, K.*</i>, <i>Yuen, F.*</i>, Capelier-Mourguy, A., Cirelli, L., Byers-Heinlein, K., Dal Ben, R., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., Wang, Y., & Hamlin, J. K. (2025). 
+        <b>Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study</b>. 
+        <i>Developmental Science, 28</i>(1). <i>(*co-first authors)</i> 
+        <a href="https://doi.org/10.1111/desc.13581" target="_blank">https://doi.org/10.1111/desc.13581</a><br>
+        <b>[<a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB4/">MB4</a>]</b></p>  
+      </div>
+    </div>
     <div class="row" align="center">
       <div class="col-sm-1" align="center">
         <br>
@@ -100,20 +114,6 @@ title: Publications & Manuscripts
         <a href="https://doi.org/10.1080/15248372.2024.2431106" target="_blank">https://doi.org/10.1080/15248372.2024.2431106</a><br>
         <b>[<a href="https://doi.org/10.31234/osf.io/cz3bv" target="_blank">PsyArXiv Preprint</a>] 
         [<a href="{{site.baseurl}}/MB-Demographics/">MB-Demographics</a>]</b></p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-1" align=center>
-        <br>
-        <a href="{{site.baseurl}}/MB4/" class="image"><img src="/assets/img/MB4_logo.png" alt="ManyBabies4 logo"></a>
-      </div>
-      <div class="col-sm-11">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Lucca, K.*</i>, <i>Yuen, F.*</i>, Capelier-Mourguy, A., Cirelli, L., Byers-Heinlein, K., Dal Ben, R., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., Wang, Y., & Hamlin, J. K. (2024). 
-        <b>Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study</b>. 
-        <i>Developmental Science, 28</i>(1). <i>(*co-first authors)</i> 
-        <a href="https://doi.org/10.1111/desc.13581" target="_blank">https://doi.org/10.1111/desc.13581</a><br>
-        <b>[<a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">PsyArXiv Preprint</a>] 
-        [<a href="{{site.baseurl}}/MB4/">MB4</a>]</b></p>  
       </div>
     </div>
     <div class="row">
