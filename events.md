@@ -6,19 +6,12 @@ title: Events
 
 >Upcoming Events
 
-#### July 8, 2024
-### ManyBabies preconference workshop @ ICIS 2024
-
-<div class="container" align="left">
-  <i>Full day pre-conference workshop:</i><br>
-  <b>Insights from global collaboration: ManyBabies updates and new initiatives</b><br>
-  <a href="https://infantstudies.org/program/" target="_blank"><img src="/assets/img/mb-at-icis.png" width="560" alt="ManyBabies at ICIS" /></a><br>
-  <a href="https://infantstudies.org/program/"><i>Learn More</i></a>
-</div>
-
-<br>
+*More events coming soon!*
 
 ***
+
+
+>Past Events
 
 #### October 8-10, 2024 
 ### Big Team Science Conference
@@ -33,8 +26,19 @@ title: Events
 
 ***
 
+#### July 8, 2024
+### ManyBabies preconference workshop @ ICIS 2024
 
->Past Events
+<div class="container" align="left">
+  <i>Full day pre-conference workshop:</i><br>
+  <b>Insights from global collaboration: ManyBabies updates and new initiatives</b><br>
+  <a href="https://infantstudies.org/program/" target="_blank"><img src="/assets/img/mb-at-icis.png" width="560" alt="ManyBabies at ICIS" /></a><br>
+  <a href="https://infantstudies.org/program/"><i>Learn More</i></a>
+</div>
+
+<br>
+
+***
 
 #### June 4 & 6, 2024
 ### ManyBabies Town Halls
