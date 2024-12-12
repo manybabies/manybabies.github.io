@@ -32,8 +32,7 @@ title: Events
 <div class="container" align="left">
   <i>Full day pre-conference workshop:</i><br>
   <b>Insights from global collaboration: ManyBabies updates and new initiatives</b><br>
-  <a href="https://infantstudies.org/program/" target="_blank"><img src="/assets/img/mb-at-icis.png" width="560" alt="ManyBabies at ICIS" /></a><br>
-  <a href="https://infantstudies.org/program/"><i>Learn More</i></a>
+  <a href="https://infantstudies.org/program/" target="_blank"><img src="/assets/img/mb-at-icis.png" width="560" alt="ManyBabies at ICIS" /></a>
 </div>
 
 <br>
