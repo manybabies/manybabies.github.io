@@ -7,7 +7,7 @@ title: Ethics
 ***
 ## ManyBabies Ethics Guidance
 
-All research labs collecting data for a ManyBabies project are required to obtain ethics approval from their local ethics review boards. For researchers from a laboratory without a local ethics review board, we provide some baseline ethics guidance in [this document](https://docs.google.com/document/d/e/2PACX-1vR2nv4Wy1soDS4cBBNy9QZOyewvvjP1ka1reBRhAIzcrNi0reJxgHuhGS7f7i2wE0ScQuppek8Al_21/pub). For additional questions about ethics issues, please contact the Project Leads or [contact@manybabies.org](mailto:contact@manybabies.org).
+All research labs collecting data for a ManyBabies project are required to obtain ethics approval from their local ethics review board. For researchers from a laboratory without a local ethics review board, we provide some baseline ethics guidance in [this document](https://docs.google.com/document/d/e/2PACX-1vR2nv4Wy1soDS4cBBNy9QZOyewvvjP1ka1reBRhAIzcrNi0reJxgHuhGS7f7i2wE0ScQuppek8Al_21/pub). For additional questions about ethics issues, please ask Project Leads or email us at [contact@manybabies.org](mailto:contact@manybabies.org).
 
 ***
 ## ManyBabies Ethics Protocol Library
