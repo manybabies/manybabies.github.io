@@ -17,7 +17,7 @@ We are often asked by labs new to ManyBabies to provide examples of ethics proto
 > Note: Protocols are listed in order of submission. You can filter, group, and/or sort entries by any field(s).
 
 <!-- iframe embed Ethics Protocol Library public view -->
-<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrMwJJbd1LNGj3mo?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrMwJJbd1LNGj3mo?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="300" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ***
 ## MB Ethis Protocol Contribution Form
