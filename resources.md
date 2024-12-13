@@ -19,7 +19,7 @@ title: Resources
         <a href="{{site.baseurl}}/calendar/"><img src="/assets/img/calendar.png" alt="calendar" width="50"></a><br>
       </div>
       <div class="col-sm-5" align="left">
-        <a href="{{site.baseurl}}/calendar/"><b>Public Calendar</b></a>
+        <a href="{{site.baseurl}}/calendar/"><b>Calendar</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="left">
         <a href="{{site.baseurl}}/publications/"><img src="/assets/img/publications.png" alt="stack of papers" width="50"></a><br> 
@@ -60,16 +60,17 @@ title: Resources
     </div>
     <br>
     <div class="row" align="center">
+      <div class="col-sm-1" align="left">
+        <a href="{{site.baseurl}}/ethics/"><img src="/assets/img/ethics_freepik.png" alt="ethics icon (a scale weighted toward green checkmark and away from red x)" width="50"></a><br>
+      </div>
+      <div class="col-sm-5" align="left">
+        <a href="{{site.baseurl}}/ethics/"><b>Ethics Protocol Library</b></a>
+      </div>
       <div class="col-sm-1 col-xs-6" align="left">
         <a href="https://www.youtube.com/@manybabies" target="_blank"><img src="/assets/img/youtube.png" alt="YouTube logo" width="50"></a><br>
       </div>
       <div class="col-sm-5 col-xs-6" align="left">
         <a href="https://www.youtube.com/@manybabies" target="_blank"><b>YouTube/@manybabies</b></a>
-      </div>
-      <div class="col-sm-1" align="left">
-        <br>
-      </div>
-      <div class="col-sm-5" align="left">
       </div>
     </div>
     <br>
