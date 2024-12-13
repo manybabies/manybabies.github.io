@@ -24,7 +24,7 @@ We are often asked by labs new to ManyBabies to provide examples of ethics proto
 
 Help us promote open and diverse developmental science by sharing your ethics protocols and application materials using this **quick and easy [contribution form](https://docs.google.com/forms/d/e/1FAIpQLSf2gZ4_3Ft4odvTxeHjZLe5ak2ZqW8H55l5jjWZgS8FKFuRPA/viewform?usp=sf_link)**. 
 
-> NOTE: We welcome protocols for ANY developmental study testing children ages 0-3. This includes non-ManyBabies studies! 
+> NOTE: We welcome protocols for ANY developmental study testing children ages 0-3, including non-ManyBabies studies! 
 > Form responses are moderated, so your response will not display fully at first (don't worry!). 
 
 
