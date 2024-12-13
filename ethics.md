@@ -20,7 +20,7 @@ We are often asked by labs new to ManyBabies to provide examples of ethics proto
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrMwJJbd1LNGj3mo?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ***
-## MB Ethis Protocol Contribution Form
+## Contribute to the Ethics Protocol Library
 
 Help us promote open and diverse developmental science by sharing your ethics protocols and application materials using this **quick and easy <a href="https://docs.google.com/forms/d/e/1FAIpQLSf2gZ4_3Ft4odvTxeHjZLe5ak2ZqW8H55l5jjWZgS8FKFuRPA/viewform?usp=sf_link" target="_blank">contribution form</a>**. 
 
