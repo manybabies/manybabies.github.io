@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MB-Demographics "Tools of the Trade" manuscript published!  
-thumbnail-img: /assets/img/MB-Demo_logo.png
+thumbnail-img: /assets/img/MBDemo_logo.png
 tags: [MB, MB-Demo, news]
 ---
 
