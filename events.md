@@ -18,7 +18,7 @@ share some practical tips about how to write an optimal preregistration and how 
 (largely inevitable) deviations from the plan. The talk will be followed by an open Q&A, and all
 relevant materials (papers, templates, slides, etc.) will be made available.
 
-### [REGISTER NOW!](https://airtable.com/appRoqMKzcK3NsXt4/pag4kwIG6RnA3TpAD/form)
+### <a href="https://airtable.com/appRoqMKzcK3NsXt4/pag4kwIG6RnA3TpAD/form" target="_blank">REGISTER NOW!</a>
 
 <br>
 
