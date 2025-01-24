@@ -6,7 +6,19 @@ title: Events
 
 >Upcoming Events
 
-*More events coming soon!*
+#### February 28, 2025 - 15:00-16:30 UTC on Zoom
+### Preregistration for Developmental Science workshop
+#### Zsuzsa Kaldy, *Univerity of Massachusetts Boston*
+
+This talk is for developmental researchers at all levels of training who know that they should be
+preregistering their projects, but for various reasons have not started doing it yet. I will briefly go
+over the theoretical reasons behind the need for preregistration, and then focus on why the
+benefits outweigh the perceived costs and how we in our lab have dealt with those. I will also
+share some practical tips about how to write an optimal preregistration and how to deal with the
+(largely inevitable) deviations from the plan. The talk will be followed by an open Q&A, and all
+relevant materials (papers, templates, slides, etc.) will be made available.
+
+### [REGISTER NOW!](https://airtable.com/appRoqMKzcK3NsXt4/pag4kwIG6RnA3TpAD/form)
 
 ***
 
