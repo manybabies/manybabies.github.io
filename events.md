@@ -7,8 +7,8 @@ title: Events
 >Upcoming Events
 
 #### February 28, 2025 - 15:00-16:30 UTC on Zoom
-### Preregistration for Developmental Science workshop
-#### Zsuzsa Kaldy, *Univerity of Massachusetts Boston*
+### Workshop: Preregistration for developmental science
+#### Zsuzsa Kaldy, *University of Massachusetts Boston*
 
 This talk is for developmental researchers at all levels of training who know that they should be
 preregistering their projects, but for various reasons have not started doing it yet. I will briefly go
@@ -72,7 +72,7 @@ relevant materials (papers, templates, slides, etc.) will be made available.
 ***
 
 #### May 24, 2024 - 14:00-15:30 UTC on Zoom
-### Behavioral Coding Software for Developmental Science:
+### Behavioral coding software for developmental science:
 ### An overview of BORIS, Datavyu, and ELAN
 
 Behavioral coding software streamlines the process of analyzing infant behavior by providing tools to record, categorize, and measure observational data. It allows researchers to precisely capture and quantify complex behaviors, thus enabling deeper insights into infant development. In this 90-minute webinar hosted by Nicolás Alessandroni and Brianna McMillan, we hear from representatives of <a href="https://www.boris.unito.it/" target="_blank">BORIS</a>, <a href="https://datavyu.org/" target="_blank">Datavyu</a>, and <a href="https://archive.mpi.nl/tla/elan" target="_blank">ELAN</a>, who showcase each software’s main features and possibilities. Following the presentations, there is a Q&A and discussion on potential applications in infant research. Take advantage of this chance to discover how these tools can enhance your research!
@@ -86,7 +86,7 @@ Behavioral coding software streamlines the process of analyzing infant behavior 
 ***
 
 #### March 12, 2024 - 14:00-15:30 UTC (3-4:30pm CET) on Zoom
-### Power Analysis workshop
+### Workshop: Power analysis
 #### Christopher Cox, *Aarhus University*
 
 Presenter Christopher M. M. Cox (Aarhus University) leads an interactive workshop on power analysis. The workshop includes both theoretical and practical components. In the theoretical component, he discusses why to conduct power analyses, how to incorporate information from previous studies, and why we should construe power analyses as useful opportunities to think through the design dynamics of a study.
@@ -104,7 +104,7 @@ The practical component includes an R tutorial on how to conduct simulation-base
 ***
 
 #### February 21, 2024 - 16:00-17:30 UTC (8-9:30am PST) on Zoom
-### Project Management workshop
+### Workshop: Project management
 #### Michael Frank, *Stanford University*
 
 In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) demonstrates ways to become a better collaborator not just with others but with "Future You" (topics include file management, version control, and organization). 
@@ -153,7 +153,7 @@ In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) d
 
 ***
 #### May 11, 2023 - 8:30-10:00am CEST (Berlin, Germany; UTC +2) on Zoom
-### Open data for developmental science
+### Webinar: Open data for developmental science
 #### Christina Bergmann, *Osnabrück University of Applied Sciences & Max Planck Institute for Psycholinguistics*
 
 Open data is one of the key mandates in calls for increased transparency, with badges, citation advantages, and sometimes even refusal to publish papers when data are not made open. For developmental researchers, this need for transparency stands in stark contrast with confidentiality, especially when working with infants. Christina reviews developmental science's impressive history of open data to show that there are ways to ethically and responsibly share data, and then discusses different strategies and emerging best practices to balance participant protection with transparency.
@@ -167,7 +167,7 @@ Open data is one of the key mandates in calls for increased transparency, with b
 
 ***
 #### March 21, 2023 - 9:00-10:30 PDT (San Francisco, USA; UTC -7) on Zoom
-### Creating reproducible research reports Using RMarkdown
+### Workshop: Creating reproducible research reports Using RMarkdown
 #### Michael Frank, *Stanford University*
 
 In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) led participants through the benefits of using RMarkdown to create reproducible research reports. Follow along with the exercises to see how simple it is to integrate writing and analyses in your workflow.
@@ -200,7 +200,7 @@ In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) l
 </div>
 
 #### October 20, 2022 - 11:00-12:30 EDT (Montréal, Canada) on Zoom
-### ManyBabies: An Introduction to Open Science
+### Webinar: An introduction to open science
 #### Nicolás Alessandroni & Krista Byers-Heinlein, *Concordia University*
 
 In this workshop, Nicolás and Krista introduce the open science perspective for psychological research. The aim is for participants to discover, discuss, and engage in using open science practices (e.g., open access, open data, preprints, pre-registration) and to learn ways to apply them in their own research. The workshop does not require prior knowledge of open science; all those interested in learning or deepening their knowledge of how to do open research are most welcome! 
