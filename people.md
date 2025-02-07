@@ -189,8 +189,8 @@ cover-img: /assets/img/MB_map.png
   	    <img src="/assets/img/MagdaMatetovici.png" alt="Magda Matetovici" width="100" height="100">
   	  </div>
   	  <div class="col-sm-9">
-  	    <h4><a href="https://babylabamsterdam.nl/en/magda-matetovici/" target="_blank">Magda Matetovici</a> [July 2023 - June 2025] <a href="mailto:magda.matetovici@yahoo.com">[email]</a></h4>
-        <i>University of Amsterdam (Amsterdam, The Netherlands)</i>  
+  	    <h4><a href="https://www.mpi.nl/people/matetovici-magda" target="_blank">Magda Matetovici</a> [July 2023 - June 2025] <a href="mailto:Magda.Matetovici@mpi.nl">[email]</a></h4>
+        <i>Max Planck Institute for Psycholinguistics (Nijmegen, The Netherlands)</i>  
       </div>
     </div>
     <div class="col-sm-12">
