@@ -6,6 +6,13 @@ title: Events
 
 >Upcoming Events
 
+(more events coming soon!)
+
+***
+
+
+>Past Events
+
 #### February 28, 2025 - 15:00-16:30 UTC on Zoom
 ### Workshop: Preregistration for developmental science
 #### Zsuzsa Kaldy, *University of Massachusetts Boston*
@@ -18,14 +25,11 @@ share some practical tips about how to write an optimal preregistration and how 
 (largely inevitable) deviations from the plan. The talk will be followed by an open Q&A, and all
 relevant materials (papers, templates, slides, etc.) will be made available.
 
-### <a href="https://airtable.com/appRoqMKzcK3NsXt4/pag4kwIG6RnA3TpAD/form" target="_blank">REGISTER NOW!</a>
+### RECORDING COMING SOON
 
 <br>
 
 ***
-
-
->Past Events
 
 #### October 8-10, 2024 
 ### Big Team Science Conference
