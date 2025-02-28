@@ -14,18 +14,14 @@ title: Events
 >Past Events
 
 #### February 28, 2025 - 15:00-16:30 UTC on Zoom
-### Workshop: Preregistration for developmental science
+### Workshop: Preregistration: The nudge you need to preregister your next project
 #### Zsuzsa Kaldy, *University of Massachusetts Boston*
 
-This talk is for developmental researchers at all levels of training who know that they should be
-preregistering their projects, but for various reasons have not started doing it yet. I will briefly go
-over the theoretical reasons behind the need for preregistration, and then focus on why the
-benefits outweigh the perceived costs and how we in our lab have dealt with those. I will also
-share some practical tips about how to write an optimal preregistration and how to deal with the
-(largely inevitable) deviations from the plan. The talk will be followed by an open Q&A, and all
-relevant materials (papers, templates, slides, etc.) will be made available.
+This talk is for developmental researchers at all levels of training who know that they should be preregistering their projects, but for various reasons have not started doing it yet. Dr. Kaldy goes over the theoretical reasons behind the need for preregistration, and then focuses on why the benefits outweigh the perceived costs and how she has dealt with those in her lab. She also shares some practical tips about how to write an optimal preregistration and how to deal with the (largely inevitable) deviations from the plan. The talk is followed by an open Q&A.
 
-### RECORDING COMING SOON
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qjgZNLggwu4?si=DBSb4TuraDX1xDCl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h4>Slides available <a href="https://tinyurl.com/mb-prereg-slides" target="_blank">here</a></h4>
 
 <br>
 
