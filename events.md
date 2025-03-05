@@ -23,6 +23,8 @@ This talk is for developmental researchers at all levels of training who know th
 
 <h4>Slides available <a href="https://tinyurl.com/mb-prereg-slides" target="_blank">here</a></h4>
 
+<h4><a href="https://www.cos.io/hubfs/Webinar%20Slides/Preregistration%20Essentials-What%20It%20Is%2c%20Why%20It%20Matters%2c%20and%20How%20to%20Do%20It%20(COS%20Webinar%2c%20Feb%2026).pdf" target="_blank">Slides</a> and <a href="https://www.youtube.com/watch?v=2pVhtVL1X7M" target="_blank">recording</a> from a Center for Open Science preregistration webinar that was held the same week</h4>
+
 <br>
 
 ***
