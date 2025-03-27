@@ -32,8 +32,9 @@ In this project we investigate a fundamental aspect of human nature: evaluating 
 ***
 ### Links
 * **Project website**: [check it out](https://sites.google.com/view/manybabies4/home)
-* **Materials, Protocols, and Documentation**: [MB4-OSF](https://osf.io/xe2pj/)
-* **Data and code**: [MB4-GitHub](https://github.com/manybabies/mb4-analysis)
+* **MB4 OSF repository**: [MB4-OSF](https://osf.io/xe2pj/)
+* **Materials, Data, and Code**:[MB4 registration](https://osf.io/kr8tx/resources)
+* **GitHub repository**: [MB4-GitHub](https://github.com/manybabies/mb4-analysis)
 * **Listserv**: [join here](https://groups.google.com/a/manybabies.org/g/mb4-list)
 * **Slack**: [MB workspace](https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ) (*join the #mb4-general channel*)
 
