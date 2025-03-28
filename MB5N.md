@@ -28,8 +28,10 @@ subtitle: Naturalistic Interactions
 
 ***
 ### Links
-* **Listserv**: <a href="https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blank">join here</a> *(click on “for access, try joining the group”)*
+
+* **Listserv**: for now, using the MB5 listserv; <a href="https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blank">join here</a> *(click on “for access, try joining the group”)*
 * **Slack group**: <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">MB workspace</a> (*join the #mb5-naturalistic*)
+* **MB5**: [main project page]({{site.baseurl}}/MB5/)
 
 
 ***
