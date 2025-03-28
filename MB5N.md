@@ -30,14 +30,16 @@ subtitle: Naturalistic Interactions
 ### Links
 
 * **Listserv**: for now, using the MB5 listserv; <a href="https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blank">join here</a> *(click on “for access, try joining the group”)*
-* **Slack group**: <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">MB workspace</a> (*join the #mb5-naturalistic*)
+* **Slack group**: <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">MB workspace</a> (*join the #mb5-naturalistic channel*)
 * **MB5**: [main project page]({{site.baseurl}}/MB5/)
 
 
 ***
 ### Leads
 * [**Brianna McMillan**](https://www.smith.edu/academics/faculty/brianna-mcmillan), *Smith College, United States* [[email]](mailto:bmcmillan@smith.edu)
+* [**Sana Fekrazad**](https://babylanguagelab.org/lab-staff/), *University of Manitoba, Canada* [[email]](mailto:fekrazas@myumanitoba.ca)
 * [**Jessica Kosie**](https://jkosie.github.io/), *Arizona State University, United States* [[email]](mailto:jkosie@asu.edu)
+* [**Melanie Soderstrom**](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada* [[email]](mailto:m_soderstrom@umanitoba.ca)
 
 
 ***
