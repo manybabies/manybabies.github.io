@@ -22,14 +22,16 @@ subtitle: Naturalistic Interactions
 </div>
 
 
-<p>We are developing an add-on project to [MB5]({{site.baseurl}}/MB5/) that will examine the relationship between infants’ performance in the main MB5 experiment and naturalistic interaction behaviors of the caregiver and infant. Our project has two parts, (1) a parent survey about the infant’s novelty- seeking behaviors and caregiver support for novelty exploration, and (2) a parent- child interaction study examining how infants and caregivers interact when playing with familiar and novel toys, using a brief in-lab play session. </p>
+<p>We are developing an add-on project to <b><a href="{{site.baseurl}}/MB5">MB5</a></b> that will examine the relationship between infants’ performance in the main MB5 experiment and naturalistic interaction behaviors of the caregiver and infant. Our project has two parts, (1) a parent survey about the infant’s novelty- seeking behaviors and caregiver support for novelty exploration, and (2) a parent- child interaction study examining how infants and caregivers interact when playing with familiar and novel toys, using a brief in-lab play session. </p>
 
 
 
 ***
 ### Links
-* **Listserv**: <a href="https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blank">join here</a> *(click on “for access, try joining the group”)*
+
+* **Listserv**: for now, using the MB5 listserv; <a href="https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blank">join here</a> *(click on “for access, try joining the group”)*
 * **Slack group**: <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">MB workspace</a> (*join the #mb5-naturalistic*)
+* **MB5**: [main project page]({{site.baseurl}}/MB5/)
 
 
 ***
