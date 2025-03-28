@@ -20,6 +20,7 @@ subtitle: Spin-offs & Secondary Analyses
 ### MB3: Rule Learning
 * [**MB3N: Rule Learning using NIRS**]({{site.baseurl}}/MB3N/)
 * [**MB3L: Longitudinal Language Follow-up**]({{site.baseurl}}/MB3L/)
+* [**MB2P: Pupil Dilation**]({{site.baseurl}}/MB3P/)
 * [**MB3T: Test-Retest Follow-up**]({{site.baseurl}}/MB3T/)
 
 ### MB4: Social Evaluation
