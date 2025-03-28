@@ -18,9 +18,9 @@ subtitle: Spin-offs & Secondary Analyses
 * [**MB2P: Pupil Dilation to Measure Violation-of-Expectation**]({{site.baseurl}}/MB2P/)
 
 ### MB3: Rule Learning
-* [**MB3N: Rule Learning using NIRS**]({{site.baseurl}}/MB3N/)
+* [**MB3-NIRS: Rule Learning using NIRS**]({{site.baseurl}}/MB3N/)
 * [**MB3L: Longitudinal Language Follow-up**]({{site.baseurl}}/MB3L/)
-* [**MB2P: Pupil Dilation**]({{site.baseurl}}/MB3P/)
+* [**MB3P: Pupil Dilation**]({{site.baseurl}}/MB3P/)
 * [**MB3T: Test-Retest Follow-up**]({{site.baseurl}}/MB3T/)
 
 ### MB4: Social Evaluation
