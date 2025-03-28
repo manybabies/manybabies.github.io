@@ -26,6 +26,10 @@ subtitle: Spin-offs & Secondary Analyses
 * [**MB4E: Emotional responses**]({{site.baseurl}}/MB4E/)
 * [**MB4I: Individual differences in infants’ social evaluations across cultures**]({{site.baseurl}}/MB4I/)
 
+### MB5: Hunter & Ames Model of Infant Looking Preference
+* [**MB5-Meta: Systematic review of infant familiarity/novelty preference**]({{site.baseurl}}/MB5-Meta/)
+* [**MB5N: Naturalistic Interactions**]({{site.baseurl}}/MB5N/)
+
 
 ***
 ## Secondary Analyses

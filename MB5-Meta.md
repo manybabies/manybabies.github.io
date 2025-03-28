@@ -36,7 +36,7 @@ subtitle: A systematic review of infant looking time preferences for novel vs. f
 ### Leads
 * [**Anjie Cao**](https://anjiecao.github.io/), *Stanford University, United States* [[email]](mailto:anjiecao@stanford.edu)
 * [**Katie Von Holzen**](https://kvonholzen.github.io), *TU Braunschweig, Germany* [[email]](mailto:katie.m.vonholzen@gmail.com)
-* [**Martin Zettersten**](https://mzettersten.github.io/), *Princeton University, United States* [[email]](mailto:martincz@princeton.edu)
+* [**Martin Zettersten**](https://mzettersten.github.io/), *University of California, San Diego, United States* [[email]](mailto:mzettersten@ucsd.edu)
 
 
 ***
