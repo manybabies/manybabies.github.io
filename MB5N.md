@@ -37,7 +37,9 @@ subtitle: Naturalistic Interactions
 ***
 ### Leads
 * [**Brianna McMillan**](https://www.smith.edu/academics/faculty/brianna-mcmillan), *Smith College, United States* [[email]](mailto:bmcmillan@smith.edu)
+* [**Sana Fekrazad**](https://babylanguagelab.org/lab-staff/), *University of Manitoba, Canada* [[email]](mailto:fekrazas@myumanitoba.ca)
 * [**Jessica Kosie**](https://jkosie.github.io/), *Arizona State University, United States* [[email]](mailto:jkosie@asu.edu)
+* [**Melanie Soderstrom**](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada* [[email]](mailto:m_soderstrom@umanitoba.ca)
 
 
 ***
