@@ -79,7 +79,7 @@ We encourage everyone who is interested in the project to contact the Project Le
 
 ***
 ## Spin-off Projects
-* [**MB5-Meta**: Sytematic review of infant familiarity/novelty preference]({{site.baseurl}}/MB5-Meta/)
+* [**MB5-Meta**: Systematic review of infant familiarity/novelty preference]({{site.baseurl}}/MB5-Meta/)
 * [**MB5N**: Naturalistic Interactions]({{site.baseurl}}/MB5N/)
 
 
