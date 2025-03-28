@@ -78,6 +78,12 @@ We encourage everyone who is interested in the project to contact the Project Le
 
 
 ***
+## Spin-off Projects
+* [**MB5-Meta**: Sytematic review of infant familiarity/novelty preference]({{site.baseurl}}/MB5-Meta/)
+* [**MB5N**: Naturalistic Interactions]({{site.baseurl}}/MB5N/)
+
+
+***
 ### Funding
 * MB5 is supported by an <a href="https://award.einsteinfoundation.de/award-winners-finalists/recipients-2021/manybabies5" target="_blank">Early Career Award</a> from the <a href="https://www.einsteinfoundation.de/index.php?id=1&L=1" target="_blank">Einstein Foundation Berlin</a>
 
