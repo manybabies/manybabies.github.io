@@ -209,7 +209,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB5N/">MB5N: Naturalistic Interactions</a></b><br>
         <b>Status:</b> <i>Design</i><br>
-        <b>Project Leads:</b> <a href="bmcmillan@smith.edu">Brianna McMillan</a>, <a href="mailto:fekrazas@myumanitoba.ca">Sana</a>, <a href="mailto:jkosie@asu.edu">Jessica Kosie</a>, <a href="mailto:m_soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
+        <b>Project Leads:</b> <a href="bmcmillan@smith.edu">Brianna McMillan</a>, <a href="mailto:fekrazas@myumanitoba.ca">Sana Fekrazad</a>, <a href="mailto:jkosie@asu.edu">Jessica Kosie</a>, <a href="mailto:m_soderstrom@umanitoba.ca">Melanie Soderstrom</a><br>
       </div>
     </div>
     <hr>
