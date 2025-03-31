@@ -36,7 +36,7 @@ subtitle: Neonatal and Early Imitation
 
 *** 
 ### Project Leads
-* [**Sumeet Farwaha**](https://ecdc.psychology.uq.edu.au/profile/320/sumeet-farwaha), *University of Queensland, Australia* [[email]](mailto:s.farwaha@uq.edu.au)
+* [**Sumeet Farwaha**](https://ecdc.psychology.uq.edu.au/profile/320/sumeet-farwaha), *University of Queensland, Australia* [[email]](mailto:sfarwaha3@gmail.com)
 * [**Andrew Meltzoff**](https://ilabs.uw.edu/meltzoff/), *University of Washington, United States* [[email]](mailto:meltzoff@uw.edu)
 * [**Elizabeth Simpson**](https://people.miami.edu/profile/exs796@miami.edu), *University of Miami, United States* [[email]](mailto:elizabethannsimpson@gmail.com)
 * [**Virginia Slaughter**](https://psychology.uq.edu.au/profile/2215/virginia-slaughter), *University of Queensland, Australia* [[email]](mailto:vps@psy.uq.edu.au)
