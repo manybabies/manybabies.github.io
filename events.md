@@ -12,10 +12,10 @@ title: Events
 Piloting is a necessary part of sound experimental design, and it is especially important when the participants are young children and high drop-out rates are of particular concern. We invite you to join us for a panel discussion about piloting in developmental science with a focus on early childhood. Topics will include: What are the goals of piloting? What are some piloting ‘best practices’? How should piloting efforts be documented/reported? What are the specific challenges of piloting studies with young participants? Audience members will be encouraged to ask questions and participate; all levels of experience are welcome to attend! 
 
 ***Panelists:***
-* **Agata Bochynska**, *University of Oslo*
+* **Agata Bochynska**, *University of Oslo & Pilot Reporting Task Force*
 * **Krista Byers-Heinlein**, *Concordia University*
 * **Lisa Oakes**, *University of California, Davis*
-* **Mary Beth Neff**, *University of Oslo*
+* **Mary Beth Neff**, *University of Oslo & Pilot Reporting Task Force*
 * **Tashauna Blankenship**, *University of Massachusetts Boston*
 * **Magda Matetovici** (moderator), *Max Planck Institute for Psycholinguistics*
 
