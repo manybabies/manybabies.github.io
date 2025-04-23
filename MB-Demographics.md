@@ -20,13 +20,12 @@ subtitle: Standard demographics for MB projects
         <li><i>We are continuing to work on translating & adapting template forms (contact Project Leads for more information or to help!)</i></li>
         <li><i>24 authors on</i> <a href="https://doi.org/10.1037/dev0001623" target="_blank"><b>Developmental Psychology</b></a> <i>publication</i></li>
         <li><i>14 authors on</i> <a href="https://doi.org/10.1080/15248372.2024.2431106" target="_blank"><b>Journal of Cognition and Development</b></a> <i>"Tools of the Trade" publication</i></li>
-        <li><i><b>IMPACT</b>: Two leading developmental journals, </i><b><a href="https://onlinelibrary.wiley.com/page/journal/14677687/homepage/forauthors.html#categories" target="_blank">Developmental Science</a></b><i> and </i><b><a href="https://doi.org/10.1111/infa.70003" target="_blank">Infancy</a></b><i>, have  modified their demographic reporting requirements based on the recommendations laid out in the MB-Demographics publications.</i></li>
+        <li><i><b>IMPACT</b>: Two leading developmental journals, </i><b><a href="https://onlinelibrary.wiley.com/page/journal/14677687/homepage/forauthors.html#categories" target="_blank">Developmental Science</a></b><i> and </i><b><a href="https://doi.org/10.1111/infa.70003" target="_blank">Infancy</a></b><i>, have  modified their demographic reporting requirements based on the recommendations laid out in the MB-Demographics publications</i></li>
       </ul>
     </div>
   </div>
 </div>
 
-***
 
 In this project, we present a framework to standardize demographic reporting for early child development (birth to 3 years of age), focusing on six core sociodemographic construct categories: biological information, gestational status, health status, community of descent, caregiving environment, and socioeconomic status. For each category, we discuss potential constructs and measurement items and provide guidance for their use and adaptation to diverse contexts. These items are stored in an [open repository of context-adapted questionnaires](https://osf.io/nqc92/) that provide a consistent approach to obtaining and reporting demographic information so that these data can be archived and shared in a more standardized format. <br>
 
