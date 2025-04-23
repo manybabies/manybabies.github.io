@@ -25,11 +25,14 @@ subtitle: Standard demographics for MB projects
   </div>
 </div>
 
+## Impact
+Two leading developmental journals, *<a href="https://onlinelibrary.wiley.com/page/journal/14677687/homepage/forauthors.html#categories" target="_blank">Developmental Science</a>* and *<a href="https://doi.org/10.1111/infa.70003" target="_blank">Infancy</a>*, have  modified their demographic reporting requirements based on the recommendations laid out by the [MB-Demographics]({{site.baseurl}}/MB-Demographics/) team in their [*Developmental Psychology*](https://doi.org/10.1037/dev0001623) and [*Journal of Cognition and Development*](https://doi.org/10.1080/15248372.2024.2431106) publications.
+
+***
 
 In this project, we present a framework to standardize demographic reporting for early child development (birth to 3 years of age), focusing on six core sociodemographic construct categories: biological information, gestational status, health status, community of descent, caregiving environment, and socioeconomic status. For each category, we discuss potential constructs and measurement items and provide guidance for their use and adaptation to diverse contexts. These items are stored in an [open repository of context-adapted questionnaires](https://osf.io/nqc92/) that provide a consistent approach to obtaining and reporting demographic information so that these data can be archived and shared in a more standardized format. <br>
 
-#### Impact
-Two leading developmental journals, *<a href="https://onlinelibrary.wiley.com/page/journal/14677687/homepage/forauthors.html#categories" target="_blank">Developmental Science</a>* and *<a href="https://doi.org/10.1111/infa.70003" target="_blank">Infancy</a>*, have  modified their demographic reporting requirements based on the recommendations laid out by the [MB-Demographics]({{site.baseurl}}/MB-Demographics/) team in their [*Developmental Psychology*](https://doi.org/10.1037/dev0001623) and [*Journal of Cognition and Development*](https://doi.org/10.1080/15248372.2024.2431106) publications.
+
 
 A figure from the [publication](https://doi.org/10.1037/dev0001623):
 
