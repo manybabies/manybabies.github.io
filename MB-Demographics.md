@@ -20,7 +20,7 @@ subtitle: Standard demographics for MB projects
         <li><i>We are continuing to work on translating & adapting template forms (contact Project Leads for more information or to help!)</i></li>
         <li><i>24 authors on</i> <a href="https://doi.org/10.1037/dev0001623" target="_blank"><b>Developmental Psychology</b></a> <i>publication</i></li>
         <li><i>14 authors on</i> <a href="https://doi.org/10.1080/15248372.2024.2431106" target="_blank"><b>Journal of Cognition and Development</b></a> <i>"Tools of the Trade" publication</i></li>
-        <li><i><b>IMPACT</b>: Two leading developmental journals, </i><a href="https://onlinelibrary.wiley.com/page/journal/14677687/homepage/forauthors.html#categories" target="_blank">Developmental Science</a><i> and </i><a href="https://doi.org/10.1111/infa.70003" target="_blank">Infancy</a><i>, have  modified their demographic reporting requirements based on the recommendations laid out in the MB-Demographics publications.</i></li>
+        <li><i><b>IMPACT</b>: Two leading developmental journals, </i><b><a href="https://onlinelibrary.wiley.com/page/journal/14677687/homepage/forauthors.html#categories" target="_blank">Developmental Science</a></b><i> and </i><b><a href="https://doi.org/10.1111/infa.70003" target="_blank">Infancy</a></b><i>, have  modified their demographic reporting requirements based on the recommendations laid out in the MB-Demographics publications.</i></li>
       </ul>
     </div>
   </div>
