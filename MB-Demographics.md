@@ -20,13 +20,11 @@ subtitle: Standard demographics for MB projects
         <li><i>We are continuing to work on translating & adapting template forms (contact Project Leads for more information or to help!)</i></li>
         <li><i>24 authors on</i> <a href="https://doi.org/10.1037/dev0001623" target="_blank"><b>Developmental Psychology</b></a> <i>publication</i></li>
         <li><i>14 authors on</i> <a href="https://doi.org/10.1080/15248372.2024.2431106" target="_blank"><b>Journal of Cognition and Development</b></a> <i>"Tools of the Trade" publication</i></li>
+        <li><b>IMPACT</b>: Two leading developmental journals, *<a href="https://onlinelibrary.wiley.com/page/journal/14677687/homepage/forauthors.html#categories" target="_blank">Developmental Science</a>* and *<a href="https://doi.org/10.1111/infa.70003" target="_blank">Infancy</a>*, have  modified their demographic reporting requirements based on the recommendations laid out in the MB-Demographics publications.</li>
       </ul>
     </div>
   </div>
 </div>
-
-## Impact
-Two leading developmental journals, *<a href="https://onlinelibrary.wiley.com/page/journal/14677687/homepage/forauthors.html#categories" target="_blank">Developmental Science</a>* and *<a href="https://doi.org/10.1111/infa.70003" target="_blank">Infancy</a>*, have  modified their demographic reporting requirements based on the recommendations laid out by the [MB-Demographics]({{site.baseurl}}/MB-Demographics/) team in their [*Developmental Psychology*](https://doi.org/10.1037/dev0001623) and [*Journal of Cognition and Development*](https://doi.org/10.1080/15248372.2024.2431106) publications.
 
 ***
 
@@ -34,7 +32,7 @@ In this project, we present a framework to standardize demographic reporting for
 
 
 
-A figure from the [publication](https://doi.org/10.1037/dev0001623):
+A figure from [Singh, Barokova, Baumgartner, et. al (2024)](https://doi.org/10.1037/dev0001623):
 
 <img src="/assets/img/demographics_figure2.png">
 
@@ -62,6 +60,6 @@ A figure from the [publication](https://doi.org/10.1037/dev0001623):
 ***
 ### Publications
 
-<p style="padding-left: 25px; text-indent: -25px">Singh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F. L., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., … Frank, M. C. (2023). <b>A unified approach to demographic data collection for research with young children across diverse cultures</b>. <i>Developmental Psychology</i>. <a href="https://doi.org/10.1037/dev0001623" target="_blank">https://doi.org/10.1037/dev0001623</a> [<a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">PsyArXiv preprint</a>]</p>
+<p style="padding-left: 25px; text-indent: -25px">Singh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F. L., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., … Frank, M. C. (2024). <b>A unified approach to demographic data collection for research with young children across diverse cultures</b>. <i>Developmental Psychology, 60</i>(2), 211-227. <a href="https://doi.org/10.1037/dev0001623" target="_blank">https://doi.org/10.1037/dev0001623</a> [<a href="https://doi.org/10.31234/osf.io/agt3d" target="_blank">PsyArXiv preprint</a>]</p>
 
-<p style="padding-left: 25px; text-indent: -25px">Singh, L., Barokova, M., Bazhydai, M., Baumgartner, H. A., Franchin, L., Kosie, J., Lew-Williams, C., Omane, P. O., Reinelt, T., Schuwerk, T., Sheskin, M., Soderstrom, M., Wu, Y., & Frank, M. C. (2024). <b>Tools of the Trade: A guide to sociodemographic reporting for researchers, reviewers, and editors</b>. <i>Journal of Cognition and Development</i>. <a href="https://doi.org/10.1080/15248372.2024.2431106" target="_blank">https://doi.org/10.1080/15248372.2024.2431106</a> [<a href="https://doi.org/10.31234/osf.io/cz3bv" target="_blank">PsyArXiv preprint</a>]</p>
+<p style="padding-left: 25px; text-indent: -25px">Singh, L., Barokova, M., Bazhydai, M., Baumgartner, H. A., Franchin, L., Kosie, J., Lew-Williams, C., Omane, P. O., Reinelt, T., Schuwerk, T., Sheskin, M., Soderstrom, M., Wu, Y., & Frank, M. C. (2024). <b>Tools of the Trade: A guide to sociodemographic reporting for researchers, reviewers, and editors</b>. <i>Journal of Cognition and Development</i>, 1–20. <a href="https://doi.org/10.1080/15248372.2024.2431106" target="_blank">https://doi.org/10.1080/15248372.2024.2431106</a> [<a href="https://doi.org/10.31234/osf.io/cz3bv" target="_blank">PsyArXiv preprint</a>]</p>
