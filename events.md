@@ -6,10 +6,16 @@ title: Events
 
 >Upcoming Events
 
+*More events coming soon!*
+
+***
+
+>Past Events
+
 #### April 29, 2025 - 17:00-18:30 UTC on Zoom
 ### Panel discussion: Piloting for developmental science
 
-Piloting is a necessary part of sound experimental design, and it is especially important when the participants are young children and high drop-out rates are of particular concern. We invite you to join us for a panel discussion about piloting in developmental science with a focus on early childhood. Topics will include: What are the goals of piloting? What are some piloting ‘best practices’? How should piloting efforts be documented/reported? What are the specific challenges of piloting studies with young participants? Audience members will be encouraged to ask questions and participate; all levels of experience are welcome to attend! 
+Piloting is a necessary part of sound experimental design, and it is especially important when the participants are young children and high drop-out rates are of particular concern. We held a panel discussion about piloting in developmental science with a focus on early childhood. Topicsinclude: What are the goals of piloting? What are some piloting ‘best practices’? How should piloting efforts be documented/reported? What are the specific challenges of piloting studies with young participants?  
 
 ***Panelists:***
 * **Agata Bochynska**, *University of Oslo & Pilot Reporting Task Force*
@@ -19,13 +25,13 @@ Piloting is a necessary part of sound experimental design, and it is especially 
 * **Tashauna Blankenship**, *University of Massachusetts Boston*
 * **Magda Matetovici** (moderator), *Max Planck Institute for Psycholinguistics*
 
-### [REGSITER NOW!](https://tinyurl.com/mb-piloting)
+<h4>Notes from the panel discussion are available <a href="https://docs.google.com/document/d/1mII8kek4hXTqTZcv5tp5HkD32TExob_0oVcNDapsxm4/edit?usp=sharing" target="_blank">here</a></h4>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bS9EhYjmhWk?si=ON0PUQJl4p-cS8yQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <br>
 
 ***
-
-
->Past Events
 
 #### February 28, 2025 - 15:00-16:30 UTC on Zoom
 ### Workshop: Preregistration: The nudge you need to preregister your next project
