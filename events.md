@@ -25,9 +25,9 @@ Piloting is a necessary part of sound experimental design, and it is especially 
 * **Tashauna Blankenship**, *University of Massachusetts Boston*
 * **Magda Matetovici** (moderator), *Max Planck Institute for Psycholinguistics*
 
-<h4>Notes from the panel discussion are available <a href="https://docs.google.com/document/d/1mII8kek4hXTqTZcv5tp5HkD32TExob_0oVcNDapsxm4/edit?usp=sharing" target="_blank">here</a></h4>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bS9EhYjmhWk?si=ON0PUQJl4p-cS8yQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h4>Notes from the panel discussion are available <a href="https://docs.google.com/document/d/1mII8kek4hXTqTZcv5tp5HkD32TExob_0oVcNDapsxm4/edit?usp=sharing" target="_blank">here</a></h4>
 
 <br>
 
