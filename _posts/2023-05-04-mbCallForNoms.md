@@ -16,4 +16,4 @@ The one year term is non-renewable, although SAs might be invited to continue on
 
 Individuals may nominate themselves or others as candidates for the GB and/or SA positions by [emailing us](mailto:manybabies@manybabies.org) by May 31, 2023. 
 
-More information about the role, the nomination process, and SA selection can be found [here](https://mailchi.mp/manybabies/2023-callfornoms).
+More information about the role, the nomination process, and SA selection can be found [here]({{site.baseurl}}/newsletters/2023-studentadvisorcall).
