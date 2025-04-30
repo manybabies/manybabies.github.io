@@ -12,5 +12,5 @@ We are hereby calling for nominations for individuals to join ManyBabies general
 
 Individuals may nominate themselves or others as candidates for the GB and/or SA positions by [emailing us](mailto:manybabiesconsortium@gmail.com) by May 11, 2022. 
 
-More information about the roles, the nomination process, and the election/selection process can be found [here]({site.baseurl}}/newsletters/2022-callfornoms/).
+More information about the roles, the nomination process, and the election/selection process can be found [here]({{site.baseurl}}/newsletters/2022-callfornoms/).
 
