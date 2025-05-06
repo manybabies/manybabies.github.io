@@ -201,7 +201,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
           <a href="mailto:mzettersten@ucsd.edu">Martin Zettersten</a>, 
           <a href="mailto:caseylw@princeton.edu">Casey Lew-Williams</a><br>
         <b>MB5 listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blank"><i>Subscribe</i></a><br>
-        <b>MB5 Slack:</b> <i><a href="https://join.slack.com/t/manybabies5/shared_invite/zt-1olgszxpd-1FKLTYOY3o~oBjyw2cLR2Q" target="_blank">Join workspace</a></i>
+        <b>MB5 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb5-general</b> channel</i><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB5-Meta/">MB5-Meta: Systematic review of infant familiarity/novelty</a></b><br>
         <b>Status:</b> <i>Coding</i><br>
