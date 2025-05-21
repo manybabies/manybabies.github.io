@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Call for Student Advisor Nominations
-thumbnail-img: /assets/img/avatar-icon-2022.png
 tags: [MB, news, SA]
 ---
 
