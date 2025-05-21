@@ -1,0 +1,16 @@
+---
+layout: post
+title: Call for nominations: MB Student Advisor  
+thumbnail-img: /assets/img/avatar-icon-2022.png
+tags: [MB, news, SA]
+---
+
+## Student Advisor nominations 
+
+Join the ManyBabies Governing Board as a Student Advisor!
+
+We are accepting nominations for the role of ManyBabies Student Advisor.
+
+More information about the role, the nomination process, and SA selection can be found [here]({{site.baseurl}}/newsletters/2025-studentadvisorcall).
+
+Individuals may nominate themselves or others as candidates for the SA position by [filling out this short form](https://docs.google.com/forms/d/e/1FAIpQLSd38K4XyEKKqcWk1Olt50gFbnwlIBAUaB2dXhjxECmgXBcQBQ/viewform?usp=dialog) by **May 31, 2025**. 
