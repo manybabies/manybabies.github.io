@@ -5,7 +5,6 @@ thumbnail-img: /assets/img/avatar-icon-2022.png
 tags: [MB, news, SA]
 ---
 
-## Student Advisor nominations 
 
 Join the ManyBabies Governing Board as a Student Advisor!
 
