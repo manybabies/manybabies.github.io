@@ -14,6 +14,8 @@ More info about this workshop coming soon!
 
 <h3><a href="https://airtable.com/appRoqMKzcK3NsXt4/pagmbE5rPv4E2RoGT/form" target="_blank">REGISTER NOW!</a></h3>
 
+<br>
+
 ***
 
 >Past Events
