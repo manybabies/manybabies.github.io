@@ -6,7 +6,13 @@ title: Events
 
 >Upcoming Events
 
-*More events coming soon!*
+#### June 17, 2025 - 14:00-15:30 UTC (4pm CEST) on Zoom
+### Workshop: Multiverse Analyses
+#### Giulia Calignano, *Università degli Studi di Padova*
+
+More info about this workshop coming soon!
+
+<h3><a href="https://airtable.com/appRoqMKzcK3NsXt4/pagmbE5rPv4E2RoGT/form" target="_blank">REGISTER NOW!</a></h3>
 
 ***
 
