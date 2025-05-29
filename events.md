@@ -10,7 +10,7 @@ title: Events
 ### Workshop: Multiverse Analyses
 #### Giulia Calignano, *Università degli Studi di Padova*
 
-More info about this workshop coming soon!
+In this workshop on Multiverse Analyses, Giulia will introduction attendees to the multiverse concept and why it matters--especially in multilab contexts--and discuss how the multiverse approach addresses researcher degrees of freedom across labs. She'll then go over how the <a href="https://manybabies.org/MB2P/" target="_blank">MB2P (Pupillometry)</a> spin-off project is implementing a multiverse analysis approach using the data from the main <a href="https://manybabies.org/MB2/" target="_blank">MB2</a> study. 
 
 <h3><a href="https://airtable.com/appRoqMKzcK3NsXt4/pagmbE5rPv4E2RoGT/form" target="_blank">REGISTER NOW!</a></h3>
 
