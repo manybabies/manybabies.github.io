@@ -18,6 +18,18 @@ In this workshop on Multiverse Analyses, Giulia will introduction attendees to t
 
 ***
 
+#### June 25, 2025 - 14:00-15:30 UTC (10am EDT) on Zoom
+### Discussion: Looking Time Measures
+#### Martin Zettersten, *University of California, San Diego*
+#### Ingmar Visser, *University of Amsterdam*
+#### Anjie Cao, *Stanford University*
+
+More information coming soon!
+
+<br>
+
+***
+
 >Past Events
 
 #### April 29, 2025 - 17:00-18:30 UTC on Zoom
