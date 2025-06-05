@@ -15,7 +15,7 @@ subtitle: Neonatal and Early Imitation
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Study design</b></li>
+        <li><i>Status:</i> <b>Study design and preparing Stage 1 manuscript</b></li>
         <li><i>Subscribe to the <a href="https://groups.google.com/a/manybabies.org/g/mb6-list" target="_blank"><b>MB6 listserv</b></a> to get involved!</i></li>
       </ul>
     </div>
