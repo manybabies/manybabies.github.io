@@ -56,7 +56,7 @@ In this project we investigate a fundamental aspect of human nature: evaluating 
 > <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrBx1vEakEkyeYbg" target="_blank"><b>UPDATE</b></a> your info, or request to be <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrglw1TM1HxDfbYG" target="_blank"><b>ADDED</b></a>
 
 ***
-### Publication
+### Publications
 
 <h4>Stage 1 Registered Report</h4>
 <p style="padding-left: 25px; text-indent: -25px"><i>Lucca, K.*</i>, <i>Yuen, F.*</i>, Byers-Heinlein, K., Capelier-Mourguy, A., Cirelli, L. K., Ben, R. D., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., … Hamlin, J. K. (2025). <b>Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study</b>. <i>(*co-first authors)</i> [<a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">PsyArXiv preprint</a>] </p>
