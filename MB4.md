@@ -59,9 +59,11 @@ In this project we investigate a fundamental aspect of human nature: evaluating 
 ### Publication
 
 <h4>Stage 1 Registered Report</h4>
-<p style="padding-left: 25px; text-indent: -25px"><i>Lucca, K.*</i>, <i>Yuen, F.*</i>, Byers-Heinlein, K., Capelier-Mourguy, A., Cirelli, L. K., Ben, R. D., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., … Hamlin, J. K. (2025). <b>Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study</b>. <i>Developmental Science, 28</i>(1). <a href="https://doi.org/10.1111/desc.13581" target="_blank">https://doi.org/10.1111/desc.13581</a>. <i>(*co-first authors)</i> [<a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">PsyArXiv preprint</a>] </p>
+<p style="padding-left: 25px; text-indent: -25px"><i>Lucca, K.*</i>, <i>Yuen, F.*</i>, Byers-Heinlein, K., Capelier-Mourguy, A., Cirelli, L. K., Ben, R. D., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., … Hamlin, J. K. (2025). <b>Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study</b>. <i>(*co-first authors)</i> [<a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">PsyArXiv preprint</a>] </p>
 
-> To cite, use (Lucca, Yuen, et al., 2024)
+<h4>Stage 2 Registered Report</h4>
+<p style="padding-left: 25px; text-indent: -25px"><i>Lucca, K.*</i>, <i>Yuen, F.*</i>, Wang, Y., Alessandroni, N., Allison, O., Alvarez, M., Axelsson, E. L., Baumer, J., Baumgartner, H. A., Bertels, J., Bhavsar, M., Byers-Heinlein, K., Capelier-Mourguy, A., Chijiiwa, H., Chin, C. S.-S., Christner, N., Cirelli, L. K., Corbit, J., Daum, M. M., … Hamlin, J. K. (2025). <b>Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study</b>. <i>Developmental Science, 28</i>(1). <a href="https://doi.org/10.1111/desc.13581" target="_blank">https://doi.org/10.1111/desc.13581</a>. <i>(*co-first authors)</i> </p>
+> To cite, use (Lucca, Yuen, et al., 2025)
 
 
 
