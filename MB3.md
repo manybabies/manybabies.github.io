@@ -15,7 +15,7 @@ subtitle: Rule Learning
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Collecting data; preparing analysis pipeline</b> <a href="https://umanitobapsych.az1.qualtrics.com/jfe/form/SV_4NiYE6jM0399g7r" target="_blank">(sign up here)</a></li>
+        <li><i>Status:</i> <b>Finalizing analyses and preparing Stage 2 manuscript for submission</b> <a href="https://umanitobapsych.az1.qualtrics.com/jfe/form/SV_4NiYE6jM0399g7r" target="_blank">(sign up here)</a></li>
         <li><i><a href="https://doi.org/10.31234/osf.io/aex7v" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at</i> <b>Developmental Science</b></li>
       </ul>
     </div>
@@ -46,11 +46,9 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 ***
 ### MB3 Contributors
 
-We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [**MB Sign-Up Form**]({{site.baseurl}}/get_involved/). Please note that access to infants/an infant lab is **NOT** a prerequisite.
+> NOTE: Default table ordering is by contributor's last name. You can filter, group, and/or sort entries by any field.
 
-> NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field.
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrhL9H0PVFq41XHk?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shr6IWs4XnRyp0DAu?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 > <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrBx1vEakEkyeYbg" target="_blank"><b>UPDATE</b></a> your info, or request to be <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrglw1TM1HxDfbYG" target="_blank"><b>ADDED</b></a>
 

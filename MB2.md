@@ -15,7 +15,7 @@ subtitle: Theory of Mind in Infancy
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Data collection complete; Importing and analyzing data</b></li>
+        <li><i>Status:</i> <b>Stage 2 manuscript has been submitted!</b></li>
         <li><i><a href="https://doi.org/10.31234/osf.io/x4jbm" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at</i> <b>Child Development</b></li>
       </ul>
     </div>
@@ -24,7 +24,7 @@ subtitle: Theory of Mind in Infancy
 
 
 <p><img style="float: right;" src="/assets/img/MB2_design300px.png"> 
-In this ongoing project we aim to investigate a fundamental feature of human social cognition: Theory of Mind (ToM), or the ability to ascribe mental states to agents. One of the central tests for ToM is the false belief task, in which the participant needs to predict how an agent will act on the basis of her/his (mis)representation of the world. Using a false belief task (3D-animated videos), we ask if infants (18- to 27-month-olds) and adults show anticipatory looking that reflects the false belief of another agent. Our contributors include the authors of the original studies and of previous replication attempts, as well researchers from diverse theoretical orientations (e.g., nativist and core knowledge, dual process, conceptual change and skeptics). Following the anticipatory looking study, we hope to continue the project with other measures such as Violation of Expectation, and interactive tasks.</p>
+In this project we aim to investigate a fundamental feature of human social cognition: Theory of Mind (ToM), or the ability to ascribe mental states to agents. One of the central tests for ToM is the false belief task, in which the participant needs to predict how an agent will act on the basis of her/his (mis)representation of the world. Using a false belief task (3D-animated videos), we ask if infants (18- to 27-month-olds) and adults show anticipatory looking that reflects the false belief of another agent. Our contributors include the authors of the original studies and of previous replication attempts, as well researchers from diverse theoretical orientations (e.g., nativist and core knowledge, dual process, conceptual change and skeptics). Following the anticipatory looking study, we hope to continue the project with other measures such as Violation of Expectation, and interactive tasks.</p>
 
 
 ***
@@ -45,8 +45,6 @@ In this ongoing project we aim to investigate a fundamental feature of human soc
 
 ***
 ### MB2 Contributors
-
-We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [**MB Sign-Up Form**]({{site.baseurl}}/get_involved/). Please note that access to infants/an infant lab is **NOT** a prerequisite.
 
 > NOTE: Default table ordering is by author order in the Stage 2 manuscript. You can filter, group, and/or sort entries by any field.
 
