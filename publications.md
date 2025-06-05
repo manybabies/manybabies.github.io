@@ -98,7 +98,7 @@ title: Publications & Manuscripts
         <b>Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study</b>. 
         <i>Developmental Science, 28</i>(1). <i>(*co-first authors)</i> 
         <a href="https://doi.org/10.1111/desc.13581" target="_blank">https://doi.org/10.1111/desc.13581</a><br>
-        <b>[<a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">PsyArXiv Preprint</a>] 
+        <b>[<a href="https://doi.org/10.31234/osf.io/qhxkm" target="_blank">PsyArXiv preprint of Stage 1 manuscript</a>] 
         [<a href="{{site.baseurl}}/MB4/">MB4</a>]</b></p>  
       </div>
     </div>
