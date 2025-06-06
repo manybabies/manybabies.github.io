@@ -181,6 +181,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB4E/">MB4E: Emotional Responses</a></b><br>
         <b>Status:</b> <i>Coding</i><br>
         <b>Project Leads:</b> <a href="mailto:francis.yuen@psych.ubc.ca">Francis Yuen</a>, <a href="mailto:Kelsey.Lucca@asu.edu">Kelsey Lucca</a><br>
+        <b>MB4E listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb4e-list" target="_blank"><i>Subscribe</i></a><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB4I/">MB4I: Individual Differences</a></b><br>
         <b>Status:</b> <i>Coding</i><br>

@@ -29,6 +29,7 @@ The goal of this project is to measure infants’ emotional responses (e.g. posi
 ***
 ## Links
 * **Materials, Protocols, and Documentation**: will be added after the pre-registration is complete 
+* **Listserv**: [join here](https://groups.google.com/a/manybabies.org/g/mb4e-list)
 * **MB4**: [main project page]({{site.baseurl}}/MB4/)
 
 
