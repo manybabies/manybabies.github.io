@@ -15,7 +15,7 @@ subtitle: The Development of Gaze Following in Monolingual and Bilingual Infants
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>COMPLETE</b></li>
+        <li><i>Status:</i> <b>{{ site.data.global.status.mb1g }}</b></li>
         <li><i>11 participating labs collected data in 8 countries</i></li>
         <li><i>322 infants tested</i></li>
         <li><i>27 authors on</i> <a href="https://doi.org/10.1111/infa.12360" target="_blank"><b>Infancy</b></a> <i>publication</i></li>

@@ -15,7 +15,7 @@ subtitle: Standard demographics for MB projects
     <div class="col-lg-9">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>COMPLETE</b></li>
+        <li><i>Status:</i> <b>{{ site.data.global.status.demo }}</b></li>
         <li><i>Template forms available on <a href="https://osf.io/nqc92/" target="_blank"><b>OSF</b></a></i></li>
         <li><i>We are continuing to work on translating & adapting template forms (contact Project Leads for more information or to help!)</i></li>
         <li><i>24 authors on</i> <a href="https://doi.org/10.1037/dev0001623" target="_blank"><b>Developmental Psychology</b></a> <i>publication</i></li>

@@ -15,7 +15,7 @@ subtitle: Online Infant Data Collection
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Piloting and collecting data for Studies 1 and 2; Translating study materials</b></li>
+        <li><i>Status:</i> <b>{{ site.data.global.status.athome }}</b></li>
       </ul>
     </div>
   </div>

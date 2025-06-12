@@ -15,7 +15,7 @@ subtitle: Naturalistic Interactions
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Study design</b></li>
+        <li><i>Status:</i> <b>{{ site.data.global.status.mb5n }}</b></li>
       </ul>
     </div>
   </div>

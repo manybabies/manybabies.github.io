@@ -15,7 +15,7 @@ subtitle: A systematic review of infant looking time preferences for novel vs. f
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Conducting literature review and coding articles</b></li>
+        <li><i>Status:</i> <b>{{ site.data.global.status.mb5meta }}</b></li>
       </ul>
     </div>
   </div>

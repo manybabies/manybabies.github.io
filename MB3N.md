@@ -15,7 +15,7 @@ subtitle: Rule Learning using NIRS
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Developing processing/analysis pipeline; Preparing Stage 1 Registered Report</b></li>
+        <li><i>Status:</i> <b>{{ site.data.global.status.mb3nirs }}</b></li>
       </ul>
     </div>
   </div>

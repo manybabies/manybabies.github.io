@@ -15,7 +15,7 @@ subtitle: Native Languages Follow-up
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Collecting data</b></li>
+        <li><i>Status:</i> <b>{{ site.data.global.status.mb1n }}</b></li>
       </ul>
     </div>
   </div>
