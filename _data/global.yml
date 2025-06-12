@@ -18,6 +18,8 @@ status:
   mb1g: "COMPLETE"
   mb1l: "COMPLETE"
   mb1n: "Data analysis"
+  mb1t: "COMPLETE"
+  mb1meta: "COMPLETE"
   mb2: "Stage 2 manuscript has been submitted!"
   mb2p: "Collecting data; Planning analyses"
   mb3: "Prepping Stage 2 manuscript for submission"
