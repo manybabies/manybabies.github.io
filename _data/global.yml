@@ -1,0 +1,22 @@
+# global variables for MB site
+
+### EXAMPLES
+# author:
+#   name: Jane Doe
+#   twitter: janedoe
+# contact_email: jane@example.com
+
+# use them elsewhere like this: {{ site.data.global.author.name }}
+
+status:
+  mb2: "Stage 2 manuscript has been submitted!"
+  mb3: "Prepping Stage 2 manuscript for submission"
+  mb4: "COMPLETE"
+  mb5: "Piloting; prepping for data collection"
+  mb6: "Preparing Stage 1 manuscript; study design"
+  
+contact:
+  general: contact@manybabies.org
+  mb2: mb2@gmail.com
+  mb5: mb5@manybabies.org
+  mb6: mb6@manybabies.org
