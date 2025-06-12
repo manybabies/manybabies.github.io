@@ -15,7 +15,7 @@ subtitle: Web-based Eye Tracking for Infant Studies
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>COMPLETE</b></li>
+        <li><i>Status:</i> <b>{{ site.data.global.status.mw }}</b></li>
         <li><i>16 participating labs collected data</i></li>
         <li><i>125 toddlers tested remotely via webcam</i></li>
         <li><i>33 authors on</i> <a href="https://doi.org/10.1111/infa.12564" target="_blank"><b>Infancy</b></a> <i>publication</i></li>

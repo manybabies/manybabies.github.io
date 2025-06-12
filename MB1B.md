@@ -15,7 +15,7 @@ subtitle: Infant-directed Speech Preference in Bilingual Infants
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>COMPLETE</b></li>
+        <li><i>Status:</i> <b>{{ site.data.global.status.mb1b }}</b></li>
         <li><i>17 participating labs collected data in 7 countries</i></li>
         <li><i>333 bilingual infants tested (in addition to 384 monolingual infants from MB1 sample)</i></li>
         <li><i>38 authors on</i> <a href="https://doi.org/10.1177/2515245920974622" target="_blank"><b>AMPPS</b></a> <i>publication</i></li>

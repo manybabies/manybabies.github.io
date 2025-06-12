@@ -15,7 +15,7 @@ subtitle: Rule Learning
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Finalizing analyses and preparing Stage 2 manuscript for submission</b> <a href="https://umanitobapsych.az1.qualtrics.com/jfe/form/SV_4NiYE6jM0399g7r" target="_blank">(sign up here)</a></li>
+        <li><i>Status:</i> <b>{{ site.data.global.status.mb3 }}</b> <a href="https://umanitobapsych.az1.qualtrics.com/jfe/form/SV_4NiYE6jM0399g7r" target="_blank">(sign up here)</a></li>
         <li><i><a href="https://doi.org/10.31234/osf.io/aex7v" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at</i> <b>Developmental Science</b></li>
       </ul>
     </div>

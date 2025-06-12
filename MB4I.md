@@ -15,7 +15,7 @@ subtitle: Individual differences in infants’ social evaluations across culture
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Data collection complete; Coding and analyzing data</b></li>
+        <li><i>Status:</i> <b>{{ site.data.global.status.mb4i }}</b></li>
       </ul>
     </div>
   </div>

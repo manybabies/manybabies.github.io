@@ -15,7 +15,7 @@ subtitle: Measuring Pupil Dilation with Rule Learning
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Collecting data; Planning analyses</b></li>
+        <li><i>Status:</i> <b>{{ site.data.global.status.mb3p }}</b></li>
       </ul>
     </div>
   </div>

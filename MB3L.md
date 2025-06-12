@@ -15,7 +15,7 @@ subtitle: Longitudinal Language Follow-up
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Data collection</b></li>
+        <li><i>Status:</i> <b>{{ site.data.global.status.mb3l }}</b></li>
       </ul>
     </div>
   </div>

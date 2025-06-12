@@ -15,7 +15,7 @@ subtitle: Infant-Directed Speech Preference in African Infants
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Collecting data</b></li>
+        <li><i>Status:</i> <b>{{ site.data.global.status.mb1a }}</b></li>
         <li><i><a href="https://osf.io/fqp4b" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at</i> <b>Developmental Science</b></li>
       </ul>
     </div>

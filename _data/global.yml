@@ -9,11 +9,30 @@
 # use them elsewhere like this: {{ site.data.global.author.name }}
 
 status:
+  mw: "COMPLETE"
+  demo: "COMPLETE"
+  athome: "Piloting and collecting data for Studies 1 and 2; Translating study materials"
+  mb1: "COMPLETE"
+  mb1a: "Data analysis; prepping Stage 2 manuscript"
+  mb1b: "COMPLETE"
+  mb1g: "COMPLETE"
+  mb1l: "COMPLETE"
+  mb1n: "Data analysis"
   mb2: "Stage 2 manuscript has been submitted!"
+  mb2p: "Collecting data; Planning analyses"
   mb3: "Prepping Stage 2 manuscript for submission"
+  mb3l: "Data collection"
+  mb3p: "Developing analysis plan"
+  mb3t: "Data collection"
+  mb3nirs: "Developing processing/analysis pipeline; Preparing Stage 1 Registered Report"
   mb4: "COMPLETE"
+  mb4e: "Data collection complete; Piloting coding protocols/software to code infants’ emotional responses and posture"
+  mb4i: "Data collection complete; Coding and analyzing data"
   mb5: "Piloting; prepping for data collection"
+  mb5n: "Study design"
+  mb5meta: "Conducting literature review and coding articles"
   mb6: "Preparing Stage 1 manuscript; study design"
+
   
 contact:
   general: contact@manybabies.org
