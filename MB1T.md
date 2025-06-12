@@ -15,7 +15,7 @@ subtitle: Test-Retest Follow-up
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>COMPLETE</b></li>
+        <li><i>Status:</i> <b>{{ site.data.global.status.mb1t }}</b></li>
       </ul>
     </div>
   </div>

@@ -15,7 +15,7 @@ subtitle: The Hunter & Ames Model of Infant Looking Preference
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>Preparing to pilot</b></li>
+        <li><i>Status:</i> <b>{{ site.data.global.status.mb5 }}</b></li>
         <li><i><a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at</i> <b>Nature Human Behaviour</b></li>
       </ul>
     </div>
