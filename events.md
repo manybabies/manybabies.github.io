@@ -22,12 +22,12 @@ In this workshop on Multiverse Analyses, Giulia will introduction attendees to t
 ##### Panel Discussion: 
 ### Rethinking Infant Looking Time: Models, Methods, and Large-Scale Collaboration
 #### Anjie Cao, *Stanford University*
-#### Martin Zettersten, *University of California, San Diego*
 #### Ingmar Visser, *University of Amsterdam*
+#### Martin Zettersten, *University of California, San Diego*
 
 This panel explores how researchers study infant attention by measuring where and how long babies look. Anjie Cao will present a new model, RANCH, that treats looking as a form of decision-making under uncertainty. By analyzing large datasets from both infants and adults, the model helps capture patterns of habituation and dishabituation. Interestingly, the findings challenge the common idea that infants prefer familiar things. Anjie will discuss how formal models can strengthen the interpretation of looking-time data. Ingmar Visser will focus on what eye-tracking can reveal about visual attention in infancy. He will present results from free-viewing studies that examine which factors shape infant visual attention and how these patterns change during the first year of life. Ingmar uses a model called WALD-EM to describe how infants gather visual information over time, capturing looking behavior as a gradual accumulation of evidence. Martin Zettersten will draw on findings from large collaborative projects, such as ManyBabies and <a href="https://peekbank.stanford.edu/" target="_blank">Peekbank</a>, which combine data from multiple labs to better understand looking-time measures. These datasets are valuable not only for testing theories about infant cognition but also for evaluating how reliable and informative our current measurement approaches are. Martin will prompt discussion around what we still do not know about infant looking-time measures and what future projects (like <a href="https://manybabies.org/MB5/" target="_blank">ManyBabies 5</a>!) might help clarify. Come discuss how we can use large-scale collaboration and modeling to move toward more coordinated and interpretable looking-time research!
 
->Registration link coming soon!
+<h3><a href="https://airtable.com/appRoqMKzcK3NsXt4/pagbE5ZGOs380hrDC/form" target="_blank">REGISTER NOW</a> for Zoom link!</h3> 
 
 <br>
 
