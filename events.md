@@ -6,15 +6,6 @@ title: Events
 
 >Upcoming Events
 
-#### June 17, 2025 - 14:00-15:30 UTC (4pm CEST) on Zoom
-### Workshop: Multiverse Analyses
-#### Giulia Calignano, *Università degli Studi di Padova*
-
-In this workshop on Multiverse Analyses, Giulia will introduction attendees to the multiverse concept and why it matters--especially in multilab contexts--and discuss how the multiverse approach addresses researcher degrees of freedom across labs. She'll then go over how the <a href="https://manybabies.org/MB2P/" target="_blank">MB2P (Pupillometry)</a> spin-off project is implementing a multiverse analysis approach using the data from the main <a href="https://manybabies.org/MB2/" target="_blank">MB2</a> study. 
-
-<h3><a href="https://airtable.com/appRoqMKzcK3NsXt4/pagmbE5rPv4E2RoGT/form" target="_blank">REGISTER NOW</a> for Zoom link!</h3>
-
-<br>
 
 ***
 
@@ -34,6 +25,20 @@ This panel explores how researchers study infant attention by measuring where an
 ***
 
 >Past Events
+
+#### June 17, 2025 - 14:00-15:30 UTC (4pm CEST) on Zoom
+### Workshop: Multiverse Analyses
+#### Giulia Calignano, *Università degli Studi di Padova*
+
+In this workshop on Multiverse Analyses, Giulia introduces attendees to the multiverse concept and why it matters--especially in multilab contexts--and discuss how the multiverse approach addresses researcher degrees of freedom across labs. She then goes over how the <a href="https://manybabies.org/MB2P/" target="_blank">MB2P (Pupillometry)</a> spin-off project is implementing a multiverse analysis approach using the data from the main <a href="https://manybabies.org/MB2/" target="_blank">MB2</a> study. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9iuddKmssaU?si=z6hiMMfjVBoAbZ98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<h4>Slides from the workshop are available <a href="https://caligiu.github.io/MultiverseWorkshopMB/Wslide/Index.html#/title-slide" target="_blank">here</a></h4>
+
+<br>
+
+***
 
 #### April 29, 2025 - 17:00-18:30 UTC on Zoom
 ### Panel discussion: Piloting for developmental science
