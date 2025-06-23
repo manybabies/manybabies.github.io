@@ -110,7 +110,7 @@ title: Publications & Manuscripts
       <div class="col-sm-11" align="left">
         <p style="padding-left: 25px; text-indent: -25px"><i>Singh, L.</i>, Barokova, M., Bazhydai, M., Baumgartner, H. A., Franchin, L., Kosie, J., Lew-Williams, C., Omane, P. O., Reinelt, T., Schuwerk, T., Sheskin, M., Soderstrom, M., Wu, Y., & Frank, M. C. (2024).
         <b>Tools of the Trade: A guide to sociodemographic reporting for researchers, reviewers, and editors</b>. <br>
-        <i>Journal of Cognition and Development</i>, 1–20. 
+        <i>Journal of Cognition and Development, 26</i>(3), 354–373. 
         <a href="https://doi.org/10.1080/15248372.2024.2431106" target="_blank">https://doi.org/10.1080/15248372.2024.2431106</a><br>
         <b>[<a href="https://doi.org/10.31234/osf.io/cz3bv" target="_blank">PsyArXiv Preprint</a>] 
         [<a href="{{site.baseurl}}/MB-Demographics/">MB-Demographics</a>]</b></p>
