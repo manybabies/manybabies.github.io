@@ -32,7 +32,7 @@ subtitle: Measuring Pupil Dilation with Rule Learning
 
 ***
 ### Links
-* **Listserv**: [join here](https://groups.google.com/a/manybabies.org/g/mb3-list)
+* **Listserv**: [join here](https://groups.google.com/a/manybabies.org/g/mb3p-list)
 * **Materials, Protocols, and Documentation**: <a href="https://docs.google.com/document/d/1b-ZaJpbVzvN_fUApXlZkZiT9jxGUYRhHbAC1qOucufo/edit?usp=sharing" target="_blank">MB3 lab manual</a>
 * **MB3**: [main project page]({{site.baseurl}}/MB3/)
 

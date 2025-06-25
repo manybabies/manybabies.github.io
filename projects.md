@@ -140,10 +140,12 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>Status:</b> <i>{{ site.data.global.status.mb3l }}</i><br>
         <b>Project Leads:</b> <a href="mailto:anna.exner@posteo.de">Anna Exner</a>, <a href="mailto:roberta.bettoni@unimib.it">Roberta Bettoni</a>, 
           <a href="mailto:i.visser@uva.nl">Ingmar Visser</a><br>
+        <b>MB3L listserv:</b> <a href="https://groups.google.com/g/mb3l" target="_blank"><i>Subscribe</i></a><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB3P/">MB3P: Pupil Dilation</a></b><br>
         <b>Status:</b> <i>{{ site.data.global.status.mb3p }}</i><br>
         <b>Project Leads:</b> <a href="mailto:i.visser@uva.nl">Ingmar Visser</a><br>
+        <b>MB3P listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb3p-list" target="_blank"><i>Subscribe</i></a><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB3T/">MB3T: Test-Retest Follow-up</a></b><br>
         <b>Status:</b> <i>{{ site.data.global.status.mb3t }}</i><br>
