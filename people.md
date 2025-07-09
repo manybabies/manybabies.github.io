@@ -198,7 +198,7 @@ cover-img: /assets/img/MB_map.png
     </div>
 		<div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-  	    <img src="/assets/img/TeruniAhamat.jpg" alt="Teruni Ahamat" width="100" height="100" border-radius=50%>
+  	    <img src="/assets/img/TeruniAhamat.jpg" alt="Teruni Ahamat" width="100" height="100" style="border-radius: 50%; ">
   	  </div>
   	  <div class="col-sm-9">
   	    <h4><a href="https://orcid.org/0009-0009-3844-2537" target="_blank">Teruni Ahamat</a> [July 2025 - ] <a href="mailto:Teruni.Ahamat@warwick.ac.uk">[email]</a></h4>
@@ -210,10 +210,10 @@ cover-img: /assets/img/MB_map.png
     </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <img src="/assets/img/HanXingyue.jpg" alt="Han Xingyue" width="100" height="100">
+        <img src="/assets/img/HanXingyue.jpg" alt="Han Xingyue" width="100" height="100" style="border-radius: 50%; ">
   	  </div>
   	  <div class="col-sm-9">
-  	    <h4><a href="" target="_blank"></a> [July 2025 - ] <a href="mailto:xingyue_h@u.nus.edu">[email]</a></h4>
+  	    <h4><a href="" target="_blank">Han Xingyue</a> [July 2025 - ] <a href="mailto:xingyue_h@u.nus.edu">[email]</a></h4>
         <i>Central European University (Vienna, Austria)</i>
       </div>
     </div>
