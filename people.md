@@ -228,9 +228,8 @@ cover-img: /assets/img/MB_map.png
 #### Student Advisors
 * [**Mary Beth Neff**](https://www.hf.uio.no/ifikk/english/people/aca/philosophy/temporary/maryen/index.html), *University of Oslo, Norway* [2022-2023]
 * [**Francis Yuen**](https://psych.ubc.ca/profile/francis-yuen/), *University of British Columbia, Vancouver, Canada* [2022-2023]
-* [**QueAnh (Quinn) Pham**](http://www.quinnpham.pro/), *University of Massachusetts, Boston, United States* [2023-2025]
 * [**Magda Matetovici**](https://www.mpi.nl/people/matetovici-magda), *Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands* [2023-2025]
-
+* [**QueAnh (Quinn) Pham**](http://www.quinnpham.pro/), *University of Massachusetts, Boston, United States* [2023-2025]
 
 #### Office Assistant
 * **Grace Zhou**, *University of Manitoba (Winnipeg, Canada)* [2021-2023]
