@@ -184,30 +184,6 @@ cover-img: /assets/img/MB_map.png
 	</header>
 <br>
   <div class="container">
-		<div class="row">
-      <div class="col-sm-3 col-xs-6" align="center">
-  	    <img src="/assets/img/MagdaMatetovici.png" alt="Magda Matetovici" width="100" height="100">
-  	  </div>
-  	  <div class="col-sm-9">
-  	    <h4><a href="https://www.mpi.nl/people/matetovici-magda" target="_blank">Magda Matetovici</a> [July 2023 - June 2025] <a href="mailto:Magda.Matetovici@mpi.nl">[email]</a></h4>
-        <i>Max Planck Institute for Psycholinguistics (Nijmegen, The Netherlands)</i>  
-      </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
-    <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center">
-        <img src="/assets/img/QuinnPham.png" alt="Que Anh (Quinn) Pham" width="100" height="100">
-  	  </div>
-  	  <div class="col-sm-9">
-  	    <h4><a href="http://www.quinnpham.pro/" target="_blank">Que Anh (Quinn) Pham</a> [July 2023 - June 2025] <a href="mailto:QueAnh.Pham001@umb.edu">[email]</a></h4>
-        <i>University of Massachusetts, Boston (Boston, United States)</i>
-      </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
         <img src="/assets/img/AbdellahElouatiq.jpg" alt="Abdellah Elouatiq" width="100" height="100" style="border-radius: 50%;">
@@ -215,6 +191,30 @@ cover-img: /assets/img/MB_map.png
   	  <div class="col-sm-9">
   	    <h4><a href="https://www.mpi.nl/people/elouatiq-abdellah">Abdellah Elouatiq</a> [August 2024 - ] <a href="mailto:Abdellah.Elouatiq@mpi.nl" target="_blank">[email]</a></h4>
         <i>Max Planck Institute for Psycholinguistics (Nijmegen, The Netherlands)</i>
+      </div>
+    </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
+		<div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+  	    <img src="/assets/img/TeruniAhamat.jpg" alt="Teruni Ahamat" width="100" height="100" border-radius=50%>
+  	  </div>
+  	  <div class="col-sm-9">
+  	    <h4><a href="https://orcid.org/0009-0009-3844-2537" target="_blank">Teruni Ahamat</a> [July 2025 - ] <a href="mailto:Teruni.Ahamat@warwick.ac.uk">[email]</a></h4>
+        <i>University of Warwick (Coventry, United Kingdom)</i>  
+      </div>
+    </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <img src="/assets/img/HanXingyue.png" alt="Han Xingyue" width="100" height="100">
+  	  </div>
+  	  <div class="col-sm-9">
+  	    <h4><a href="" target="_blank"></a> [July 2025 - ] <a href="mailto:xingyue_h@u.nus.edu">[email]</a></h4>
+        <i>Central European University (Vienna, Austria)</i>
       </div>
     </div>
   </div>
@@ -225,9 +225,12 @@ cover-img: /assets/img/MB_map.png
 ***
 ### Alumni
 
-#### 2022-2023 Student Advisors
-* [**Mary Beth Neff**](https://www.hf.uio.no/ifikk/english/people/aca/philosophy/temporary/maryen/index.html), *University of Oslo (Oslo, Norway)*
-* [**Francis Yuen**](https://psych.ubc.ca/profile/francis-yuen/), *University of British Columbia (Vancouver, Canada)*
+#### Student Advisors
+* [**Mary Beth Neff**](https://www.hf.uio.no/ifikk/english/people/aca/philosophy/temporary/maryen/index.html), *University of Oslo, Norway* [2022-2023]
+* [**Francis Yuen**](https://psych.ubc.ca/profile/francis-yuen/), *University of British Columbia, Vancouver, Canada* [2022-2023]
+* [**QueAnh (Quinn) Pham**](http://www.quinnpham.pro/), *University of Massachusetts, Boston, United States* [2023-2025]
+* [**Magda Matetovici**](https://www.mpi.nl/people/matetovici-magda), *Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands* [2023-2025]
+
 
 #### Office Assistant
 * **Grace Zhou**, *University of Manitoba (Winnipeg, Canada)* [2021-2023]
