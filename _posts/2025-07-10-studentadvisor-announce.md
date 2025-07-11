@@ -5,6 +5,6 @@ tags: [MB, news, SA]
 ---
 
 
-Congrats and welcome to our 2025-2026 Student Advisors, **Teruni Ahamat** and **Han Xinghue**! 
+Congrats and welcome to our 2025-2026 Student Advisors, **Teruni Ahamat** and **Xinghue Han**! 
 
 View the announcement [here]({{site.baseurl}}/newsletters/2025-studentadvisor).

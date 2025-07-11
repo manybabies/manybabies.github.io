@@ -189,8 +189,8 @@ cover-img: /assets/img/MB_map.png
         <img src="/assets/img/AbdellahElouatiq.jpg" alt="Abdellah Elouatiq" width="100" height="100" style="border-radius: 50%;">
   	  </div>
   	  <div class="col-sm-9">
-  	    <h4><a href="https://www.mpi.nl/people/elouatiq-abdellah">Abdellah Elouatiq</a> [August 2024 - ] <a href="mailto:Abdellah.Elouatiq@mpi.nl" target="_blank">[email]</a></h4>
-        <i>Max Planck Institute for Psycholinguistics (Nijmegen, The Netherlands)</i>
+  	    <h4><a href="https://www.ru.nl/personen/elouatiq-a">Abdellah Elouatiq</a> [August 2024 - ] <a href="mailto:abdellah.elouatiq3@ru.nl" target="_blank">[email]</a></h4>
+        <i>Radboud University (Nijmegen, The Netherlands)</i>
       </div>
     </div>
     <div class="col-sm-12">
