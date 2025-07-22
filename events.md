@@ -11,6 +11,12 @@ title: Events
 
 <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="https://bigteamscienceconference.github.io/assets/img/BTSCon2025_logo.png" alt="2025 Big Team Science Conference, hosted virtually October 6-8" width="500"></a>
 
+Submissions are due July 31!
+
+Registration is open (and all fees are optional!)
+
+<h4><a href="https://bigteamscienceconference.github.io" target="_blank">bigteamscienceconference.github.io</a></h4>
+
 <br>
 
 ***
