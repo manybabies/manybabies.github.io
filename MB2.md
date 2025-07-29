@@ -23,11 +23,11 @@ subtitle: Theory of Mind in Infancy
 </div>
 
 
-
+<img style="float: right;" src="/assets/img/MB2_design300px.png">
 <p> In this project, we investigate a fundamental feature of human social cognition: Theory of Mind (ToM), the ability to ascribe mental states to agents. One of the central tests for ToM is the false belief task, which requires participants to predict an agent’s action based on her/his (mis)representation of the world. Using a false belief task implemented through 3D-animated videos, we examine whether toddlers (18- to 27-month-olds) and adults show anticipatory looking indicating false belief ascription to another agent. Our team includes the authors of the original studies as well as researchers who conducted previous replication attempts. Our consortium brings together scholars from a wide range of theoretical perspectives. 
 </p>
 
-<img style="float: right;" src="/assets/img/MB2_design300px.png">
+<br>
 
 ***
 
@@ -35,6 +35,7 @@ subtitle: Theory of Mind in Infancy
 In a first step, we examined whether toddlers’ and adults’ anticipatory looks show that they distinguish between two basic forms of epistemic states: knowledge and ignorance. Adults (n = 703) clearly differentiated between those conditions and showed more anticipatory looking towards the target location in the knowledge than in the ignorance condition. Surprisingly, in toddlers (n = 521) this pattern was flipped: They showed more anticipatory looks towards the target location in the ignorance condition.
 
 ![Phase 1: First look and proportion DLS for toddlers and adults during familiarization and test phase.](assets/img/mb2-phase1.png)
+<i>First look and proportion DLS for toddlers and adults during familiarization and test phase.</i>
 
 ***
 
