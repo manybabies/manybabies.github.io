@@ -15,7 +15,7 @@ subtitle: Theory of Mind in Infancy
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
       <ul>
-        <li><i>Status:</i> <b>{{ site.data.global.status.mb2 }}</b></li>
+        <li><i>Status:</i> <b>Phase 1: {{ site.data.global.status.mb2 }}</b></li>
         <li><i><a href="https://doi.org/10.31234/osf.io/x4jbm" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at</i> <b>Child Development</b></li>
       </ul>
     </div>
@@ -24,8 +24,30 @@ subtitle: Theory of Mind in Infancy
 
 
 
-<p><img style="float: right;" src="/assets/img/MB2_design300px.png"> 
-In this project we aim to investigate a fundamental feature of human social cognition: Theory of Mind (ToM), or the ability to ascribe mental states to agents. One of the central tests for ToM is the false belief task, in which the participant needs to predict how an agent will act on the basis of her/his (mis)representation of the world. Using a false belief task (3D-animated videos), we ask if infants (18- to 27-month-olds) and adults show anticipatory looking that reflects the false belief of another agent. Our contributors include the authors of the original studies and of previous replication attempts, as well researchers from diverse theoretical orientations (e.g., nativist and core knowledge, dual process, conceptual change and skeptics). Following the anticipatory looking study, we hope to continue the project with other measures such as Violation of Expectation, and interactive tasks.</p>
+<p> In this project, we investigate a fundamental feature of human social cognition: Theory of Mind (ToM), the ability to ascribe mental states to agents. One of the central tests for ToM is the false belief task, which requires participants to predict an agent’s action based on her/his (mis)representation of the world. Using a false belief task implemented through 3D-animated videos, we examine whether toddlers (18- to 27-month-olds) and adults show anticipatory looking indicating false belief ascription to another agent. Our team includes the authors of the original studies as well as researchers who conducted previous replication attempts. Our consortium brings together scholars from a wide range of theoretical perspectives. 
+</p>
+
+<img style="float: right;" src="/assets/img/MB2_design300px.png">
+
+***
+
+### Phase 1: Knowledge / Ignorance (completed): 
+In a first step, we examined whether toddlers’ and adults’ anticipatory looks show that they distinguish between two basic forms of epistemic states: knowledge and ignorance. Adults (n = 703) clearly differentiated between those conditions and showed more anticipatory looking towards the target location in the knowledge than in the ignorance condition. Surprisingly, in toddlers (n = 521) this pattern was flipped: They showed more anticipatory looks towards the target location in the ignorance condition.
+
+![Phase 1: First look and proportion DLS for toddlers and adults during familiarization and test phase.](assets/img/mb2-phase1.png)
+
+***
+
+### Phase 2: Knowledge / Ignorance Adaption (ongoing):
+The next step for toddlers will now be to investigate more systematically the source of the puzzling findings and clarify whether they indicate competence or mere performance limitations.
+ 
+***
+
+### Phase 3: False Belief in Adults (ongoing):
+For adults, we will now move on to probe whether their spontaneous action anticipation is also sensitive to more complex kinds of epistemic states, such as true and false beliefs.
+
+
+Following the anticipatory looking studies, we hope to continue the project with other measures such as Violation of Expectation, and interactive tasks.
 
 
 ***
@@ -72,4 +94,5 @@ In this project we aim to investigate a fundamental feature of human social cogn
 
 * [**MB2P**: Pupil Dilation to Measure Violation-of-Expectation]({{site.baseurl}}/MB2P/)
 * [**MB-ManyWebcams**: Web-based Eye Tracking for Infant Studies]({{site.baseurl}}/MB-ManyWebcams/)
+* MB-ManyTrackers (more info coming soon!)
 
