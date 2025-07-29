@@ -34,7 +34,7 @@ subtitle: Theory of Mind in Infancy
 In a first step, we examined whether toddlers’ and adults’ anticipatory looks show that they distinguish between two basic forms of epistemic states: knowledge and ignorance. Adults (n = 703) clearly differentiated between those conditions and showed more anticipatory looking towards the target location in the knowledge than in the ignorance condition. Surprisingly, in toddlers (n = 521) this pattern was flipped: They showed more anticipatory looks towards the target location in the ignorance condition (see Fig.1).
 
 <figure>
-  <img src="assets/img/mb2-phase1.png" alt="mb2-phase 1 results" style="width:100%">
+  <img src="/assets/img/mb2-phase1.png" alt="mb2-phase 1 results" style="width:100%">
   <figcaption>Fig.1 - First look and proportion DLS for toddlers and adults during familiarization and test phase.</figcaption>
 </figure>
 
