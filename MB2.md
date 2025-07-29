@@ -22,9 +22,10 @@ subtitle: Theory of Mind in Infancy
   </div>
 </div>
 
-<img style="float: right;" src="/assets/img/MB2_design300px.png">
 <p> In this project, we investigate a fundamental feature of human social cognition: Theory of Mind (ToM), the ability to ascribe mental states to agents. One of the central tests for ToM is the false belief task, which requires participants to predict an agent’s action based on her/his (mis)representation of the world. Using a false belief task implemented through 3D-animated videos, we examine whether toddlers (18- to 27-month-olds) and adults show anticipatory looking indicating false belief ascription to another agent. Our team includes the authors of the original studies as well as researchers who conducted previous replication attempts. Our consortium brings together scholars from a wide range of theoretical perspectives. 
 </p>
+
+<img src="/assets/img/MB2_design300px.png" style="width:50%">
 
 <br>
 
