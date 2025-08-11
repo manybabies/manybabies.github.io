@@ -31,6 +31,7 @@ subtitle: Individual differences in infants’ social evaluations across culture
 
 ***
 ### Links
+* **Documentation and protocols**: [MB4I-OSF](https://osf.io/qy2zr/)
 * **Listserv**: [join](https://groups.google.com/a/manybabies.org/g/mb4i-list)
 * **Preregistration**: [OSF](https://doi.org/10.17605/OSF.IO/RAQ4X)
 * **BCCCD 2023 Poster**: [link](https://osf.io/jp532)
