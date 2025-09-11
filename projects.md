@@ -122,6 +122,19 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>MB2P Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb2p-pupillometry</b> channel</i><br>
       </div>
     </div>
+    <br>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <a href="{{site.baseurl}}/MB-ManyTrackers/"><img src="/assets/img/MB2_logo.png" alt="MB2 logo" width="75" height="75"></a>
+      </div>
+      <div class="col-sm-10">
+        <h4><a href="{{site.baseurl}}/MB-ManyTrackers/">MB-ManyTrackers: Evaluating Eye-Tracking Consistency and Accuracy</a></h4>
+        <b>Status:</b> <i>{{ site.data.global.status.mt }}</i><br>
+        <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:Shuting.Li@psy.lmu.de">Shuting Li</a><br>
+        <b>MB-MT listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/manytrackers-list" target="_blank"><i>Subscribe</i></a>
+      </div>
+    </div>
     <hr>
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
