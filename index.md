@@ -48,7 +48,7 @@ The broader goals of <b>ManyBabies</b> come together in a set of collaborative p
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}/MB2/">MB2: Theory of Mind</a></h4>
         <i>Do infants show anticipatory looking that reflects the false belief of another agent?</i><br>
-        <b>Spin-offs:</b> <a href="{{site.baseurl}}/MB2P/">MB2P</a>, <a href="{{site.baseurl}}/MB-ManyWebcams/">MB-ManyWebcams</a>
+        <b>Spin-offs:</b> <a href="{{site.baseurl}}/MB2P/">MB2P</a>, <a href="{{site.baseurl}}/MB-ManyWebcams/">MB-ManyWebcams</a>, <a href="{{site.baseurl}}/MB-ManyTrackers/">MB-ManyTrackers</a>
       </div>
     </div>
     <hr>
