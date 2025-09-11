@@ -98,5 +98,5 @@ Following the anticipatory looking studies, we hope to continue the project with
 
 * [**MB2P**: Pupil Dilation to Measure Violation-of-Expectation]({{site.baseurl}}/MB2P/)
 * [**MB-ManyWebcams**: Web-based Eye Tracking for Infant Studies]({{site.baseurl}}/MB-ManyWebcams/)
-* MB-ManyTrackers (more info coming soon!)
+* [**MB-ManyTrackers**: Evaluating Eye-Tracking Consistency and Accuracy]({{site.baseurl}}/MB-ManyTrackers/)
 

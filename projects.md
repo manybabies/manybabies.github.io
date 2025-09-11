@@ -120,6 +120,11 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>Project Lead:</b> <a href="mailto:robert.hepach@psy.ox.ac.uk">Robert Hepach</a><br>
         <b>MB2P listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb2p-list" target="_blank"><i>Subscribe</i></a><br>
         <b>MB2P Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb2p-pupillometry</b> channel</i><br>
+        <hr>
+        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB-ManyTrackers/">MB-ManyTrackers: Evaluating Eye-Tracking Consistency and Accuracy</a></b><br>
+        <b>Status:</b> <i>{{ site.data.global.status.mt }}</i><br>
+        <b>Project Leads:</b> <a href="mailto:Tobias.Schuwerk@psy.lmu.de">Tobias Schuwerk</a>, <a href="mailto:Shuting.Li@psy.lmu.de">Shuting Li</a><br>
+        <b>MB-MT listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/manytrackers-list" target="_blank"><i>Subscribe</i></a><br>
       </div>
     </div>
     <hr>
