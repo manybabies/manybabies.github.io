@@ -47,7 +47,7 @@ subtitle: Measuring Pupil Dilation with Rule Learning
 ***
 ### MB3P Contributors
 
-We encourage everyone who is interested in the project to contact Project Lead [Ingmar Visser](mailto:i.visser@uva.nl). Please note that access to infants/an infant lab is **NOT** a prerequisite.
+We encourage everyone who is interested in the project to contact a Project Lead and/or subscribe to the MB3P listserv *(see above)*. Please note that access to infants/an infant lab is **NOT** a prerequisite.
 
 > NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field.
 
