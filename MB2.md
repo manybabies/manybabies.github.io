@@ -88,6 +88,7 @@ Following the anticipatory looking studies, we hope to continue the project with
 > To cite, use (Schuwerk & Kampis et al., accepted pending data collection)
 
 
+
 ***
 ### Funding
 * MB2 is supported by a grant from [Deutsche Forschungsgemeinschaft](https://www.dfg.de/en/index.jsp)
