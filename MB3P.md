@@ -40,7 +40,8 @@ subtitle: Measuring Pupil Dilation with Rule Learning
 ***
 ### Leads
 * [**Ingmar Visser**](https://www.uva.nl/profiel/v/i/i.visser/i.visser.html?cb), *University of Amsterdam, Netherlands* [[email]](mailto:i.visser@uva.nl) 
-* more listed soon
+* [**Samuel Forbes**](https://www.durham.ac.uk/staff/samuel-forbes/), *Durham University, UK* [[email]](mailto:samuel.forbes@durham.ac.uk)
+[**Sylvain Sirois**](https://oraprdnt.uqtr.uquebec.ca/portail/gscw031?owa_no_site=314), *Université du Québec à Trois-Rivières, Canada* [[email]](mailto:sylvain.sirois@uqtr.ca)
 
 
 ***
