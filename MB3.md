@@ -62,7 +62,7 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 
 
 <h4>Stage 2 Registered Report (preprint)</h4>
-<p style="padding-left: 25px; text-indent: -25px">Visser, I., Geambașu, A., Kachergis, G., Oliveira, C. M., Rocha-Hidalgo, J., Zettersten, M., … Levelt, C. (2025, August 28). <i><b>ManyBabies 3: A multi-lab study of infant algebraic rule learning</b></i>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/ghrdt_v1" target="_blank">https://doi.org/10.31234/osf.io/ghrdt_v1</a></p>
+<p style="padding-left: 25px; text-indent: -25px">Visser, I., Geambașu, A., Kachergis, G., Oliveira, C. M., Rocha-Hidalgo, J., Zettersten, M., … Levelt, C. (2025, August 28). <i>ManyBabies 3: A multi-lab study of infant algebraic rule learning</i>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/ghrdt_v1" target="_blank">https://doi.org/10.31234/osf.io/ghrdt_v1</a></p>
 
 > To cite, use (Visser et al., 2025)
 
