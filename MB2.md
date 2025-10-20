@@ -87,7 +87,10 @@ Following the anticipatory looking studies, we hope to continue the project with
 
 > To cite, use (Schuwerk & Kampis et al., accepted pending data collection)
 
+<h4>Stage 2 Registered Report (preprint)</h4>
+<p style="padding-left: 25px; text-indent: -25px">Schuwerk, T.*</i>, <i>Kampis, D.*</i>, Schuwerk, T., Kampis, D., Alessandroni, N., Altvater-Mackensen, N., Arias-Trejo, N., Axelsson, E. L., Baillargeon, R., Baumann, A.-E., Bernard, C., Biro, S., Blankenship, T., Blomberg, I., Bohn, M., Bradford, E. E. F., Byers-Heinlein, K., Canudas Grabolosa, I., Chen, E. M., Chen, X., Corbit, J., … Frank, M. C., Rakoczy, H. (2025, September 9). <i>Action Anticipation Based on an Agent's Epistemic State in Toddlers and AdultsT</i>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/x4jbm_v2" target="_blank">https://doi.org/10.31234/osf.io/x4jbm_v2</a></p>
 
+> To cite, use (Schuwerk & Kampis et al., 2025)
 
 ***
 ### Funding
