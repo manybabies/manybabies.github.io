@@ -6,7 +6,7 @@ title: Events
 
 >Upcoming Events
 
-#### November 10, 2025 - 17:00-18:30 UTC on Zoom ([time converter](https://www.worldtimebuddy.com/?qm=1&lid=5368361,5128581,100,2643743,2759794,745044,1261481,1796236,1835848,2174003&h=100&date=2025-11-10&sln=17-18.5&hf=1))
+#### November 10, 2025 - 17:00-18:30 UTC on Zoom *(<a href="https://www.worldtimebuddy.com/?qm=1&lid=5368361,5128581,100,2643743,2759794,745044,1261481,1796236,1835848,2174003&h=100&date=2025-11-10&sln=17-18.5&hf=1" target="_blank">time converter</a>)*
 ##### Webinar and discussion: 
 ### Development in Context
 
@@ -14,7 +14,7 @@ This webinar, moderated by Candica Koolhaas *(University of Massachusetts Boston
 
 * **Dr. Jessica Kosie** *(Arizona State University)* will discuss how her lab collects data on the early speech environment and how it interacts with cultural and socioeconomic differences. 
 * **Dr. Tess Forest** *(Columbia University)* will introduce methods for measuring caregiver unpredictability in naturalistic interactions and discuss how it relates to infants’ attention and learning. 
-* **Dr. Zuzanna Ludanska**, *(Polish Academy of Sciences)* will talk about using wearables to study infant vocalizations, and what it can tell us about how naturalistic infant behavior changes in daily situational contexts.
+* **Dr. Zuzanna Ludanska** *(Polish Academy of Sciences)* will talk about using wearables to study infant vocalizations, and what it can tell us about how naturalistic infant behavior changes in daily situational contexts.
 * **Dr. Peter Krøjgaard** *(Aarhus University)* will demonstrate how his lab collects data on the day-to-day life of young children via take-home diaries, as well as the insights it can provide about children’s environments and some of the best-practices for the method. 
 
 ### [REGISTER](https://airtable.com/appRoqMKzcK3NsXt4/pagF8o28pDLdDDnLK/form) to access Zoom link
@@ -56,7 +56,8 @@ This panel explores how researchers study infant attention by measuring where an
 ***
 
 #### June 17, 2025 - 14:00-15:30 UTC (4pm CEST) on Zoom
-### Workshop: Multiverse Analyses
+##### Workshop: 
+### Multiverse Analyses
 #### Giulia Calignano, *Università degli Studi di Padova*
 
 In this workshop on Multiverse Analyses, Giulia introduces attendees to the multiverse concept and why it matters--especially in multilab contexts--and discuss how the multiverse approach addresses researcher degrees of freedom across labs. She then goes over how the <a href="https://manybabies.org/MB2P/" target="_blank">MB2P (Pupillometry)</a> spin-off project is implementing a multiverse analysis approach using the data from the main <a href="https://manybabies.org/MB2/" target="_blank">MB2</a> study. 
@@ -70,7 +71,8 @@ In this workshop on Multiverse Analyses, Giulia introduces attendees to the mult
 ***
 
 #### April 29, 2025 - 17:00-18:30 UTC on Zoom
-### Panel discussion: Piloting for developmental science
+##### Panel discussion: 
+### Piloting for developmental science
 
 Piloting is a necessary part of sound experimental design, and it is especially important when the participants are young children and high drop-out rates are of particular concern. We held a panel discussion about piloting in developmental science with a focus on early childhood. Topicsinclude: What are the goals of piloting? What are some piloting ‘best practices’? How should piloting efforts be documented/reported? What are the specific challenges of piloting studies with young participants?  
 
@@ -91,7 +93,8 @@ Piloting is a necessary part of sound experimental design, and it is especially 
 ***
 
 #### February 28, 2025 - 15:00-16:30 UTC on Zoom
-### Workshop: Preregistration: The nudge you need to preregister your next project
+##### Workshop: 
+### Preregistration: The nudge you need to preregister your next project
 #### Zsuzsa Kaldy, *University of Massachusetts Boston*
 
 This talk is for developmental researchers at all levels of training who know that they should be preregistering their projects, but for various reasons have not started doing it yet. Dr. Kaldy goes over the theoretical reasons behind the need for preregistration, and then focuses on why the benefits outweigh the perceived costs and how she has dealt with those in her lab. She also shares some practical tips about how to write an optimal preregistration and how to deal with the (largely inevitable) deviations from the plan. The talk is followed by an open Q&A.
@@ -153,6 +156,7 @@ This talk is for developmental researchers at all levels of training who know th
 ***
 
 #### May 24, 2024 - 14:00-15:30 UTC on Zoom
+##### Webinar: 
 ### Behavioral coding software for developmental science:
 ### An overview of BORIS, Datavyu, and ELAN
 
@@ -167,7 +171,8 @@ Behavioral coding software streamlines the process of analyzing infant behavior 
 ***
 
 #### March 12, 2024 - 14:00-15:30 UTC (3-4:30pm CET) on Zoom
-### Workshop: Power analysis
+##### Workshop: 
+### Power analysis
 #### Christopher Cox, *Aarhus University*
 
 Presenter Christopher M. M. Cox (Aarhus University) leads an interactive workshop on power analysis. The workshop includes both theoretical and practical components. In the theoretical component, he discusses why to conduct power analyses, how to incorporate information from previous studies, and why we should construe power analyses as useful opportunities to think through the design dynamics of a study.
@@ -185,7 +190,8 @@ The practical component includes an R tutorial on how to conduct simulation-base
 ***
 
 #### February 21, 2024 - 16:00-17:30 UTC (8-9:30am PST) on Zoom
-### Workshop: Project management
+##### Workshop: 
+### Project management
 #### Michael Frank, *Stanford University*
 
 In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) demonstrates ways to become a better collaborator not just with others but with "Future You" (topics include file management, version control, and organization). 
@@ -234,7 +240,8 @@ In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) d
 
 ***
 #### May 11, 2023 - 8:30-10:00am CEST (Berlin, Germany; UTC +2) on Zoom
-### Webinar: Open data for developmental science
+##### Webinar: 
+### Open data for developmental science
 #### Christina Bergmann, *Osnabrück University of Applied Sciences & Max Planck Institute for Psycholinguistics*
 
 Open data is one of the key mandates in calls for increased transparency, with badges, citation advantages, and sometimes even refusal to publish papers when data are not made open. For developmental researchers, this need for transparency stands in stark contrast with confidentiality, especially when working with infants. Christina reviews developmental science's impressive history of open data to show that there are ways to ethically and responsibly share data, and then discusses different strategies and emerging best practices to balance participant protection with transparency.
@@ -248,7 +255,8 @@ Open data is one of the key mandates in calls for increased transparency, with b
 
 ***
 #### March 21, 2023 - 9:00-10:30 PDT (San Francisco, USA; UTC -7) on Zoom
-### Workshop: Creating reproducible research reports Using RMarkdown
+##### Workshop: 
+### Creating reproducible research reports Using RMarkdown
 #### Michael Frank, *Stanford University*
 
 In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) led participants through the benefits of using RMarkdown to create reproducible research reports. Follow along with the exercises to see how simple it is to integrate writing and analyses in your workflow.
@@ -281,7 +289,8 @@ In this workshop, Mike Frank (with the support of TAs Anjie Cao and Alvin Tan) l
 </div>
 
 #### October 20, 2022 - 11:00-12:30 EDT (Montréal, Canada) on Zoom
-### Webinar: An introduction to open science
+##### Webinar: 
+### An introduction to open science
 #### Nicolás Alessandroni & Krista Byers-Heinlein, *Concordia University*
 
 In this workshop, Nicolás and Krista introduce the open science perspective for psychological research. The aim is for participants to discover, discuss, and engage in using open science practices (e.g., open access, open data, preprints, pre-registration) and to learn ways to apply them in their own research. The workshop does not require prior knowledge of open science; all those interested in learning or deepening their knowledge of how to do open research are most welcome! 
