@@ -6,6 +6,28 @@ title: Events
 
 >Upcoming Events
 
+#### November 10, 2025 - 17:00-18:30 UTC on Zoom ([time converter](https://www.worldtimebuddy.com/?qm=1&lid=5368361,5128581,100,2643743,2759794,745044,1261481,1796236,1835848,2174003&h=100&date=2025-11-10&sln=17-18.5&hf=1))
+##### Webinar and discussion: 
+### Development in Context
+#### Tess Forest, *Columbia University*
+#### Jessica Kosie, *Arizona State University*
+#### Peter Krøjgaard, *Aarhus University*
+#### Zuzanna Ludanska, *Polish Academy of Sciences*
+#### moderated by Candica Koolhaas, *University of Massachusetts Boston*
+
+This webinar brings together invited speakers to highlight the role of contexts and environments in shaping research on development. Speakers will showcase the methods their labs employ to capture environmental variables and discuss the insights they have uncovered from these approaches.
+
+* Dr. Jessica Kosie will discuss how her lab collects data on the early speech environment and how it interacts with cultural and socioeconomic differences. 
+* Dr. Tess Forest will introduce methods for measuring caregiver unpredictability in naturalistic interactions and discuss how it relates to infants’ attention and learning. 
+* Dr. Zuzanna Ludanska will talk about using wearables to study infant vocalizations, and what it can tell us about how naturalistic infant behavior changes in daily situational contexts.
+* Dr. Peter Krøjgaard will demonstrate how his lab collects data on the day-to-day life of young children via take-home diaries, as well as the insights it can provide about children’s environments and some of the best-practices for the method. 
+
+### [REGISTER](https://airtable.com/appRoqMKzcK3NsXt4/pagF8o28pDLdDDnLK/form) to access Zoom link
+
+***
+
+>Past Events
+
 #### October 6-8, 2025 
 ### 2025 Big Team Science Conference
 
@@ -20,8 +42,6 @@ Registration is open (and all fees are optional!)
 <br>
 
 ***
-
->Past Events
 
 #### June 25, 2025 - 14:00-15:30 UTC (10am EDT) on Zoom
 ##### Panel Discussion: 
