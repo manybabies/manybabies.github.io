@@ -12,10 +12,10 @@ title: Events
 
 This webinar, moderated by Candica Koolhaas *(University of Massachusetts Boston)*, brings together invited speakers to highlight the role of contexts and environments in shaping research on development. Speakers will showcase the methods their labs employ to capture environmental variables and discuss the insights they have uncovered from these approaches.
 
-* **Dr. Jessica Kosie** *(Arizona State University)* will discuss how her lab collects data on the early speech environment and how it interacts with cultural and socioeconomic differences. 
-* **Dr. Tess Forest** *(Columbia University)* will introduce methods for measuring caregiver unpredictability in naturalistic interactions and discuss how it relates to infants’ attention and learning. 
-* **Dr. Zuzanna Ludanska** *(Polish Academy of Sciences)* will talk about using wearables to study infant vocalizations, and what it can tell us about how naturalistic infant behavior changes in daily situational contexts.
-* **Dr. Peter Krøjgaard** *(Aarhus University)* will demonstrate how his lab collects data on the day-to-day life of young children via take-home diaries, as well as the insights it can provide about children’s environments and some of the best-practices for the method. 
+* **Dr. Jessica Kosie** *(Arizona State University)* will discuss how her lab collects data on everyday caregiver-infant communication and how it varies across contexts, communities, and cultures. 
+* **Dr. Tess Forest** *(Columbia University)* will introduce methods for measuring caregiver unpredictability in naturalistic dyadic interactions between caregivers and infants and discuss how it relates to infants’ attention and learning. 
+* **Dr. Zuzanna Ludanska** *(Heidelberg University and the Polish Academy of Sciences)* will talk about using wearables to study infant vocalizations, movements, and visual attention, and what they can tell us about how naturalistic infant behavior changes in daily situational contexts.
+* **Dr. Peter Krøjgaard** *(Aarhus University)* will demonstrate how his lab collects data on preschool children’s spontaneous memories in a naturalistic setting by means of a diary method (at times called ‘experience sampling method’). Pros and cons as well as suggestions for best practices of the method will be presented. 
 
 ### [REGISTER](https://airtable.com/appRoqMKzcK3NsXt4/pagF8o28pDLdDDnLK/form) to access Zoom link
 
