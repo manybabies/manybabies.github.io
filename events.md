@@ -10,7 +10,7 @@ title: Events
 ##### Webinar and discussion: 
 ### Development in Context
 
-This webinar, moderated by Candica Koolhaas *(University of Massachusetts Boston)*, brings together invited speakers to highlight the role of contexts and environments in shaping research on development. Speakers will showcase the methods their labs employ to capture environmental variables and discuss the insights they have uncovered from these approaches.
+This webinar, moderated by Candice Koolhaas *(University of Massachusetts Boston)*, brings together invited speakers to highlight the role of contexts and environments in shaping research on development. Speakers will showcase the methods their labs employ to capture environmental variables and discuss the insights they have uncovered from these approaches.
 
 * **Dr. Jessica Kosie** *(Arizona State University)* will discuss how her lab collects data on everyday caregiver-infant communication and how it varies across contexts, communities, and cultures. 
 * **Dr. Tess Forest** *(Columbia University)* will introduce methods for measuring caregiver unpredictability in naturalistic dyadic interactions between caregivers and infants and discuss how it relates to infants’ attention and learning. 
