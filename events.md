@@ -30,11 +30,7 @@ This webinar, moderated by Candice Koolhaas *(University of Massachusetts Boston
 
 <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="https://bigteamscienceconference.github.io/assets/img/BTSCon2025_logo.png" alt="2025 Big Team Science Conference, hosted virtually October 6-8" width="500"></a>
 
-Submissions are due July 31!
-
-Registration is open (and all fees are optional!)
-
-<h4><a href="https://bigteamscienceconference.github.io" target="_blank">bigteamscienceconference.github.io</a></h4>
+#### View recordings on the [BTSCON YouTube page](https://www.youtube.com/playlist?list=PLQuhNyD_aJ1hPIIiosuMPe3uuqiIOpjZZ)
 
 <br>
 
