@@ -14,7 +14,7 @@ This webinar, moderated by Candice Koolhaas *(University of Massachusetts Boston
 
 * **Dr. Jessica Kosie** *(Arizona State University)* will discuss how her lab collects data on everyday caregiver-infant communication and how it varies across contexts, communities, and cultures. 
 * **Dr. Tess Forest** *(Columbia University)* will introduce methods for measuring caregiver unpredictability in naturalistic dyadic interactions between caregivers and infants and discuss how it relates to infants’ attention and learning. 
-* **Dr. Zuzanna Ludanska** *(Heidelberg University and the Polish Academy of Sciences)* will talk about using wearables to study infant vocalizations, movements, and visual attention, and what they can tell us about how naturalistic infant behavior changes in daily situational contexts.
+* **Dr. Zuzanna Laudańska** *(Heidelberg University and the Polish Academy of Sciences)* will talk about using wearables to study infant vocalizations, movements, and visual attention, and what they can tell us about how naturalistic infant behavior changes in daily situational contexts.
 * **Dr. Peter Krøjgaard** *(Aarhus University)* will demonstrate how his lab collects data on preschool children’s spontaneous memories in a naturalistic setting by means of a diary method (at times called ‘experience sampling method’). Pros and cons as well as suggestions for best practices of the method will be presented. 
 
 ### [REGISTER](https://airtable.com/appRoqMKzcK3NsXt4/pagF8o28pDLdDDnLK/form) to access Zoom link
