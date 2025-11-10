@@ -186,7 +186,7 @@ The broader goals of <b>ManyBabies</b> come together in a set of collaborative p
         <a href="{{site.baseurl}}/manymanys/"><img src="/assets/img/connect_logo.png" alt="CONNECT logo" width="100" height="100"></a>
       </div>
       <div class="col-sm-9">
-        ManyBabies is a proud member of the **CONNECT partnership**, an [SSHRC](https://sshrc-crsh.canada.ca/en.aspx)-funded partnership that unites Big Team Social Science (BTSS) networks and community organizations dedicated to improving science. To learn more, visit the [CONNECT website](https://connect-btss.github.io/)<br>
+        ManyBabies is a proud member of the <b>CONNECT partnership</b>, an <a href="https://sshrc-crsh.canada.ca/en.aspx">SSHRC</a>-funded partnership that unites Big Team Social Science (BTSS) networks and community organizations dedicated to improving science. To learn more, visit the <a href="https://connect-btss.github.io/">CONNECT website</a><br>
         <a href="https://sshrc-crsh.canada.ca/en.aspx"><img src="/assets/img/sshrc-logo.jpg" alt="SSHRC logo" width="200"></a>
       </div>
     </div>
