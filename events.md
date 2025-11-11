@@ -4,26 +4,30 @@ title: Events
 ---
 
 
->Upcoming Events
-
-#### November 10, 2025 - 17:00-18:30 UTC on Zoom *(<a href="https://www.worldtimebuddy.com/?qm=1&lid=5368361,5128581,100,2643743,2759794,745044,1261481,1796236,1835848,2174003&h=100&date=2025-11-10&sln=17-18.5&hf=1" target="_blank">time converter</a>)*
-##### Webinar and discussion: 
-### Development in Context
-
-This webinar, moderated by Candice Koolhaas *(University of Massachusetts Boston)*, brings together invited speakers to highlight the role of contexts and environments in shaping research on development. Speakers will showcase the methods their labs employ to capture environmental variables and discuss the insights they have uncovered from these approaches.
-
-* **Dr. Jessica Kosie** *(Arizona State University)* will discuss how her lab collects data on everyday caregiver-infant communication and how it varies across contexts, communities, and cultures. 
-* **Dr. Tess Forest** *(Columbia University)* will introduce methods for measuring caregiver unpredictability in naturalistic dyadic interactions between caregivers and infants and discuss how it relates to infants’ attention and learning. 
-* **Dr. Zuzanna Laudańska** *(Heidelberg University and the Polish Academy of Sciences)* will talk about using wearables to study infant vocalizations, movements, and visual attention, and what they can tell us about how naturalistic infant behavior changes in daily situational contexts.
-* **Dr. Peter Krøjgaard** *(Aarhus University)* will demonstrate how his lab collects data on preschool children’s spontaneous memories in a naturalistic setting by means of a diary method (at times called ‘experience sampling method’). Pros and cons as well as suggestions for best practices of the method will be presented. 
-
-### [REGISTER](https://airtable.com/appRoqMKzcK3NsXt4/pagF8o28pDLdDDnLK/form) to access Zoom link
+>More events coming soon!
 
 <br>
 
 ***
 
 >Past Events
+
+#### November 10, 2025 - 17:00-18:30 UTC on Zoom *(<a href="https://www.worldtimebuddy.com/?qm=1&lid=5368361,5128581,100,2643743,2759794,745044,1261481,1796236,1835848,2174003&h=100&date=2025-11-10&sln=17-18.5&hf=1" target="_blank">time converter</a>)*
+##### Webinar and discussion: 
+### Development in Context
+
+This webinar, moderated by Candice Koolhaas *(University of Massachusetts Boston)*, brings together invited speakers to highlight the role of contexts and environments in shaping research on development. Speakers showcase the methods their labs employ to capture environmental variables and discuss the insights they have uncovered from these approaches.
+
+* **Dr. Jessica Kosie** *(Arizona State University)* discusses how her lab collects data on everyday caregiver-infant communication and how it varies across contexts, communities, and cultures. 
+* **Dr. Tess Forest** *(Columbia University)* introduces methods for measuring caregiver unpredictability in naturalistic dyadic interactions between caregivers and infants and discusses how it relates to infants’ attention and learning. 
+* **Dr. Zuzanna Laudańska** *(Heidelberg University and the Polish Academy of Sciences)* talks about using wearables to study infant vocalizations, movements, and visual attention, and what they can tell us about how naturalistic infant behavior changes in daily situational contexts.
+* **Dr. Peter Krøjgaard** *(Aarhus University)* demonstrates how his lab collects data on preschool children’s spontaneous memories in a naturalistic setting by means of a diary method (at times called ‘experience sampling method’). Pros and cons as well as suggestions for best practices of the method are presented. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c31Vk-6fdIk?si=hh-W9jYwMCs4awvY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+***
 
 #### October 6-8, 2025 
 ### 2025 Big Team Science Conference
