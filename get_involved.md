@@ -16,8 +16,8 @@ title: Get Involved!
       </div>
       <div class="col-sm-10">
         <br>
-        <b>Contact info:</b> <a href="mailto:govboard@manybabies.org">Governing Board</a>, 
-          <a href="mailto:contact@manybabies.org">Executive Director</a> <i><br>
+        <b>Contact info:</b> <a href="mailto:{{ site.data.global.contact.govboard }}">Governing Board</a>, 
+          <a href="mailto:{{ site.data.global.link.director }}">Executive Director</a> <i><br>
           (more info available <a href="{{site.baseurl}}/people/">here</a>)</i><br>
         <b>General MB Listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies"><i>Subscribe</i></a><br> 
         <b>General MB Slack:</b> <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ"><i>Join workspace</i></a>
@@ -44,7 +44,7 @@ In addition to collecting data, there are many contribution opportunities (e.g.,
 * <h4>Fill Out the Sign-Up Form</h4>
   * If you're unsure of how you'd like to contribute, please **fill out our <a href="#signupform">Sign-Up Form</a>** and we'll be in touch with you as soon as possible. 
 * <h4>Propose a Project</h4>
-  * **Do you have an idea for a ManyBabies project?** Let us know! You can email Project Leads (for spin-off projects) or the [**Governing Board**](mailto:govboard@manybabies.org) (for new projects), or **fill out our <a href="https://docs.google.com/document/d/1_bixhwCMPkMBDxh5epS1czue8emAakFmy0IG29oxQfQ/template/preview">Project Proposal Template</a>**.
+  * **Do you have an idea for a ManyBabies project?** Let us know! You can email Project Leads (for spin-off projects) or the [**Governing Board**](mailto:{{ site.data.global.contact.govboard }}) (for new projects), or **fill out our <a href="https://docs.google.com/document/d/1_bixhwCMPkMBDxh5epS1czue8emAakFmy0IG29oxQfQ/template/preview">Project Proposal Template</a>**.
 
 <br>
 
