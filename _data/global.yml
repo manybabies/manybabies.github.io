@@ -45,12 +45,15 @@ contact:
   mb5: mb5@manybabies.org
   mb6: mb6@manybabies.org
   
-  
 listserv:
+  general: https://mailman.stanford.edu/mailman/listinfo/manybabies
   mb3p: https://groups.google.com/a/manybabies.org/g/mb3p-list
   
 link:
   dashboard-form: https://airtable.com/appRoqMKzcK3NsXt4/pagJHYOdmVFEYvgkZ/form
   labID-form: https://airtable.com/appRoqMKzcK3NsXt4/pagBkJQANs0P3RumE/form
   credit-form: https://airtable.com/appRoqMKzcK3NsXt4/pagwIZbZl4BvtlYtF/form
+  slack-invite: https://join.slack.com/t/manybabies/shared_invite/zt-3hv85sl5d-JWzJYourJw8kCttK46l~kw
+  
+  
   
