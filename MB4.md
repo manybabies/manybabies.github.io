@@ -53,7 +53,6 @@ In this project we investigate a fundamental aspect of human nature: evaluating 
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrjWmcCgjlVcKO7k?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-> <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrBx1vEakEkyeYbg" target="_blank"><b>UPDATE</b></a> your info, or request to be <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrglw1TM1HxDfbYG" target="_blank"><b>ADDED</b></a>
 
 ***
 ### Publications
