@@ -29,7 +29,7 @@ subtitle: A systematic review of infant looking time preferences for novel vs. f
 ***
 ### Links
 * **Materials, Protocols, and Documentation**: <a href="https://osf.io/63zpu/" target="_blank">MB5-Meta OSF project</a>, <a href="https://osf.io/25rxu" target="_blank">Preregistration</a>
-* **Slack channel**: <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">MB workspace</a> (*join the #mb5-meta channel*)
+* **Slack channel**: <a href="{{ site.data.global.link.slack-invite }}" target="_blank">MB workspace</a> (*join the #mb5-meta channel*)
 
 
 ***

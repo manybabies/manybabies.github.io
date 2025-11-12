@@ -30,7 +30,7 @@ subtitle: Neonatal and Early Imitation
 ### Links
 * **Documentation**: <a href="https://docs.google.com/document/d/1-elw5r6U9yfv_lTmwbYTfa9ldMlNdPfrYTxqQ95daBs/edit?usp=sharing" target="_blank">MB6 Collaboration Agreement</a>
 * **Listserv**: [subscribe here](https://groups.google.com/a/manybabies.org/g/mb6-list) *(click on "for access, try joining the group")*
-* **Slack**: [MB workspace](https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ) (*join the **#mb6-general** channel*)
+* **Slack**: <a href="{{ site.data.global.link.slack-invite }}" target="_blank">MB workspace</a> (*join the **#mb6-general** channel*)
 * **Initial planning workshops**: [Workshop 1](https://www.youtube.com/watch?v=SIwvMydZUwA), [Workshop 2](https://www.youtube.com/watch?v=61muVqg7mnI)
 
 
