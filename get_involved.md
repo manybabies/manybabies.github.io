@@ -17,7 +17,7 @@ title: Get Involved!
       <div class="col-sm-10">
         <br>
         <b>Contact info:</b> <a href="mailto:{{ site.data.global.contact.govboard }}">Governing Board</a>, 
-          <a href="mailto:{{ site.data.global.link.director }}">Executive Director</a> <i><br>
+          <a href="mailto:{{ site.data.global.contact.director }}">Executive Director</a> <i><br>
           (more info available <a href="{{site.baseurl}}/people/">here</a>)</i><br>
         <b>General MB Listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies"><i>Subscribe</i></a><br> 
         <b>General MB Slack:</b> <a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ"><i>Join workspace</i></a>
