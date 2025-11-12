@@ -5,7 +5,6 @@ cover-img: /assets/img/MB_map.png
 ---
 
 
-
 **ManyBabies** is all about our amazing network of researchers from around the world. The **MB Contributor Dashboard** displays the geographical distribution of our contributors. It is an easy way to browse contributors by region, study, or institution and to get a sense of the MB Consortium's diversity and reach.
 
 <h3 align="center"> >>> <a href="{{site.baseurl}}/dashboard/" target="_blank">VIEW THE DASHBOARD</a> <<< </h3>
@@ -14,7 +13,7 @@ cover-img: /assets/img/MB_map.png
 * **Check out ways to [get involved]({{site.baseurl}}/get_involved/)!**
 
 #### For Contributors:
-* **To request to be added to the MB Dashboard or to update your existing Dashboard information**: Fill out <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagJHYOdmVFEYvgkZ/form" target="_blank"><b>this form</b></a>.
+* **To request to be added to the MB Dashboard or to update your existing Dashboard information**: Fill out <a href="{{ site.data.global.link.dashboard-form }}" target="_blank"><b>this form</b></a>.
 * **Report MB-related activities**: Don't forget to keep an updated record of your MB-related activities and initiatives *(e.g., workshops, talks etc.)*. Please use <a href="https://forms.gle/qaynWvpYLP1J4eYd6" target="_blank"><b>this form</b></a> to help us keep track of all the amazing work you are doing for ManyBabies! Your reported activities will be added to this <a href="https://docs.google.com/spreadsheets/d/1esnJTsPB0NJ2PP0fwmWIhSxShKLIN99Ga8ehCDyz3rQ/edit?usp=sharing" target="_blank"><b>list of MB activities</b></a>.
 
 
@@ -24,7 +23,8 @@ cover-img: /assets/img/MB_map.png
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrmAhZCMC9Bno7vF?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-#### To be ADDED to the MB Contributor Dashboard or to UPDATE your information: [**MB Dashboard Form**](https://airtable.com/appRoqMKzcK3NsXt4/pagJHYOdmVFEYvgkZ/form) 
+> <a href="{{ site.data.global.link.dashboard-form }}" target="_blank"><b>Update/add info</b></a>
+
 
 <br>
 
