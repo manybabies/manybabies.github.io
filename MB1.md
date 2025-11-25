@@ -19,6 +19,7 @@ subtitle: Infant-Directed Speech Preference
         <li><i>69 participating labs collected data in 16 countries</i></li>
         <li><i>2,329 babies tested</i></li>
         <li><i>149 authors on</i> <a href="https://doi.org/10.1177/2515245919900809" target="_blank"><b>AMPPS</b></a> <i>publication</i></li>
+        <li><i>EXPLORE/ACCESS <a href="{{site.baseurl}}/mb1-datapage/" target="_blank"><b>MB1 DATA</b></a></i></li>
       </ul>
     </div>
   </div>
