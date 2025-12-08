@@ -28,7 +28,7 @@ subtitle: Curiosity
 
 ***
 ### Links
-* **Documentation**: <a href="" target="_blank">MB7 Collaboration Agreement</a>
+* **Documentation**: <a href="https://docs.google.com/document/d/1wbe1z53WD5MPvP4_z73JGq33egsx4Jqi/edit?usp=sharing&rtpof=true&sd=true" target="_blank">MB7 Collaboration Agreement</a>
 * **Listserv**: [subscribe here](https://groups.google.com/a/manybabies.org/g/mb7-list) *(click on "for access, try joining the group")*
 * **Slack**: <a href="{{ site.data.global.link.slack-invite }}" target="_blank">MB workspace</a> (*join the **#mb7-general** channel*)
 
