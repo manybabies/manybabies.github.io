@@ -23,7 +23,8 @@ subtitle: Curiosity
 </div>
 
 
-<p></p>
+<p>Curiosity is fundamentally involved in how we explore the world and structure our own learning. Despite a recent renewed interest in curiosity in early development, there is limited consensus on how to define and measure curiosity, especially in pre- and non-verbal populations (for review, e.g. see [Kidd & Hayden, 2015](https://doi.org/10.1016/j.neuron.2015.09.010); [Forss et al., 2024](https://doi.org/10.1111/brv.13054); [Goupil & Proust, 2023](https://doi.org/10.1016/j.cognition.2022.105325)). In particular, researchers focus on several different key information characteristics as triggers of curiosity, e.g., novelty, unpredictability, surprise, and uncertainty, making it difficult to understand how these factors comparatively guide curious exploration across age and culture.</p>
+<p>We aim to develop a paradigm to tease apart the role of these factors in triggering curiosity and information seeking (quantified by measures such as choice, sampling rates, switch behaviors, looking time, decision latency, etc.).To maximize participation and the meaningfulness of the collected data, we will consider offering several methodological approaches (e.g., eye tracking, touchscreen, table top) that can be selected or combined, and consider the feasibility of testing both the new paradigm and an established paradigm central to the discussions around curiosity in infancy (e.g., [Kidd et al., 2012](https://doi.org/10.1371/journal.pone.0036399); [Poli et al., 2020](https://doi.org/10.1126/sciadv.abb5053)).</p>
 
 
 ***
