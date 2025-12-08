@@ -35,6 +35,7 @@ status:
   mb5n: "Study design"
   mb5meta: "Conducting literature review and coding articles"
   mb6: "Preparing Stage 1 manuscript; study design"
+  mb7: "Deciding on the concrete research question & study design; input welcome!"
 
   
 contact:
@@ -44,10 +45,17 @@ contact:
   mb2: manybabies2@gmail.com
   mb5: mb5@manybabies.org
   mb6: mb6@manybabies.org
+  mb7: mb7@manybabies.org
   
 listserv:
   general: https://mailman.stanford.edu/mailman/listinfo/manybabies
+  mb2: https://groups.google.com/a/manybabies.org/g/mb2-list
+  mb3: https://groups.google.com/a/manybabies.org/g/mb3-list
   mb3p: https://groups.google.com/a/manybabies.org/g/mb3p-list
+  mb4: https://groups.google.com/a/manybabies.org/g/mb4-list
+  mb5: https://groups.google.com/a/manybabies.org/g/mb5-list
+  mb6: https://groups.google.com/a/manybabies.org/g/mb6-list
+  mb7: https://groups.google.com/a/manybabies.org/g/mb7-list
   
 link:
   dashboard-form: https://airtable.com/appRoqMKzcK3NsXt4/pagJHYOdmVFEYvgkZ/form
