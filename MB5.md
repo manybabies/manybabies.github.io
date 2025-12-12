@@ -58,7 +58,7 @@ subtitle: The Hunter & Ames Model of Infant Looking Preference
 ***
 ### MB5 Contributors
 
-We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [**MB Sign-Up Form**]({{site.baseurl}}/get_involved/). Please note that access to infants/infant lab is **NOT** a prerequisite.
+We encourage everyone who is interested in the project to subscribe to the MB5 listserv and/or email the Project Leads ([{{ site.data.global.contact.mb5 }}](mailto:{{ site.data.global.contact.mb5 }})) to indicate your interest. To add your name to this list of contributors, fill out the [MB Dashboard form]({{ site.data.global.link.dashboard-form }}). Please note that access to infants/an infant lab is **NOT** a prerequisite.
 
 > NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field.
 
