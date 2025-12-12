@@ -49,12 +49,8 @@ subtitle: Curiosity
 
 We encourage everyone who is interested in the project to subscribe to the MB7 listserv and/or email the Project Leads ([{{ site.data.global.contact.mb7 }}](mailto:{{ site.data.global.contact.mb7 }})) to indicate your interest. To add your name to this list of contributors, fill out the [MB Dashboard form]({{ site.data.global.link.dashboard-form }}). Please note that access to infants/an infant lab is **NOT** a prerequisite.
 
-> MB7 contributor list coming soon!
-
-<!--
 > NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field.
 
-<iframe class="airtable-embed" src="" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrnl4LqP9x6qApSp?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 > <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrBx1vEakEkyeYbg" target="_blank"><b>UPDATE</b></a> your info, or request to be <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrglw1TM1HxDfbYG" target="_blank"><b>ADDED</b></a>
--->
