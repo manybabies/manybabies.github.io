@@ -16,7 +16,7 @@ subtitle: Curiosity
       <h2>Project Overview</h2>
       <ul>
         <li><i>Status:</i> <b>{{ site.data.global.status.mb7 }}</b></li>
-        <li><i>Subscribe to the <a href="https://groups.google.com/a/manybabies.org/g/mb7-list" target="_blank"><b>MB7 listserv</b></a> to get involved!</i></li>
+        <li><i>Subscribe to the <a href="https://groups.google.com/a/manybabies.org/g/mb7-list" target="_blank"><b>MB7 listserv</b></a> and/or <a href="mailto:{{ site.data.global.contact.mb7 }}">email us</a> to get involved!</i></li>
       </ul>
     </div>
   </div>
