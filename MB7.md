@@ -49,6 +49,7 @@ subtitle: Curiosity
 We encourage everyone who is interested in the project to subscribe to the MB7 listserv and/or email the Project Leads ([mb7@manybabies.org](mailto:mb7@manybabies.org)) to indicate your interest. To add your name to this list of contributors, fill out the [MB Dashboard form]({{ site.data.global.link.dashboard-form }}). Please note that access to infants/an infant lab is **NOT** a prerequisite.
 
 > MB7 contributor list coming soon!
+
 <!--
 > NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field.
 
