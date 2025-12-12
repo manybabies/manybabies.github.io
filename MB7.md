@@ -16,7 +16,7 @@ subtitle: Curiosity
       <h2>Project Overview</h2>
       <ul>
         <li><i>Status:</i> <b>{{ site.data.global.status.mb7 }}</b></li>
-        <li><i>Subscribe to the <a href="https://groups.google.com/a/manybabies.org/g/mb7-list" target="_blank"><b>MB7 listserv</b></a> and/or <a href="mailto:{{ site.data.global.contact.mb7 }}">email us</a> to get involved!</i></li>
+        <li><i>Subscribe to the <a href="https://groups.google.com/a/manybabies.org/g/mb7-list" target="_blank"><b>MB7 listserv</b></a> and/or <a href="mailto:{{ site.data.global.contact.mb7 }}"><b>email us</b></a> to get involved!</i></li>
       </ul>
     </div>
   </div>
@@ -35,6 +35,7 @@ subtitle: Curiosity
 
 *** 
 ### Project Leads
+* **General Contact**: [{{ site.data.global.contact.mb7 }}](mailto:{{ site.data.global.contact.mb7 }})
 * [**Elena Altmann**](https://www.psych.uni-goettingen.de/en/lang/team/elenaaltmann), *University of Göttingen, Germany* [[email]](mailto:elena.altmann@uni-goettingen.de)
 * [**Nivedita Mani**](https://www.psych.uni-goettingen.de/en/lang/team/mani-nivedita/mani-nivedita), *University of Göttingen, Germany* [[email]](mailto:Nivedita.Mani@psych.uni-goettingen.de)
 * [**Laura Lewis**](https://psych.ucsb.edu/people/faculty/laura-simone-lewis), *University of California, Santa Barbara, United States* [[email]](mailto:lauralewis@ucsb.edu)
@@ -46,7 +47,7 @@ subtitle: Curiosity
 ***
 ### MB7 Contributors
 
-We encourage everyone who is interested in the project to subscribe to the MB7 listserv and/or email the Project Leads ([mb7@manybabies.org](mailto:mb7@manybabies.org)) to indicate your interest. To add your name to this list of contributors, fill out the [MB Dashboard form]({{ site.data.global.link.dashboard-form }}). Please note that access to infants/an infant lab is **NOT** a prerequisite.
+We encourage everyone who is interested in the project to subscribe to the MB7 listserv and/or email the Project Leads ([{{ site.data.global.contact.mb7 }}](mailto:{{ site.data.global.contact.mb7 }})) to indicate your interest. To add your name to this list of contributors, fill out the [MB Dashboard form]({{ site.data.global.link.dashboard-form }}). Please note that access to infants/an infant lab is **NOT** a prerequisite.
 
 > MB7 contributor list coming soon!
 
