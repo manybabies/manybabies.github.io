@@ -188,10 +188,10 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB5-Meta/">MB5-Meta: Systematic review of infant familiarity/novelty</a></b><br>
         <b>Status:</b> <i>{{ site.data.global.status.mb5meta }}</i><br>
-        <b>MB5N listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb5n-list" target="_blank"><i>Subscribe</i></a><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB5N/">MB5N: Naturalistic Interactions</a></b><br>
         <b>Status:</b> <i>{{ site.data.global.status.mb5n }}</i><br>
+        <b>MB5N listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb5n-list" target="_blank"><i>Subscribe</i></a><br>
       </div>
     </div>
     <hr>
