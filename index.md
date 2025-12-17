@@ -109,6 +109,17 @@ The broader goals of <b>ManyBabies</b> come together in a set of collaborative p
         <i>What is the nature of neonatal infants' imitation of gestures?</i><br>
       </div>
     </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <br>
+        <a href="{{site.baseurl}}/MB7/"><img src="/assets/img/MB7_logo.png" alt="MB7 logo" width="100" height="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="{{site.baseurl}}/MB7/">MB7: Curiosity</a></h4>
+        <i>How does curiosity guide exploration and learning?</i><br>
+      </div>
+    </div>
   </div>
 </section>
 <br>
@@ -166,7 +177,7 @@ The broader goals of <b>ManyBabies</b> come together in a set of collaborative p
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}/manymanys/">ManyManys</a></h4>
         <i>A large-scale collaboration on comparative cognition and behavior across animal taxa</i><br>
-        <b>Project:</b> <a href="https://manymanys.github.io/MM1/" target="_blank">MM1: Reversal Learning</a>
+        <b>Project:</b> <a href="https://manymanys.github.io/MM1/" target="_blank">MM1: Reversal Learning</a><br>
       </div>
     </div>
   </div>
