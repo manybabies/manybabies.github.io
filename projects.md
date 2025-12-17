@@ -182,6 +182,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB5/">MB5: The Hunter & Ames Model of Infant Looking Preference</a></h4>
         <b>Status:</b> <i>{{ site.data.global.status.mb5 }}</i><br>
+        <b>MB5 email:</b> <a href="mailto:{{ site.data.global.contact.mb5 }}"><i>Contact</i></a><br>
         <b>MB5 listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blank"><i>Subscribe</i></a><br>
         <b>MB5 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb5-general</b> channel</i><br>
         <hr>
