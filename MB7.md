@@ -17,6 +17,7 @@ subtitle: Curiosity
       <ul>
         <li><i>Status:</i> <b>{{ site.data.global.status.mb7 }}</b></li>
         <li><i>Subscribe to the <a href="https://groups.google.com/a/manybabies.org/g/mb7-list" target="_blank"><b>MB7 listserv</b></a> and/or <a href="mailto:{{ site.data.global.contact.mb7 }}"><b>email us</b></a> to get involved!</i></li>
+        <li><b>Please fill out this quick <a href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSd8rAEoCqg5VCCwi-BH-0F2hc83tTOgTaB4ul8nv0ZDoEmUTQ/viewform?usp=send_form" target="_blank">SURVEY</a></b></li>
       </ul>
     </div>
   </div>
