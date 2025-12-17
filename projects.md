@@ -221,7 +221,6 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>MB7 Slack:</b> <i><a href="{{ site.data.global.link.slack-invite }}" target="_blank">Join workspace</a>, then add <b>#mb7-general</b> channel</i><br>
       </div>
     </div>
-    
     <br>
     <div class="row">
       <h3>Methodological projects</h3>
