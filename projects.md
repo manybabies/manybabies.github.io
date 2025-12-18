@@ -77,7 +77,6 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1L/">MB1L: Longitudinal Vocabulary Follow-up</a></b><br>
         <b>Status:</b> <i>{{ site.data.global.status.mb1l }}</i><br> 
-        <b>MB1L listserv:</b> <a href="https://groups.google.com/u/1/g/mb1-cdi-follow-up" target="_blank"><i>Subscribe</i></a><br>
         <hr>
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1N/">MB1N: Native Languages Follow-up</a></b><br>
         <b>Status:</b> <i>{{ site.data.global.status.mb1n }}</i><br> 
@@ -90,6 +89,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>Status:</b> <i>{{ site.data.global.status.mb1meta }}</i><br> 
         <br>
         <img src="/assets/img/analysis.png" alt="analysis icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1SA/">MB1-Demo: Analysis of supplemental demographic variables</a></b><br>
+        <b>Status:</b> <i>{{ site.data.global.status.mb1demo }}</i><br> 
       </div>
     </div>
     <hr>
