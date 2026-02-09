@@ -17,6 +17,7 @@ subtitle: The Hunter & Ames Model of Infant Looking Preference
       <ul>
         <li><i>Status:</i> <b>{{ site.data.global.status.mb5 }}</b></li>
         <li><i><a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at</i> <b>Nature Human Behaviour</b></li>
+        <li><i>Labs interested in collecting data for MB5 should fill out the</i> <b><a href="https://airtable.com/appRoqMKzcK3NsXt4/pag99dsjlXiM24ZnB/form" target="_blank">MB5 Lab Sign-Up Form</a></b></li>
       </ul>
     </div>
   </div>
