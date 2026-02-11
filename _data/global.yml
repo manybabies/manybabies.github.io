@@ -37,6 +37,7 @@ status:
   mb5meta: "Conducting literature review and coding articles"
   mb6: "Preparing Stage 1 manuscript; Study design"
   mb7: "Deciding on the concrete research question & study design; Input welcome!"
+  mb8: "Deciding on the concrete research question & study design; Input welcome!"
 
   
 contact:
@@ -48,6 +49,7 @@ contact:
   mb5n: jkosie@asu.edu
   mb6: mb6@manybabies.org
   mb7: mb7@manybabies.org
+  mb8: mb8@manybabies.org
   
 listserv:
   general: https://mailman.stanford.edu/mailman/listinfo/manybabies
@@ -58,6 +60,8 @@ listserv:
   mb5: https://groups.google.com/a/manybabies.org/g/mb5-list
   mb6: https://groups.google.com/a/manybabies.org/g/mb6-list
   mb7: https://groups.google.com/a/manybabies.org/g/mb7-list
+  mb8: https://groups.google.com/a/manybabies.org/g/mb8-list
+
   
 link:
   dashboard-form: https://airtable.com/appRoqMKzcK3NsXt4/pagJHYOdmVFEYvgkZ/form
