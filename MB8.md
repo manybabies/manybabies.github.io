@@ -37,7 +37,7 @@ subtitle: Screen Time
 *** 
 ### Project Leads
 * **General Contact: [{{ site.data.global.contact.mb8 }}](mailto:{{ site.data.global.contact.mb8 }})**
-* [**Nevena Dimitrova**](https://orcid.org/0000-0002-3433-096X), *University of Applied Sciences and Arts of Western Switzerland, Faculty of Social Work (HETSL | HES-SO), Switzerland* [[email]](mailto:nevena.dimitrova@hetsl.ch)
+* [**Nevena Dimitrova**](https://orcid.org/0000-0002-3433-096X), *University of Applied Sciences and Arts of Western Switzerland, Faculty of Social Work (HETSL \| HES-SO), Switzerland* [[email]](mailto:nevena.dimitrova@hetsl.ch)
 * [**Rachel Barr**](https://orcid.org/0000-0002-5855-9718), *Georgetown University, United States* [[email]](mailto:rfb5@georgetown.edu)
 * [**Sarah C. Kucker**](https://orcid.org/0000-0003-2210-3599), *Southern Methodist University, United States* [[email]](mailto:skucker@smu.edu)
 * [**Joscelin Rocha-Hidalgo**](https://orcid.org/0000-0003-3572-5848), *Pennsylvania State University, United States* [[email]](mailto:jfr5989@psu.edu)
