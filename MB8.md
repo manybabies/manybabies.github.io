@@ -23,7 +23,7 @@ subtitle: Screen Time
 </div>
 
 
-Young children begin interacting with screens within the first months of life, yet current research on early screen use remains limited in scope and comparability. Existing studies are overwhelmingly based on WEIRD <i>(Western, Educated, Industrialized, Rich, and Democratic)</i>^[https://doi.org/10.21428/e2759450.8e9a83b0] populations, leaving major gaps in our understanding of how very young children use screens in non-WEIRD regions, where cultural norms, economic conditions, and caregiving practices may differ substantially. This lack of global diversity raises concerns about the generalizability of findings and obscures how contextual factors shape the links between screen exposure and development. Moreover, studies rely on a wide range of non-standardized assessment tools, making cross-study and cross-country comparisons difficult.
+<p>Young children begin interacting with screens within the first months of life, yet current research on early screen use remains limited in scope and comparability. Existing studies are overwhelmingly based on WEIRD (<i>Western, Educated, Industrialized, Rich, and Democratic</i>; see <a href="https://doi.org/10.21428/e2759450.8e9a83b0" target="_blank">Henrich, 2025</a>) populations, leaving major gaps in our understanding of how very young children use screens in non-WEIRD regions, where cultural norms, economic conditions, and caregiving practices may differ substantially. This lack of global diversity raises concerns about the generalizability of findings and obscures how contextual factors shape the links between screen exposure and development. Moreover, studies rely on a wide range of non-standardized assessment tools, making cross-study and cross-country comparisons difficult.</p>
 
 <p>This MB project addresses these gaps by examining cross-cultural and cross-regional variability in young children’s screen use and by investigating how early screen exposure relates to socio-emotional and language abilities across diverse contexts. Given the growing importance of screen use in infancy, the project seeks to provide a unified, accessible approach to data collection and to generate knowledge relevant to researchers of child media use as well as developmental scientists more broadly.</p>
 
@@ -37,7 +37,7 @@ Young children begin interacting with screens within the first months of life, y
 *** 
 ### Project Leads
 * **General Contact: [{{ site.data.global.contact.mb8 }}](mailto:{{ site.data.global.contact.mb8 }})**
-* [**Nevena Dimitrova**](https://orcid.org/0000-0002-3433-096X), *University of Applied Sciences and Arts Western Switzerland, Faculty of Social Work (HETSL | HES-SO), Switzerland* [[email]](mailto:nevena.dimitrova@hetsl.ch)
+* [**Nevena Dimitrova**](https://orcid.org/0000-0002-3433-096X), *University of Applied Sciences and Arts of Western Switzerland, Faculty of Social Work (HETSL | HES-SO), Switzerland* [[email]](mailto:nevena.dimitrova@hetsl.ch)
 * [**Rachel Barr**](https://orcid.org/0000-0002-5855-9718), *Georgetown University, United States* [[email]](mailto:rfb5@georgetown.edu)
 * [**Sarah C. Kucker**](https://orcid.org/0000-0003-2210-3599), *Southern Methodist University, United States* [[email]](mailto:skucker@smu.edu)
 * [**Joscelin Rocha-Hidalgo**](https://orcid.org/0000-0003-3572-5848), *Pennsylvania State University, United States* [[email]](mailto:jfr5989@psu.edu)
