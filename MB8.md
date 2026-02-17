@@ -22,6 +22,7 @@ subtitle: Screen Time
   </div>
 </div>
 
+<h3>If you are interested in the project, please fill out this quick <a href="https://forms.gle/J981senhwHsugMG88" target="_blank">SURVEY</a></h3>
 
 <p>Young children begin interacting with screens within the first months of life, yet current research on early screen use remains limited in scope and comparability. Existing studies are overwhelmingly based on WEIRD (<i>Western, Educated, Industrialized, Rich, and Democratic</i>; see <a href="https://doi.org/10.21428/e2759450.8e9a83b0" target="_blank">Henrich, 2024</a>) populations, leaving major gaps in our understanding of how very young children use screens in non-WEIRD regions, where cultural norms, economic conditions, and caregiving practices may differ substantially. This lack of global diversity raises concerns about the generalizability of findings and obscures how contextual factors shape the links between screen exposure and development. Moreover, studies rely on a wide range of non-standardized assessment tools, making cross-study and cross-country comparisons difficult.</p>
 
