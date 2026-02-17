@@ -222,6 +222,20 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>MB7 Slack:</b> <i><a href="{{ site.data.global.link.slack-invite }}" target="_blank">Join workspace</a>, then add <b>#mb7-general</b> channel</i><br>
       </div>
     </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <a href="{{site.baseurl}}/MB8/"><img src="/assets/img/mb8-logo.png" alt="MB8 logo" width="75" height="75"></a>
+      </div>
+      <div class="col-sm-10">
+        <h4><a href="{{site.baseurl}}/MB8/">MB8: Screen Use</a></h4>
+        <b>Status:</b> <i>{{ site.data.global.status.mb8 }}</i><br>
+        <b>MB8 email:</b> <a href="mailto:{{ site.data.global.contact.mb8 }}"><i>Contact</i></a><br>
+        <b>MB8 listserv:</b> <a href="{{ site.data.global.listserv.mb8 }}" target="_blank"><i>Subscribe</i></a><br>
+        <b>MB8 Slack:</b> <i><a href="{{ site.data.global.link.slack-invite }}" target="_blank">Join workspace</a>, then add <b>#mb8-general</b> channel</i><br>
+      </div>
+    </div>
     <br>
     <div class="row">
       <h3>Methodological projects</h3>

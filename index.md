@@ -120,6 +120,17 @@ The broader goals of <b>ManyBabies</b> come together in a set of collaborative p
         <i>How does curiosity guide exploration and learning?</i><br>
       </div>
     </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <br>
+        <a href="{{site.baseurl}}/MB8/"><img src="/assets/img/mb8-logo.png" alt="MB8 logo" width="100" height="100"></a>
+      </div>
+      <div class="col-sm-9">
+        <h4><a href="{{site.baseurl}}/MB8/">MB8: Screen Use</a></h4>
+        <i>What is the nature of early childhood screen use around the globe, and how is it related to language and socio-emotional development?</i><br>
+      </div>
+    </div>
   </div>
 </section>
 <br>
