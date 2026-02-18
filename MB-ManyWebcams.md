@@ -10,7 +10,7 @@ subtitle: Web-based Eye Tracking for Infant Studies
   <div class="row justify-content-around">
     <div class="col-lg-4" align="center">
       <br>
-      <img src="/assets/img/MBMW_logo.png" width="150">
+      <img src="/assets/img/mbmw-logo.png" width="150">
     </div>
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>

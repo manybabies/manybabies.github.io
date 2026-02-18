@@ -10,7 +10,7 @@ subtitle: Standard demographics for MB projects
   <div class="row justify-content-around">
     <div class="col-lg-3" align="center">
       <br>
-      <img src="/assets/img/MBDemo_logo.png" width="150">
+      <img src="/assets/img/mbdemo-logo.png" width="150">
     </div>
     <div class="col-lg-9">
       <h2>Project Overview</h2>

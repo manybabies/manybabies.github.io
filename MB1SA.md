@@ -2,7 +2,7 @@
 layout: page
 title: MB1
 subtitle: Secondary Analyses
-cover-img: /assets/img/MB1_logo.png
+cover-img: /assets/img/mb1-logo.png
 ---
 
 <!--

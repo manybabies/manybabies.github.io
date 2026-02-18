@@ -10,7 +10,7 @@ subtitle: Longitudinal Vocabulary Follow-up
   <div class="row justify-content-around">
     <div class="col-lg-4" align="center">
       <br>
-      <img src="/assets/img/MB1_logo.png" width="150">
+      <img src="/assets/img/mb1-logo.png" width="150">
     </div>
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
