@@ -58,7 +58,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
-        <a href="{{site.baseurl}}/MB1/"><img src="/assets/img/MB1_logo.png" alt="MB1 logo" width="75" height="75"></a>
+        <a href="{{site.baseurl}}/MB1/"><img src="/assets/img/mb1-logo.png" alt="MB1 logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB1/">MB1: Infant-Directed Speech Preference</a></h4>
@@ -96,7 +96,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
-        <a href="{{site.baseurl}}/MB2/"><img src="/assets/img/MB2_logo.png" alt="MB2 logo" width="75" height="75"></a>
+        <a href="{{site.baseurl}}/MB2/"><img src="/assets/img/mb2-logo.png" alt="MB2 logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB2/">MB2: Theory of Mind</a></h4>
@@ -118,7 +118,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
-        <a href="{{site.baseurl}}/MB3/"><img src="/assets/img/MB3_logo.png" alt="MB3 logo" width="75" height="75"></a>
+        <a href="{{site.baseurl}}/MB3/"><img src="/assets/img/mb3-logo.png" alt="MB3 logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB3/">MB3: Rule Learning</a></h4>
@@ -143,7 +143,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
-        <a href="{{site.baseurl}}/MB3N/"><img src="/assets/img/MB3N_logo.png" alt="MB3N logo" width="75" height="75"></a>
+        <a href="{{site.baseurl}}/MB3N/"><img src="/assets/img/mb3n-logo.png" alt="MB3N logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB3N/">MB3N: Rule Learning using NIRS</a></h4>
@@ -156,7 +156,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
-        <a href="{{site.baseurl}}/MB4/"><img src="/assets/img/MB4_logo.png" alt="MB4 logo" width="75" height="75"></a>
+        <a href="{{site.baseurl}}/MB4/"><img src="/assets/img/mb4-logo.png" alt="MB4 logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB4/">MB4: Social Evaluation</a></h4>
@@ -177,7 +177,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
-        <a href="{{site.baseurl}}/MB5/"><img src="/assets/img/MB5_logo.png" alt="MB5 logo" width="75" height="75"></a>
+        <a href="{{site.baseurl}}/MB5/"><img src="/assets/img/mb5-logo.png" alt="MB5 logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB5/">MB5: The Hunter & Ames Model of Infant Looking Preference</a></h4>
@@ -198,7 +198,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
-        <a href="{{site.baseurl}}/MB6/"><img src="/assets/img/MB6_logo.png" alt="MB6 logo" width="75" height="75"></a>
+        <a href="{{site.baseurl}}/MB6/"><img src="/assets/img/mb6-logo.png" alt="MB6 logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB6/">MB6: Neonatal and Early Imitation</a></h4>
@@ -212,7 +212,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
-        <a href="{{site.baseurl}}/MB7/"><img src="/assets/img/MB7_logo.png" alt="MB7 logo" width="75" height="75"></a>
+        <a href="{{site.baseurl}}/MB7/"><img src="/assets/img/mb7-logo.png" alt="MB7 logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB7/">MB7: Curiosity</a></h4>
@@ -222,6 +222,20 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>MB7 Slack:</b> <i><a href="{{ site.data.global.link.slack-invite }}" target="_blank">Join workspace</a>, then add <b>#mb7-general</b> channel</i><br>
       </div>
     </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <a href="{{site.baseurl}}/MB8/"><img src="/assets/img/mb8-logo.png" alt="MB8 logo" width="75" height="75"></a>
+      </div>
+      <div class="col-sm-10">
+        <h4><a href="{{site.baseurl}}/MB8/">MB8: Screen Use</a></h4>
+        <b>Status:</b> <i>{{ site.data.global.status.mb8 }}</i><br>
+        <b>MB8 email:</b> <a href="mailto:{{ site.data.global.contact.mb8 }}"><i>Contact</i></a><br>
+        <b>MB8 listserv:</b> <a href="{{ site.data.global.listserv.mb8 }}" target="_blank"><i>Subscribe</i></a><br>
+        <b>MB8 Slack:</b> <i><a href="{{ site.data.global.link.slack-invite }}" target="_blank">Join workspace</a>, then add <b>#mb8-general</b> channel</i><br>
+      </div>
+    </div>
     <br>
     <div class="row">
       <h3>Methodological projects</h3>
@@ -229,7 +243,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
-        <a href="{{site.baseurl}}/MB-AtHome/"><img src="/assets/img/MBAH_logo.png" alt="MB-AtHome logo" width="75" height="75"></a>
+        <a href="{{site.baseurl}}/MB-AtHome/"><img src="/assets/img/mbah-logo.png" alt="MB-AtHome logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB-AtHome/">MB-AtHome: Online Infant Data Collection</a></h4>
@@ -242,7 +256,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
-        <a href="{{site.baseurl}}/MB-Demographics/"><img src="/assets/img/MBDemo_logo.png" alt="MB-Demographics logo" width="75" height="75"></a>
+        <a href="{{site.baseurl}}/MB-Demographics/"><img src="/assets/img/mbdemo-logo.png" alt="MB-Demographics logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB-Demographics/">MB-Demographics: Unified Demographics for MB Projects</a></h4>
@@ -254,7 +268,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
         <br>
-        <a href="{{site.baseurl}}/MB-ManyWebcams/"><img src="/assets/img/MBMW_logo.png" alt="MB-ManyWebcams logo" width="75" height="75"></a>
+        <a href="{{site.baseurl}}/MB-ManyWebcams/"><img src="/assets/img/mbmw-logo.png" alt="MB-ManyWebcams logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-10">
         <h4><a href="{{site.baseurl}}/MB-ManyWebcams/">MB-ManyWebcams: Web-based Eye Tracking for Infant Studies</a></h4>

@@ -10,7 +10,7 @@ subtitle: Rule Learning
   <div class="row justify-content-around">
     <div class="col-lg-4" align="center">
       <br>
-      <img src="/assets/img/MB3_logo.png" width="150">
+      <img src="/assets/img/mb3-logo.png" width="150">
     </div>
     <div class="col-lg-8" align="left">
       <h2>Project Overview</h2>
