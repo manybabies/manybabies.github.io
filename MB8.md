@@ -26,8 +26,6 @@ subtitle: Screen Use
 <h4><a href="https://psu.zoom.us/meeting/register/Ofl2ms1XRaK2Q5dHjzvUYg" target="_blank">March 4, 23:00 UTC</a> <i>(<a href="https://www.worldtimebuddy.com/?qm=1&lid=5368361,5128581,100,2643743,2759794,184745,1261481,1819729,1835848,2174003&h=100&date=2026-3-4&sln=23-24&hf=1" target="_blank">time converter</a>)</i></h4>
 <h4><a href="https://psu.zoom.us/meeting/register/IGbPvPjvQbiTEQXOuEiRhA" target="_blank">March 5, 11:00 UTC</a> <i>(<a href="https://www.worldtimebuddy.com/?qm=1&lid=5368361,5128581,100,2643743,2759794,184745,1261481,1819729,1835848,2174003&h=100&date=2026-3-5&sln=11-12&hf=1" target="_blank">time converter</a>)</i></h4>
 
-<br>
-
 <h3>If you are interested in the project, please fill out this quick <a href="https://forms.gle/J981senhwHsugMG88" target="_blank">SURVEY</a></h3>
 
 <p>Young children begin interacting with screens within the first months of life, yet current research on early screen use remains limited in scope and comparability. Existing studies are overwhelmingly based on WEIRD (<i>Western, Educated, Industrialized, Rich, and Democratic</i>; see <a href="https://doi.org/10.21428/e2759450.8e9a83b0" target="_blank">Henrich, 2024</a>) populations, leaving major gaps in our understanding of how very young children use screens in non-WEIRD regions, where cultural norms, economic conditions, and caregiving practices may differ substantially. This lack of global diversity raises concerns about the generalizability of findings and obscures how contextual factors shape the links between screen exposure and development. Moreover, studies rely on a wide range of non-standardized assessment tools, making cross-study and cross-country comparisons difficult.</p>
