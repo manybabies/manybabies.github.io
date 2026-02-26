@@ -23,8 +23,10 @@ subtitle: Screen Use
 </div>
 
 <h3>Register to attend one of our launch events!</h3>
-<h4><a href="https://psu.zoom.us/meeting/register/Ofl2ms1XRaK2Q5dHjzvUYg" target="_blank">March 4, 23:00 UTC</a> (<a href="https://www.worldtimebuddy.com/?qm=1&lid=5368361,5128581,100,2643743,2759794,184745,1261481,1819729,1835848,2174003&h=100&date=2026-3-4&sln=23-24&hf=1" target="_blank">time converter</a>)</h4>
-<h4><a href="https://psu.zoom.us/meeting/register/IGbPvPjvQbiTEQXOuEiRhA" target="_blank">March 5, 11:00 UTC</a> (<a href="https://www.worldtimebuddy.com/?qm=1&lid=5368361,5128581,100,2643743,2759794,184745,1261481,1819729,1835848,2174003&h=100&date=2026-3-5&sln=11-12&hf=1" target="_blank">time converter</a>)</h4>
+<h4><a href="https://psu.zoom.us/meeting/register/Ofl2ms1XRaK2Q5dHjzvUYg" target="_blank">March 4, 23:00 UTC</a> <i>(<a href="https://www.worldtimebuddy.com/?qm=1&lid=5368361,5128581,100,2643743,2759794,184745,1261481,1819729,1835848,2174003&h=100&date=2026-3-4&sln=23-24&hf=1" target="_blank">time converter</a>)</i></h4>
+<h4><a href="https://psu.zoom.us/meeting/register/IGbPvPjvQbiTEQXOuEiRhA" target="_blank">March 5, 11:00 UTC</a> <i>(<a href="https://www.worldtimebuddy.com/?qm=1&lid=5368361,5128581,100,2643743,2759794,184745,1261481,1819729,1835848,2174003&h=100&date=2026-3-5&sln=11-12&hf=1" target="_blank">time converter</a>)</i></h4>
+
+<br>
 
 <h3>If you are interested in the project, please fill out this quick <a href="https://forms.gle/J981senhwHsugMG88" target="_blank">SURVEY</a></h3>
 
