@@ -17,7 +17,7 @@ title: Events
 Want to learn how to create an interactive, user-friendly interface for your data? Register for this free virtual workshop where we'll demo how to get started with <a href="https://datapages.github.io/" target="_blank">Datapages</a> and you'll test it out yourself in a hands-on session. For this workshop, we recommend some basic familiarity with R and RStudio. Beginners welcome!
 
 #### <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagerditmfV8arjEV/form" target="_blank">REGISTER</a>
-<br>
+
 
 ***
 
