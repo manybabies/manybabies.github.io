@@ -17,7 +17,11 @@ title: Events
 Want to learn how to create an interactive, user-friendly interface for your data? Register for this free virtual workshop where we'll demo how to get started with <a href="https://datapages.github.io/" target="_blank">Datapages</a> and you'll test it out yourself in a hands-on session. For this workshop, we recommend some basic familiarity with R and RStudio. Beginners welcome!
 
 #### <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagerditmfV8arjEV/form" target="_blank">REGISTER</a>
+
+##### <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NTBrbzJ1YW1waTNqNnA3YWJzcnIyZ210cGwgY185OGE5YzRmYTA3YmVhNjNiYmMzZmUxYzg4NjU4NzhlMDE4MTQ3MTU1ZDA2ZjcyNTVmYTY2OGM5MjZjNTZlYjYxQGc&amp;tmsrc=c_98a9c4fa07bea63bbc3fe1c8865878e018147155d06f7255fa668c926c56eb61%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+
 <br>
+
 
 ***
 
