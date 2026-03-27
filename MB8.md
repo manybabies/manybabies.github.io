@@ -22,13 +22,12 @@ subtitle: Screen Use
   </div>
 </div>
 
-<h3>Missed the launch events? Catch up here!</h3>
 <ul>
-  <li><h4><a href="https://psu.zoom.us/rec/play/ydHuNSE-g2jrZleuptuC6x0mQMin7TtIPE2ep-9oUt8M7O4dVHrCwyEEdUJaRU906SaEJRsmITu14STT._Y17qrJ9xzJHKMLB?autoplay=true" target="_blank">Recording</a></h4></li>
-  <li><h4><a href="https://docs.google.com/presentation/d/1rR_bGjyWZ0UOvftkOBEFCU4ZYrrdlDAg/edit?pli=1" target="_blank">Slides</a></h4></li>
+  <li><h3>Missed the launch events? View the <a href="https://psu.zoom.us/rec/play/ydHuNSE-g2jrZleuptuC6x0mQMin7TtIPE2ep-9oUt8M7O4dVHrCwyEEdUJaRU906SaEJRsmITu14STT._Y17qrJ9xzJHKMLB?autoplay=true" target="_blank">recording</a> and <a href="https://docs.google.com/presentation/d/1rR_bGjyWZ0UOvftkOBEFCU4ZYrrdlDAg/edit?pli=1" target="_blank">slides</a>!</h3></li>
+  <li><h3>If you are interested in the project, please fill out this quick <a href="https://forms.gle/J981senhwHsugMG88" target="_blank">SURVEY</a></h3></li>
 </ul>
 
-<h3>If you are interested in the project, please fill out this quick <a href="https://forms.gle/J981senhwHsugMG88" target="_blank">SURVEY</a></h3>
+
 
 <p>Young children begin interacting with screens within the first months of life, yet current research on early screen use remains limited in scope and comparability. Existing studies are overwhelmingly based on WEIRD (<i>Western, Educated, Industrialized, Rich, and Democratic</i>; see <a href="https://doi.org/10.21428/e2759450.8e9a83b0" target="_blank">Henrich, 2024</a>) populations, leaving major gaps in our understanding of how very young children use screens in non-WEIRD regions, where cultural norms, economic conditions, and caregiving practices may differ substantially. This lack of global diversity raises concerns about the generalizability of findings and obscures how contextual factors shape the links between screen exposure and development. Moreover, studies rely on a wide range of non-standardized assessment tools, making cross-study and cross-country comparisons difficult.</p>
 
