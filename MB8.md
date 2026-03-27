@@ -22,10 +22,10 @@ subtitle: Screen Use
   </div>
 </div>
 
-<h3>Register to attend one of our launch events!</h3>
+<h3>Missed the launch events? Catch up here!</h3>
 <ul>
-  <li><h4><a href="https://psu.zoom.us/meeting/register/Ofl2ms1XRaK2Q5dHjzvUYg" target="_blank">March 4, 23:00 UTC</a> <i>(<a href="https://www.worldtimebuddy.com/?qm=1&lid=5368361,5128581,100,2643743,2759794,184745,1261481,1819729,1835848,2174003&h=100&date=2026-3-4&sln=23-24&hf=1" target="_blank">time converter</a>)</i></h4></li>
-  <li><h4><a href="https://psu.zoom.us/meeting/register/IGbPvPjvQbiTEQXOuEiRhA" target="_blank">March 5, 11:00 UTC</a> <i>(<a href="https://www.worldtimebuddy.com/?qm=1&lid=5368361,5128581,100,2643743,2759794,184745,1261481,1819729,1835848,2174003&h=100&date=2026-3-5&sln=11-12&hf=1" target="_blank">time converter</a>)</i></h4></li>
+  <li><h4><a href="https://psu.zoom.us/rec/play/ydHuNSE-g2jrZleuptuC6x0mQMin7TtIPE2ep-9oUt8M7O4dVHrCwyEEdUJaRU906SaEJRsmITu14STT._Y17qrJ9xzJHKMLB?autoplay=true" target="_blank">Recording</a></h4></li>
+  <li><h4><a href="https://docs.google.com/presentation/d/1rR_bGjyWZ0UOvftkOBEFCU4ZYrrdlDAg/edit?pli=1" target="_blank">Slides</a></h4></li>
 </ul>
 
 <h3>If you are interested in the project, please fill out this quick <a href="https://forms.gle/J981senhwHsugMG88" target="_blank">SURVEY</a></h3>
