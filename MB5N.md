@@ -28,7 +28,7 @@ subtitle: Naturalistic Interactions
 
 ***
 ### Links
-
+* **Contact**: [**{{ site.data.global.contact.mb5n }}**](mailto:{{ site.data.global.contact.mb5n }})
 * **Listserv**: <a href="https://groups.google.com/a/manybabies.org/g/mb5n-list" target="_blank">join here</a> *(click on “for access, try joining the group”)*
 * **Slack group**: <a href="{{ site.data.global.link.slack-invite }}" target="_blank">MB workspace</a> (*join the #mb5-naturalistic channel*)
 * **MB5**: [main project page]({{site.baseurl}}/MB5/)
