@@ -16,7 +16,7 @@ subtitle: Rule Learning
       <h2>Project Overview</h2>
       <ul>
         <li><i>Status:</i> <b>{{ site.data.global.status.mb3 }}</b></li>
-        <li><i><a href="https://doi.org/10.31234/osf.io/aex7v" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at</i> <b>Developmental Science</b></li>
+        <li><i><a href="https://osf.io/preprints/psyarxiv/ghrdt_v2" target="_blank">Stage 2 Registered Report</a> under review at</i> <b>Developmental Science</b></li>
       </ul>
     </div>
   </div>
@@ -53,17 +53,14 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 
 ***
 ### Publications
+<h4>Stage 2 Registered Report</h4>
+<p style="padding-left: 25px; text-indent: -25px">Visser, I., Geambașu, A., Kachergis, G., Oliveira, C. M., Rocha-Hidalgo, J., Zettersten, M., Ahamat, T. M., Alessandroni, N., Althaus, N., Arunachalam, S., Aussems, S., Axelsson, E., Aydin, Z., Baumgartner, H. A., Bergmann, C., Bettoni, R., Black, A., Bulf, H., Byers-Heinlein, K., … Levelt, C. (2026). <i>ManyBabies 3: A multi-lab study of infant algebraic rule learning</i>. PsyArXiv. <a href="https://osf.io/preprints/psyarxiv/ghrdt_v2/" target="_blank">https://osf.io/preprints/psyarxiv/ghrdt_v2/</a></p>
+> To cite, use (Visser et al., 2026)
 
 <h4>Stage 1 Registered Report</h4>
 <p style="padding-left: 25px; text-indent: -25px">Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E. E., Havron, N., Johnson, S. P., Kachergis, G., Kline Struhl, M., Kosie, J., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M. E. J., … Levelt, C. C. (accepted pending data collection). <i>ManyBabies 3: A multi-lab study of infant algebraic rule learning</i>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/aex7v" target="_blank">https://doi.org/10.31234/osf.io/aex7v</a></p>
 
 > To cite, use (Visser et al., accepted pending data collection)
-
-
-<h4>Stage 2 Registered Report (preprint)</h4>
-<p style="padding-left: 25px; text-indent: -25px">Visser, I., Geambașu, A., Kachergis, G., Oliveira, C. M., Rocha-Hidalgo, J., Zettersten, M., … Levelt, C. (2025, August 28). <i>ManyBabies 3: A multi-lab study of infant algebraic rule learning</i>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/ghrdt_v1" target="_blank">https://doi.org/10.31234/osf.io/ghrdt_v1</a></p>
-
-> To cite, use (Visser et al., 2025)
 
 
 
