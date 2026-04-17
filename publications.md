@@ -22,19 +22,6 @@ title: Publications & Manuscripts
     <div class="row">
       <div class="col-sm-1" align=center>
         <br>
-        <a href="{{site.baseurl}}/MB3/" class="image"><img src="/assets/img/mb3-logo.png" alt="ManyBabies3 logo"></a>
-      </div>
-      <div class="col-sm-11">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Visser, I.</i>, Geambasu, A., Kachergis, G., Oliveira, C. M., Rocha-Hidalgo, J., Zettersten, M., Ahamat, T. M., Alessandroni, N., Althaus, N., Arunachalam, S., Aussems, S., Axelsson, E. L., Aydin, Z., Baumgartner, H. A., Bergmann, C., Bettoni, R., Black, A. K., Bulf, H., Byers-Heinlein, K., ..., Levelt, C. C. (2026). 
-        <b>ManyBabies 3: A multi-lab study of infant algebraic rule learning [Revised Stage 2 Registered Report]</b>. 
-        <i>Developmental Science</i>. <br>
-        <b>[<a href="https://doi.org/10.31234/osf.io/ghrdt_v2" target="_blank">PsyArXiv Preprint</a>] 
-        [<a href="{{site.baseurl}}/MB3/">MB3</a>]</b></p>  
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-1" align=center>
-        <br>
         <a href="{{site.baseurl}}/MB1A/" class="image"><img src="/assets/img/mb1-logo.png" alt="ManyBabies3 logo"></a>
       </div>
       <div class="col-sm-11">
@@ -42,6 +29,19 @@ title: Publications & Manuscripts
         <b>Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa [Stage 2 Registered Report]</b>. 
         <i>Developmental Science</i>. <br>
         <b>[<a href="https://doi.org/10.31234/osf.io/dc93n_v1" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB1A/">MB1A</a>]</b></p>  
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-1" align=center>
+        <br>
+        <a href="{{site.baseurl}}/MB3/" class="image"><img src="/assets/img/mb3-logo.png" alt="ManyBabies3 logo"></a>
+      </div>
+      <div class="col-sm-11">
+        <p style="padding-left: 25px; text-indent: -25px"><i>Visser, I.</i>, Geambasu, A., Kachergis, G., Oliveira, C. M., Rocha-Hidalgo, J., Zettersten, M., Ahamat, T. M., Alessandroni, N., Althaus, N., Arunachalam, S., Aussems, S., Axelsson, E. L., Aydin, Z., Baumgartner, H. A., Bergmann, C., Bettoni, R., Black, A. K., Bulf, H., Byers-Heinlein, K., ..., Levelt, C. C. (2026). 
+        <b>ManyBabies 3: A multi-lab study of infant algebraic rule learning [Revised Stage 2 Registered Report]</b>. 
+        <i>Developmental Science</i>. <br>
+        <b>[<a href="https://doi.org/10.31234/osf.io/ghrdt_v2" target="_blank">PsyArXiv Preprint</a>] 
         [<a href="{{site.baseurl}}/MB3/">MB3</a>]</b></p>  
       </div>
     </div>
