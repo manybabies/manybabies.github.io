@@ -32,6 +32,19 @@ title: Publications & Manuscripts
         [<a href="{{site.baseurl}}/MB3/">MB3</a>]</b></p>  
       </div>
     </div>
+    <div class="row">
+      <div class="col-sm-1" align=center>
+        <br>
+        <a href="{{site.baseurl}}/MB1A/" class="image"><img src="/assets/img/mb1-logo.png" alt="ManyBabies3 logo"></a>
+      </div>
+      <div class="col-sm-11">
+        <p style="padding-left: 25px; text-indent: -25px"><i>Tsui, A. S. M.</i>, Carstensen, A., Kachergis, G., Cao, A., Abubakar, A., Goshu, M. A., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Dami, E. B., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Duah, R. A., Herrmann, E., Jang, C., Kizito, S., Lamba, T., … Frank, M. C. (2026). 
+        <b>Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa [Stage 2 Registered Report]</b>. 
+        <i>Developmental Science</i>. <br>
+        <b>[<a href="https://doi.org/10.31234/osf.io/dc93n_v1" target="_blank">PsyArXiv Preprint</a>] 
+        [<a href="{{site.baseurl}}/MB3/">MB3</a>]</b></p>  
+      </div>
+    </div>
   </div>
 </section>
 
@@ -44,7 +57,7 @@ title: Publications & Manuscripts
     <div class="row">
       <div class="col-sm-1" align=center>
         <br>
-        <a href="{{site.baseurl}}/MB1A/" class="image"><img src="/assets/img/MB1_logo.png" alt="ManyBabies1 logo"></a>
+        <a href="{{site.baseurl}}/MB1A/" class="image"><img src="/assets/img/mb1-logo.png" alt="ManyBabies1 logo"></a>
       </div>
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Tsui, A. S. M.</i>, Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., ... Lew-Williams, C., & Frank, M. C. (2021, September). 
@@ -57,7 +70,7 @@ title: Publications & Manuscripts
     <div class="row">
       <div class="col-sm-1" align=center>
         <br>
-        <a href="{{site.baseurl}}/MB2/" class="image"><img src="/assets/img/MB2_logo.png" alt="ManyBabies2 logo"></a>
+        <a href="{{site.baseurl}}/MB2/" class="image"><img src="/assets/img/mb2-logo.png" alt="ManyBabies2 logo"></a>
       </div>
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Schuwerk, T.*</i>, <i>Kampis, D.*</i>, Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K., Dörrenberg, S., Fisher, C., Franchin, L., Fulcher, T., Garbisch, I., Geraci, A., Grosse Wiesmann, C., Hamlin, J. K., Haun, D. B. M., Hepach, R., Hunnius, S., Hyde, D. C., Karman, P., ... Rakoczy, H. (2022, August). 
@@ -70,7 +83,7 @@ title: Publications & Manuscripts
     <div class="row">
       <div class="col-sm-1" align=center>
         <br>
-        <a href="{{site.baseurl}}/MB3/" class="image"><img src="/assets/img/MB3_logo.png" alt="ManyBabies3 logo"></a>
+        <a href="{{site.baseurl}}/MB3/" class="image"><img src="/assets/img/mb3-logo.png" alt="ManyBabies3 logo"></a>
       </div>
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Visser, I.</i>, Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E., Havron, N., Johnson, S., Kachergis, G., Kline Struhl, M., Kosie, J. E., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M., ... Soderstrom, M., & Levelt, C. C. (2022, September). 
@@ -83,7 +96,7 @@ title: Publications & Manuscripts
     <div class="row">
       <div class="col-sm-1" align=center>
         <br>
-        <a href="{{site.baseurl}}/MB5/"><img src="/assets/img/MB5_logo.png" alt="ManyBabies5 logo"></a>
+        <a href="{{site.baseurl}}/MB5/"><img src="/assets/img/mb5-logo.png" alt="ManyBabies5 logo"></a>
       </div>
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Kosie, J. E.*</i>, <i>Zettersten, M.*</i>, Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H. A., Bazhydai, M., Belia, M., Benavides-Varela, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., ... Lew-Williams, C. (2024, March). 
