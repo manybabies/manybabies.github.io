@@ -60,6 +60,12 @@ We encourage everyone who is interested in the project to contact the Project Le
 ***
 ### Publication
 
+<h4>Stage 2 Registered Report</h4>
+<p style="padding-left: 25px; text-indent: -25px">Tsui, A., Carstensen, A., Kachergis, G., Cao, A., Abubakar, A., Goshu, M. A., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Dami, E. B., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Duah, R. A., Herrmann, E., Jang, C., Kizito, S., Lamba, T., … Frank, M. C. (2026). <i>Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa</i>. PsyArXiv. <a href=" https://doi.org/10.31234/osf.io/dc93n_v1" target="_blank"> https://doi.org/10.31234/osf.io/dc93n_v1</a></p>
+
+> To cite, use (Tsui et al., 2026)
+
+
 <h4>Stage 1 Registered Report</h4>
 <p style="padding-left: 25px; text-indent: -25px">Tsui, A. S. M., Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., Mathur, M., Mbagaya, C. V., Mekonnen Mengistie, D., Milton, C., Mushimiyimana, F., Ndhambi, M., Ngina, I., Njoroge, E., Odhiambo Oburu, P., Okyere Omane, P., Singh, A., Ssemata, A. S., Unyuzumutima, J., Zeidler, H., Lew-Williams, C., Frank, M. C. (accepted pending data collection). <b>Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa</b>. <i>Developmental Science</i>. OSF. <a href="https://osf.io/fqp4b" target="_blank">https://osf.io/fqp4b</a></p>
 
