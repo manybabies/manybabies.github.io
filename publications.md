@@ -48,7 +48,7 @@ title: Publications & Manuscripts
     <div class="row">
       <div class="col-sm-1" align=center>
         <br>
-        <img src="/assets/img/avatar-icon-2022.png.png" alt="ManyBabies logo">
+        <img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo">
       </div>
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>McMillan, B. T. M.</i>, Baumgartner, H. A., Bergmann, C., Frank, M. C., Hamlin, J. K., Kampis, D., Kline Struhl, M., Ko, E.-S., Kosie, J. E., Lew-Williams, C., Lucca, K., Schuwerk, T., Soderstrom, M., Visser, I., Yuen, F. L., Zettersten, M., & Byers-Heinlein, K.  (2026). 
