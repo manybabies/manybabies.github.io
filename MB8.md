@@ -24,7 +24,6 @@ subtitle: Screen Use
 
 <ul>
   <li><h3>Missed the launch events? View the <a href="https://psu.zoom.us/rec/play/ydHuNSE-g2jrZleuptuC6x0mQMin7TtIPE2ep-9oUt8M7O4dVHrCwyEEdUJaRU906SaEJRsmITu14STT._Y17qrJ9xzJHKMLB?autoplay=true" target="_blank">recording</a> and <a href="https://docs.google.com/presentation/d/1rR_bGjyWZ0UOvftkOBEFCU4ZYrrdlDAg/edit?pli=1" target="_blank">slides</a>!</h3></li>
-  <li><h3>If you are interested in the project, please fill out this quick <a href="https://forms.gle/J981senhwHsugMG88" target="_blank">SURVEY</a></h3></li>
 </ul>
 
 
