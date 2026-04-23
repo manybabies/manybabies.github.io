@@ -3,22 +3,16 @@ layout: page
 title: Events
 ---
 
-<!--
+
 >More events coming soon!
--->
 
+<!--
 >Upcoming
-
-#### April 23, 2025 - 15:00-16:30 UTC on Zoom *(<a href="https://www.worldtimebuddy.com/?qm=1&lid=5368361,5128581,100,2643743,2759794,184745,1261481,1819729,1835848,2174003&h=100&date=2026-4-23&sln=15-16.5&hf=1" target="_blank">time converter</a>)* 
-##### Workshop: 
-### Datapages
-#### Mika Braginsky, *Stanford University* 
-
-Want to learn how to create an interactive, user-friendly interface for your data? Register for this free virtual workshop where we'll demo how to get started with <a href="https://datapages.github.io/" target="_blank">Datapages</a> and you'll test it out yourself in a hands-on session. For this workshop, we recommend some basic familiarity with R and RStudio. Beginners welcome!
 
 ### <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagerditmfV8arjEV/form" target="_blank">REGISTER NOW</a>
 
 ##### <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NTBrbzJ1YW1waTNqNnA3YWJzcnIyZ210cGwgY185OGE5YzRmYTA3YmVhNjNiYmMzZmUxYzg4NjU4NzhlMDE4MTQ3MTU1ZDA2ZjcyNTVmYTY2OGM5MjZjNTZlYjYxQGc&amp;tmsrc=c_98a9c4fa07bea63bbc3fe1c8865878e018147155d06f7255fa668c926c56eb61%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
+-->
 
 <br>
 
@@ -27,7 +21,20 @@ Want to learn how to create an interactive, user-friendly interface for your dat
 
 >Past Events
 
-#### November 10, 2025 - 17:00-18:30 UTC on Zoom *(<a href="https://www.worldtimebuddy.com/?qm=1&lid=5368361,5128581,100,2643743,2759794,745044,1261481,1796236,1835848,2174003&h=100&date=2025-11-10&sln=17-18.5&hf=1" target="_blank">time converter</a>)*
+#### April 23, 2025 - 15:00-16:30 UTC on Zoom  
+##### Workshop: 
+### Datapages
+#### Mika Braginsky, *Stanford University* & Candice Koolhaas, *U Mass, Boston*
+
+Want to learn how to create an interactive, user-friendly interface for your data? Watch this free virtual workshop where we'll demo how to get started with <a href="https://datapages.github.io/" target="_blank">Datapages</a> and you can test it out yourself in a hands-on session. For this workshop, we recommend some basic familiarity with R and RStudio. Beginners welcome!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HT2rtEAHQac?si=zIfITZCMjlbdoywh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+***
+
+#### November 10, 2025 - 17:00-18:30 UTC on Zoom 
 ##### Webinar and discussion: 
 ### Development in Context
 
