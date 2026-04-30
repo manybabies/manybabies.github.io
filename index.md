@@ -83,7 +83,7 @@ The broader goals of <b>ManyBabies</b> come together in a set of collaborative p
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}/MB4/">MB4: Social Evaluation</a></h4>
         <i>Do infants prefer agents who are seen to help over those who are seen to hinder?</i><br>
-        <b>Spin-offs:</b> <a href="{{site.baseurl}}/MB4E/">MB4E</a>, <a href="{{site.baseurl}}/MB4I/">MB4I</a>
+        <b>Spin-offs:</b> <a href="{{site.baseurl}}/MB4E/">MB4E</a>, <a href="{{site.baseurl}}/MB4I/">MB4I</a>, <a href="{{site.baseurl}}/MB4P/">MB4P</a>
       </div>
     </div>
     <hr>
