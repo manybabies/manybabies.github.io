@@ -171,6 +171,9 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB4I/">MB4I: Individual Differences</a></b><br>
         <b>Status:</b> <i>{{ site.data.global.status.mb4i }}</i><br>
         <b>MB4I listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb4i-list" target="_blank"><i>Subscribe</i></a><br>
+        <hr>
+        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB4P/">MB4P: Postural Responses</a></b><br>
+        <b>Status:</b> <i>{{ site.data.global.status.mb4p }}</i><br>
       </div>
     </div>
     <hr>
