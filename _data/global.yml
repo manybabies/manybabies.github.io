@@ -32,6 +32,7 @@ status:
   mb4: "COMPLETE"
   mb4e: "Data collection complete; Piloting coding protocols/software to code infants’ emotional responses and posture"
   mb4i: "Data collection complete; Coding and analyzing data"
+  mb4p: "Video trimming and analysis"
   mb5: "Piloting; Prepping for data collection"
   mb5n: "Study design"
   mb5meta: "Conducting literature review and coding articles"
