@@ -35,9 +35,11 @@ The goal of this project is to measure infants’ emotional responses (e.g. posi
 
 ***
 ## Leads
-* [**Francis Yuen**](https://cic.psych.ubc.ca/), *University of British Columbia, Canada* [[email]](mailto:francis.yuen@psych.ubc.ca)
+* [**Laura Franchin**](https://webapps.unitn.it/du/en/Persona/PER0169770/Didattica), *University of Trento, Italy* [[email]](mailto:laura.franchin@unitn.it)
 * [**Kiley Hamlin**](https://psych.ubc.ca/profile/kiley-hamlin/), *University of British Columbia, Canada* [[email]](mailto:kiley.hamlin@psych.ubc.ca)
 * [**Kelsey Lucca**](https://isearch.asu.edu/profile/3521043), *Arizona State University, United States* [[email]](mailto:kelsey.lucca@asu.edu)
+* [**Mira Nencheva**](https://miranencheva.com/), *Stanford University, United States* [[email]](mailto:miran@stanford.edu)
+* [**Francis Yuen**](https://cic.psych.ubc.ca/), *University of British Columbia, Canada* [[email]](mailto:francis.yuen@psych.ubc.ca)
 
 
 ***
