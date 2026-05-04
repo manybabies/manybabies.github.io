@@ -35,8 +35,8 @@ In this ongoing project we aim to investigate the test-retest reliability of the
 
 ***
 ### Leads
-* [**Anna Exner**](https://dev.imp10.ruhr-uni-bochum.de/epsy/personen/exner.html.en), *Ruhr University Bochum, Germany* [[email]](mailto:anna.exner@posteo.de) 
 * [**Ingmar Visser**](https://www.uva.nl/profiel/v/i/i.visser/i.visser.html?cb), *University of Amsterdam, Netherlands* [[email]](mailto:i.visser@uva.nl)
+* [**Cátia Oliveira**](https://profiles.cardiff.ac.uk/staff/ferreiradeoliveirac), *Cardiff University, United Kingdom* [[email]](mailto:catia.oliveira@york.ac.uk) 
 
 
 ***
