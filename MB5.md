@@ -43,10 +43,10 @@ subtitle: The Hunter & Ames Model of Infant Looking Preference
 
 ***
 ### Links
+* **<a href="{{site.baseurl}}/mb5-tracker/" target="_blank">MB5 PROJECT TRACKER</a>**
 * **Materials, Protocols, and Documentation**: <a href="https://manybabies.org/mb5-manual/" target="_blank"><b>MB5 Lab Manual</b></a>, <a href="https://osf.io/g3udp/" target="_blank">MB5-OSF</a>, <a href="https://docs.google.com/document/d/e/2PACX-1vQsLk557N0kBYSLtx9-bvtIkIiUD8H-zY0GqN3u64cQITwK4c85Xv82n6vzZzZcIBPVGPUobeQCCeqk/pub" target="_blank">MB5 Collaboration Agreement</a>
 * **Listserv**: <a href="https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blank">join here</a> *(click on “for access, try joining the group”)*
 * **Slack group**: <a href="{{ site.data.global.link.slack-invite }}" target="_blank">MB workspace</a> (*join the #mb5-general channel*)
-* **<a href="{{site.baseurl}}/mb5-tracker/" target="_blank">MB5 Project Tracker</a>**
 
 
 ***
