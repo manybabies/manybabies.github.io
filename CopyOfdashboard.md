@@ -1,7 +1,3 @@
----
-layout: minimal
----
-
 <br>
 
 <section>
@@ -30,6 +26,5 @@ layout: minimal
   </div>
 </section>
 
-<iframe src="https://manybabies.shinyapps.io/MB-dashboard/" style="position: absolute; height: 1000px; width: 1000px; border: none"></iframe>
+<iframe src="https://manybabies.shinyapps.io/MB-dashboard/" style="position: absolute; height: 100%; width: 75%; border: none"></iframe>
 <br>
-
