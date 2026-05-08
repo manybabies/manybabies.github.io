@@ -8,12 +8,11 @@ layout: page
 }
 </style>
 
-test6
+test7
 <br>
 
-
-
+<div style="height: 1000px;">
+  <iframe src="https://manybabies.shinyapps.io/MB-dashboard/" style="position: absolute; height: 1000px; width: 1000px; border: none"></iframe>
+</div>
 <br>
 
-<iframe src="https://manybabies.shinyapps.io/MB-dashboard/" style="position: absolute; height: 1000px; width: 1000px; border: none"></iframe>
-<br>
