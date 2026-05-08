@@ -1,0 +1,5 @@
+
+.wide-page .container-md,
+.wide-page .container-lg {
+  max-width: 1400px;
+}
