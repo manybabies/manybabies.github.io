@@ -10,9 +10,8 @@ layout: page
 
 > To request to be added to the dashboard (or to update an existing entry), fill out the <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagJHYOdmVFEYvgkZ/form"><b>Dashboard Form</b></a>
 
-<div style="height: 1350px;">
-  <iframe src="https://manybabies.shinyapps.io/MB-dashboard/" style="position: absolute; height: 1350px; width: 1000px; border: none"></iframe>
+<div style="height: 1375px;">
+  <iframe src="https://manybabies.shinyapps.io/MB-dashboard/" style="position: absolute; height: 1375px; width: 1000px; border: none"></iframe>
 </div>
-1350
 
 > <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrmAhZCMC9Bno7vF/tblxNS2o3vGoE4KoU?backgroundColor=blueDusty&viewControls=on" target="_blank">View the full <b>Contributor Table</b> in a new tab</a>
