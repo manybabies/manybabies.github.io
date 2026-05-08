@@ -1,5 +1,5 @@
 ---
-layout: minimal2
+layout: minimal
 ---
 
 <br>
