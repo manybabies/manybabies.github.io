@@ -4,11 +4,11 @@ layout: page
 
 <style>
 .container-md {
-  max-width: 1400px;
+  max-width: 1500px;
 }
 </style>
 
-test5
+test6
 <br>
 
 
