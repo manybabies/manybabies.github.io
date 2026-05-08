@@ -13,5 +13,3 @@ layout: page
 <div style="height: 500px;">
   <iframe src="https://manybabies.shinyapps.io/validator/" style="position: absolute; height: 75%; width: 100%; border: none"></iframe>
 </div>
-
-TEST2
