@@ -8,36 +8,13 @@ layout: page
 }
 </style>
 
+<a href="https://airtable.com/appRoqMKzcK3NsXt4/pagPm3MXnFExsz1Ti/form", target="_blank"><b>MB5 Green-Lighting form</b></a>
 
-<br>
-<section>
-  <div class="container">
-    <div class="row" align="center">
-      <div class="col-sm-1" align="right">
-        <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagPm3MXnFExsz1Ti/form", target="_blank"><img src="/assets/img/greenlight.png" alt="form" height="50"></a><br> 
-      </div>
-      <div class="col-sm-2" align="left">
-        <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagPm3MXnFExsz1Ti/form", target="_blank"><b>MB5 Green-Lighting form</b></a>
-      </div>
-      <div class="col-sm-1" align="right">
-        <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagTs6VPOhcjesYd5/form", target="_blank"><img src="/assets/img/data.png" alt="form" height="50"></a><br>
-      </div>
-      <div class="col-sm-2" align="left">
-        <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagTs6VPOhcjesYd5/form", target="_blank"><b>MB5 Data Upload form</b></a>
-      </div>
-    </div>
-    <br>
-  </div>
-</section>
-<hr>
+<a href="https://airtable.com/appRoqMKzcK3NsXt4/pagTs6VPOhcjesYd5/form", target="_blank"><b>MB5 Data Upload form</b></a>
 
- 
 ***
 
 > ### To sign up for MB5 data collection or to update your lab's planned testing info, fill out the <a href="https://airtable.com/appRoqMKzcK3NsXt4/pag99dsjlXiM24ZnB/form" target="_blank">MB5 Lab-Sign-Up form</a>
-<br>
-
-
 
 ***
 
