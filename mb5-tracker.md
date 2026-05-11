@@ -8,9 +8,9 @@ layout: page
 }
 </style>
 
-<a href="https://airtable.com/appRoqMKzcK3NsXt4/pagPm3MXnFExsz1Ti/form", target="_blank"><b>MB5 Green-Lighting form</b></a>
+<a href="https://airtable.com/appRoqMKzcK3NsXt4/pagPm3MXnFExsz1Ti/form" target="_blank"><b>MB5 Green-Lighting form</b></a>
 
-<a href="https://airtable.com/appRoqMKzcK3NsXt4/pagTs6VPOhcjesYd5/form", target="_blank"><b>MB5 Data Upload form</b></a>
+<a href="https://airtable.com/appRoqMKzcK3NsXt4/pagTs6VPOhcjesYd5/form" target="_blank"><b>MB5 Data Upload form</b></a>
 
 ***
 
