@@ -1,23 +1,18 @@
 ---
-layout: minimal
+layout: page
 ---
+
+<style>
+.container-md {
+  max-width: 1500px;
+}
+</style>
+
 
 <br>
 <section>
   <div class="container">
     <div class="row" align="center">
-      <div class="col-sm-1" align="right">
-        <a href="{{site.baseurl}}/"><img src="/assets/img/avatar-icon-2022.png" alt="MB Home" width="50"></a><br>
-      </div>
-      <div class="col-sm-2" align="left">
-        <a href="{{site.baseurl}}/"><b>Home</b></a>
-      </div>
-      <div class="col-sm-1" align="right">
-        <a href="{{site.baseurl}}/MB5/"><img src="/assets/img/mb5-logo.png" alt="MB5 logo" height="50"></a><br>
-      </div>
-      <div class="col-sm-2" align="left">
-        <a href="{{site.baseurl}}/MB5/"><b>MB5 main page</b></a>
-      </div>
       <div class="col-sm-1" align="right">
         <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagPm3MXnFExsz1Ti/form", target="_blank"><img src="/assets/img/greenlight.png" alt="form" height="50"></a><br> 
       </div>
@@ -36,7 +31,15 @@ layout: minimal
 </section>
 <hr>
 
-<h3>To sign up for MB5 data collection or to update your lab's info, fill out the <a href="https://airtable.com/appRoqMKzcK3NsXt4/pag99dsjlXiM24ZnB/form" target="_blank">MB5 Lab-Sign-Up form</a></h3>
+ 
+***
+
+> ### To sign up for MB5 data collection or to update your lab's planned testing info, fill out the <a href="https://airtable.com/appRoqMKzcK3NsXt4/pag99dsjlXiM24ZnB/form" target="_blank">MB5 Lab-Sign-Up form</a>
+<br>
+
+
+
+***
 
 <h2 style="font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;font-weight: 800;line-height: 1.1;color: #036C9A;">MB5 Project Tracker</h2>
 
