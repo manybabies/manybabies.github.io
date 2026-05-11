@@ -10,7 +10,7 @@ layout: page
 
 
 * #### To sign up for MB5 data collection or to update your lab's planned testing info, fill out the <a href="https://airtable.com/appRoqMKzcK3NsXt4/pag99dsjlXiM24ZnB/form" target="_blank"><b>MB5 Lab-Sign-Up form</b></a>
-* #### To upload study materials (e.g., ethics approval, walkthrough videao), use the <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagPm3MXnFExsz1Ti/form" target="_blank"><b>MB5 Green-Lighting form</b></a>
+* #### To upload study materials (e.g., ethics approval, walkthrough video), use the <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagPm3MXnFExsz1Ti/form" target="_blank"><b>MB5 Green-Lighting form</b></a>
 * #### To upload data, use the <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagTs6VPOhcjesYd5/form" target="_blank"><b>MB5 Data Upload form</b></a>
 
 ***
