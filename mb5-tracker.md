@@ -9,7 +9,6 @@ title: MB5 Project Tracker
 }
 </style>
 
-***
 <i>Note: Default view is alphabetical by "LabID". You can filter, sort, or search records using the icons in the toolbar. Scroll to the right to view all columns.</i>
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrLGYAb9VA1VvxOx?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="500" style="background: transparent; border: 1px solid #ccc;"></iframe>
