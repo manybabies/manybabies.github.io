@@ -17,3 +17,5 @@ title: MB5 Project Tracker
 * #### <a href="https://airtable.com/appRoqMKzcK3NsXt4/pag99dsjlXiM24ZnB/form" target="_blank">MB5 Lab Sign-Up form</a>: Sign up for MB5 data collection or update planned testing info 
 * #### <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagPm3MXnFExsz1Ti/form" target="_blank">MB5 Green-Lighting form</a>: Upload study materials (e.g., ethics approval, walkthrough video) 
 * #### <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagTs6VPOhcjesYd5/form" target="_blank">MB5 Data Upload form</a>: Upload data 
+
+> Note: Responses to these forms are moderated, so updates might not appear on the tracker immediately. Thank you for your patience!
