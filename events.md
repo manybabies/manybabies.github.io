@@ -21,7 +21,7 @@ title: Events
 
 >Past Events
 
-#### April 23, 2025 - 15:00-16:30 UTC on Zoom  
+#### April 23, 2026 - 15:00-16:30 UTC on Zoom  
 ##### Workshop: 
 ### Datapages
 #### Mika Braginsky, *Stanford University* & Candice Koolhaas, *U Mass, Boston*
