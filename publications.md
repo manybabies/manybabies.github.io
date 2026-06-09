@@ -48,17 +48,6 @@ title: Publications & Manuscripts
     <div class="row">
       <div class="col-sm-1" align=center>
         <br>
-        <img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo">
-      </div>
-      <div class="col-sm-11">
-        <p style="padding-left: 25px; text-indent: -25px"><i>McMillan, B. T. M.</i>, Baumgartner, H. A., Bergmann, C., Frank, M. C., Hamlin, J. K., Kampis, D., Kline Struhl, M., Ko, E.-S., Kosie, J. E., Lew-Williams, C., Lucca, K., Schuwerk, T., Soderstrom, M., Visser, I., Yuen, F. L., Zettersten, M., & Byers-Heinlein, K.  (2026). 
-        <b>What 5000 Babies Can Tell Us About Developing Minds and How to Study Them: Lessons from the ManyBabies Consortium</b>. <br>
-        <b>[<a href="https://osf.io/preprints/psyarxiv/y59sn_v1/" target="_blank">PsyArXiv Preprint</a>]</b></p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-1" align=center>
-        <br>
         <a href="{{site.baseurl}}/MB3/" class="image"><img src="/assets/img/mb3-logo.png" alt="ManyBabies3 logo"></a>
       </div>
       <div class="col-sm-11">
@@ -77,7 +66,8 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Meltzoff, A. N.</i>, Farwaha, S., Slaughter, V., Simpson, E. A., Brooks, R., Nielsen, M., Baumgartner, H. A., Bayet, L., Benavides-Varela, S., Boyce, V., Byers-Heinlein, K., Dönicke, J., Flaherty, B. P., Forbes, S. H., Frank, M. C., Geraci, A., Hamlin, K., Heimann, M., Keven, N., … Zeng, G. (2026, June).
         <b>ManyBabies 6: A Multi-Lab Investigation of Neonatal and Early Imitation </b>. <br>
-        <b>[<a href="https://osf.io/preprints/psyarxiv/fe7pj_v1/" target="_blank">PsyArXiv Preprint</a>]</b></p>
+        <b>[<a href="https://osf.io/preprints/psyarxiv/fe7pj_v1/" target="_blank">PsyArXiv Preprint</a>]
+        [<a href="{{site.baseurl}}/MB6/">MB6</a>]</b></p>
       </div>
     </div>
   </div>
@@ -149,6 +139,19 @@ title: Publications & Manuscripts
 
 <section>
   <div class="container">
+    <div class="row">
+      <div class="col-sm-1" align=center>
+        <br>
+        <img src="/assets/img/avatar-icon-2022.png" alt="ManyBabies logo">
+      </div>
+      <div class="col-sm-11">
+        <p style="padding-left: 25px; text-indent: -25px"><i>McMillan, B. T. M.</i>, Baumgartner, H. A., Bergmann, C., Frank, M. C., Hamlin, J. K., Kampis, D., Kline Struhl, M., Ko, E.-S., Kosie, J. E., Lew-Williams, C., Lucca, K., Schuwerk, T., Soderstrom, M., Visser, I., Yuen, F. L., Zettersten, M., & Byers-Heinlein, K.  (2026). 
+        <b>What 5000 Babies Can Tell Us About Developing Minds and How to Study Them</b>. 
+        <i>Communications Psychology, 4</i>(1), 92. 
+        <a href="https://doi.org/10.1038/s44271-026-00477-w"  target="_blank">https://doi.org/10.1038/s44271-026-00477-w</a><br>
+        <b>[<a href="https://osf.io/preprints/psyarxiv/y59sn_v1/" target="_blank">PsyArXiv Preprint</a>]</b></p>
+      </div>
+    </div>
     <div class="row">
       <div class="col-sm-1" align=center>
         <br>
