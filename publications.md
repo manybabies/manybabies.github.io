@@ -77,7 +77,8 @@ title: Publications & Manuscripts
       <div class="col-sm-11">
         <p style="padding-left: 25px; text-indent: -25px"><i>Meltzoff, A. N.</i>, Farwaha, S., Slaughter, V., Simpson, E. A., Brooks, R., Nielsen, M., Baumgartner, H. A., Bayet, L., Benavides-Varela, S., Boyce, V., Byers-Heinlein, K., Dönicke, J., Flaherty, B. P., Forbes, S. H., Frank, M. C., Geraci, A., Hamlin, K., Heimann, M., Keven, N., … Zeng, G. (2026, June).
         <b>ManyBabies 6: A Multi-Lab Investigation of Neonatal and Early Imitation </b>. <br>
-        <b>[<a href="https://osf.io/preprints/psyarxiv/fe7pj_v1/" target="_blank">PsyArXiv Preprint</a>]</b></p>
+        <b>[<a href="https://osf.io/preprints/psyarxiv/fe7pj_v1/" target="_blank">PsyArXiv Preprint</a>]
+        [<a href="{{site.baseurl}}/MB6/">MB6</a>]</b></p>
       </div>
     </div>
   </div>
