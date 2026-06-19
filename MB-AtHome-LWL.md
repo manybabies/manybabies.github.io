@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MBAH 1
-subtitle: Looking While Listening
+subtitle: Looking-While-Listening
 ---
 
 ***
@@ -27,8 +27,8 @@ subtitle: Looking While Listening
 
 ***
 ### Links
-* <a href="https://docs.google.com/document/d/1Pz_wOyQ5E-sQ7Gp6KYXfcbDAzKpqFZctELJFxvOFDpI/edit?tab=t.0#heading=h.xpgdm02ltlfc" target="_blank"><b>MBAH-LWL Collaboration Agreement</b></a>
-* **Materials protocols and documentation**: <a href="https://osf.io/kjguq/overview" target="_blank">MBAH-LWL OSF protocol pages</a> 
+* <a href="https://docs.google.com/document/d/1Pz_wOyQ5E-sQ7Gp6KYXfcbDAzKpqFZctELJFxvOFDpI/edit?tab=t.0#heading=h.xpgdm02ltlfc" target="_blank"><b>MBAH1-LWL Collaboration Agreement</b></a>
+* **Materials protocols and documentation**: <a href="https://osf.io/kjguq/overview" target="_blank">MBAH1-LWL OSF protocol pages</a> 
 * **Listserv**: *coming soon*
 * **Slack**: join <i><b><a href="https://stanford.enterprise.slack.com/archives/C0BBXD0L0F3" target="_blank">#mbah-lwl-general</a></b></i> channel in the MB workspace
 
