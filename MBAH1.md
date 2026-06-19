@@ -29,7 +29,7 @@ subtitle: Looking-While-Listening
 ### Links
 * <a href="https://docs.google.com/document/d/1Pz_wOyQ5E-sQ7Gp6KYXfcbDAzKpqFZctELJFxvOFDpI/edit?tab=t.0#heading=h.xpgdm02ltlfc" target="_blank"><b>MBAH1-LWL Collaboration Agreement</b></a>
 * **Materials protocols and documentation**: <a href="https://osf.io/kjguq/overview" target="_blank">MBAH1-LWL OSF protocol pages</a> 
-* **Listserv**: [subscribe](https://groups.google.com/a/manybabies.org/g/mbah1-list) *(click on "for access, try joining here")*
+* **Listserv**: [subscribe]({{ site.data.global.listserv.mbah1-list }}) *(click on "for access, try joining here")*
 * **Slack**: join <i><b><a href="https://stanford.enterprise.slack.com/archives/C0BBXD0L0F3" target="_blank">#mbah1-lwl-general</a></b></i> channel in the MB workspace
 
 
@@ -44,8 +44,7 @@ subtitle: Looking-While-Listening
 ***
 ### Contributors
 
-We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [**MB Sign-Up Form**]({{site.baseurl}}/get_involved/). Please note that access to infants/infant lab is **NOT** a prerequisite.
-
+We encourage everyone who is interested in the project to subscribe to the listserv (see above) and/or contact the Project Leads ([{{ site.data.global.contact.mbah1 }}](mailto:{{ site.data.global.contact.mbah1 }})). To add your name to the list of contributors, fill out the [MB Dashboard form]({{ site.data.global.link.dashboard-form }}). Please note that access to infants/an infant lab is **NOT** a prerequisite.
 > Contributor list coming soon!
 
 <!-- > NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field. -->
