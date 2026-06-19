@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MB-AtHome 1
+title: MBAH 1
 subtitle: Looking While Listening
 ---
 
