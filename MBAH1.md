@@ -27,7 +27,7 @@ subtitle: Looking-While-Listening
 
 ***
 ### Links
-* <a href="https://docs.google.com/document/d/1Pz_wOyQ5E-sQ7Gp6KYXfcbDAzKpqFZctELJFxvOFDpI/edit?tab=t.0#heading=h.xpgdm02ltlfc" target="_blank"><b>MBAH1-LWL Collaboration Agreement</b></a>
+* <a href="https://docs.google.com/document/d/1Pz_wOyQ5E-sQ7Gp6KYXfcbDAzKpqFZctELJFxvOFDpI/edit?usp=sharing" target="_blank"><b>MBAH1-LWL Collaboration Agreement</b></a>
 * **Materials protocols and documentation**: <a href="https://osf.io/kjguq/overview" target="_blank">MBAH1-LWL OSF protocol pages</a> 
 * **Listserv**: [subscribe]({{ site.data.global.listserv.mbah1-list }}) *(click on "for access, try joining here")*
 * **Slack**: join <i><b><a href="https://stanford.enterprise.slack.com/archives/C0BBXD0L0F3" target="_blank">#mbah1-lwl-general</a></b></i> channel in the MB workspace
@@ -51,3 +51,4 @@ We encourage everyone who is interested in the project to subscribe to the lists
 
 
 <!-- ### Publication -->
+
