@@ -147,7 +147,7 @@ The broader goals of <b>ManyBabies</b> come together in a set of collaborative p
       <div class="col-sm-9">
         <h4><a href="{{site.baseurl}}/MB-AtHome/">MB-AtHome: Online Infant Data Collection</a></h4>
         <i>Solutions for testing infants in their home, with a focus on measuring looks</i><br>
-        <b>Studies:</b> Looking-While-Listening, Visual Preference
+        <b>Studies:</b> <a href="{{site.baseurl}}/MBAH1/">MBAH1-Looking-While-Listening</a>, MBAH2-Visual Preference
       </div>
     </div>
     <hr>

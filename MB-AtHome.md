@@ -54,5 +54,13 @@ We encourage everyone who is interested in the project to contact the Project Le
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrCEh0VKs85n8MaW?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
+***
+### Publications
 
-<!-- ### Publication -->
+<p style="padding-left: 25px; text-indent: -25px">Zaadnoordijk, L., Buckler, H., Cusack, R., Tsuji, S., & Bergmann, C. (2021). <b>A Global Perspective on Testing Infants Online: Introducing ManyBabies-AtHome./b>. <i>Frontiers in Psychology, 12</i>, 703234. <a href="https://doi.org/10.3389/fpsyg.2021.703234" target="_blank">https://doi.org/10.3389/fpsyg.2021.703234</a></p>
+
+***
+### Projects
+* [**MBAH1: Looking-While-Listening**]({{site.baseurl}}/MBAH1/)
+* **MBAH2: Visual Preference**
+
