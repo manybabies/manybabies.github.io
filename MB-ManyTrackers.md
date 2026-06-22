@@ -41,9 +41,9 @@ subtitle:
 
 ***
 ### Leads
-* [**Tobias Schuwerk**](https://www.en.cas.uni-muenchen.de/rir/junior_rir/previous_junior_rir/schuhwerk_tobias/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:Tobias.Schuwerk@psy.lmu.de)
 * [**Shuting Li**](https://www.researchgate.net/profile/Shuting-Li-3), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:Shuting.Li@psy.lmu.de)
-
+* [**Tobias Schuwerk**](https://www.en.cas.uni-muenchen.de/rir/junior_rir/previous_junior_rir/schuhwerk_tobias/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:Tobias.Schuwerk@psy.lmu.de)
+* [**Lucie Zimmer**](https://www.psy.lmu.de/pbi/personen/wiss_mitarbeiter/lucie_zimmer/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:lucie.zimmer@psy.lmu.de)
 
 ***
 ### MB-ManyTrackers Contributors
