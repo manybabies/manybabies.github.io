@@ -36,7 +36,7 @@ subtitle: Looking-While-Listening
 ***
 ### Project Leads
 * [**Rajalakshmi Madhavan**](https://rajimadhavan.github.io/), *Chosun University, South Korea* [[email]](mailto:satarai.rajalakshmi@gmail.com)
-* [**Katie Von Holzen**](https://kvonholzen.github.io), *TU Braunschweig, Germany* [[email]](mailto:katie.m.vonholzen@gmail.com)
+* [**Katie Von Holzen**](https://kvonholzen.github.io), *University of Göttingen, Germany* [[email]](mailto:katie.m.vonholzen@gmail.com)
 * [**Eon-Suk Ko**](https://sites.google.com/site/eonsuk/home), *Chosun University, South Korea* [[email]](mailto:eonsukko@chosun.ac.kr)
 
 

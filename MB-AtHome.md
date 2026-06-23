@@ -40,7 +40,7 @@ subtitle: Online Infant Data Collection
 ### Project Leads
 * [**Lorijn Zaadnoordijk**](https://sites.google.com/view/lorijnzaadnoordijk/homepage), *Trinity College Dublin, Ireland* [[email]](mailto:L.Zaadnoordijk@tcd.ie)
 * [**Sho Tsuji**](https://sites.google.com/site/tsujish), *University of Tokyo, Japan* [[email]](mailto:tsujish@gmail.com)
-* [**Katie Von Holzen**](https://kvonholzen.github.io), *TU Braunschweig, Germany* [[email]](mailto:katie.m.vonholzen@gmail.com)
+* [**Katie Von Holzen**](https://kvonholzen.github.io), *University of Göttingen, Germany* [[email]](mailto:katie.m.vonholzen@gmail.com)
 * [**Helen Buckler**](https://www.nottingham.ac.uk/english/people/helen.buckler), *University of Nottingham, England* [[email]](mailto:Helen.Buckler@nottingham.ac.uk)
 * [**Rhodri Cusack**](https://www.infantcentre.ie/who-we-are-2/our-team/prof-rhodri-cusack), *Trinity College Dublin, Ireland* [[email]](mailto:rhodricusack@cusacklab.org)
 
@@ -57,7 +57,7 @@ We encourage everyone who is interested in the project to contact the Project Le
 ***
 ### Publications
 
-<p style="padding-left: 25px; text-indent: -25px">Zaadnoordijk, L., Buckler, H., Cusack, R., Tsuji, S., & Bergmann, C. (2021). <b>A Global Perspective on Testing Infants Online: Introducing ManyBabies-AtHome.</b> <i>Frontiers in Psychology, 12</i>, 703234. <a href="https://doi.org/10.3389/fpsyg.2021.703234" target="_blank">https://doi.org/10.3389/fpsyg.2021.703234</a></p>
+<p style="padding-left: 25px; text-indent: -25px">Zaadnoordijk, L., Buckler, H., Cusack, R., Tsuji, S., & Bergmann, C. (2021). <b>A Global Perspective on Testing Infants Online: Introducing ManyBabies-AtHome</b>. <i>Frontiers in Psychology, 12</i>, 703234. <a href="https://doi.org/10.3389/fpsyg.2021.703234" target="_blank">https://doi.org/10.3389/fpsyg.2021.703234</a></p>
 
 ***
 ### Projects
