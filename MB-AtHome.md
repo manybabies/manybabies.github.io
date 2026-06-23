@@ -57,7 +57,7 @@ We encourage everyone who is interested in the project to contact the Project Le
 ***
 ### Publications
 
-<p style="padding-left: 25px; text-indent: -25px">Zaadnoordijk, L., Buckler, H., Cusack, R., Tsuji, S., & Bergmann, C. (2021). <b>A Global Perspective on Testing Infants Online: Introducing ManyBabies-AtHome.</b> <i>Frontiers in Psychology, 12</i>, 703234. <a href="https://doi.org/10.3389/fpsyg.2021.703234" target="_blank">https://doi.org/10.3389/fpsyg.2021.703234</a></p>
+<p style="padding-left: 25px; text-indent: -25px">Zaadnoordijk, L., Buckler, H., Cusack, R., Tsuji, S., & Bergmann, C. (2021). <b>A Global Perspective on Testing Infants Online: Introducing ManyBabies-AtHome</b>. <i>Frontiers in Psychology, 12</i>, 703234. <a href="https://doi.org/10.3389/fpsyg.2021.703234" target="_blank">https://doi.org/10.3389/fpsyg.2021.703234</a></p>
 
 ***
 ### Projects
