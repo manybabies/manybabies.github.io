@@ -24,6 +24,14 @@ subtitle: Looking-While-Listening
 
 <p>In this multi-language project, we aim to investigate children’s recognition of familiar words across various ages and languages, using an online adaptation of the Looking-While-Listening paradigm (<a href="https://www.researchgate.net/profile/Virginia-Marchman/publication/267179424_Looking-while-listening_184_Looking_while_listening_Using_eye_movements_to_monitor_spoken_language_comprehension_by_infants_and_young_children/links/554cb9840cf29752ee7f587f/Looking-while-listening-184-Looking-while-listening-Using-eye-movements-to-monitor-spoken-language-comprehension-by-infants-and-young-children.pdf" target="_blank">Fernald et al., 2008</a>; also known as Intermodal Preferential Looking Paradigm - IPLP: <a href="https://doi.org/10.1017/S030500090001271X" target="_blank">Golinkoff et al., 1987</a>; <a href="https://doi.org/10.1177/1745691613484936" target="_blank">2013</a>). As the project name suggests, our goal is to implement this paradigm using a remote method, E-Babylab (<a href="https://doi.org/10.3758/s13428-023-02200-7" target="_blank">Lo et al., 2024</a>), designed to test children from their home. With this project, we aim to replicate previous robust findings of the age effect on word recognition, across multiple languages, and to provide greater clarity to the relationship between children’s eye-tracking measures and parental reports of children's word knowledge. Our approach will help build a more inclusive model of studying infant word recognition, and to develop more resource-friendly adaptations for cross-linguistic research.</p>
 
+### Join us at an information session to learn more!
+
+#### Session #1: *Asia/Europe/Africas* 
+**14 July 2026 08:00-09:00 UTC** [<a href="https://www.worldtimebuddy.com/?qm=1&lid=1835848,1816670,524901,1261481,12,13,14,100,184745,2063523&h=1835848&date=2026-7-14&sln=17-18&hf=0" target="_blank">Time conversion</a>] [<a href="https://us06web.zoom.us/j/84629329822?pwd=j4qLbjjz1bbcIAJ7Xlb49AyCa7XU9r.1" target="_blank">Zoom link</a>]
+
+#### Session #2: *Asia/Americas/Oceania*
+**14 July 2026 23:30-00:30 UTC** [<a href="https://www.worldtimebuddy.com/?qm=1&lid=1835848,2179537,2172517,8,5,6167865,100,14,12&h=1835848&date=2026-7-15&sln=8.5-9.5&hf=0" target="_blank">Time conversion</a>] [<a href="https://us06web.zoom.us/j/83217535301?pwd=v3qPxeFs76v2WaxmB4L7BYTvSLpNWa.1" target="_blank">Zoom link</a>]<br>
+*(please note this would be 15 July for east Asia/Oceania time zones)*
 
 ***
 ### Links
