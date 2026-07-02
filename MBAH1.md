@@ -33,6 +33,7 @@ subtitle: Looking-While-Listening
 **14 July 2026 23:30-00:30 UTC** [<a href="https://www.worldtimebuddy.com/?qm=1&lid=1835848,2179537,2172517,8,5,6167865,100,14,12&h=1835848&date=2026-7-15&sln=8.5-9.5&hf=0" target="_blank">Time conversion</a>] [<a href="https://us06web.zoom.us/j/83217535301?pwd=v3qPxeFs76v2WaxmB4L7BYTvSLpNWa.1" target="_blank">Zoom link</a>]<br>
 *(please note this would be 15 July for east Asia/Oceania time zones)*
 
+
 ***
 ### Links
 * <a href="https://docs.google.com/document/d/1Pz_wOyQ5E-sQ7Gp6KYXfcbDAzKpqFZctELJFxvOFDpI/edit?usp=sharing" target="_blank"><b>MBAH1-LWL Collaboration Agreement</b></a>
