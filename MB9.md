@@ -30,7 +30,7 @@ subtitle: Perceptual Specialization
 
 ***
 ### Links
-* <b><a href="" target="_blank">MB9 Collaboration Agreement</a></b>
+* <b><a href="https://manybabies.org/MB9/" target="_blank">MB9 Collaboration Agreement</a></b>
 * **Listserv**: [subscribe here]({{ site.data.global.listserv.mb9 }}) *(click on "for access, try joining the group")*
 * **Slack**: <a href="{{ site.data.global.link.slack-invite }}" target="_blank">MB workspace</a> (*join the **#mb9-general** channel*)
 
