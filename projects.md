@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Projects
 ---
 
 The broader goals of **ManyBabies** come together through collaborative projects. They can be ***Main Projects***, ***Spin-off Projects***, or ***Secondary Analyses***.
@@ -237,6 +236,20 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <b>MB8 email:</b> <a href="mailto:{{ site.data.global.contact.mb8 }}"><i>Contact</i></a><br>
         <b>MB8 listserv:</b> <a href="{{ site.data.global.listserv.mb8 }}" target="_blank"><i>Subscribe</i></a><br>
         <b>MB8 Slack:</b> <i><a href="{{ site.data.global.link.slack-invite }}" target="_blank">Join workspace</a>, then add <b>#mb8-general</b> channel</i><br>
+      </div>
+    </div>
+    <hr>
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <a href="{{site.baseurl}}/MB9/"><img src="/assets/img/mb9-logo.png" alt="MB9 logo" width="75" height="75"></a>
+      </div>
+      <div class="col-sm-10">
+        <h4><a href="{{site.baseurl}}/MB9/">MB9: Perceptual Specialization</a></h4>
+        <b>Status:</b> <i>{{ site.data.global.status.mb9 }}</i><br>
+        <b>MB9 email:</b> <a href="mailto:{{ site.data.global.contact.mb9 }}"><i>Contact</i></a><br>
+        <b>MB9 listserv:</b> <a href="{{ site.data.global.listserv.mb9 }}" target="_blank"><i>Subscribe</i></a><br>
+        <b>MB9 Slack:</b> <i><a href="{{ site.data.global.link.slack-invite }}" target="_blank">Join workspace</a>, then add <b>#mb9-general</b> channel</i><br>
       </div>
     </div>
     <br>
