@@ -379,7 +379,7 @@ title: Publications & Manuscripts
     </div>
   </div>
 </section>
-
+ 
 <!--
 ***
 <h2 id="presentations">Conference Presentations</h2>
