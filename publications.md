@@ -6,13 +6,6 @@ title: Publications & Manuscripts
 > View our <a href="https://scholar.google.com/citations?user=55C1_cAAAAJ&user=_55C1_cAAAAJ" target="_blank">Google Scholar profile</a><br>
 > Note: italics indicate corresponding author(s), asterisks indicate co-first authors
 
-* [**Submitted & Under Review**](#submitted)
-* [**Accepted Pending Data Collection (Stage 1 Registered Reports)**](#accepted)
-* [**Publications**](#publications)
-* [**Registrations**](#registrations)
-* [**Conference Presentations**](#presentations)
-
-
 
 ***
 <h2 id="submitted">Submitted & Under Review</h2>
@@ -121,6 +114,7 @@ title: Publications & Manuscripts
   </div>
 </section>
 
+<!--
 ***
 <h2 id="publications">Publications</h2>
 
@@ -347,6 +341,7 @@ title: Publications & Manuscripts
     </div>
   </div>
 </section>
+-->
 
 ***
 <h2 id="registrations">Registrations</h2>
