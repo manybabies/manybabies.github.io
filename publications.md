@@ -390,3 +390,7 @@ title: Publications & Manuscripts
 * **2020 vICIS**: [Slides & presentations](https://osf.io/t2wgc/)
 * **2019 SRCD**: [Slides & notes](https://osf.io/4p9dt/) 
 * **2018 ICIS**: [Slides & notes](https://osf.io/5kb3w/) 
+
+
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrWJiUIR2XPD99Cd?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="700" style="background: transparent; border: 1px solid #ccc;"></iframe>
