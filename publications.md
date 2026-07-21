@@ -341,7 +341,7 @@ title: Publications & Manuscripts
     </div>
   </div>
 </section>
--->
+
 
 ***
 <h2 id="registrations">Registrations</h2>
@@ -374,6 +374,7 @@ title: Publications & Manuscripts
     </div>
   </div>
 </section>
+-->
  
 <!--
 ***
