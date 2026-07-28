@@ -49,7 +49,7 @@ subtitle: Perceptual Specialization
 ***
 ### MB9 Contributors
 
-We encourage everyone who is interested in the project to subscribe to the MB8 listserv and/or email the Project Leads ([{{ site.data.global.contact.mb9 }}](mailto:{{ site.data.global.contact.mb9 }})) to indicate your interest. To add your name to this list of contributors, fill out the [MB Dashboard form]({{ site.data.global.link.dashboard-form }}). Please note that access to infants/an infant lab is **NOT** a prerequisite.
+We encourage everyone who is interested in the project to subscribe to the MB9 listserv and/or email the Project Leads ([{{ site.data.global.contact.mb9 }}](mailto:{{ site.data.global.contact.mb9 }})) to indicate your interest. To add your name to this list of contributors, fill out the [MB Dashboard form]({{ site.data.global.link.dashboard-form }}). Please note that access to infants/an infant lab is **NOT** a prerequisite.
 
 > Contributor table coming soon! 
 
@@ -59,5 +59,5 @@ We encourage everyone who is interested in the project to subscribe to the MB8 l
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrnl4LqP9x6qApSp?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 -->
 
-> <a href="{{ site.data.global.link.dashboard-form }}" target="_blank"><b>Update/add info</b></a>
+> <a href="{{ site.data.global.link.dashboard-form }}" target="_blank"><b>Update/add yourself to the contributor list/MB Dashboard</b></a>
 

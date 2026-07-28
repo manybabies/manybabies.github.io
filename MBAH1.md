@@ -58,6 +58,7 @@ We encourage everyone who is interested in the project to subscribe to the lists
 
 <!-- > NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field. -->
 
+> <a href="{{ site.data.global.link.dashboard-form }}" target="_blank"><b>Update/add yourself to the contributor list/MB Dashboard</b></a>
 
 <!-- ### Publication -->
 
