@@ -8,53 +8,6 @@ title: Publications & Manuscripts
 
 
 ***
-<h2 id="submitted">Submitted & Under Review</h2>
-
-<section>
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-1" align=center>
-        <br>
-        <a href="{{site.baseurl}}/MB1A/" class="image"><img src="/assets/img/mb1-logo.png" alt="ManyBabies3 logo"></a>
-      </div>
-      <div class="col-sm-11">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Tsui, A. S. M.</i>, Carstensen, A., Kachergis, G., Cao, A., Abubakar, A., Goshu, M. A., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Dami, E. B., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Duah, R. A., Herrmann, E., Jang, C., Kizito, S., Lamba, T., … Frank, M. C. (2026). 
-        <b>Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa [Stage 2 Registered Report]</b>. 
-        <i>Developmental Science</i>. <br>
-        <b>[<a href="https://doi.org/10.31234/osf.io/dc93n_v1" target="_blank">PsyArXiv Preprint</a>] 
-        [<a href="{{site.baseurl}}/MB1A/">MB1A</a>]</b></p>  
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-1" align=center>
-        <br>
-        <a href="{{site.baseurl}}/MB3/" class="image"><img src="/assets/img/mb3-logo.png" alt="ManyBabies3 logo"></a>
-      </div>
-      <div class="col-sm-11">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Visser, I.</i>, Geambasu, A., Kachergis, G., Oliveira, C. M., Rocha-Hidalgo, J., Zettersten, M., Ahamat, T. M., Alessandroni, N., Althaus, N., Arunachalam, S., Aussems, S., Axelsson, E. L., Aydin, Z., Baumgartner, H. A., Bergmann, C., Bettoni, R., Black, A. K., Bulf, H., Byers-Heinlein, K., ..., Levelt, C. C. (2026). 
-        <b>ManyBabies 3: A multi-lab study of infant algebraic rule learning [Revised Stage 2 Registered Report]</b>. 
-        <i>Developmental Science</i>. <br>
-        <b>[<a href="https://doi.org/10.31234/osf.io/ghrdt_v2" target="_blank">PsyArXiv Preprint</a>] 
-        [<a href="{{site.baseurl}}/MB3/">MB3</a>]</b></p>  
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-1" align=center>
-        <br>
-        <a href="{{site.baseurl}}/MB6/" class="image"><img src="/assets/img/mb6-logo.png" alt="ManyBabies6 logo"></a>
-      </div>
-      <div class="col-sm-11">
-        <p style="padding-left: 25px; text-indent: -25px"><i>Meltzoff, A. N.</i>, Farwaha, S., Slaughter, V., Simpson, E. A., Brooks, R., Nielsen, M., Baumgartner, H. A., Bayet, L., Benavides-Varela, S., Boyce, V., Byers-Heinlein, K., Dönicke, J., Flaherty, B. P., Forbes, S. H., Frank, M. C., Geraci, A., Hamlin, K., Heimann, M., Keven, N., … Zeng, G. (2026, June).
-        <b>ManyBabies 6: A Multi-Lab Investigation of Neonatal and Early Imitation </b>. <br>
-        <b>[<a href="https://osf.io/preprints/psyarxiv/fe7pj_v1/" target="_blank">PsyArXiv Preprint</a>]
-        [<a href="{{site.baseurl}}/MB6/">MB6</a>]</b></p>
-      </div>
-    </div>
-  </div>
-</section>
-
-
-***
 <h2 id="accepted">Accepted Pending Data Collection (Stage 1 Registered Reports)</h2>
 
 <section>
