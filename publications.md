@@ -4,7 +4,7 @@ title: Publications & Manuscripts
 ---
 
 > View our <a href="https://scholar.google.com/citations?user=55C1_cAAAAJ&user=_55C1_cAAAAJ" target="_blank">Google Scholar profile</a><br>
-> Note: italics indicate corresponding author(s), asterisks indicate co-first authors
+> Note: asterisks indicate co-first authors
 
 
 ***
