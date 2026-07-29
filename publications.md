@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Publications & Manuscripts
 ---
 
 <style>
@@ -8,6 +7,8 @@ title: Publications & Manuscripts
   max-width: 1500px;
 }
 </style>
+
+## Publications, Manuscripts, and Registrations
 
 > View our <a href="https://scholar.google.com/citations?user=55C1_cAAAAJ&user=_55C1_cAAAAJ" target="_blank">Google Scholar profile</a><br>
 > Note: asterisks indicate co-first authors
