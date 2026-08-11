@@ -48,11 +48,10 @@ subtitle: Neonatal and Early Imitation
 ***
 ### MB6 Contributors
 
-We encourage everyone who is interested in the project to subscribe to the MB6 listserv and/or email the Project Leads ([{{ site.data.global.contact.mb6 }}](mailto:{{ site.data.global.contact.mb6 }})) to indicate your interest. To add your name to this list of contributors, fill out the [MB Dashboard form]({{ site.data.global.link.dashboard-form }}). Please note that access to infants/an infant lab is **NOT** a prerequisite.
+We encourage everyone who is interested in the project to subscribe to the MB6 listserv and/or email the Project Leads ([{{ site.data.global.contact.mb6 }}](mailto:{{ site.data.global.contact.mb6 }})) to indicate your interest. Please note that access to infants/an infant lab is **NOT** a prerequisite.
 
 > NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrlM3zLzNYw3ZvYL?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-> <a href="{{ site.data.global.link.dashboard-form }}" target="_blank"><b>Update/add yourself to the contributor list/MB Dashboard</b></a>
-
+> Project contributors can update/add info to the contributor list/MB Dashboard using <a href="{{ site.data.global.link.dashboard-form }}" target="_blank"><b>this form</b></a> 
