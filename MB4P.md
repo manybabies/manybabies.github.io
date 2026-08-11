@@ -51,5 +51,5 @@ We encourage everyone who is interested in the project to contact the Project Le
 
 Contributor table coming soon!
 
-> <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrBx1vEakEkyeYbg" target="_blank"><b>UPDATE</b></a> your info, or request to be <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrglw1TM1HxDfbYG" target="_blank"><b>ADDED</b></a>
+> Project contributors can update/add info to the contributor list/MB Dashboard using <a href="{{ site.data.global.link.dashboard-form }}" target="_blank"><b>this form</b></a> 
 
