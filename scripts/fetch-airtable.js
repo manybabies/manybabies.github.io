@@ -82,7 +82,7 @@ async function main() {
       leads: leadNames,
       logopath: f['Logo Path'] || null,
       contact: f['Project Contact'],
-      listserv-subscribe: f['Listserv Subscribe'],
+      listservsub: f['Listserv Subscribe'],
       slack: f.Slack
     };
   });
