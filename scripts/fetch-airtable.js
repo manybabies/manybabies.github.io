@@ -81,7 +81,7 @@ async function main() {
       website: f['Project Website'],
       leads: leadNames,
       logopath: f['Logo Path'] || null,
-      contact: f.['Project Contact']
+      contact: f['Project Contact']
     };
   });
 
