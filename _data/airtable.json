@@ -11,34 +11,8 @@
       "Yiyi Wang",
       "Kelsey Lucca"
     ],
-    "logo": [
-      {
-        "id": "att5gmDfYwqwOGr5w",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/iCwSH50OHffr9MEyMNd5ZQ/abfJoun0V4eOigDIKvZ1tAIdsT4yGRf34DlrciEEVDxHsLGRmz6n6QiMJcajx-p8caCCeHl7QB13G8Kgr4k8vddH2YLWHQktCo0WXjannt5VFkc7qZbd4yLqrDqOOSvMgeWXsYtcwcubOUFCsYGB3w/n6zSb6RjKTcIDzG7WaZLGQltZApN8uUgy57911DzOxQ",
-        "filename": "MB4_logo.png",
-        "size": 125113,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/dwKonPVLxrUfSTI9V094Sg/DBqniRSe5PJu5V6hmaqv1TxR1IzyNgicQwsLjZRL-ozFYrQQX4E2DfYU6w4W-mjh62owIrWNfCT8XBywbCrwBoyi8mQAcA3ZizfassLnyHPNVLayvHI20oDwlboXmjJnuAlJvmlA1h5f4x6iYBSuig/cirQc6woJqWT7KWqnzTo8BvexYIY36hnACCHMDx0dro",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/zYliD7UWsX6_MoTzWlADgg/RyeCB2XCjpkjuRzGG_PKAUFbaeO185oxEsCchWLFeXJcUE920_V3IBJUbTrKXM74tQfh9rIIaARInRQlB5ybzqeCzStaJjiZbxyfq6pPqfsZCib814QFa6OQokrTqK6yEC19Nu0TncxDdl7moBJ-1g/asOqs6RjWGktr7IP6Xa7v1oNrX2YU-cOfX89KlRcIWA",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/2vBpn_e5svRmhfeBVeZI3A/_zs3McB-EEsOfiZ-SQRUP-gAWo0FRPz2mH-iuXAwFDDLf5pZmZ1PHyCv4zGoa23XqUm_lVV_zHMHn7wJe71FNuVqOEzudmJybrw0ppq_KtIWs1WXmQdYd87fhZt73uK24Q_2b_I429I08xhe4DRCJA/qBnNscEKwNtV-qrb0IuiSGQx0gdd8Ikyk0dxbp4lpgI",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null,
+    "contact": "- yiyiwang@uchicago.edu\n- klucca@asu.edu\n"
   },
   {
     "id": "rec0Hswo8T9WGP4jt",
@@ -51,34 +25,7 @@
     "leads": [
       "Ingmar Visser"
     ],
-    "logo": [
-      {
-        "id": "attHzrljSNiOpYl0V",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/3hslaQlwC-Ey5e47Swnq9w/Zx-9SbaGMBRgQcpooSzgBpA9NFI2KhlTkHFwhZUCtdqiF7mhV5omClMP_9zQWxTDjwH8hwdXMliDjz2OXYHBl7P1c9IZs0mljwIL4b95dSntG8Z4P60KZAqsOMUUjI3fb-eaONasfArnJXpd1-OE9w/UbUayt-1STvWwTTMuUPKTJEBiMHgci-j7Nswuq27WLs",
-        "filename": "MB3_logo.png",
-        "size": 151384,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/ysUJJ8_Nq4JiUOCygTc93g/FGrIuOhnk6pLApx6SA2qEFhJqHrtInx9JrPvhjgMgocuNhjHaYF9LSoCPcyvHw7uWcWpFrFHKoovpTbn0szK83chT9fSXuH1DD91AKzoUC5gy06CrDEKoHJEWA9QNO5cKw3TXT4fmvDO9_69xISHvg/q51QHRXYYU2xQWIY-MxPlmrrWTop89zXxCNdz1UxPXQ",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/rbPBOB3HZwaX5szsrbTwVg/AyS63eywRzLSe3e_1xFaj31pVz_cW6dgVebWFszx0HR3GPc6PCLLW2ZDrYXPWgV4zXgbClawYIIljYmEPhvLPC-LkTJ66YAsn6QyZPHvhYiTGWmTi24ctgzAvOzWZ-HXjJkXl2MdSJP_JImGKgmh_w/xRHrlMiEeUN35PVyfxDkBNCNuzrCn-R3ZyOvH5qKnWk",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/4KlD1Cb0VPWGKaASmsmtaQ/gFR_gR2J-NBvQSzhFaAHvDki-Kd6n8I4DL4Vx1ifi1DJtGcdi44otoRLehFjZpMIcvDz3p9jkLjIzlmbuyXUfrvimJd-hpIaGjE-_NzUse-Kypr_iuV8hZf26tMNkxm4Zq2pCfEjW8qSYhLENupbXA/eIM_FbjN5dpZQGvz0911I273EDtY9h0VAhiwI0d-PPA",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null
   },
   {
     "id": "rec1DxudHmk3wKdLY",
@@ -95,34 +42,8 @@
       "Christina Bergmann",
       "Dima Amso"
     ],
-    "logo": [
-      {
-        "id": "attdNhR0EEL6tuFWp",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/NPJykoXkN952UMzeZMv6iQ/M4FAqkDp60izXMK-0jUAhOX5riVZI2tOEaSY0nxbG-HKdaGMJ8ZV8mSNwOA7J4YlMfdl5blbiA7n_dvmrweI8iA6_6YtwJBZnptRvNYLMX3eTAad6bZIJGmAd1TzeF1ytM87boW1aXxdFnzniPULHQ/1pqwTnZM4oFsuBKVYugtvCvuoOk0p1I9-fHMQ4K0w0Q",
-        "filename": "MB5_logo.png",
-        "size": 159818,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/W0fnShDrmEVp95kqmBlEQQ/iyewdyVp-g4hG9tZI6-WAVpFfiaEB-UB-zKmOksOlswGsvykLEQNEyD3082mjk8WndtVKNQmjJYrS-tWjVotN5r83l4NpHpINesfaKkySChYnFDEdCYcNaU8_lCDksVAFWPl5ESa_7IEcFOOxFFi7g/9uVcsvRoBln9DZDHgSxrWvyj7EO1Su9l2yH1pat2oO8",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/8J7jazwJpNqZHxr5J7y6hg/L2olDnXnKWBZoXEvRG8iUY9lGGTs-DlP6Rurcaztijmdmg91Y_JUZ-CyjywCz6M-3o5lkJzZyEV8dELmdbCq7zDtEbmA-njCaI5XBVNzoiB8wEj5nYKTIrwACVpLfaSvTmUPW2u984om8rASiTS52g/LSy6WVG9cGekoEnM_Va0vRSUxusM_Cd7JD14Yfn4lGs",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/utRv85mO8Rw6yWcPp4WUgw/55tE4l5RJ7pRLZpUkbr1V3xi4eco5gH9pR33u3q1ggNsDZpwBm6C1VMdcWTSns6cqNl72gDQcyk4GXpFhg7T3pVGjslvigcIA0ZE1oQSuXDP-N06PQOH2R79AUusBiwg6LYxbzOBZyx9c6keBoUhDQ/2rWUcvGXPwZdtVLdjyeyBqZ8dutrGRnWGhbpjOL-RMM",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": "/assets/img/mb5-logo.png",
+    "contact": "mb5@manybabies.org\n"
   },
   {
     "id": "recAe3xQsp28sDKpA",
@@ -135,34 +56,8 @@
     "leads": [
       "Krista Byers-Heinlein"
     ],
-    "logo": [
-      {
-        "id": "att6H4GozsTCFD7pg",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/H_rg5U0iCwYDzpVT4mNA4Q/e3vIm2d4GtaHRsGfzu-uI9qYMfQgcrHY41UAIJtIx_RYJlk_gtyNsuXJXrmcEkRRM7t1KFOYN39eOUVM8yzeHBO_qFcMOdquR6dKmfDc_w3BNPoIje1UL8kHiPmQlY0N6UrHgCtVi-sMqeu58Ax8Ag/tGCDk4s9V-2n2DO2IJ4RmaesHbgLo4J9_btay8ojeZk",
-        "filename": "MB1_logo.png",
-        "size": 175576,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/9n8o1i2a-w1H0HYd3TVaMA/EeEtWlcUefM7jteh93xIBqBTx0pZDsxNsrz317wk88woVEg3FEwUkHPn5ei4sjOUpCECpsRQkhIBCR-IfzkY_Auass1Go64EnLwyXGvwQ7FBvAcBz82fV_9ucZF3NVuY6M6ERZJNOvLdSaUFaRBWGg/tDavW6HSuVSanvQGFzyy5YYHqKk68EM9-R9NilL8Qyo",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/TtSgxWqZT796uTRSWFDAWw/-FirPFF8HNSl_Mw92RPsJZ_2BJHBRmncaYDJRN-jED2DVq4VaoHSJ42aFUZhPuh4Elb51NdGW9zFZYjjDOfMK8fzPWDJNhagJgG1EH60zKXKeiPhR8qwhSEJwJavA8JJcFm7sf3gOO9-ddnAhOyjvA/avyCP1x8qTTxWuEKNbkN5S6oymKRe2mEN4ZHWNQA0Zg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/5oTqHNIbPAcULW1IjX12kA/zDzkGZDvBiC-6yaatQz7EY7grmOX8BAJZkUk6r98t9Da1wyi9XCelfgSdWaLdr9ZNQBT7Q4_n0qBD3A4_D4gZA570Cn_Z1_fZKvDd7jLfFV7JxJzZ_2CuQNlQIp72rJ6ZVpTP0OGyLWG6kklWjlE4g/XpOrMZQue1kudrYQUtlRinI5NkOVmn1GxnwKwzb80Iw",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null,
+    "contact": "K.Byers@concordia.ca\n"
   },
   {
     "id": "recC68M8cOo3dlHzp",
@@ -177,34 +72,7 @@
       "Adrian Steffan",
       "Lucie Zimmer"
     ],
-    "logo": [
-      {
-        "id": "attaSKKEulhz2jv7v",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/J858G7smILyHa4EVnuA_VA/IonmwO4_XJ9o_1gcVn9zryiz0_9lRqbFBPAAMryAHnrsh3C0MO44wrJVVGvQO2L_cozP2-32lkWgLcPgkhMFgrwPiUeDHpwsBonfwgqnpyLEnIXS8xTB-byQSwYbSCOfDnn1B1vU-5TEqGExc18zMg/5Dql4ZTNtRkiU8M7dBiYbyDyXT2jxsEBbrPU7Cz3CAw",
-        "filename": "MB2_logo.png",
-        "size": 113435,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/sbsaBI3YErrxE009Tw3ORQ/-P9MiUqqY116VWXwAGBaVGZlrQOm7nWw-L7L1HsGJ3S0_hM6QH73iL-T5S9V019pppKJMFbu3Ngnv02Yyv15jjssx1k77XNZd_cP0mwUGYFvy2p0ZUpdtO6A8dMbGsrZ5_Si-BseMQg5GxuvL81uYw/GSt8-oGL4LUJqe4vSp9Vewh4MChF564UUPbae2BoKWY",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/sTdQNGTmUivYnem69LE_MA/3yiY2uI0ocB2NEQz1t54BMKNPI1yH0rZsX_7LD3hjpAHaR4YUk_iAPeAhXgeGQ64fA7uZ6oiDAIDvJo75JZqhAU733R05Jy6cnaKM2YASzXCIrLcRau2OiMzPiXbYnVox3va9OH2G_7pBGYLd-c6dA/dtBU4WgSyt8mNxnr5wK2sVOVmMbid9EtiSBDFFgDR40",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/bHMaDxwPHgCkSmY6eYDOVQ/TaaaWt3N8GmG9-b9TE3bL7VQpoGt20wIF7Gc8GSqokwcET6D0rpMMuKyHi_5lPIZ5pdGc-nmFy8W4AzgfMQqn-jG79cF7mXP8FxNQjVFqeDTwZX86s40tYt_CNefnKDUhCB5lOjeMMGpSCVajCp1VA/ucm95tpoafg3Ot3TGGYoQ9uUFaTUrc-yQkqAm0-7PoQ",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null
   },
   {
     "id": "recEXIQyAEgJcqhCW",
@@ -221,34 +89,7 @@
       "Rhodri Cusack",
       "Helen Buckler"
     ],
-    "logo": [
-      {
-        "id": "attUPEcCHZFhZXeji",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/Ivf0wK5N2i4EZ24IMrScYg/DHCoA7X2g5Ma4mfj6kXmFM5QHOGqCCYMSQQqUyxR_uydZbKj4RRPY_YsyZ8pRSvCpjLtVXxsw7GCdCcwu17UAPV8GFnEmTkWW7_si9TgZHThwt8SZI62yjGkBFpnM-3BbB6xaJom2cxnNHJc_BUkSA/362cvoGVtp8hOuaePe4Rh8m2AO1Ka3Eh-LDHWELHKtc",
-        "filename": "MBAH_logo.png",
-        "size": 169110,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/Y5L3AlvWcenAlid-Nb5MRA/v60lKjZmQRNYJIaelF6ohHPHLsWWbWL9tGKfiozVBaA-fXj_nG1Wqpejt-5FpOxk4k6Lvao-jPu2ZEHQfIWPKe17JyFEnHDe2OEryA91RQIe2C3WpT0sCP70dtEUaEfqOFkNTvEmzPk5-nt2uUbrRQ/GLLeYr2v11RSGYGxo2aUt89stE27-BysA-X1KJC9j5c",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/JJCysS9x23sfBOIntdw4Rg/Vzk8WVlKfOBCcGVe98usfGC7puZdFcri8grSilbCHwz2Fgc2RHkm_oNAlAr30lce1jKcCPi25VfATILrYsE5_au_Nx9ay68bgsIMrlA7agwLYgZB7xVpnwB9m6gR_MUjUlFMVle0nJ_vH1L6QCf9ow/T9viLQjPQ_G6l2YRdtiFOScnbOkuUcaC2crTwf2xXSY",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/StsWKZXhhvznmyP3YN8OPw/U1kiuTrPxRgfE--5AjvwjKALWiCOxiCFmoIVBNJItKmAWSHYyDVZ1bJMDA3SMOw2r8F4cr2aqTS1GI6xri4wgl0Nq6tonWUO2ATRgsWeQLwU7Ipu2H4TK5yechZ3LDE_lJ-lU5bja7Atx_aDlTT8mQ/kdw-i5-SAuv7gMLg4QMF5YSauEByggXttoaGr3kRjxY",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": "/assets/img/mbah-logo.png"
   },
   {
     "id": "recHdZXhYbB2GfXbk",
@@ -264,34 +105,8 @@
       "Andreea Geambașu",
       "Melanie Soderstrom"
     ],
-    "logo": [
-      {
-        "id": "attHzrljSNiOpYl0V",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/3hslaQlwC-Ey5e47Swnq9w/Zx-9SbaGMBRgQcpooSzgBpA9NFI2KhlTkHFwhZUCtdqiF7mhV5omClMP_9zQWxTDjwH8hwdXMliDjz2OXYHBl7P1c9IZs0mljwIL4b95dSntG8Z4P60KZAqsOMUUjI3fb-eaONasfArnJXpd1-OE9w/UbUayt-1STvWwTTMuUPKTJEBiMHgci-j7Nswuq27WLs",
-        "filename": "MB3_logo.png",
-        "size": 151384,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/ysUJJ8_Nq4JiUOCygTc93g/FGrIuOhnk6pLApx6SA2qEFhJqHrtInx9JrPvhjgMgocuNhjHaYF9LSoCPcyvHw7uWcWpFrFHKoovpTbn0szK83chT9fSXuH1DD91AKzoUC5gy06CrDEKoHJEWA9QNO5cKw3TXT4fmvDO9_69xISHvg/q51QHRXYYU2xQWIY-MxPlmrrWTop89zXxCNdz1UxPXQ",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/rbPBOB3HZwaX5szsrbTwVg/AyS63eywRzLSe3e_1xFaj31pVz_cW6dgVebWFszx0HR3GPc6PCLLW2ZDrYXPWgV4zXgbClawYIIljYmEPhvLPC-LkTJ66YAsn6QyZPHvhYiTGWmTi24ctgzAvOzWZ-HXjJkXl2MdSJP_JImGKgmh_w/xRHrlMiEeUN35PVyfxDkBNCNuzrCn-R3ZyOvH5qKnWk",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/4KlD1Cb0VPWGKaASmsmtaQ/gFR_gR2J-NBvQSzhFaAHvDki-Kd6n8I4DL4Vx1ifi1DJtGcdi44otoRLehFjZpMIcvDz3p9jkLjIzlmbuyXUfrvimJd-hpIaGjE-_NzUse-Kypr_iuV8hZf26tMNkxm4Zq2pCfEjW8qSYhLENupbXA/eIM_FbjN5dpZQGvz0911I273EDtY9h0VAhiwI0d-PPA",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": "/assets/img/mb3-logo.png",
+    "contact": "i.visser@uva.nl\n"
   },
   {
     "id": "recLIUCZUIdEddWr8",
@@ -309,34 +124,8 @@
       "Mark Nielsen",
       "Rechele Brooks"
     ],
-    "logo": [
-      {
-        "id": "attqFFVIh31MKZ7FZ",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/dicMTR_5Jb0wq-69xCV2Wg/-aowKybBOZ-GXcLhHOZOTXxhzVvZXDlQl8NoUCFhb_xTMSZ0XSy4B_QC6oNw0XUb-Tm9Gi1IQbzA9f4P3606zjul8wJNmpyclZzRVW79QSYGuB5ffTpwwatOyVmVSVmp5vtgEjA58wKiXzC6KOF36QewSmlxKleSNYoTPiGjSFI/lOQrIs5Pe44Eoa-5YnVlFHKCyV8YXGnhK6GHV8u-pnU",
-        "filename": "mb6-logo.png",
-        "size": 368679,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/KAUw45ezgkEc4KNejuMSww/TF-2LtbSpjotyuGdvuWkOdKbfBcbgfQMI7tRtSpt6KXmknf7endAql2NUqSZW_CvT8iFWkGfiT9i1CetmWLv7QZqjlGv_fpx4UlgMQ19VOAudGwSLdz-gLvVQT9NBN1IfNkX1qT--38CEoRj8xLiWQ/4sZLfDY3A8IZLX0SH1UM5nTxjP621nvMjkANmKCMjJ4",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/Z2lCSxubibNzxMOKzxaEMw/q3bC2UZ4Gx4mflu3H3KqV-PgtZ0h9XWbZhhzcpnL0FDjKqjFdBLvlmRATdmIC0ga0ZcwBPGaOQDJnyM-lIIrcc2Zldr18SWT2jvWeRx7iwBzKV8CxDr8JIOuDIlTH82ntR3zHLfqANdmb6sF4bhfVw/vW1YJXdztDhNpA9xCBRtMG8kTQPgkw0M-cGcoCgVmI8",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/hEOSpuVEQfcm3mQlwzEOVg/ryKmAmZdZ2xJzCZ2beNvCxoHnN8oJCAHJI6H6h_ffqQW7QyOs7E1Epi94t11CIT4a4ZnZxkMcBS3WoOsMELeblcXaMnJXH5SnnQ4RQeQ1FgLRv0kLVy6jnKaTJbQZLfgCCYTZbvUgSABAnRnT-8ZAQ/gZ7733YdWwJB2r_d_Nc44gPd9OehxP_JSuvl48J0wz0",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": "/assets/img/mb6-logo.png",
+    "contact": "mb6@manybabies.org\n"
   },
   {
     "id": "recObQ5VJROvXYIKK",
@@ -350,34 +139,7 @@
       "Francis L. Yuen",
       "Kelsey Lucca"
     ],
-    "logo": [
-      {
-        "id": "att5gmDfYwqwOGr5w",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/iCwSH50OHffr9MEyMNd5ZQ/abfJoun0V4eOigDIKvZ1tAIdsT4yGRf34DlrciEEVDxHsLGRmz6n6QiMJcajx-p8caCCeHl7QB13G8Kgr4k8vddH2YLWHQktCo0WXjannt5VFkc7qZbd4yLqrDqOOSvMgeWXsYtcwcubOUFCsYGB3w/n6zSb6RjKTcIDzG7WaZLGQltZApN8uUgy57911DzOxQ",
-        "filename": "MB4_logo.png",
-        "size": 125113,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/dwKonPVLxrUfSTI9V094Sg/DBqniRSe5PJu5V6hmaqv1TxR1IzyNgicQwsLjZRL-ozFYrQQX4E2DfYU6w4W-mjh62owIrWNfCT8XBywbCrwBoyi8mQAcA3ZizfassLnyHPNVLayvHI20oDwlboXmjJnuAlJvmlA1h5f4x6iYBSuig/cirQc6woJqWT7KWqnzTo8BvexYIY36hnACCHMDx0dro",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/zYliD7UWsX6_MoTzWlADgg/RyeCB2XCjpkjuRzGG_PKAUFbaeO185oxEsCchWLFeXJcUE920_V3IBJUbTrKXM74tQfh9rIIaARInRQlB5ybzqeCzStaJjiZbxyfq6pPqfsZCib814QFa6OQokrTqK6yEC19Nu0TncxDdl7moBJ-1g/asOqs6RjWGktr7IP6Xa7v1oNrX2YU-cOfX89KlRcIWA",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/2vBpn_e5svRmhfeBVeZI3A/_zs3McB-EEsOfiZ-SQRUP-gAWo0FRPz2mH-iuXAwFDDLf5pZmZ1PHyCv4zGoa23XqUm_lVV_zHMHn7wJe71FNuVqOEzudmJybrw0ppq_KtIWs1WXmQdYd87fhZt73uK24Q_2b_I429I08xhe4DRCJA/qBnNscEKwNtV-qrb0IuiSGQx0gdd8Ikyk0dxbp4lpgI",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null
   },
   {
     "id": "recOwYzTM7ZFtRcwH",
@@ -392,34 +154,8 @@
       "Tobias Schuwerk",
       "Lucie Zimmer"
     ],
-    "logo": [
-      {
-        "id": "attaSKKEulhz2jv7v",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/J858G7smILyHa4EVnuA_VA/IonmwO4_XJ9o_1gcVn9zryiz0_9lRqbFBPAAMryAHnrsh3C0MO44wrJVVGvQO2L_cozP2-32lkWgLcPgkhMFgrwPiUeDHpwsBonfwgqnpyLEnIXS8xTB-byQSwYbSCOfDnn1B1vU-5TEqGExc18zMg/5Dql4ZTNtRkiU8M7dBiYbyDyXT2jxsEBbrPU7Cz3CAw",
-        "filename": "MB2_logo.png",
-        "size": 113435,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/sbsaBI3YErrxE009Tw3ORQ/-P9MiUqqY116VWXwAGBaVGZlrQOm7nWw-L7L1HsGJ3S0_hM6QH73iL-T5S9V019pppKJMFbu3Ngnv02Yyv15jjssx1k77XNZd_cP0mwUGYFvy2p0ZUpdtO6A8dMbGsrZ5_Si-BseMQg5GxuvL81uYw/GSt8-oGL4LUJqe4vSp9Vewh4MChF564UUPbae2BoKWY",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/sTdQNGTmUivYnem69LE_MA/3yiY2uI0ocB2NEQz1t54BMKNPI1yH0rZsX_7LD3hjpAHaR4YUk_iAPeAhXgeGQ64fA7uZ6oiDAIDvJo75JZqhAU733R05Jy6cnaKM2YASzXCIrLcRau2OiMzPiXbYnVox3va9OH2G_7pBGYLd-c6dA/dtBU4WgSyt8mNxnr5wK2sVOVmMbid9EtiSBDFFgDR40",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/bHMaDxwPHgCkSmY6eYDOVQ/TaaaWt3N8GmG9-b9TE3bL7VQpoGt20wIF7Gc8GSqokwcET6D0rpMMuKyHi_5lPIZ5pdGc-nmFy8W4AzgfMQqn-jG79cF7mXP8FxNQjVFqeDTwZX86s40tYt_CNefnKDUhCB5lOjeMMGpSCVajCp1VA/ucm95tpoafg3Ot3TGGYoQ9uUFaTUrc-yQkqAm0-7PoQ",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null,
+    "contact": "Shuting.Li@psy.lmu.de\n"
   },
   {
     "id": "recPtVzMKfjssBM09",
@@ -432,34 +168,8 @@
     "leads": [
       "Martin Zettersten"
     ],
-    "logo": [
-      {
-        "id": "attdNhR0EEL6tuFWp",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/NPJykoXkN952UMzeZMv6iQ/M4FAqkDp60izXMK-0jUAhOX5riVZI2tOEaSY0nxbG-HKdaGMJ8ZV8mSNwOA7J4YlMfdl5blbiA7n_dvmrweI8iA6_6YtwJBZnptRvNYLMX3eTAad6bZIJGmAd1TzeF1ytM87boW1aXxdFnzniPULHQ/1pqwTnZM4oFsuBKVYugtvCvuoOk0p1I9-fHMQ4K0w0Q",
-        "filename": "MB5_logo.png",
-        "size": 159818,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/W0fnShDrmEVp95kqmBlEQQ/iyewdyVp-g4hG9tZI6-WAVpFfiaEB-UB-zKmOksOlswGsvykLEQNEyD3082mjk8WndtVKNQmjJYrS-tWjVotN5r83l4NpHpINesfaKkySChYnFDEdCYcNaU8_lCDksVAFWPl5ESa_7IEcFOOxFFi7g/9uVcsvRoBln9DZDHgSxrWvyj7EO1Su9l2yH1pat2oO8",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/8J7jazwJpNqZHxr5J7y6hg/L2olDnXnKWBZoXEvRG8iUY9lGGTs-DlP6Rurcaztijmdmg91Y_JUZ-CyjywCz6M-3o5lkJzZyEV8dELmdbCq7zDtEbmA-njCaI5XBVNzoiB8wEj5nYKTIrwACVpLfaSvTmUPW2u984om8rASiTS52g/LSy6WVG9cGekoEnM_Va0vRSUxusM_Cd7JD14Yfn4lGs",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/utRv85mO8Rw6yWcPp4WUgw/55tE4l5RJ7pRLZpUkbr1V3xi4eco5gH9pR33u3q1ggNsDZpwBm6C1VMdcWTSns6cqNl72gDQcyk4GXpFhg7T3pVGjslvigcIA0ZE1oQSuXDP-N06PQOH2R79AUusBiwg6LYxbzOBZyx9c6keBoUhDQ/2rWUcvGXPwZdtVLdjyeyBqZ8dutrGRnWGhbpjOL-RMM",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null,
+    "contact": "mzettersten@ucsd.edu\n"
   },
   {
     "id": "recQ4AoeIIpDlNdJz",
@@ -469,34 +179,8 @@
     "type": "Spin-off",
     "status": "Preparing for data collection",
     "leads": [],
-    "logo": [
-      {
-        "id": "attdNhR0EEL6tuFWp",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/NPJykoXkN952UMzeZMv6iQ/M4FAqkDp60izXMK-0jUAhOX5riVZI2tOEaSY0nxbG-HKdaGMJ8ZV8mSNwOA7J4YlMfdl5blbiA7n_dvmrweI8iA6_6YtwJBZnptRvNYLMX3eTAad6bZIJGmAd1TzeF1ytM87boW1aXxdFnzniPULHQ/1pqwTnZM4oFsuBKVYugtvCvuoOk0p1I9-fHMQ4K0w0Q",
-        "filename": "MB5_logo.png",
-        "size": 159818,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/W0fnShDrmEVp95kqmBlEQQ/iyewdyVp-g4hG9tZI6-WAVpFfiaEB-UB-zKmOksOlswGsvykLEQNEyD3082mjk8WndtVKNQmjJYrS-tWjVotN5r83l4NpHpINesfaKkySChYnFDEdCYcNaU8_lCDksVAFWPl5ESa_7IEcFOOxFFi7g/9uVcsvRoBln9DZDHgSxrWvyj7EO1Su9l2yH1pat2oO8",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/8J7jazwJpNqZHxr5J7y6hg/L2olDnXnKWBZoXEvRG8iUY9lGGTs-DlP6Rurcaztijmdmg91Y_JUZ-CyjywCz6M-3o5lkJzZyEV8dELmdbCq7zDtEbmA-njCaI5XBVNzoiB8wEj5nYKTIrwACVpLfaSvTmUPW2u984om8rASiTS52g/LSy6WVG9cGekoEnM_Va0vRSUxusM_Cd7JD14Yfn4lGs",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/utRv85mO8Rw6yWcPp4WUgw/55tE4l5RJ7pRLZpUkbr1V3xi4eco5gH9pR33u3q1ggNsDZpwBm6C1VMdcWTSns6cqNl72gDQcyk4GXpFhg7T3pVGjslvigcIA0ZE1oQSuXDP-N06PQOH2R79AUusBiwg6LYxbzOBZyx9c6keBoUhDQ/2rWUcvGXPwZdtVLdjyeyBqZ8dutrGRnWGhbpjOL-RMM",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null,
+    "contact": "mb5@manybabies.org\n"
   },
   {
     "id": "recQfWfFrz6Qb4laY",
@@ -511,34 +195,8 @@
       "Francis L. Yuen",
       "J. Kiley Hamlin"
     ],
-    "logo": [
-      {
-        "id": "att5gmDfYwqwOGr5w",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/iCwSH50OHffr9MEyMNd5ZQ/abfJoun0V4eOigDIKvZ1tAIdsT4yGRf34DlrciEEVDxHsLGRmz6n6QiMJcajx-p8caCCeHl7QB13G8Kgr4k8vddH2YLWHQktCo0WXjannt5VFkc7qZbd4yLqrDqOOSvMgeWXsYtcwcubOUFCsYGB3w/n6zSb6RjKTcIDzG7WaZLGQltZApN8uUgy57911DzOxQ",
-        "filename": "MB4_logo.png",
-        "size": 125113,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/dwKonPVLxrUfSTI9V094Sg/DBqniRSe5PJu5V6hmaqv1TxR1IzyNgicQwsLjZRL-ozFYrQQX4E2DfYU6w4W-mjh62owIrWNfCT8XBywbCrwBoyi8mQAcA3ZizfassLnyHPNVLayvHI20oDwlboXmjJnuAlJvmlA1h5f4x6iYBSuig/cirQc6woJqWT7KWqnzTo8BvexYIY36hnACCHMDx0dro",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/zYliD7UWsX6_MoTzWlADgg/RyeCB2XCjpkjuRzGG_PKAUFbaeO185oxEsCchWLFeXJcUE920_V3IBJUbTrKXM74tQfh9rIIaARInRQlB5ybzqeCzStaJjiZbxyfq6pPqfsZCib814QFa6OQokrTqK6yEC19Nu0TncxDdl7moBJ-1g/asOqs6RjWGktr7IP6Xa7v1oNrX2YU-cOfX89KlRcIWA",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/2vBpn_e5svRmhfeBVeZI3A/_zs3McB-EEsOfiZ-SQRUP-gAWo0FRPz2mH-iuXAwFDDLf5pZmZ1PHyCv4zGoa23XqUm_lVV_zHMHn7wJe71FNuVqOEzudmJybrw0ppq_KtIWs1WXmQdYd87fhZt73uK24Q_2b_I429I08xhe4DRCJA/qBnNscEKwNtV-qrb0IuiSGQx0gdd8Ikyk0dxbp4lpgI",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": "/assets/img/mb4-logo.png",
+    "contact": "- francis.yuen@psych.ubc.ca\n- klucca@asu.edu\n"
   },
   {
     "id": "recQuad8F2DWIkPpY",
@@ -551,34 +209,8 @@
     "leads": [
       "Krista Byers-Heinlein"
     ],
-    "logo": [
-      {
-        "id": "att6H4GozsTCFD7pg",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/H_rg5U0iCwYDzpVT4mNA4Q/e3vIm2d4GtaHRsGfzu-uI9qYMfQgcrHY41UAIJtIx_RYJlk_gtyNsuXJXrmcEkRRM7t1KFOYN39eOUVM8yzeHBO_qFcMOdquR6dKmfDc_w3BNPoIje1UL8kHiPmQlY0N6UrHgCtVi-sMqeu58Ax8Ag/tGCDk4s9V-2n2DO2IJ4RmaesHbgLo4J9_btay8ojeZk",
-        "filename": "MB1_logo.png",
-        "size": 175576,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/9n8o1i2a-w1H0HYd3TVaMA/EeEtWlcUefM7jteh93xIBqBTx0pZDsxNsrz317wk88woVEg3FEwUkHPn5ei4sjOUpCECpsRQkhIBCR-IfzkY_Auass1Go64EnLwyXGvwQ7FBvAcBz82fV_9ucZF3NVuY6M6ERZJNOvLdSaUFaRBWGg/tDavW6HSuVSanvQGFzyy5YYHqKk68EM9-R9NilL8Qyo",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/TtSgxWqZT796uTRSWFDAWw/-FirPFF8HNSl_Mw92RPsJZ_2BJHBRmncaYDJRN-jED2DVq4VaoHSJ42aFUZhPuh4Elb51NdGW9zFZYjjDOfMK8fzPWDJNhagJgG1EH60zKXKeiPhR8qwhSEJwJavA8JJcFm7sf3gOO9-ddnAhOyjvA/avyCP1x8qTTxWuEKNbkN5S6oymKRe2mEN4ZHWNQA0Zg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/5oTqHNIbPAcULW1IjX12kA/zDzkGZDvBiC-6yaatQz7EY7grmOX8BAJZkUk6r98t9Da1wyi9XCelfgSdWaLdr9ZNQBT7Q4_n0qBD3A4_D4gZA570Cn_Z1_fZKvDd7jLfFV7JxJzZ_2CuQNlQIp72rJ6ZVpTP0OGyLWG6kklWjlE4g/XpOrMZQue1kudrYQUtlRinI5NkOVmn1GxnwKwzb80Iw",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null,
+    "contact": "K.Byers@concordia.ca\n"
   },
   {
     "id": "recSC9tDMb88OGQ0t",
@@ -594,34 +226,7 @@
       "Christopher M. M. Cox",
       "Maya B. Mathur"
     ],
-    "logo": [
-      {
-        "id": "att6H4GozsTCFD7pg",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/H_rg5U0iCwYDzpVT4mNA4Q/e3vIm2d4GtaHRsGfzu-uI9qYMfQgcrHY41UAIJtIx_RYJlk_gtyNsuXJXrmcEkRRM7t1KFOYN39eOUVM8yzeHBO_qFcMOdquR6dKmfDc_w3BNPoIje1UL8kHiPmQlY0N6UrHgCtVi-sMqeu58Ax8Ag/tGCDk4s9V-2n2DO2IJ4RmaesHbgLo4J9_btay8ojeZk",
-        "filename": "MB1_logo.png",
-        "size": 175576,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/9n8o1i2a-w1H0HYd3TVaMA/EeEtWlcUefM7jteh93xIBqBTx0pZDsxNsrz317wk88woVEg3FEwUkHPn5ei4sjOUpCECpsRQkhIBCR-IfzkY_Auass1Go64EnLwyXGvwQ7FBvAcBz82fV_9ucZF3NVuY6M6ERZJNOvLdSaUFaRBWGg/tDavW6HSuVSanvQGFzyy5YYHqKk68EM9-R9NilL8Qyo",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/TtSgxWqZT796uTRSWFDAWw/-FirPFF8HNSl_Mw92RPsJZ_2BJHBRmncaYDJRN-jED2DVq4VaoHSJ42aFUZhPuh4Elb51NdGW9zFZYjjDOfMK8fzPWDJNhagJgG1EH60zKXKeiPhR8qwhSEJwJavA8JJcFm7sf3gOO9-ddnAhOyjvA/avyCP1x8qTTxWuEKNbkN5S6oymKRe2mEN4ZHWNQA0Zg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/5oTqHNIbPAcULW1IjX12kA/zDzkGZDvBiC-6yaatQz7EY7grmOX8BAJZkUk6r98t9Da1wyi9XCelfgSdWaLdr9ZNQBT7Q4_n0qBD3A4_D4gZA570Cn_Z1_fZKvDd7jLfFV7JxJzZ_2CuQNlQIp72rJ6ZVpTP0OGyLWG6kklWjlE4g/XpOrMZQue1kudrYQUtlRinI5NkOVmn1GxnwKwzb80Iw",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null
   },
   {
     "id": "recSTZTL277eUdZPp",
@@ -635,34 +240,8 @@
       "Leher Singh",
       "Mihaela D. Barokova"
     ],
-    "logo": [
-      {
-        "id": "attJ2f4W4OKhhKix0",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/ywyPzppHoV5kgPzJOG7JPg/1lJP9aL_WcXWKwSIH2nQaBWfY7_GkGm82yT-FE8P-8oMSLmI5t8oaSaF4meQiPwpzIwwpnw9iRIIWm1nIYC83m9_vUfR_88QkXGY2cnwoACpTBukcX9uspXwRfK84RWj3KBBSTOKOkciWuj20QUg_w/WNtNedMa5fH-XimLS0Dfg_iLohzxYyoGd-Aca9iztgU",
-        "filename": "MBDemo_logo.png",
-        "size": 110324,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/MuTfFSJrHFXy3gpEizYdRQ/YiVm3he_mxSKj9ZlVtXig6WVxVJ4oQ4yQWI_QRYcwhgfUrvSvxt8ZA0JPDaKUMVOwpuYmmOQQlurpy3z7adnh7OU_ck_tJqN-Stu5OAvjwJ_R79F6x7krFkp3QpQFS6zvH8nhcyYvipIu_FR-h0aCQ/qOmP7WNye2TFT4_0sEe0svs53juIesPlIR1Kba9-T_w",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/ZlgXTkHV1jNuWg_zWco7Xg/ve0LcDiFsMjGiMarFl5x9-oHuLoQZ0JFuVTf7LTrRKbLDy6IIigUfgJ6LMqxHtY-cMXlWWa8KVwiC7L_7o_HAd-VJm1i0K915Tt3p0C3cHW9l6t_4HQfjOG0t5bYrMGH98EGLV-_lmTHT5k-YWKalQ/QEibDVnFsvgTB02aFOrM3VMx5zbJrxVUBg9WN4QVtbk",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/e5YCKXbe_GdHSsYlb9EtmA/Wl5UFgZy2G7a0G1Ok27hu4BoakMgdDjJJymLE6rzxXH51jqnrPFMoUHppCo5yMBKEgOHQb3QCw_NbOMaIKZkiVbKwq94JTZUTenE2VinRHGKq-sAVz52W0_J92dI0RElMDsP2F9WblVJY4Po3xAdMw/iSC0BcDWosxNxgBrRtJ67bEx-cI6M4obnLHag7ZqHhc",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": "/assets/img/mbdemo-logo.png",
+    "contact": "leher.singh.nus@gmail.com\n"
   },
   {
     "id": "recT4oZicG8sVJm89",
@@ -672,34 +251,8 @@
     "type": "Network",
     "website": "manybabies.org",
     "leads": [],
-    "logo": [
-      {
-        "id": "attji86vhe3T86Ar2",
-        "width": 767,
-        "height": 767,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/OH1AFF52FI6zbuE9cFvYJg/VQx7KxAWCTLR7ua_-TcvRGIBCjgP7kerFOkuVXg_y2ZxrBekzrKKr72WgXfwcVHjztjanClvdBJo6IsGcwsPYhsgfnOQU4l36rcGHAKfAQ_dx8ZyzMr7j54YnvrRrF0jznYNfRjREl4-T8rWrh1Bdpw9maiTFwsAZsu200p46cw/V7shwlnsjxjm4Y47iAwlUIdYB-7mVgJoHGDr2rm5Igs",
-        "filename": "avatar-icon-2022.png",
-        "size": 236921,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/6wlsoUB31IHbBBNOM37QEQ/KYddakZ4hv8Om3M9zBVSzXOx3wFKU8k06utGGOMMec6X25UY2if9Fksky-SjVqe3lzkn113yLL3NR_kcgbg-7lOdskPNoPXS4eeXEs9OaAR3I3kaMg9xKdJFspzhHgx383Pm_KVlgQlgGTaoLSOY4Q/aiLp8tGQPvun1naJ19LQoghcWQm3tb_CwZLeLCnI3eE",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/y-OXV1dCjAXwmQYqzq-glw/Ng3j87ZFGIbqa7-s4Lg07yfcG7_d-xLPdP460Deo9FSJ538d8Lj0SEgTmvYXZe_2fZF33SmQwaCTDSoT_l3LJ1UGJq0Ttdm8zACbh-6wfYuCjBP4G0lSS9-ryG_UoOghn3zL-5QUPcOoHgN6YI4gtg/MSs7yAa-J2aTNVKaX4MiW5IR6NITzOqe3GNe2hA-O1o",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/xP27ixtk9y235RT0nkbkWA/04pgVncFGHWv2HQlztjhorPRmqwUFq68qTSq3ujnbFbuE5XZXHq5IAajRP_d5erlNHE3CwCuEwyJUULVdqKkYtxBrjO3LB0_ZqDmiC-ihKxpgXUCq8qd2qsaMc_R9gH3JNPc4tnULZ9V_l8zhAZ74g/LiVTznIKzvs1WKHt-kVTg9hvI2ITXbpIxtqkWaIIwDw",
-            "width": 767,
-            "height": 767
-          }
-        }
-      }
-    ]
+    "logopath": null,
+    "contact": "contact@manybabies.org\n"
   },
   {
     "id": "recUqcSLkl3Al1NnT",
@@ -712,34 +265,8 @@
     "leads": [
       "Melanie S. Schreiner"
     ],
-    "logo": [
-      {
-        "id": "att6H4GozsTCFD7pg",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/H_rg5U0iCwYDzpVT4mNA4Q/e3vIm2d4GtaHRsGfzu-uI9qYMfQgcrHY41UAIJtIx_RYJlk_gtyNsuXJXrmcEkRRM7t1KFOYN39eOUVM8yzeHBO_qFcMOdquR6dKmfDc_w3BNPoIje1UL8kHiPmQlY0N6UrHgCtVi-sMqeu58Ax8Ag/tGCDk4s9V-2n2DO2IJ4RmaesHbgLo4J9_btay8ojeZk",
-        "filename": "MB1_logo.png",
-        "size": 175576,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/9n8o1i2a-w1H0HYd3TVaMA/EeEtWlcUefM7jteh93xIBqBTx0pZDsxNsrz317wk88woVEg3FEwUkHPn5ei4sjOUpCECpsRQkhIBCR-IfzkY_Auass1Go64EnLwyXGvwQ7FBvAcBz82fV_9ucZF3NVuY6M6ERZJNOvLdSaUFaRBWGg/tDavW6HSuVSanvQGFzyy5YYHqKk68EM9-R9NilL8Qyo",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/TtSgxWqZT796uTRSWFDAWw/-FirPFF8HNSl_Mw92RPsJZ_2BJHBRmncaYDJRN-jED2DVq4VaoHSJ42aFUZhPuh4Elb51NdGW9zFZYjjDOfMK8fzPWDJNhagJgG1EH60zKXKeiPhR8qwhSEJwJavA8JJcFm7sf3gOO9-ddnAhOyjvA/avyCP1x8qTTxWuEKNbkN5S6oymKRe2mEN4ZHWNQA0Zg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/5oTqHNIbPAcULW1IjX12kA/zDzkGZDvBiC-6yaatQz7EY7grmOX8BAJZkUk6r98t9Da1wyi9XCelfgSdWaLdr9ZNQBT7Q4_n0qBD3A4_D4gZA570Cn_Z1_fZKvDd7jLfFV7JxJzZ_2CuQNlQIp72rJ6ZVpTP0OGyLWG6kklWjlE4g/XpOrMZQue1kudrYQUtlRinI5NkOVmn1GxnwKwzb80Iw",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null,
+    "contact": "melanie.schreiner@psych.uni-goettingen.de\n"
   },
   {
     "id": "recXetBIy5suiUK5t",
@@ -752,34 +279,7 @@
     "leads": [
       "Anna Exner"
     ],
-    "logo": [
-      {
-        "id": "attHzrljSNiOpYl0V",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/3hslaQlwC-Ey5e47Swnq9w/Zx-9SbaGMBRgQcpooSzgBpA9NFI2KhlTkHFwhZUCtdqiF7mhV5omClMP_9zQWxTDjwH8hwdXMliDjz2OXYHBl7P1c9IZs0mljwIL4b95dSntG8Z4P60KZAqsOMUUjI3fb-eaONasfArnJXpd1-OE9w/UbUayt-1STvWwTTMuUPKTJEBiMHgci-j7Nswuq27WLs",
-        "filename": "MB3_logo.png",
-        "size": 151384,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/ysUJJ8_Nq4JiUOCygTc93g/FGrIuOhnk6pLApx6SA2qEFhJqHrtInx9JrPvhjgMgocuNhjHaYF9LSoCPcyvHw7uWcWpFrFHKoovpTbn0szK83chT9fSXuH1DD91AKzoUC5gy06CrDEKoHJEWA9QNO5cKw3TXT4fmvDO9_69xISHvg/q51QHRXYYU2xQWIY-MxPlmrrWTop89zXxCNdz1UxPXQ",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/rbPBOB3HZwaX5szsrbTwVg/AyS63eywRzLSe3e_1xFaj31pVz_cW6dgVebWFszx0HR3GPc6PCLLW2ZDrYXPWgV4zXgbClawYIIljYmEPhvLPC-LkTJ66YAsn6QyZPHvhYiTGWmTi24ctgzAvOzWZ-HXjJkXl2MdSJP_JImGKgmh_w/xRHrlMiEeUN35PVyfxDkBNCNuzrCn-R3ZyOvH5qKnWk",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/4KlD1Cb0VPWGKaASmsmtaQ/gFR_gR2J-NBvQSzhFaAHvDki-Kd6n8I4DL4Vx1ifi1DJtGcdi44otoRLehFjZpMIcvDz3p9jkLjIzlmbuyXUfrvimJd-hpIaGjE-_NzUse-Kypr_iuV8hZf26tMNkxm4Zq2pCfEjW8qSYhLENupbXA/eIM_FbjN5dpZQGvz0911I273EDtY9h0VAhiwI0d-PPA",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null
   },
   {
     "id": "reccAENstvLoMPEyw",
@@ -793,34 +293,7 @@
       "Marlene Försterling",
       "Robert Hepach"
     ],
-    "logo": [
-      {
-        "id": "att5gmDfYwqwOGr5w",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/iCwSH50OHffr9MEyMNd5ZQ/abfJoun0V4eOigDIKvZ1tAIdsT4yGRf34DlrciEEVDxHsLGRmz6n6QiMJcajx-p8caCCeHl7QB13G8Kgr4k8vddH2YLWHQktCo0WXjannt5VFkc7qZbd4yLqrDqOOSvMgeWXsYtcwcubOUFCsYGB3w/n6zSb6RjKTcIDzG7WaZLGQltZApN8uUgy57911DzOxQ",
-        "filename": "MB4_logo.png",
-        "size": 125113,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/dwKonPVLxrUfSTI9V094Sg/DBqniRSe5PJu5V6hmaqv1TxR1IzyNgicQwsLjZRL-ozFYrQQX4E2DfYU6w4W-mjh62owIrWNfCT8XBywbCrwBoyi8mQAcA3ZizfassLnyHPNVLayvHI20oDwlboXmjJnuAlJvmlA1h5f4x6iYBSuig/cirQc6woJqWT7KWqnzTo8BvexYIY36hnACCHMDx0dro",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/zYliD7UWsX6_MoTzWlADgg/RyeCB2XCjpkjuRzGG_PKAUFbaeO185oxEsCchWLFeXJcUE920_V3IBJUbTrKXM74tQfh9rIIaARInRQlB5ybzqeCzStaJjiZbxyfq6pPqfsZCib814QFa6OQokrTqK6yEC19Nu0TncxDdl7moBJ-1g/asOqs6RjWGktr7IP6Xa7v1oNrX2YU-cOfX89KlRcIWA",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/2vBpn_e5svRmhfeBVeZI3A/_zs3McB-EEsOfiZ-SQRUP-gAWo0FRPz2mH-iuXAwFDDLf5pZmZ1PHyCv4zGoa23XqUm_lVV_zHMHn7wJe71FNuVqOEzudmJybrw0ppq_KtIWs1WXmQdYd87fhZt73uK24Q_2b_I429I08xhe4DRCJA/qBnNscEKwNtV-qrb0IuiSGQx0gdd8Ikyk0dxbp4lpgI",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null
   },
   {
     "id": "reccTsj33msyHzp7T",
@@ -838,34 +311,8 @@
       "Michael C. Frank",
       "Maya B. Mathur"
     ],
-    "logo": [
-      {
-        "id": "att6H4GozsTCFD7pg",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/H_rg5U0iCwYDzpVT4mNA4Q/e3vIm2d4GtaHRsGfzu-uI9qYMfQgcrHY41UAIJtIx_RYJlk_gtyNsuXJXrmcEkRRM7t1KFOYN39eOUVM8yzeHBO_qFcMOdquR6dKmfDc_w3BNPoIje1UL8kHiPmQlY0N6UrHgCtVi-sMqeu58Ax8Ag/tGCDk4s9V-2n2DO2IJ4RmaesHbgLo4J9_btay8ojeZk",
-        "filename": "MB1_logo.png",
-        "size": 175576,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/9n8o1i2a-w1H0HYd3TVaMA/EeEtWlcUefM7jteh93xIBqBTx0pZDsxNsrz317wk88woVEg3FEwUkHPn5ei4sjOUpCECpsRQkhIBCR-IfzkY_Auass1Go64EnLwyXGvwQ7FBvAcBz82fV_9ucZF3NVuY6M6ERZJNOvLdSaUFaRBWGg/tDavW6HSuVSanvQGFzyy5YYHqKk68EM9-R9NilL8Qyo",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/TtSgxWqZT796uTRSWFDAWw/-FirPFF8HNSl_Mw92RPsJZ_2BJHBRmncaYDJRN-jED2DVq4VaoHSJ42aFUZhPuh4Elb51NdGW9zFZYjjDOfMK8fzPWDJNhagJgG1EH60zKXKeiPhR8qwhSEJwJavA8JJcFm7sf3gOO9-ddnAhOyjvA/avyCP1x8qTTxWuEKNbkN5S6oymKRe2mEN4ZHWNQA0Zg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/5oTqHNIbPAcULW1IjX12kA/zDzkGZDvBiC-6yaatQz7EY7grmOX8BAJZkUk6r98t9Da1wyi9XCelfgSdWaLdr9ZNQBT7Q4_n0qBD3A4_D4gZA570Cn_Z1_fZKvDd7jLfFV7JxJzZ_2CuQNlQIp72rJ6ZVpTP0OGyLWG6kklWjlE4g/XpOrMZQue1kudrYQUtlRinI5NkOVmn1GxnwKwzb80Iw",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null,
+    "contact": "mcfrank@stanford.edu\n"
   },
   {
     "id": "recd6S0C8x4BQyQ4G",
@@ -876,34 +323,7 @@
     "status": "Design",
     "website": "manybabies.org/MB-AtHome",
     "leads": [],
-    "logo": [
-      {
-        "id": "attUPEcCHZFhZXeji",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/Ivf0wK5N2i4EZ24IMrScYg/DHCoA7X2g5Ma4mfj6kXmFM5QHOGqCCYMSQQqUyxR_uydZbKj4RRPY_YsyZ8pRSvCpjLtVXxsw7GCdCcwu17UAPV8GFnEmTkWW7_si9TgZHThwt8SZI62yjGkBFpnM-3BbB6xaJom2cxnNHJc_BUkSA/362cvoGVtp8hOuaePe4Rh8m2AO1Ka3Eh-LDHWELHKtc",
-        "filename": "MBAH_logo.png",
-        "size": 169110,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/Y5L3AlvWcenAlid-Nb5MRA/v60lKjZmQRNYJIaelF6ohHPHLsWWbWL9tGKfiozVBaA-fXj_nG1Wqpejt-5FpOxk4k6Lvao-jPu2ZEHQfIWPKe17JyFEnHDe2OEryA91RQIe2C3WpT0sCP70dtEUaEfqOFkNTvEmzPk5-nt2uUbrRQ/GLLeYr2v11RSGYGxo2aUt89stE27-BysA-X1KJC9j5c",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/JJCysS9x23sfBOIntdw4Rg/Vzk8WVlKfOBCcGVe98usfGC7puZdFcri8grSilbCHwz2Fgc2RHkm_oNAlAr30lce1jKcCPi25VfATILrYsE5_au_Nx9ay68bgsIMrlA7agwLYgZB7xVpnwB9m6gR_MUjUlFMVle0nJ_vH1L6QCf9ow/T9viLQjPQ_G6l2YRdtiFOScnbOkuUcaC2crTwf2xXSY",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/StsWKZXhhvznmyP3YN8OPw/U1kiuTrPxRgfE--5AjvwjKALWiCOxiCFmoIVBNJItKmAWSHYyDVZ1bJMDA3SMOw2r8F4cr2aqTS1GI6xri4wgl0Nq6tonWUO2ATRgsWeQLwU7Ipu2H4TK5yechZ3LDE_lJ-lU5bja7Atx_aDlTT8mQ/kdw-i5-SAuv7gMLg4QMF5YSauEByggXttoaGr3kRjxY",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null
   },
   {
     "id": "rechdhxdAZ4MaeRZd",
@@ -916,34 +336,8 @@
     "leads": [
       "Charisse B. Pickron"
     ],
-    "logo": [
-      {
-        "id": "attSRSBeiW7WQiLhJ",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/-r08Yphfkc618SJ7td417w/x7MoPwJ6T0qTQdyHczzBtQnhnjkNcv0RxT-o02P3HcwgJ2Xid8v8FkQQWoahyFM9eCrqm7_xt8iVt_joKa8Avp6VQeAzGtIWeyhIfid67ZQ6a2N054s43dKsM6KX4941T5QfsGifFYn9z5tOVl1r70A9CjMCxpSPDLFqNFkBD2g/GBj-aWUFVVF4mx6h2DR2SLTgWD7-eZK7YJm2Ay4p8G0",
-        "filename": "mb9-logo.png",
-        "size": 162748,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/eVz2xt0S46zD-yM6auVm9A/oIrjysDGASjnkFEqjxbnDxXQ9luuNF6U7KcB5jKwxWEUiDc_fkB41UbWqLRbDtSSdJu9LkD9fcRJQPNfdXYLc8sGtC-LAF2wSTTfMgHyAWXyDMJqbIydjLuU8JY3755r3nvcQC2Aiq1NI49DI2Q_sA/1ynhl0OKpjUrzLXuV9mc5IE5-inX8E6QCAI4csj9hzA",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/Ct4fa2HY98GaMONahSyKXg/_vmpLfqxZ4Fc6GhVqQyZBm-44REvI4NgugmiWCxONHycg7hyI0fq8pa8dc5MpBTQavJmfy4IHafud5ny4_zK1P3cHx8W3IfgIKJTKqfEsAoZMOQzPu-dg01WW2fnrkIrgYTOw_1Q0Uk0r9Mo7tUklA/A2T53a2yCgBwYGrFf7uOG1_m8CYvFM0udOzkjQ1vJoM",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/50tUSfQVoRFcGqcBVXtGNg/Mwc_mkZMuqJWo3FQSNWbtBY4118fb6UEowyLYDSuO-RsT1jmF7FLfQ0AVqI-qPLK85b12jIU1t0d7MXTp-wJAm8D6Bqv9vV4NJBrrb3MJgpHUfRTb9knxvwxvQwFpbfrxHW4h_ziRUOHeWkRwvBo0A/yqkhuF5teQNN3Mywnp9I1zy-zRIeFaOrXSDuDOmgQ5k",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": "/assets/img/mb9-logo.png",
+    "contact": "mb9@manybabies.org\n"
   },
   {
     "id": "reciiskNTf2e5tPGW",
@@ -956,34 +350,7 @@
     "leads": [
       "Melissa Kline Struhl"
     ],
-    "logo": [
-      {
-        "id": "att6H4GozsTCFD7pg",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/H_rg5U0iCwYDzpVT4mNA4Q/e3vIm2d4GtaHRsGfzu-uI9qYMfQgcrHY41UAIJtIx_RYJlk_gtyNsuXJXrmcEkRRM7t1KFOYN39eOUVM8yzeHBO_qFcMOdquR6dKmfDc_w3BNPoIje1UL8kHiPmQlY0N6UrHgCtVi-sMqeu58Ax8Ag/tGCDk4s9V-2n2DO2IJ4RmaesHbgLo4J9_btay8ojeZk",
-        "filename": "MB1_logo.png",
-        "size": 175576,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/9n8o1i2a-w1H0HYd3TVaMA/EeEtWlcUefM7jteh93xIBqBTx0pZDsxNsrz317wk88woVEg3FEwUkHPn5ei4sjOUpCECpsRQkhIBCR-IfzkY_Auass1Go64EnLwyXGvwQ7FBvAcBz82fV_9ucZF3NVuY6M6ERZJNOvLdSaUFaRBWGg/tDavW6HSuVSanvQGFzyy5YYHqKk68EM9-R9NilL8Qyo",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/TtSgxWqZT796uTRSWFDAWw/-FirPFF8HNSl_Mw92RPsJZ_2BJHBRmncaYDJRN-jED2DVq4VaoHSJ42aFUZhPuh4Elb51NdGW9zFZYjjDOfMK8fzPWDJNhagJgG1EH60zKXKeiPhR8qwhSEJwJavA8JJcFm7sf3gOO9-ddnAhOyjvA/avyCP1x8qTTxWuEKNbkN5S6oymKRe2mEN4ZHWNQA0Zg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/5oTqHNIbPAcULW1IjX12kA/zDzkGZDvBiC-6yaatQz7EY7grmOX8BAJZkUk6r98t9Da1wyi9XCelfgSdWaLdr9ZNQBT7Q4_n0qBD3A4_D4gZA570Cn_Z1_fZKvDd7jLfFV7JxJzZ_2CuQNlQIp72rJ6ZVpTP0OGyLWG6kklWjlE4g/XpOrMZQue1kudrYQUtlRinI5NkOVmn1GxnwKwzb80Iw",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null
   },
   {
     "id": "recjaanaxFOMIY3sf",
@@ -997,34 +364,8 @@
       "Michael C. Frank",
       "Melanie Soderstrom"
     ],
-    "logo": [
-      {
-        "id": "att6H4GozsTCFD7pg",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/H_rg5U0iCwYDzpVT4mNA4Q/e3vIm2d4GtaHRsGfzu-uI9qYMfQgcrHY41UAIJtIx_RYJlk_gtyNsuXJXrmcEkRRM7t1KFOYN39eOUVM8yzeHBO_qFcMOdquR6dKmfDc_w3BNPoIje1UL8kHiPmQlY0N6UrHgCtVi-sMqeu58Ax8Ag/tGCDk4s9V-2n2DO2IJ4RmaesHbgLo4J9_btay8ojeZk",
-        "filename": "MB1_logo.png",
-        "size": 175576,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/9n8o1i2a-w1H0HYd3TVaMA/EeEtWlcUefM7jteh93xIBqBTx0pZDsxNsrz317wk88woVEg3FEwUkHPn5ei4sjOUpCECpsRQkhIBCR-IfzkY_Auass1Go64EnLwyXGvwQ7FBvAcBz82fV_9ucZF3NVuY6M6ERZJNOvLdSaUFaRBWGg/tDavW6HSuVSanvQGFzyy5YYHqKk68EM9-R9NilL8Qyo",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/TtSgxWqZT796uTRSWFDAWw/-FirPFF8HNSl_Mw92RPsJZ_2BJHBRmncaYDJRN-jED2DVq4VaoHSJ42aFUZhPuh4Elb51NdGW9zFZYjjDOfMK8fzPWDJNhagJgG1EH60zKXKeiPhR8qwhSEJwJavA8JJcFm7sf3gOO9-ddnAhOyjvA/avyCP1x8qTTxWuEKNbkN5S6oymKRe2mEN4ZHWNQA0Zg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/5oTqHNIbPAcULW1IjX12kA/zDzkGZDvBiC-6yaatQz7EY7grmOX8BAJZkUk6r98t9Da1wyi9XCelfgSdWaLdr9ZNQBT7Q4_n0qBD3A4_D4gZA570Cn_Z1_fZKvDd7jLfFV7JxJzZ_2CuQNlQIp72rJ6ZVpTP0OGyLWG6kklWjlE4g/XpOrMZQue1kudrYQUtlRinI5NkOVmn1GxnwKwzb80Iw",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": "/assets/img/mb1-logo.png",
+    "contact": "M\\_Soderstrom@umanitoba.ca\n"
   },
   {
     "id": "reck2oIwbge2U2D5H",
@@ -1038,34 +379,7 @@
       "Anna Exner",
       "Ingmar Visser"
     ],
-    "logo": [
-      {
-        "id": "attHzrljSNiOpYl0V",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/3hslaQlwC-Ey5e47Swnq9w/Zx-9SbaGMBRgQcpooSzgBpA9NFI2KhlTkHFwhZUCtdqiF7mhV5omClMP_9zQWxTDjwH8hwdXMliDjz2OXYHBl7P1c9IZs0mljwIL4b95dSntG8Z4P60KZAqsOMUUjI3fb-eaONasfArnJXpd1-OE9w/UbUayt-1STvWwTTMuUPKTJEBiMHgci-j7Nswuq27WLs",
-        "filename": "MB3_logo.png",
-        "size": 151384,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/ysUJJ8_Nq4JiUOCygTc93g/FGrIuOhnk6pLApx6SA2qEFhJqHrtInx9JrPvhjgMgocuNhjHaYF9LSoCPcyvHw7uWcWpFrFHKoovpTbn0szK83chT9fSXuH1DD91AKzoUC5gy06CrDEKoHJEWA9QNO5cKw3TXT4fmvDO9_69xISHvg/q51QHRXYYU2xQWIY-MxPlmrrWTop89zXxCNdz1UxPXQ",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/rbPBOB3HZwaX5szsrbTwVg/AyS63eywRzLSe3e_1xFaj31pVz_cW6dgVebWFszx0HR3GPc6PCLLW2ZDrYXPWgV4zXgbClawYIIljYmEPhvLPC-LkTJ66YAsn6QyZPHvhYiTGWmTi24ctgzAvOzWZ-HXjJkXl2MdSJP_JImGKgmh_w/xRHrlMiEeUN35PVyfxDkBNCNuzrCn-R3ZyOvH5qKnWk",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/4KlD1Cb0VPWGKaASmsmtaQ/gFR_gR2J-NBvQSzhFaAHvDki-Kd6n8I4DL4Vx1ifi1DJtGcdi44otoRLehFjZpMIcvDz3p9jkLjIzlmbuyXUfrvimJd-hpIaGjE-_NzUse-Kypr_iuV8hZf26tMNkxm4Zq2pCfEjW8qSYhLENupbXA/eIM_FbjN5dpZQGvz0911I273EDtY9h0VAhiwI0d-PPA",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null
   },
   {
     "id": "reckeOosOFeQ5kwI7",
@@ -1083,34 +397,8 @@
       "Hanna Schleihauf",
       "Martin Zettersten"
     ],
-    "logo": [
-      {
-        "id": "attbk1THikLrRjRHs",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/-FCzg6Y2QLiAafGwD9Pjpw/zyFNAoiFPeUc4i31Qf44-0_a0ujxGev9eYuDaH0M6XyNLVHzvbNWXPOFx2okepwbbqKcsq1gBWxIsy8XOFugiPtf2PeWMoxyhmvOagwJTicEEcPfgpj7CoyimH0-CdSDuXl-naozacR_h8cNpWI52lQk-T6W_OIK-RLJusKR0qs/4RNQj6hfy849cokOwNCp7pZmoV1USivLRTM-GxfWtbU",
-        "filename": "mb7-logo.png",
-        "size": 197454,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/sLhBu2jck1fl0uNMstORvw/v4HmN_URQFbw59l44cWyvzpYWkh45oa2jwPWrKgWqeXjk64rBFY08VA42S9IVtj0aiA9PKijaHIPaCdLAl2GKUSBMa4QfI_E0nIow-FXvrEbmHoTeZSytMsAv18p8s7R-iALZ46905DBDiuS8kuM5g/V7HF2B2lsaCRrm6ZYKK0DqPPYwraKG4eV4H7bPLH5Vo",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/02ER59SpvehI9CYU8GTdKw/6lZ-_PbB9z_f3UQYqX-UP0oHx-vAGJABKWR66BdeZDZgS0myqvTvQQU3xjaf5Umx5x0TwH4dbjL-ez4_dWV54WxUATwCArjf7nfxpsBwsezRWg1go2omAfyCcReHLS8c_pti6EKzY9AUNr7bf3TnYQ/MTIutTe-FROioOVKs7KQlc5MyQappjy2_3BOi6Lbf0g",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/Ch0hGyxjxv-Jg1Tfs6wJkw/6sxAexomFW_UdG1Bm6xG0S_ZhZhkvezAJ4b7N3hZxQkCxuwuFnWP7z9FOMtxCKF2iGSC107-1USGqu-q_jhEb-4JYBmpTQQoP3gD5FtWtJoO0jcUXVEPl0NVQG62ANKpwhSB2A_KRy3CNUT9NPnK_w/Qbod8iAU68-MDTN7D9L6XaKl3Ctlzf5mr04i6dKxxqY",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": "/assets/img/mb7-logo.png",
+    "contact": "mb7@manybabies.org\n"
   },
   {
     "id": "recknyuxweQNDGinI",
@@ -1125,34 +413,8 @@
       "Rajalakshmi Madhavan",
       "Katie Von Holzen"
     ],
-    "logo": [
-      {
-        "id": "attUPEcCHZFhZXeji",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/Ivf0wK5N2i4EZ24IMrScYg/DHCoA7X2g5Ma4mfj6kXmFM5QHOGqCCYMSQQqUyxR_uydZbKj4RRPY_YsyZ8pRSvCpjLtVXxsw7GCdCcwu17UAPV8GFnEmTkWW7_si9TgZHThwt8SZI62yjGkBFpnM-3BbB6xaJom2cxnNHJc_BUkSA/362cvoGVtp8hOuaePe4Rh8m2AO1Ka3Eh-LDHWELHKtc",
-        "filename": "MBAH_logo.png",
-        "size": 169110,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/Y5L3AlvWcenAlid-Nb5MRA/v60lKjZmQRNYJIaelF6ohHPHLsWWbWL9tGKfiozVBaA-fXj_nG1Wqpejt-5FpOxk4k6Lvao-jPu2ZEHQfIWPKe17JyFEnHDe2OEryA91RQIe2C3WpT0sCP70dtEUaEfqOFkNTvEmzPk5-nt2uUbrRQ/GLLeYr2v11RSGYGxo2aUt89stE27-BysA-X1KJC9j5c",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/JJCysS9x23sfBOIntdw4Rg/Vzk8WVlKfOBCcGVe98usfGC7puZdFcri8grSilbCHwz2Fgc2RHkm_oNAlAr30lce1jKcCPi25VfATILrYsE5_au_Nx9ay68bgsIMrlA7agwLYgZB7xVpnwB9m6gR_MUjUlFMVle0nJ_vH1L6QCf9ow/T9viLQjPQ_G6l2YRdtiFOScnbOkuUcaC2crTwf2xXSY",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/StsWKZXhhvznmyP3YN8OPw/U1kiuTrPxRgfE--5AjvwjKALWiCOxiCFmoIVBNJItKmAWSHYyDVZ1bJMDA3SMOw2r8F4cr2aqTS1GI6xri4wgl0Nq6tonWUO2ATRgsWeQLwU7Ipu2H4TK5yechZ3LDE_lJ-lU5bja7Atx_aDlTT8mQ/kdw-i5-SAuv7gMLg4QMF5YSauEByggXttoaGr3kRjxY",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null,
+    "contact": "mbah1@manybabies.org\n"
   },
   {
     "id": "recmz56jpWuQqm8eW",
@@ -1167,34 +429,7 @@
       "Virginie Durier",
       "Melanie Soderstrom"
     ],
-    "logo": [
-      {
-        "id": "att6H4GozsTCFD7pg",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/H_rg5U0iCwYDzpVT4mNA4Q/e3vIm2d4GtaHRsGfzu-uI9qYMfQgcrHY41UAIJtIx_RYJlk_gtyNsuXJXrmcEkRRM7t1KFOYN39eOUVM8yzeHBO_qFcMOdquR6dKmfDc_w3BNPoIje1UL8kHiPmQlY0N6UrHgCtVi-sMqeu58Ax8Ag/tGCDk4s9V-2n2DO2IJ4RmaesHbgLo4J9_btay8ojeZk",
-        "filename": "MB1_logo.png",
-        "size": 175576,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/9n8o1i2a-w1H0HYd3TVaMA/EeEtWlcUefM7jteh93xIBqBTx0pZDsxNsrz317wk88woVEg3FEwUkHPn5ei4sjOUpCECpsRQkhIBCR-IfzkY_Auass1Go64EnLwyXGvwQ7FBvAcBz82fV_9ucZF3NVuY6M6ERZJNOvLdSaUFaRBWGg/tDavW6HSuVSanvQGFzyy5YYHqKk68EM9-R9NilL8Qyo",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/TtSgxWqZT796uTRSWFDAWw/-FirPFF8HNSl_Mw92RPsJZ_2BJHBRmncaYDJRN-jED2DVq4VaoHSJ42aFUZhPuh4Elb51NdGW9zFZYjjDOfMK8fzPWDJNhagJgG1EH60zKXKeiPhR8qwhSEJwJavA8JJcFm7sf3gOO9-ddnAhOyjvA/avyCP1x8qTTxWuEKNbkN5S6oymKRe2mEN4ZHWNQA0Zg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/5oTqHNIbPAcULW1IjX12kA/zDzkGZDvBiC-6yaatQz7EY7grmOX8BAJZkUk6r98t9Da1wyi9XCelfgSdWaLdr9ZNQBT7Q4_n0qBD3A4_D4gZA570Cn_Z1_fZKvDd7jLfFV7JxJzZ_2CuQNlQIp72rJ6ZVpTP0OGyLWG6kklWjlE4g/XpOrMZQue1kudrYQUtlRinI5NkOVmn1GxnwKwzb80Iw",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null
   },
   {
     "id": "recnrjs0S2cVNhPau",
@@ -1207,34 +442,8 @@
     "leads": [
       "Brianna T. M. McMillan"
     ],
-    "logo": [
-      {
-        "id": "attdNhR0EEL6tuFWp",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/NPJykoXkN952UMzeZMv6iQ/M4FAqkDp60izXMK-0jUAhOX5riVZI2tOEaSY0nxbG-HKdaGMJ8ZV8mSNwOA7J4YlMfdl5blbiA7n_dvmrweI8iA6_6YtwJBZnptRvNYLMX3eTAad6bZIJGmAd1TzeF1ytM87boW1aXxdFnzniPULHQ/1pqwTnZM4oFsuBKVYugtvCvuoOk0p1I9-fHMQ4K0w0Q",
-        "filename": "MB5_logo.png",
-        "size": 159818,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/W0fnShDrmEVp95kqmBlEQQ/iyewdyVp-g4hG9tZI6-WAVpFfiaEB-UB-zKmOksOlswGsvykLEQNEyD3082mjk8WndtVKNQmjJYrS-tWjVotN5r83l4NpHpINesfaKkySChYnFDEdCYcNaU8_lCDksVAFWPl5ESa_7IEcFOOxFFi7g/9uVcsvRoBln9DZDHgSxrWvyj7EO1Su9l2yH1pat2oO8",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/8J7jazwJpNqZHxr5J7y6hg/L2olDnXnKWBZoXEvRG8iUY9lGGTs-DlP6Rurcaztijmdmg91Y_JUZ-CyjywCz6M-3o5lkJzZyEV8dELmdbCq7zDtEbmA-njCaI5XBVNzoiB8wEj5nYKTIrwACVpLfaSvTmUPW2u984om8rASiTS52g/LSy6WVG9cGekoEnM_Va0vRSUxusM_Cd7JD14Yfn4lGs",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/utRv85mO8Rw6yWcPp4WUgw/55tE4l5RJ7pRLZpUkbr1V3xi4eco5gH9pR33u3q1ggNsDZpwBm6C1VMdcWTSns6cqNl72gDQcyk4GXpFhg7T3pVGjslvigcIA0ZE1oQSuXDP-N06PQOH2R79AUusBiwg6LYxbzOBZyx9c6keBoUhDQ/2rWUcvGXPwZdtVLdjyeyBqZ8dutrGRnWGhbpjOL-RMM",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null,
+    "contact": "jkosie@asu.edu\n"
   },
   {
     "id": "recpFvKh922MxcTOL",
@@ -1250,34 +459,8 @@
       "Sarah C. Kucker",
       "Joscelin Rocha-Hidalgo"
     ],
-    "logo": [
-      {
-        "id": "attBUF2OTJE0ThhRD",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/FDGrGgwgKDucDp9--XZ7ZA/OCTHmGxq_ylQVaYMr6Czg4IOsF5TsNlsHGxxbDXQsutwM3MsG1Y0ecF2NYgBW9QKV7KG5GRPG_JnyCoxy9vPdXgN5ZjBiV9kaqW8ruGV6rGq1EDjVxrG0ibt542CP60gZgmtCjN7BYjK9r_ugR9aYcy0QoxWm2XvJh4NenKqq7g/e6Rj6sL8yrmjFGm1tsWYWsdr0zJtCupEJH002Ky2bUY",
-        "filename": "mb8-logo.png",
-        "size": 136048,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/NlHq03uu7-yCjTFn7vKCDQ/9e8LiAJbVYCDr37PJ-4Wo0U2uHYMtwAyfUvA58UNHGD4bQQ8zjJwSyfICD-RpM198x_Kz_icTY_8ZwY2J487z-HQ-ueCRhkETcUa6admd97_Uhpum3zzAeHVS_y84PYRRf2SsAPntiixfX6AstHKXg/7FvFpbBmXTz6XPmTJbZM8-slQQG_0YYj1_52p4YW4sg",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/s_sHvD4i8BSiGvF2FxzxnA/gaFVY3MA1pD290-26xJs2RPBmCFgpXp1eS7RuBYQC_ZfObhbyuliHLukunBQ9SuyL3NQRhyQomAgTGA4vkz2NbFG8ewbJLisoK5UyBJ4hSQH_SUQ2Vx0Ia_jBS7Zm-QCD9KTVHwXP3Ut9mCEHTbAJw/3_WogX4UySN5dtHT-nTvOd63T5WagGU_vigvmIpcsN8",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/5bUksqjNvDPCOMtwxQ1Omg/-09oj_ep1gvJpapxJy5oWy0naVxmxL-mCt1zm-lIMM78Pr9LJmXjxq7a4hsWvPpFO9E6J_kfCOgvgSsR_-4uIxGUYWXYdzpA3Xlf9Jy56Q_zhsdubmT-7K_yHmUPHtp7kqPv9RcRJ16W2m_SEDRr8w/o24SxFGPZd9fQg-KFb6DuFaWXVZJYj15r_uMslPjNec",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": "/assets/img/mb8-logo.png",
+    "contact": "mb8@manybabies.org\n"
   },
   {
     "id": "recqEwFPrFXwknTTF",
@@ -1291,34 +474,7 @@
       "Robert Hepach",
       "Hannes Rakoczy"
     ],
-    "logo": [
-      {
-        "id": "attaSKKEulhz2jv7v",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/J858G7smILyHa4EVnuA_VA/IonmwO4_XJ9o_1gcVn9zryiz0_9lRqbFBPAAMryAHnrsh3C0MO44wrJVVGvQO2L_cozP2-32lkWgLcPgkhMFgrwPiUeDHpwsBonfwgqnpyLEnIXS8xTB-byQSwYbSCOfDnn1B1vU-5TEqGExc18zMg/5Dql4ZTNtRkiU8M7dBiYbyDyXT2jxsEBbrPU7Cz3CAw",
-        "filename": "MB2_logo.png",
-        "size": 113435,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/sbsaBI3YErrxE009Tw3ORQ/-P9MiUqqY116VWXwAGBaVGZlrQOm7nWw-L7L1HsGJ3S0_hM6QH73iL-T5S9V019pppKJMFbu3Ngnv02Yyv15jjssx1k77XNZd_cP0mwUGYFvy2p0ZUpdtO6A8dMbGsrZ5_Si-BseMQg5GxuvL81uYw/GSt8-oGL4LUJqe4vSp9Vewh4MChF564UUPbae2BoKWY",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/sTdQNGTmUivYnem69LE_MA/3yiY2uI0ocB2NEQz1t54BMKNPI1yH0rZsX_7LD3hjpAHaR4YUk_iAPeAhXgeGQ64fA7uZ6oiDAIDvJo75JZqhAU733R05Jy6cnaKM2YASzXCIrLcRau2OiMzPiXbYnVox3va9OH2G_7pBGYLd-c6dA/dtBU4WgSyt8mNxnr5wK2sVOVmMbid9EtiSBDFFgDR40",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/bHMaDxwPHgCkSmY6eYDOVQ/TaaaWt3N8GmG9-b9TE3bL7VQpoGt20wIF7Gc8GSqokwcET6D0rpMMuKyHi_5lPIZ5pdGc-nmFy8W4AzgfMQqn-jG79cF7mXP8FxNQjVFqeDTwZX86s40tYt_CNefnKDUhCB5lOjeMMGpSCVajCp1VA/ucm95tpoafg3Ot3TGGYoQ9uUFaTUrc-yQkqAm0-7PoQ",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null
   },
   {
     "id": "recsp4314Kzm6cjGV",
@@ -1331,34 +487,8 @@
     "leads": [
       "Judit Gervain"
     ],
-    "logo": [
-      {
-        "id": "attWKIPPuOZ8XbNo7",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/CFEYmMDVYi72UVEo-28axQ/GaThGbsWt16lpKJktWbTBUE-Gf_de8xml8vCk8_cCHrFK3_vM52eOQv3NKDvAbJULwW_nV5oN2SzU4V65cFqZvzXStb9jhjEfN8hATlJZ_orrQ7dDY_4JhKf1ccbVylSTjZu3qKDpjUmE_uHqxUTkQ/nGEWI4znuW_u_QPV0DHKx52apEc-Nexab7b0PQ08Apk",
-        "filename": "MB3N_logo.png",
-        "size": 211453,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/aB68Xlp0BbfAOVi_-Xi32A/HM-Hw0Pqb5oh8FiUznc2rFvL3KCsA7V21XTNG2xH9XXHoAktpPGIkTwVmAKd-NHsqPq_9sc7a8gdGcjm3IAlQ3ANhLHtdedcELw_tPwDkKPPp2LXn6w1ZCuBkjhAMy8wibyXV9P3Ky2-eN5bz4_74A/ZnJASXnFfJqvU4WOnpOGgYyzb8qFJncVzoWZDxkVbWY",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/wugcY9hApkLHCcto1LFZcA/Wik6tpXeNZfYLuvMBUQDbPrfp0TezbESqF4kyopEYg2YhdnXlVBlQqdQnIS2Urt-Ipu3vVWjLqIHt4ZTQ16mnDg04DL4eS7uLG-39ke6Y33b3d9d1fEkQmUrNSxJ6s0EgJiuqwQnNhIIswqcsUpc1g/gI_nrezaQ_0o_t18iV9M4sBBVg4tVY_YlnfMEX6VxLk",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/5qm6nXGqGiXzk_bmghiNKg/uV48MXxuQc0k4uLAgqa20szBJNoW3Ec2Z5yybUHRSTuGEHOfiQg796MYwnnAr2yo6o-483y4lKVZreI_rbjL094yA4PoCISIDL1NUvPtQbAvYw5CmWpUHpIGU14lmVoqVaGXzY0pQPhAEuLtSQOp9w/OJ5HOW-h2Ehi1StgU-021KBZ95u50nNpMW7m-y4Xp5A",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": "/assets/img/mb3n-logo.png",
+    "contact": "judit.gervain@parisdescartes.fr\n"
   },
   {
     "id": "rect0zt1fH8lZ41nA",
@@ -1374,34 +504,8 @@
       "Hannes Rakoczy",
       "Michael C. Frank"
     ],
-    "logo": [
-      {
-        "id": "attaSKKEulhz2jv7v",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/J858G7smILyHa4EVnuA_VA/IonmwO4_XJ9o_1gcVn9zryiz0_9lRqbFBPAAMryAHnrsh3C0MO44wrJVVGvQO2L_cozP2-32lkWgLcPgkhMFgrwPiUeDHpwsBonfwgqnpyLEnIXS8xTB-byQSwYbSCOfDnn1B1vU-5TEqGExc18zMg/5Dql4ZTNtRkiU8M7dBiYbyDyXT2jxsEBbrPU7Cz3CAw",
-        "filename": "MB2_logo.png",
-        "size": 113435,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/sbsaBI3YErrxE009Tw3ORQ/-P9MiUqqY116VWXwAGBaVGZlrQOm7nWw-L7L1HsGJ3S0_hM6QH73iL-T5S9V019pppKJMFbu3Ngnv02Yyv15jjssx1k77XNZd_cP0mwUGYFvy2p0ZUpdtO6A8dMbGsrZ5_Si-BseMQg5GxuvL81uYw/GSt8-oGL4LUJqe4vSp9Vewh4MChF564UUPbae2BoKWY",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/sTdQNGTmUivYnem69LE_MA/3yiY2uI0ocB2NEQz1t54BMKNPI1yH0rZsX_7LD3hjpAHaR4YUk_iAPeAhXgeGQ64fA7uZ6oiDAIDvJo75JZqhAU733R05Jy6cnaKM2YASzXCIrLcRau2OiMzPiXbYnVox3va9OH2G_7pBGYLd-c6dA/dtBU4WgSyt8mNxnr5wK2sVOVmMbid9EtiSBDFFgDR40",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/bHMaDxwPHgCkSmY6eYDOVQ/TaaaWt3N8GmG9-b9TE3bL7VQpoGt20wIF7Gc8GSqokwcET6D0rpMMuKyHi_5lPIZ5pdGc-nmFy8W4AzgfMQqn-jG79cF7mXP8FxNQjVFqeDTwZX86s40tYt_CNefnKDUhCB5lOjeMMGpSCVajCp1VA/ucm95tpoafg3Ot3TGGYoQ9uUFaTUrc-yQkqAm0-7PoQ",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": "/assets/img/mb2-logo.png",
+    "contact": "manybabies2@gmail.com\n"
   },
   {
     "id": "recvYMeOAUryptskc",
@@ -1414,33 +518,7 @@
     "leads": [
       "Melanie Soderstrom"
     ],
-    "logo": [
-      {
-        "id": "att6H4GozsTCFD7pg",
-        "width": 1000,
-        "height": 1000,
-        "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/H_rg5U0iCwYDzpVT4mNA4Q/e3vIm2d4GtaHRsGfzu-uI9qYMfQgcrHY41UAIJtIx_RYJlk_gtyNsuXJXrmcEkRRM7t1KFOYN39eOUVM8yzeHBO_qFcMOdquR6dKmfDc_w3BNPoIje1UL8kHiPmQlY0N6UrHgCtVi-sMqeu58Ax8Ag/tGCDk4s9V-2n2DO2IJ4RmaesHbgLo4J9_btay8ojeZk",
-        "filename": "MB1_logo.png",
-        "size": 175576,
-        "type": "image/png",
-        "thumbnails": {
-          "small": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/9n8o1i2a-w1H0HYd3TVaMA/EeEtWlcUefM7jteh93xIBqBTx0pZDsxNsrz317wk88woVEg3FEwUkHPn5ei4sjOUpCECpsRQkhIBCR-IfzkY_Auass1Go64EnLwyXGvwQ7FBvAcBz82fV_9ucZF3NVuY6M6ERZJNOvLdSaUFaRBWGg/tDavW6HSuVSanvQGFzyy5YYHqKk68EM9-R9NilL8Qyo",
-            "width": 36,
-            "height": 36
-          },
-          "large": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/TtSgxWqZT796uTRSWFDAWw/-FirPFF8HNSl_Mw92RPsJZ_2BJHBRmncaYDJRN-jED2DVq4VaoHSJ42aFUZhPuh4Elb51NdGW9zFZYjjDOfMK8fzPWDJNhagJgG1EH60zKXKeiPhR8qwhSEJwJavA8JJcFm7sf3gOO9-ddnAhOyjvA/avyCP1x8qTTxWuEKNbkN5S6oymKRe2mEN4ZHWNQA0Zg",
-            "width": 512,
-            "height": 512
-          },
-          "full": {
-            "url": "https://v5.airtableusercontent.com/v3/u/56/56/1786579200000/5oTqHNIbPAcULW1IjX12kA/zDzkGZDvBiC-6yaatQz7EY7grmOX8BAJZkUk6r98t9Da1wyi9XCelfgSdWaLdr9ZNQBT7Q4_n0qBD3A4_D4gZA570Cn_Z1_fZKvDd7jLfFV7JxJzZ_2CuQNlQIp72rJ6ZVpTP0OGyLWG6kklWjlE4g/XpOrMZQue1kudrYQUtlRinI5NkOVmn1GxnwKwzb80Iw",
-            "width": 1000,
-            "height": 1000
-          }
-        }
-      }
-    ]
+    "logopath": null,
+    "contact": "M\\_Soderstrom@umanitoba.ca\n"
   }
 ]
