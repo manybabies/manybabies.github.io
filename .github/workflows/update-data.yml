@@ -1,20 +1,21 @@
 name: Update Airtable Data
 on:
   schedule:
-    - cron: '0 */6 * * *'   # every 6 hours; adjust as needed
-  workflow_dispatch: {}       # lets you trigger manually too
+    - cron: '0 */6 * * *'
+  workflow_dispatch: {}
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
       - name: Fetch data from Airtable
         run: node scripts/fetch-airtable.js
         env:
           AIRTABLE_TOKEN: ${{ secrets.AIRTABLE_TOKEN }}
           AIRTABLE_BASE_ID: ${{ secrets.AIRTABLE_BASE_ID }}
           AIRTABLE_TABLE_NAME: ${{ secrets.AIRTABLE_TABLE_NAME }}
+          AIRTABLE_PEOPLE_TABLE: ${{ secrets.AIRTABLE_PEOPLE_TABLE }}
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions"
