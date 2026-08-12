@@ -8,7 +8,7 @@ jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@v4
       - name: Fetch data from Airtable
         run: node scripts/fetch-airtable.js
         env:
