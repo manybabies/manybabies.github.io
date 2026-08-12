@@ -78,10 +78,12 @@ async function main() {
       description,
       type: f.Type,
       status: f.Status,
-      website: f['Project Website'],
+      website: f.Website,
       leads: leadNames,
       logopath: f['Logo Path'] || null,
-      contact: f['Project Contact']
+      contact: f['Project Contact'],
+      listserv-subscribe: f['Listserv Subscribe'],
+      slack: f.Slack
     };
   });
 
