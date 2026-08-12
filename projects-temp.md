@@ -4,8 +4,8 @@ title: Projects
 subtitle: Pulled live from Airtable
 ---
 
-
-{% for item in site.data.airtable %}
+{% assign sorted_projects = site.data.airtable | sort: "project" %}
+{% for item in sorted_projects %}
   <div class="panel panel-default">
     {% if item.logopath %}<img src="{{ item.logopath }}" alt="{{ item.project }} logo" width="75" height="75">{% endif %}
     <h4>{{ item.project }}: {{ item.description }}</h4>
