@@ -6,12 +6,11 @@
     "description": "Individual Differences",
     "type": "Spin-off",
     "status": "Analysis",
-    "website": "manybabies.org/MB4I",
     "leads": [
       "Yiyi Wang",
       "Kelsey Lucca"
     ],
-    "logopath": null,
+    "logopath": "/assets/img/mb4-spinoff.png",
     "contact": "- yiyiwang@uchicago.edu\n- klucca@asu.edu\n"
   },
   {
@@ -21,11 +20,10 @@
     "description": "Pupil Dilation",
     "type": "Spin-off",
     "status": "Analysis",
-    "website": "manybabies.org/MB3L",
     "leads": [
       "Ingmar Visser"
     ],
-    "logopath": null
+    "logopath": "/assets/img/mb3-spinoff.png"
   },
   {
     "id": "rec1DxudHmk3wKdLY",
@@ -34,13 +32,10 @@
     "description": "Hunter & Ames Model of Infant Looking Preference",
     "type": "Main",
     "status": "Data collection",
-    "website": "manybabies.org/MB5",
     "leads": [
       "Jessica E. Kosie",
       "Martin Zettersten",
-      "Casey Lew-Williams",
-      "Christina Bergmann",
-      "Dima Amso"
+      "Casey Lew-Williams"
     ],
     "logopath": "/assets/img/mb5-logo.png",
     "contact": "mb5@manybabies.org\n"
@@ -52,11 +47,10 @@
     "description": "Gaze Following in Monolingual and Bilingual Infants",
     "type": "Spin-off",
     "status": "Complete",
-    "website": "manybabies.org/MB1G",
     "leads": [
       "Krista Byers-Heinlein"
     ],
-    "logopath": null,
+    "logopath": "/assets/img/mb1-spinoff.png",
     "contact": "K.Byers@concordia.ca\n"
   },
   {
@@ -66,13 +60,12 @@
     "description": "Web-based Eye Tracking for Infant Studies",
     "type": "Spin-off",
     "status": "Complete",
-    "website": "manybabies.org/MB-ManyWebcams",
     "leads": [
       "Tobias Schuwerk",
       "Adrian Steffan",
       "Lucie Zimmer"
     ],
-    "logopath": null
+    "logopath": "/assets/img/mb2-spinoff.png"
   },
   {
     "id": "recEXIQyAEgJcqhCW",
@@ -81,7 +74,6 @@
     "description": "Online Infant Data Collection",
     "type": "Main",
     "status": "Data collection",
-    "website": "manybabies.org/MB-AtHome",
     "leads": [
       "Sho Tsuji",
       "Lorijn Zaadnoordijk",
@@ -98,7 +90,6 @@
     "description": "Rule Learning",
     "type": "Main",
     "status": "Complete",
-    "website": "manybabies.org/MB3",
     "leads": [
       "Ingmar Visser",
       "Claartje Levelt",
@@ -115,7 +106,6 @@
     "description": "Neonatal and Early Imitation",
     "type": "Main",
     "status": "Under review (Stage 1)",
-    "website": "manybabies.org/MB6",
     "leads": [
       "Sumeet Farwaha",
       "Virginia Slaughter",
@@ -134,12 +124,11 @@
     "description": "Emotional Responses",
     "type": "Spin-off",
     "status": "Analysis",
-    "website": "manybabies.org/MB4E",
     "leads": [
       "Francis L. Yuen",
       "Kelsey Lucca"
     ],
-    "logopath": null
+    "logopath": "/assets/img/mb4-spinoff.png"
   },
   {
     "id": "recOwYzTM7ZFtRcwH",
@@ -148,13 +137,12 @@
     "description": "Evaluating Eye-Tracking Consistency and Accuracy and Its Impact on Key Dependent Variables across Different Systems in the ManyBabies2 Project",
     "type": "Spin-off",
     "status": "Analysis",
-    "website": "https://manybabies.org/MB-ManyTrackers/",
     "leads": [
       "Shuting Li",
       "Tobias Schuwerk",
       "Lucie Zimmer"
     ],
-    "logopath": null,
+    "logopath": "/assets/img/mb2-spinoff.png",
     "contact": "Shuting.Li@psy.lmu.de\n"
   },
   {
@@ -164,11 +152,10 @@
     "description": "Systematic Review of Infant Looking Time Preferences for Familiar and Novel Stimuli",
     "type": "Spin-off",
     "status": "Data collection",
-    "website": "manybabies.org/MB5meta",
     "leads": [
       "Martin Zettersten"
     ],
-    "logopath": null,
+    "logopath": "/assets/img/mb5-spinoff.png",
     "contact": "mzettersten@ucsd.edu\n"
   },
   {
@@ -179,7 +166,7 @@
     "type": "Spin-off",
     "status": "Preparing for data collection",
     "leads": [],
-    "logopath": null,
+    "logopath": "/assets/img/mb5-spinoff.png",
     "contact": "mb5@manybabies.org\n"
   },
   {
@@ -189,7 +176,6 @@
     "description": "Social Evaluation",
     "type": "Main",
     "status": "Complete",
-    "website": "manybabies.org/MB4",
     "leads": [
       "Kelsey Lucca",
       "Francis L. Yuen",
@@ -205,11 +191,10 @@
     "description": "Infant-Directed Speech Preference in Bilingual Infants",
     "type": "Spin-off",
     "status": "Complete",
-    "website": "manybabies.org/MB1B",
     "leads": [
       "Krista Byers-Heinlein"
     ],
-    "logopath": null,
+    "logopath": "/assets/img/mb1-spinoff.png",
     "contact": "K.Byers@concordia.ca\n"
   },
   {
@@ -219,14 +204,13 @@
     "description": "Comparison to meta-analytic data",
     "type": "Secondary analysis",
     "status": "Complete",
-    "website": "manybabies.org/MB1SA",
     "leads": [
       "Christina Bergmann",
       "Martin Zettersten",
       "Christopher M. M. Cox",
       "Maya B. Mathur"
     ],
-    "logopath": null
+    "logopath": "/assets/img/mb1-analysis.png"
   },
   {
     "id": "recSTZTL277eUdZPp",
@@ -235,7 +219,6 @@
     "description": "Unified Demographics for MB Projects",
     "type": "Main",
     "status": "Complete",
-    "website": "manybabies.org/MB-Demographics",
     "leads": [
       "Leher Singh",
       "Mihaela D. Barokova"
@@ -249,9 +232,8 @@
     "title": "**ManyBabies**",
     "description": "",
     "type": "Network",
-    "website": "manybabies.org",
     "leads": [],
-    "logopath": null,
+    "logopath": "/assets/img/avatar-icon-2022.png",
     "contact": "contact@manybabies.org\n"
   },
   {
@@ -261,11 +243,10 @@
     "description": "Test-Retest Follow-up",
     "type": "Spin-off",
     "status": "Complete",
-    "website": "manybabies.org/MB1T",
     "leads": [
       "Melanie S. Schreiner"
     ],
-    "logopath": null,
+    "logopath": "/assets/img/mb1-spinoff.png",
     "contact": "melanie.schreiner@psych.uni-goettingen.de\n"
   },
   {
@@ -275,11 +256,10 @@
     "description": "Longitudinal Follow-up",
     "type": "Spin-off",
     "status": "Analysis",
-    "website": "manybabies.org/MB3L",
     "leads": [
       "Anna Exner"
     ],
-    "logopath": null
+    "logopath": "/assets/img/mb3-spinoff.png"
   },
   {
     "id": "reccAENstvLoMPEyw",
@@ -288,12 +268,11 @@
     "description": "Posture",
     "type": "Spin-off",
     "status": "Analysis",
-    "website": "manybabies.org/MB4P",
     "leads": [
       "Marlene Försterling",
       "Robert Hepach"
     ],
-    "logopath": null
+    "logopath": "/assets/img/mb4-spinoff.png"
   },
   {
     "id": "reccTsj33msyHzp7T",
@@ -302,7 +281,6 @@
     "description": "Infant-Directed Speech Preference in African Infants",
     "type": "Spin-off",
     "status": "Complete",
-    "website": "manybabies.org/MB1A",
     "leads": [
       "Angeline Sin Mei Tsui",
       "Alexandra Carstensen",
@@ -311,7 +289,7 @@
       "Michael C. Frank",
       "Maya B. Mathur"
     ],
-    "logopath": null,
+    "logopath": "/assets/img/mb1-spinoff.png",
     "contact": "mcfrank@stanford.edu\n"
   },
   {
@@ -321,9 +299,8 @@
     "description": "Visual Preference",
     "type": "Spin-off",
     "status": "Design",
-    "website": "manybabies.org/MB-AtHome",
     "leads": [],
-    "logopath": null
+    "logopath": "/assets/img/mbah-spinoff.png"
   },
   {
     "id": "rechdhxdAZ4MaeRZd",
@@ -332,7 +309,6 @@
     "description": "Perceptual Specialization",
     "type": "Main",
     "status": "Design",
-    "website": "manybabies.org/MB9",
     "leads": [
       "Charisse B. Pickron"
     ],
@@ -346,11 +322,10 @@
     "description": "Analysis of supplemental demographic variables",
     "type": "Secondary analysis",
     "status": "Planning",
-    "website": "manybabies.org/MB1SA",
     "leads": [
       "Melissa Kline Struhl"
     ],
-    "logopath": null
+    "logopath": "/assets/img/mb1-analysis.png"
   },
   {
     "id": "recjaanaxFOMIY3sf",
@@ -359,7 +334,6 @@
     "description": "Infant-Directed Speech Preference",
     "type": "Main",
     "status": "Complete",
-    "website": "manybabies.org/MB1",
     "leads": [
       "Michael C. Frank",
       "Melanie Soderstrom"
@@ -374,12 +348,11 @@
     "description": "Test-Retest Follow-up",
     "type": "Spin-off",
     "status": "Analysis",
-    "website": "manybabies.org/MB3T",
     "leads": [
       "Anna Exner",
       "Ingmar Visser"
     ],
-    "logopath": null
+    "logopath": "/assets/img/mb3-spinoff.png"
   },
   {
     "id": "reckeOosOFeQ5kwI7",
@@ -388,7 +361,6 @@
     "description": "Curiosity",
     "type": "Main",
     "status": "Design",
-    "website": "manybabies.org/MB7",
     "leads": [
       "Elena C. Altmann",
       "Nivedita Mani",
@@ -407,13 +379,12 @@
     "description": "Looking-While-Listening",
     "type": "Spin-off",
     "status": "Preparing for data collection",
-    "website": "manybabies.org/MBAH1",
     "leads": [
       "Eon-Suk Ko",
       "Rajalakshmi Madhavan",
       "Katie Von Holzen"
     ],
-    "logopath": null,
+    "logopath": "/assets/img/mbah-spinoff.png",
     "contact": "mbah1@manybabies.org\n"
   },
   {
@@ -423,13 +394,12 @@
     "description": "Native Languages Follow-up",
     "type": "Spin-off",
     "status": "Analysis",
-    "website": "manybabies.org/MB1N",
     "leads": [
       "Natalia Kartushina",
       "Virginie Durier",
       "Melanie Soderstrom"
     ],
-    "logopath": null
+    "logopath": "/assets/img/mb1-spinoff.png"
   },
   {
     "id": "recnrjs0S2cVNhPau",
@@ -438,11 +408,10 @@
     "description": "Naturalistic Interactions",
     "type": "Spin-off",
     "status": "Design",
-    "website": "manybabies.org/MB5N",
     "leads": [
       "Brianna T. M. McMillan"
     ],
-    "logopath": null,
+    "logopath": "/assets/img/mb5-spinoff.png",
     "contact": "jkosie@asu.edu\n"
   },
   {
@@ -452,7 +421,6 @@
     "description": "Screen Time",
     "type": "Main",
     "status": "Design",
-    "website": "manybabies.org/MB8",
     "leads": [
       "Nevena Dimitrova",
       "Rachel Barr",
@@ -469,12 +437,11 @@
     "description": "Pupil Dilation to Measure Violation-of-Expectation",
     "type": "Spin-off",
     "status": "Analysis",
-    "website": "manybabies.org/MB2P",
     "leads": [
       "Robert Hepach",
       "Hannes Rakoczy"
     ],
-    "logopath": null
+    "logopath": "/assets/img/mb2-spinoff.png"
   },
   {
     "id": "recsp4314Kzm6cjGV",
@@ -483,7 +450,6 @@
     "description": "Rule Learning with NIRS",
     "type": "Spin-off",
     "status": "Design",
-    "website": "manybabies.org/MB3N",
     "leads": [
       "Judit Gervain"
     ],
@@ -497,7 +463,6 @@
     "description": "Theory of Mind",
     "type": "Main",
     "status": "Under review (Stage 2)",
-    "website": "manybabies.org/MB2",
     "leads": [
       "Tobias Schuwerk",
       "Dora Kampis",
@@ -514,11 +479,10 @@
     "description": "Longitudinal Vocabulary Follow-up",
     "type": "Spin-off",
     "status": "Complete",
-    "website": "manybabies.org/MB1L",
     "leads": [
       "Melanie Soderstrom"
     ],
-    "logopath": null,
+    "logopath": "/assets/img/mb1-spinoff.png",
     "contact": "M\\_Soderstrom@umanitoba.ca\n"
   }
 ]
