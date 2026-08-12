@@ -2,8 +2,6 @@
 layout: page
 ---
 
-{% raw %}{% include airtable-list.html %}{% endraw %}
-
 The broader goals of **ManyBabies** come together through collaborative projects. They can be ***Main Projects***, ***Spin-off Projects***, or ***Secondary Analyses***.
 
 <section>
