@@ -1,0 +1,22 @@
+<div class="row">
+{% raw %}{% for item in site.data.airtable %}
+  <div class="col-md-4">
+    <div class="panel panel-default text-center">
+      {% if item.logo %}
+        <img src="{{ item.logo }}" alt="{{ item.project }} logo" style="max-width:120px; margin:15px auto;">
+      {% endif %}
+      <div class="panel-body">
+        <span class="label label-{% if item.type == 'Main' %}primary{% else %}info{% endif %}">
+          {{ item.type }}
+        </span>
+        <span class="label label-default">{{ item.status }}</span>
+        <h4>{{ item.project }}: {{ item.title }}</h4>
+        <p>{{ item.description }}</p>
+        {% if item.website %}
+          <a href="https://{{ item.website }}" class="btn btn-sm btn-outline-primary">Visit site →</a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+{% endfor %}{% endraw %}
+</div>
