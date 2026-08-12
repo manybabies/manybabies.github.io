@@ -80,7 +80,9 @@ async function main() {
       status: f.Status,
       website: f['Project Website'],
       leads: leadNames,
-      logo: f.Logo || null
+      logo: 
+      logopath: f['Logo Path'] || null,
+      contact: f.['Project Contact']
     };
   });
 
