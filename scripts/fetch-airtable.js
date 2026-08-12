@@ -1,9 +1,9 @@
-
 const https = require('https');
 const fs = require('fs');
 
 const BASE_ID = process.env.AIRTABLE_BASE_ID;
-const TABLE = process.env.AIRTABLE_TABLE_NAME;
+const TABLE = process.env.AIRTABLE_TABLE_NAME; // e.g., "Projects"
+const PEOPLE_TABLE = process.env.AIRTABLE_PEOPLE_TABLE; // e.g. "People"
 const TOKEN = process.env.AIRTABLE_TOKEN;
 
 function getJSON(apiPath) {
@@ -14,18 +14,34 @@ function getJSON(apiPath) {
         let body = '';
         res.on('data', chunk => body += chunk);
         res.on('end', () => {
-          try {
-            resolve(JSON.parse(body));
-          } catch (e) {
-            reject(e);
-          }
+          try { resolve(JSON.parse(body)); }
+          catch (e) { reject(e); }
         });
       }
     ).on('error', reject);
   });
 }
 
-// Splits "MB1:\nInfant-Directed Speech Preference" into title + description
+// Fetches ALL records from a table, following pagination
+async function getAllRecords(table) {
+  let records = [];
+  let offset = null;
+
+  do {
+    let apiPath = `/v0/${BASE_ID}/${encodeURIComponent(table)}`;
+    if (offset) apiPath += `?offset=${offset}`;
+    const data = await getJSON(apiPath);
+    if (!data.records) {
+      console.error(`No records returned for ${table}:`, data);
+      process.exit(1);
+    }
+    records = records.concat(data.records);
+    offset = data.offset; // present only if there are more pages
+  } while (offset);
+
+  return records;
+}
+
 function splitTopic(topic) {
   if (!topic) return { title: '', description: '' };
   const [firstLine, ...rest] = topic.split('\n').filter(Boolean);
@@ -36,17 +52,24 @@ function splitTopic(topic) {
 }
 
 async function main() {
-  const apiPath = `/v0/${BASE_ID}/${encodeURIComponent(TABLE)}`;
-  const data = await getJSON(apiPath);
+  const [projectRecords, peopleRecords] = await Promise.all([
+    getAllRecords(TABLE),
+    getAllRecords(PEOPLE_TABLE)
+  ]);
 
-  if (!data.records) {
-    console.error('No records returned. Response was:', data);
-    process.exit(1);
-  }
+  // Build a lookup: record ID -> display name
+  // Adjust "Name" below to whatever the actual field is called in your People table
+  const nameById = {};
+  peopleRecords.forEach(r => {
+    nameById[r.id] = r.fields.Name || r.fields['Full Name'] || 'Unknown';
+  });
 
-  const records = data.records.map(r => {
+  const records = projectRecords.map(r => {
     const f = r.fields;
     const { title, description } = splitTopic(f.Topic);
+
+    const leadIds = f['Project Leads'] || [];
+    const leadNames = leadIds.map(id => nameById[id] || id);
 
     return {
       id: r.id,
@@ -56,8 +79,8 @@ async function main() {
       type: f.Type,
       status: f.Status,
       website: f['Project Website'],
-      leads: f['Project Leads'],
-      logo: f.Logo || null   // plain text path, e.g. /assets/img/logos/mb1.png
+      leads: leadNames,
+      logo: f.Logo || null
     };
   });
 
