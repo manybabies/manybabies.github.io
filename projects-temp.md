@@ -12,5 +12,6 @@ subtitle: Pulled live from Airtable
     <li>{{ lead }}</li>
   {% endfor %}
   </ul>
+  <br>
 {% endfor %}
 </div>
