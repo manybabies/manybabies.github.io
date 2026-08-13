@@ -87,6 +87,16 @@ async function main() {
     };
   });
 
+  records.sort((a, b) => {
+    // Primary: sort by type
+    if (a.type < b.type) return -1;
+    if (a.type > b.type) return 1;
+    // Secondary: if type is the same, sort by project
+    if (a.project < b.project) return -1;
+    if (a.project > b.project) return 1;
+    return 0;
+  });
+
   fs.writeFileSync('_data/airtable.json', JSON.stringify(records, null, 2));
   console.log(`Wrote ${records.length} records to _data/airtable.json`);
 }
