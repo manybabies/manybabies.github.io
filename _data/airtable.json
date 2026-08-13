@@ -1,7 +1,7 @@
 [
   {
     "id": "recEXIQyAEgJcqhCW",
-    "project": "MBAH",
+    "project": "MB-AtHome",
     "mainproject": "MB-AtHome",
     "title": "**MB-AtHome: **",
     "description": "Online Infant Data Collection",
@@ -83,7 +83,7 @@
     "id": "recjaanaxFOMIY3sf",
     "project": "MB1",
     "mainproject": "MB1",
-    "title": "**MB1: **",
+    "title": "MB1",
     "description": "Infant-Directed Speech Preference",
     "type": "Main",
     "status": "Complete",
