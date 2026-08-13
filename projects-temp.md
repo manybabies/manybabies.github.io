@@ -16,19 +16,19 @@ subtitle: Pulled live from Airtable
     <br>
   </div>
 {% endfor %}
--->
-
 
 {% assign mb1n = site.data.airtable | where: "project", "MB1N" | first %}
 {% if mb1n %}
   <a href="https://{{ mb1n.website }}">Visit MB1N →</a>
 {% endif %}
+-->
 
 {% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainproject", "MB1" %}
 {% for item in spinoffs %}
-  <h4>[{{ item.project }}]){{ item.website }}): {{ item.description }}</h4>
+  <h4>[{{ item.project }}]({{ item.website }}): {{ item.description }}</h4>
 {% endfor %}
 
+***
 
 {% assign mb1spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainproject", "MB1" %}
 <div class="container">
