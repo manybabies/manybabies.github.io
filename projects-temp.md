@@ -22,3 +22,8 @@ subtitle: Pulled live from Airtable
 {% if mb1n %}
   <a href="https://{{ mb1n.website }}">Visit MB1N →</a>
 {% endif %}
+
+{% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "project", "MB1" %}
+{% for item in spinoffs %}
+  <h4>{{ item.project }}: {{ item.title }}</h4>
+{% endfor %}
