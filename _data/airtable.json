@@ -36,182 +36,6 @@
     "listservsub": "https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics"
   },
   {
-    "id": "recjaanaxFOMIY3sf",
-    "project": "MB1",
-    "mainproject": "MB1",
-    "title": "**MB1: **",
-    "description": "Infant-Directed Speech Preference",
-    "type": "Main",
-    "status": "Complete",
-    "website": "manybabies.org/MB1",
-    "leads": [
-      "Michael C. Frank",
-      "Melanie Soderstrom"
-    ],
-    "logopath": "/assets/img/mb1-logo.png",
-    "contact": "M\\_Soderstrom@umanitoba.ca\n",
-    "listservsub": "https://mailman.stanford.edu/mailman/listinfo/manybabies1"
-  },
-  {
-    "id": "rect0zt1fH8lZ41nA",
-    "project": "MB2",
-    "mainproject": "MB2",
-    "title": "**MB2: **",
-    "description": "Theory of Mind",
-    "type": "Main",
-    "status": "Under review (Stage 2)",
-    "website": "manybabies.org/MB2",
-    "leads": [
-      "Tobias Schuwerk",
-      "Dora Kampis",
-      "Hannes Rakoczy",
-      "Michael C. Frank"
-    ],
-    "logopath": "/assets/img/mb2-logo.png",
-    "contact": "manybabies2@gmail.com\n",
-    "listservsub": "https://groups.google.com/a/manybabies.org/g/mb2-list",
-    "slack": "**_[#mb2-general](https://manybabies.slack.com/archives/C03U90GNJ03)_**\n**_[#mb2-analysis](https://manybabies.slack.com/archives/C04454VLG0J)_**\n"
-  },
-  {
-    "id": "recHdZXhYbB2GfXbk",
-    "project": "MB3",
-    "mainproject": "MB3",
-    "title": "**MB3: **",
-    "description": "Rule Learning",
-    "type": "Main",
-    "status": "Complete",
-    "website": "manybabies.org/MB3",
-    "leads": [
-      "Ingmar Visser",
-      "Claartje Levelt",
-      "Andreea Geambașu",
-      "Melanie Soderstrom"
-    ],
-    "logopath": "/assets/img/mb3-logo.png",
-    "contact": "i.visser@uva.nl\n",
-    "listservsub": "https://groups.google.com/a/manybabies.org/g/mb3-list",
-    "slack": "**_[#mb3-general](https://manybabies.slack.com/archives/C03TUGG2CNB)_**\n**_[#mb3-analysis](https://manybabies.slack.com/archives/C044J48TZDX)_**\n"
-  },
-  {
-    "id": "recQfWfFrz6Qb4laY",
-    "project": "MB4",
-    "mainproject": "MB4",
-    "title": "**MB4: **",
-    "description": "Social Evaluation",
-    "type": "Main",
-    "status": "Complete",
-    "website": "manybabies.org/MB4",
-    "leads": [
-      "Kelsey Lucca",
-      "Francis L. Yuen",
-      "J. Kiley Hamlin"
-    ],
-    "logopath": "/assets/img/mb4-logo.png",
-    "contact": "- francis.yuen@psych.ubc.ca\n- klucca@asu.edu\n",
-    "listservsub": "https://groups.google.com/a/manybabies.org/g/mb4-list",
-    "slack": "**_[#mb4-general](https://manybabies.slack.com/archives/C03UBKXCGTW)_**\n"
-  },
-  {
-    "id": "rec1DxudHmk3wKdLY",
-    "project": "MB5",
-    "mainproject": "MB5",
-    "title": "**MB5: **",
-    "description": "Hunter & Ames Model of Infant Looking Preference",
-    "type": "Main",
-    "status": "Data collection",
-    "website": "manybabies.org/MB5",
-    "leads": [
-      "Jessica E. Kosie",
-      "Martin Zettersten",
-      "Casey Lew-Williams"
-    ],
-    "logopath": "/assets/img/mb5-logo.png",
-    "contact": "mb5@manybabies.org\n",
-    "listservsub": "https://groups.google.com/a/manybabies.org/g/mb5-list",
-    "slack": "**_[#mb5-general](https://manybabies.slack.com/archives/C03U2J2GZ2A)_**\n**_[#mb5-analysis](https://manybabies.slack.com/archives/C06EEFTLWR2)_**\n**_[#mb5-open-documentation](https://manybabies.slack.com/archives/C06E3MBKFM5)_**\n**_[#mb5-stimuli](https://manybabies.slack.com/archives/C06EEFAB0A0)_**\n**_[#mb5-experiment-programming](https://manybabies.slack.com/archives/C06F0RHN6QY)_**\n**_[#mb5-data-collection](https://manybabies.slack.com/archives/C0AUKJ27YQG)_**\n"
-  },
-  {
-    "id": "recLIUCZUIdEddWr8",
-    "project": "MB6",
-    "mainproject": "MB6",
-    "title": "**MB6: **",
-    "description": "Neonatal and Early Imitation",
-    "type": "Main",
-    "status": "Under review (Stage 1)",
-    "website": "manybabies.org/MB6",
-    "leads": [
-      "Sumeet Farwaha",
-      "Virginia Slaughter",
-      "Andrew N. Meltzoff",
-      "Elizabeth A. Simpson",
-      "Mark Nielsen",
-      "Rechele Brooks"
-    ],
-    "logopath": "/assets/img/mb6-logo.png",
-    "contact": "mb6@manybabies.org\n",
-    "listservsub": "https://groups.google.com/a/manybabies.org/g/mb6-list",
-    "slack": "**_[#mb6-general](https://manybabies.slack.com/archives/C04101K8V7H)_**\n"
-  },
-  {
-    "id": "reckeOosOFeQ5kwI7",
-    "project": "MB7",
-    "mainproject": "MB7",
-    "title": "**MB7: **",
-    "description": "Curiosity",
-    "type": "Main",
-    "status": "Design",
-    "website": "manybabies.org/MB7",
-    "leads": [
-      "Elena C. Altmann",
-      "Nivedita Mani",
-      "Gert Westermann",
-      "Laura Lewis",
-      "Hanna Schleihauf",
-      "Martin Zettersten"
-    ],
-    "logopath": "/assets/img/mb7-logo.png",
-    "contact": "mb7@manybabies.org\n",
-    "listservsub": "https://groups.google.com/a/manybabies.org/g/mb7-list",
-    "slack": "**_[#mb7-general](https://manybabies.slack.com/archives/C0A1J1RT25P)_**\n**_[#mb7-writing](https://manybabies.slack.com/archives/C0AEGB60XGS)_**\n**_[#mb7-design](https://manybabies.slack.com/archives/C0AECUMB2Q5)_**\n"
-  },
-  {
-    "id": "recpFvKh922MxcTOL",
-    "project": "MB8",
-    "mainproject": "MB8",
-    "title": "**MB8: **",
-    "description": "Screen Time",
-    "type": "Main",
-    "status": "Design",
-    "website": "manybabies.org/MB8",
-    "leads": [
-      "Nevena Dimitrova",
-      "Rachel Barr",
-      "Sarah C. Kucker",
-      "Joscelin Rocha-Hidalgo"
-    ],
-    "logopath": "/assets/img/mb8-logo.png",
-    "contact": "mb8@manybabies.org\n",
-    "listservsub": "https://groups.google.com/a/manybabies.org/g/mb8-list",
-    "slack": "**_[#mb8-general](https://manybabies.slack.com/archives/C0ABH7W9D2L)_**\n"
-  },
-  {
-    "id": "rechdhxdAZ4MaeRZd",
-    "project": "MB9",
-    "mainproject": "MB9",
-    "title": "**MB9:**",
-    "description": "Perceptual Specialization",
-    "type": "Main",
-    "status": "Design",
-    "website": "manybabies.org/MB9",
-    "leads": [
-      "Charisse B. Pickron"
-    ],
-    "logopath": "/assets/img/mb9-logo.png",
-    "contact": "mb9@manybabies.org\n",
-    "listservsub": "https://groups.google.com/a/manybabies.org/g/mb9-list",
-    "slack": "**_[#mb9-general](https://manybabies.slack.com/archives/C0BFLFJPE4T)_**\n"
-  },
-  {
     "id": "recT4oZicG8sVJm89",
     "project": "ManyBabies",
     "title": "**ManyBabies**",
@@ -223,37 +47,6 @@
     "contact": "contact@manybabies.org\n",
     "listservsub": "https://mailman.stanford.edu/mailman/listinfo/manybabies",
     "slack": "**[MB Slack workspace](https://join.slack.com/t/manybabies/shared_invite/zt-3hv85sl5d-JWzJYourJw8kCttK46l~kw)**\n**_[#general](https://manybabies.slack.com/archives/C4QDCQ4D6)_**\n**_[#random](https://manybabies.slack.com/archives/C4RR4JADV)_**\n**_[#recruitment](https://manybabies.slack.com/archives/C05DKDZHXL3)_**\n"
-  },
-  {
-    "id": "recSC9tDMb88OGQ0t",
-    "project": "MB1-Meta",
-    "mainproject": "MB1",
-    "title": "**MB1-Meta:**",
-    "description": "Comparison to meta-analytic data",
-    "type": "Secondary analysis",
-    "status": "Complete",
-    "website": "manybabies.org/MB1SA",
-    "leads": [
-      "Christina Bergmann",
-      "Martin Zettersten",
-      "Christopher M. M. Cox",
-      "Maya B. Mathur"
-    ],
-    "logopath": "/assets/img/mb1-analysis.png"
-  },
-  {
-    "id": "reciiskNTf2e5tPGW",
-    "project": "MB1SA-Demo",
-    "mainproject": "MB1",
-    "title": "**MB1SA-Demo:**",
-    "description": "Analysis of supplemental demographic variables",
-    "type": "Secondary analysis",
-    "status": "Planning",
-    "website": "manybabies.org/MB1SA",
-    "leads": [
-      "Melissa Kline Struhl"
-    ],
-    "logopath": "/assets/img/mb1-analysis.png"
   },
   {
     "id": "recd6S0C8x4BQyQ4G",
@@ -285,6 +78,54 @@
     "contact": "mbah1@manybabies.org\n",
     "listservsub": "https://groups.google.com/a/manybabies.org/g/mbah1-list",
     "slack": "**_[#mbah1-lwl-general](https://manybabies.slack.com/archives/C0BBXD0L0F3)_**\n"
+  },
+  {
+    "id": "recjaanaxFOMIY3sf",
+    "project": "MB1",
+    "mainproject": "MB1",
+    "title": "**MB1: **",
+    "description": "Infant-Directed Speech Preference",
+    "type": "Main",
+    "status": "Complete",
+    "website": "manybabies.org/MB1",
+    "leads": [
+      "Michael C. Frank",
+      "Melanie Soderstrom"
+    ],
+    "logopath": "/assets/img/mb1-logo.png",
+    "contact": "M\\_Soderstrom@umanitoba.ca\n",
+    "listservsub": "https://mailman.stanford.edu/mailman/listinfo/manybabies1"
+  },
+  {
+    "id": "recSC9tDMb88OGQ0t",
+    "project": "MB1-Meta",
+    "mainproject": "MB1",
+    "title": "**MB1-Meta:**",
+    "description": "Comparison to meta-analytic data",
+    "type": "Secondary analysis",
+    "status": "Complete",
+    "website": "manybabies.org/MB1SA",
+    "leads": [
+      "Christina Bergmann",
+      "Martin Zettersten",
+      "Christopher M. M. Cox",
+      "Maya B. Mathur"
+    ],
+    "logopath": "/assets/img/mb1-analysis.png"
+  },
+  {
+    "id": "reciiskNTf2e5tPGW",
+    "project": "MB1SA-Demo",
+    "mainproject": "MB1",
+    "title": "**MB1SA-Demo:**",
+    "description": "Analysis of supplemental demographic variables",
+    "type": "Secondary analysis",
+    "status": "Planning",
+    "website": "manybabies.org/MB1SA",
+    "leads": [
+      "Melissa Kline Struhl"
+    ],
+    "logopath": "/assets/img/mb1-analysis.png"
   },
   {
     "id": "recAe3xQsp28sDKpA",
@@ -388,6 +229,26 @@
     "listservsub": "https://groups.google.com/u/1/g/mb1-cdi-follow-up"
   },
   {
+    "id": "rect0zt1fH8lZ41nA",
+    "project": "MB2",
+    "mainproject": "MB2",
+    "title": "**MB2: **",
+    "description": "Theory of Mind",
+    "type": "Main",
+    "status": "Under review (Stage 2)",
+    "website": "manybabies.org/MB2",
+    "leads": [
+      "Tobias Schuwerk",
+      "Dora Kampis",
+      "Hannes Rakoczy",
+      "Michael C. Frank"
+    ],
+    "logopath": "/assets/img/mb2-logo.png",
+    "contact": "manybabies2@gmail.com\n",
+    "listservsub": "https://groups.google.com/a/manybabies.org/g/mb2-list",
+    "slack": "**_[#mb2-general](https://manybabies.slack.com/archives/C03U90GNJ03)_**\n**_[#mb2-analysis](https://manybabies.slack.com/archives/C04454VLG0J)_**\n"
+  },
+  {
     "id": "recC68M8cOo3dlHzp",
     "project": "MB-ManyWebcams",
     "mainproject": "MB2",
@@ -438,6 +299,26 @@
     "logopath": "/assets/img/mb2-spinoff.png",
     "listservsub": "https://groups.google.com/a/manybabies.org/g/mb2p-list",
     "slack": "**_[#mb2p-pupillometry](https://manybabies.slack.com/archives/C05ENMB4K34)_**\n"
+  },
+  {
+    "id": "recHdZXhYbB2GfXbk",
+    "project": "MB3",
+    "mainproject": "MB3",
+    "title": "**MB3: **",
+    "description": "Rule Learning",
+    "type": "Main",
+    "status": "Complete",
+    "website": "manybabies.org/MB3",
+    "leads": [
+      "Ingmar Visser",
+      "Claartje Levelt",
+      "Andreea Geambașu",
+      "Melanie Soderstrom"
+    ],
+    "logopath": "/assets/img/mb3-logo.png",
+    "contact": "i.visser@uva.nl\n",
+    "listservsub": "https://groups.google.com/a/manybabies.org/g/mb3-list",
+    "slack": "**_[#mb3-general](https://manybabies.slack.com/archives/C03TUGG2CNB)_**\n**_[#mb3-analysis](https://manybabies.slack.com/archives/C044J48TZDX)_**\n"
   },
   {
     "id": "rec0Hswo8T9WGP4jt",
@@ -504,6 +385,25 @@
     "slack": "**[MB3-NIRS workspace](https://join.slack.com/t/mb3nirs/shared_invite/zt-1opm3wjvb-Hk5cO2ZDciUhWyuJfeunQQ)**\n"
   },
   {
+    "id": "recQfWfFrz6Qb4laY",
+    "project": "MB4",
+    "mainproject": "MB4",
+    "title": "**MB4: **",
+    "description": "Social Evaluation",
+    "type": "Main",
+    "status": "Complete",
+    "website": "manybabies.org/MB4",
+    "leads": [
+      "Kelsey Lucca",
+      "Francis L. Yuen",
+      "J. Kiley Hamlin"
+    ],
+    "logopath": "/assets/img/mb4-logo.png",
+    "contact": "- francis.yuen@psych.ubc.ca\n- klucca@asu.edu\n",
+    "listservsub": "https://groups.google.com/a/manybabies.org/g/mb4-list",
+    "slack": "**_[#mb4-general](https://manybabies.slack.com/archives/C03UBKXCGTW)_**\n"
+  },
+  {
     "id": "rec0FNRFdGesoiFRu",
     "project": "MB4I",
     "mainproject": "MB4",
@@ -551,6 +451,25 @@
     "logopath": "/assets/img/mb4-spinoff.png"
   },
   {
+    "id": "rec1DxudHmk3wKdLY",
+    "project": "MB5",
+    "mainproject": "MB5",
+    "title": "**MB5: **",
+    "description": "Hunter & Ames Model of Infant Looking Preference",
+    "type": "Main",
+    "status": "Data collection",
+    "website": "manybabies.org/MB5",
+    "leads": [
+      "Jessica E. Kosie",
+      "Martin Zettersten",
+      "Casey Lew-Williams"
+    ],
+    "logopath": "/assets/img/mb5-logo.png",
+    "contact": "mb5@manybabies.org\n",
+    "listservsub": "https://groups.google.com/a/manybabies.org/g/mb5-list",
+    "slack": "**_[#mb5-general](https://manybabies.slack.com/archives/C03U2J2GZ2A)_**\n**_[#mb5-analysis](https://manybabies.slack.com/archives/C06EEFTLWR2)_**\n**_[#mb5-open-documentation](https://manybabies.slack.com/archives/C06E3MBKFM5)_**\n**_[#mb5-stimuli](https://manybabies.slack.com/archives/C06EEFAB0A0)_**\n**_[#mb5-experiment-programming](https://manybabies.slack.com/archives/C06F0RHN6QY)_**\n**_[#mb5-data-collection](https://manybabies.slack.com/archives/C0AUKJ27YQG)_**\n"
+  },
+  {
     "id": "recPtVzMKfjssBM09",
     "project": "MB5-Meta",
     "mainproject": "MB5",
@@ -593,5 +512,86 @@
     "logopath": "/assets/img/mb5-spinoff.png",
     "contact": "jkosie@asu.edu\n",
     "slack": "**_[#mb5n-naturalistic](https://manybabies.slack.com/archives/C08KDPGJ55M)_**\n"
+  },
+  {
+    "id": "recLIUCZUIdEddWr8",
+    "project": "MB6",
+    "mainproject": "MB6",
+    "title": "**MB6: **",
+    "description": "Neonatal and Early Imitation",
+    "type": "Main",
+    "status": "Under review (Stage 1)",
+    "website": "manybabies.org/MB6",
+    "leads": [
+      "Sumeet Farwaha",
+      "Virginia Slaughter",
+      "Andrew N. Meltzoff",
+      "Elizabeth A. Simpson",
+      "Mark Nielsen",
+      "Rechele Brooks"
+    ],
+    "logopath": "/assets/img/mb6-logo.png",
+    "contact": "mb6@manybabies.org\n",
+    "listservsub": "https://groups.google.com/a/manybabies.org/g/mb6-list",
+    "slack": "**_[#mb6-general](https://manybabies.slack.com/archives/C04101K8V7H)_**\n"
+  },
+  {
+    "id": "reckeOosOFeQ5kwI7",
+    "project": "MB7",
+    "mainproject": "MB7",
+    "title": "**MB7: **",
+    "description": "Curiosity",
+    "type": "Main",
+    "status": "Design",
+    "website": "manybabies.org/MB7",
+    "leads": [
+      "Elena C. Altmann",
+      "Nivedita Mani",
+      "Gert Westermann",
+      "Laura Lewis",
+      "Hanna Schleihauf",
+      "Martin Zettersten"
+    ],
+    "logopath": "/assets/img/mb7-logo.png",
+    "contact": "mb7@manybabies.org\n",
+    "listservsub": "https://groups.google.com/a/manybabies.org/g/mb7-list",
+    "slack": "**_[#mb7-general](https://manybabies.slack.com/archives/C0A1J1RT25P)_**\n**_[#mb7-writing](https://manybabies.slack.com/archives/C0AEGB60XGS)_**\n**_[#mb7-design](https://manybabies.slack.com/archives/C0AECUMB2Q5)_**\n"
+  },
+  {
+    "id": "recpFvKh922MxcTOL",
+    "project": "MB8",
+    "mainproject": "MB8",
+    "title": "**MB8: **",
+    "description": "Screen Time",
+    "type": "Main",
+    "status": "Design",
+    "website": "manybabies.org/MB8",
+    "leads": [
+      "Nevena Dimitrova",
+      "Rachel Barr",
+      "Sarah C. Kucker",
+      "Joscelin Rocha-Hidalgo"
+    ],
+    "logopath": "/assets/img/mb8-logo.png",
+    "contact": "mb8@manybabies.org\n",
+    "listservsub": "https://groups.google.com/a/manybabies.org/g/mb8-list",
+    "slack": "**_[#mb8-general](https://manybabies.slack.com/archives/C0ABH7W9D2L)_**\n"
+  },
+  {
+    "id": "rechdhxdAZ4MaeRZd",
+    "project": "MB9",
+    "mainproject": "MB9",
+    "title": "**MB9:**",
+    "description": "Perceptual Specialization",
+    "type": "Main",
+    "status": "Design",
+    "website": "manybabies.org/MB9",
+    "leads": [
+      "Charisse B. Pickron"
+    ],
+    "logopath": "/assets/img/mb9-logo.png",
+    "contact": "mb9@manybabies.org\n",
+    "listservsub": "https://groups.google.com/a/manybabies.org/g/mb9-list",
+    "slack": "**_[#mb9-general](https://manybabies.slack.com/archives/C0BFLFJPE4T)_**\n"
   }
 ]
