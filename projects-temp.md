@@ -24,5 +24,5 @@ subtitle: Pulled live from Airtable
 
 {% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainproject", "MB1" %}
 {% for item in spinoffs %}
-  <h4>{{ item.title }} {{ item.description }}</h4>
+  <h4>{{ item.project }}: {{ item.description }}</h4>
 {% endfor %}
