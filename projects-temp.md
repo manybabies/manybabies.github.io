@@ -39,7 +39,7 @@ subtitle: Pulled live from Airtable
         <a href="https://{{item.website }}"><img src="{{ item.logopath }}" alt="{{ item.project}} logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-10">
-        <h4><a href=" https://{{item.website }}">{{ item.project }}: {{ item.description }}</a></h4>
+        <h4><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
         <b>Status:</b> <i>{{ item.status }}</i><br>
         <hr>
       </div>
