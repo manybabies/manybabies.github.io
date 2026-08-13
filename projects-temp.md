@@ -23,19 +23,23 @@ subtitle: Pulled live from Airtable
 {% endif %}
 -->
 
-{% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainproject", "MB1" %}
+{% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", "MB1" %}
 {% for item in spinoffs %}
   <h4><a href="https://{{ item.website }}">{{ item.project }}</a>: {{ item.description }}</h4>
 {% endfor %}
 
 ***
-TEST2
-{% assign mb1 = site.data.airtable | where: "project", "MB1" | first %}
+TEST3
+
+{% assign mb1projects = site.data.airtable | where: "mainProject", "MB1" %}
+{% assign mb1main = mb1projects | where: "type" "Main" %}
+{% assign mb1spinoffs = mb1projects | where: "type" "Spin-off" %}
+
 {% if mb1 %}
   <div class="container">
       <div class="row">
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{mb1.website }}"><img src="{{ mb1.logopath }}" alt="{{ mb1.project}} logo" width="100" height="100"></a>
+          <a href="https://{{mb1.website }}"><img src="{{ mb1.logoPath }}" alt="{{ mb1.project}} logo" width="100" height="100"></a>
         </div>
         <div class="col-sm-10">
           <h4><a href=" https://{{mb1.website }}">{{ mb1.project }}:</a> {{ mb1.description }}</h4>
@@ -47,14 +51,14 @@ TEST2
 {% endif %}
 
 
-{% assign mb1spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainproject", "MB1" %}
+{% assign mb1spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", "MB1" %}
 <div class="container">
   {% for item in mb1spinoffs %}
     <div class="row">
       <div class="col-sm-2">  
       </div>
       <div class="col-sm-2 col-xs-6" align="center">
-        <a href="https://{{item.website }}"><img src="{{ item.logopath }}" alt="{{ item.project}} logo" width="75" height="75"></a>
+        <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-8">
         <h4><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
