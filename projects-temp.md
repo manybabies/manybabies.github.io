@@ -33,17 +33,16 @@ TEST4
 
 {% assign mb1projects = site.data.airtable | where: "mainProject", "MB1" %}
 {% assign mb1main = mb1projects | where: "type" "Main" %}
-{% assign mb1spinoffs = mb1projects | where: "type" "Spin-off" %}
 
-{% if mb1 %}
+{% if mb1main %}
   <div class="container">
       <div class="row">
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{mb1.website }}"><img src="{{ mb1.logoPath }}" alt="{{ mb1.project}} logo" width="100" height="100"></a>
+          <a href="https://{{mb1main.website }}"><img src="{{ mb1main.logoPath }}" alt="{{ mb1main.project}} logo" width="100" height="100"></a>
         </div>
         <div class="col-sm-10">
-          <h4><a href=" https://{{mb1.website }}">{{ mb1.project }}:</a> {{ mb1.description }}</h4>
-          <b>Status:</b> <i>{{ mb1.status }}</i><br>
+          <h4><a href=" https://{{mb1main.website }}">{{ mb1main.project }}:</a> {{ mb1main.description }}</h4>
+          <b>Status:</b> <i>{{ mb1main.status }}</i><br>
           <hr>
         </div>
       </div> 
