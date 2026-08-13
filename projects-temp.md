@@ -30,6 +30,22 @@ subtitle: Pulled live from Airtable
 
 ***
 
+{% assign mb1 = site.data.airtable | where: "project", "MB1" | first %}
+<div class="container">
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <a href="https://{{item.website }}"><img src="{{ item.logopath }}" alt="{{ item.project}} logo" width="75" height="75"></a>
+      </div>
+      <div class="col-sm-10">
+        <h4><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
+        <b>Status:</b> <i>{{ item.status }}</i><br>
+        <hr>
+      </div>
+    </div> 
+  {% endfor %}
+</div>
+
 {% assign mb1spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainproject", "MB1" %}
 <div class="container">
   {% for item in mb1spinoffs %}
