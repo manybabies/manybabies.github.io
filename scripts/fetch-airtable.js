@@ -96,10 +96,15 @@ async function main() {
     if (a.mainProject < b.mainProject) return -1;
     if (a.mainProject > b.mainProject) return 1;
   
-    // Secondary: order by type using the custom ranking above
-    const aOrder = typeOrder[a.type] ?? 99;  // unknown types go last
+    // Secondary: order by type using the custom ranking
+    const aOrder = typeOrder[a.type] ?? 99;
     const bOrder = typeOrder[b.type] ?? 99;
-    return aOrder - bOrder;
+    if (aOrder !== bOrder) return aOrder - bOrder;
+  
+    // Tertiary: alphabetical by project name
+    if (a.project < b.project) return -1;
+    if (a.project > b.project) return 1;
+    return 0;
   });
 
   fs.writeFileSync('_data/airtable.json', JSON.stringify(records, null, 2));
