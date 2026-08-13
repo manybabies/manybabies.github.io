@@ -4,6 +4,7 @@ title: Projects
 subtitle: Pulled live from Airtable
 ---
 
+<!--
 {% for item in site.data.airtable %}
   <div class="panel panel-default">
     <br>
@@ -15,6 +16,7 @@ subtitle: Pulled live from Airtable
     <br>
   </div>
 {% endfor %}
+-->
 
 
 {% assign mb1n = site.data.airtable | where: "project", "MB1N" | first %}
@@ -26,3 +28,18 @@ subtitle: Pulled live from Airtable
 {% for item in spinoffs %}
   <h4>{{ item.project }}: {{ item.description }}</h4>
 {% endfor %}
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-2 col-xs-6" align="center">
+      <br>
+      <a href="{{site.baseurl}}/MB1/"><img src="/assets/img/mb1-logo.png" alt="MB1 logo" width="75" height="75"></a>
+    </div>
+    <div class="col-sm-10">
+      <h4><a href="{{site.baseurl}}/MB1/">MB1: Infant-Directed Speech Preference</a></h4>
+      <b>Status:</b> <i>{{ site.data.global.status.mb1 }}</i><br>
+      <hr>
+    </div>
+  </div>
+</div>
