@@ -20,19 +20,6 @@
     "listservSub": "https://groups.google.com/g/InfantLooksAtHome"
   },
   {
-    "id": "recd6S0C8x4BQyQ4G",
-    "project": "MBAH2-VP",
-    "mainProject": "MB-AtHome",
-    "title": "**MBAH2: **",
-    "description": "Visual Preference",
-    "type": "Spin-off",
-    "category": "Methodological",
-    "status": "Design",
-    "website": "manybabies.org/MB-AtHome",
-    "leads": [],
-    "logoPath": "/assets/img/mbah-spinoff.png"
-  },
-  {
     "id": "recknyuxweQNDGinI",
     "project": "MBAH1-LWL",
     "mainProject": "MB-AtHome",
@@ -51,6 +38,19 @@
     "contact": "mbah1@manybabies.org\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mbah1-list",
     "slack": "**_[#mbah1-lwl-general](https://manybabies.slack.com/archives/C0BBXD0L0F3)_**\n"
+  },
+  {
+    "id": "recd6S0C8x4BQyQ4G",
+    "project": "MBAH2-VP",
+    "mainProject": "MB-AtHome",
+    "title": "**MBAH2: **",
+    "description": "Visual Preference",
+    "type": "Spin-off",
+    "category": "Methodological",
+    "status": "Design",
+    "website": "manybabies.org/MB-AtHome",
+    "leads": [],
+    "logoPath": "/assets/img/mbah-spinoff.png"
   },
   {
     "id": "recSTZTL277eUdZPp",
@@ -89,54 +89,6 @@
     "listservSub": "https://mailman.stanford.edu/mailman/listinfo/manybabies1"
   },
   {
-    "id": "recAe3xQsp28sDKpA",
-    "project": "MB1G",
-    "mainProject": "MB1",
-    "title": "**MB1G: **",
-    "description": "Gaze Following in Monolingual and Bilingual Infants",
-    "type": "Spin-off",
-    "category": "Empirical",
-    "status": "Complete",
-    "website": "manybabies.org/MB1G",
-    "leads": [
-      "Krista Byers-Heinlein"
-    ],
-    "logoPath": "/assets/img/mb1-spinoff.png",
-    "contact": "K.Byers@concordia.ca\n"
-  },
-  {
-    "id": "recQuad8F2DWIkPpY",
-    "project": "MB1B",
-    "mainProject": "MB1",
-    "title": "**MB1B: **",
-    "description": "Infant-Directed Speech Preference in Bilingual Infants",
-    "type": "Spin-off",
-    "category": "Empirical",
-    "status": "Complete",
-    "website": "manybabies.org/MB1B",
-    "leads": [
-      "Krista Byers-Heinlein"
-    ],
-    "logoPath": "/assets/img/mb1-spinoff.png",
-    "contact": "K.Byers@concordia.ca\n"
-  },
-  {
-    "id": "recUqcSLkl3Al1NnT",
-    "project": "MB1T",
-    "mainProject": "MB1",
-    "title": "**MB1T: **",
-    "description": "Test-Retest Follow-up",
-    "type": "Spin-off",
-    "category": "Empirical",
-    "status": "Complete",
-    "website": "manybabies.org/MB1T",
-    "leads": [
-      "Melanie S. Schreiner"
-    ],
-    "logoPath": "/assets/img/mb1-spinoff.png",
-    "contact": "melanie.schreiner@psych.uni-goettingen.de\n"
-  },
-  {
     "id": "reccTsj33msyHzp7T",
     "project": "MB1-Africa",
     "mainProject": "MB1",
@@ -160,6 +112,55 @@
     "slack": "**_[#mb1a-general](https://manybabies.slack.com/archives/C0425R5RJ72)_**\n"
   },
   {
+    "id": "recQuad8F2DWIkPpY",
+    "project": "MB1B",
+    "mainProject": "MB1",
+    "title": "**MB1B: **",
+    "description": "Infant-Directed Speech Preference in Bilingual Infants",
+    "type": "Spin-off",
+    "category": "Empirical",
+    "status": "Complete",
+    "website": "manybabies.org/MB1B",
+    "leads": [
+      "Krista Byers-Heinlein"
+    ],
+    "logoPath": "/assets/img/mb1-spinoff.png",
+    "contact": "K.Byers@concordia.ca\n"
+  },
+  {
+    "id": "recAe3xQsp28sDKpA",
+    "project": "MB1G",
+    "mainProject": "MB1",
+    "title": "**MB1G: **",
+    "description": "Gaze Following in Monolingual and Bilingual Infants",
+    "type": "Spin-off",
+    "category": "Empirical",
+    "status": "Complete",
+    "website": "manybabies.org/MB1G",
+    "leads": [
+      "Krista Byers-Heinlein"
+    ],
+    "logoPath": "/assets/img/mb1-spinoff.png",
+    "contact": "K.Byers@concordia.ca\n"
+  },
+  {
+    "id": "recvYMeOAUryptskc",
+    "project": "MB1L",
+    "mainProject": "MB1",
+    "title": "**MB1L: **",
+    "description": "Longitudinal Vocabulary Follow-up",
+    "type": "Spin-off",
+    "category": "Empirical",
+    "status": "Complete",
+    "website": "manybabies.org/MB1L",
+    "leads": [
+      "Melanie Soderstrom"
+    ],
+    "logoPath": "/assets/img/mb1-spinoff.png",
+    "contact": "M\\_Soderstrom@umanitoba.ca\n",
+    "listservSub": "https://groups.google.com/u/1/g/mb1-cdi-follow-up"
+  },
+  {
     "id": "recmz56jpWuQqm8eW",
     "project": "MB1N",
     "mainProject": "MB1",
@@ -179,21 +180,20 @@
     "slack": "**_[#mb1n-general](https://manybabies.slack.com/archives/C046L3JJ06N)_**\n"
   },
   {
-    "id": "recvYMeOAUryptskc",
-    "project": "MB1L",
+    "id": "recUqcSLkl3Al1NnT",
+    "project": "MB1T",
     "mainProject": "MB1",
-    "title": "**MB1L: **",
-    "description": "Longitudinal Vocabulary Follow-up",
+    "title": "**MB1T: **",
+    "description": "Test-Retest Follow-up",
     "type": "Spin-off",
     "category": "Empirical",
     "status": "Complete",
-    "website": "manybabies.org/MB1L",
+    "website": "manybabies.org/MB1T",
     "leads": [
-      "Melanie Soderstrom"
+      "Melanie S. Schreiner"
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
-    "contact": "M\\_Soderstrom@umanitoba.ca\n",
-    "listservSub": "https://groups.google.com/u/1/g/mb1-cdi-follow-up"
+    "contact": "melanie.schreiner@psych.uni-goettingen.de\n"
   },
   {
     "id": "recSC9tDMb88OGQ0t",
@@ -250,24 +250,6 @@
     "slack": "**_[#mb2-general](https://manybabies.slack.com/archives/C03U90GNJ03)_**\n**_[#mb2-analysis](https://manybabies.slack.com/archives/C04454VLG0J)_**\n"
   },
   {
-    "id": "recC68M8cOo3dlHzp",
-    "project": "MB-ManyWebcams",
-    "mainProject": "MB2",
-    "title": "**MB-ManyWebcams: **",
-    "description": "Web-based Eye Tracking for Infant Studies",
-    "type": "Spin-off",
-    "category": "Empirical",
-    "status": "Complete",
-    "website": "manybabies.org/MB-ManyWebcams",
-    "leads": [
-      "Tobias Schuwerk",
-      "Adrian Steffan",
-      "Lucie Zimmer"
-    ],
-    "logoPath": "/assets/img/mb2-spinoff.png",
-    "listservSub": "https://lists.lrz.de/mailman/listinfo/online_mb2"
-  },
-  {
     "id": "recOwYzTM7ZFtRcwH",
     "project": "MB-ManyTrackers",
     "mainProject": "MB2",
@@ -285,6 +267,24 @@
     "logoPath": "/assets/img/mb2-spinoff.png",
     "contact": "Shuting.Li@psy.lmu.de\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/manytrackers-list"
+  },
+  {
+    "id": "recC68M8cOo3dlHzp",
+    "project": "MB-ManyWebcams",
+    "mainProject": "MB2",
+    "title": "**MB-ManyWebcams: **",
+    "description": "Web-based Eye Tracking for Infant Studies",
+    "type": "Spin-off",
+    "category": "Empirical",
+    "status": "Complete",
+    "website": "manybabies.org/MB-ManyWebcams",
+    "leads": [
+      "Tobias Schuwerk",
+      "Adrian Steffan",
+      "Lucie Zimmer"
+    ],
+    "logoPath": "/assets/img/mb2-spinoff.png",
+    "listservSub": "https://lists.lrz.de/mailman/listinfo/online_mb2"
   },
   {
     "id": "recqEwFPrFXwknTTF",
@@ -326,21 +326,22 @@
     "slack": "**_[#mb3-general](https://manybabies.slack.com/archives/C03TUGG2CNB)_**\n**_[#mb3-analysis](https://manybabies.slack.com/archives/C044J48TZDX)_**\n"
   },
   {
-    "id": "rec0Hswo8T9WGP4jt",
-    "project": "MB3P",
+    "id": "recsp4314Kzm6cjGV",
+    "project": "MB3-NIRS",
     "mainProject": "MB3",
-    "title": "**MB3P: **",
-    "description": "Pupil Dilation",
+    "title": "**MB3-NIRS:**",
+    "description": "Rule Learning with NIRS",
     "type": "Spin-off",
     "category": "Empirical",
-    "status": "Analysis",
-    "website": "manybabies.org/MB3P",
+    "status": "Design",
+    "website": "manybabies.org/MB3N",
     "leads": [
-      "Ingmar Visser"
+      "Judit Gervain"
     ],
-    "logoPath": "/assets/img/mb3-spinoff.png",
-    "listservSub": "https://groups.google.com/a/manybabies.org/g/mb3p-list",
-    "slack": "**_[#mb3p-pupillometry](https://manybabies.slack.com/archives/C087ZL52TGA)_**\n"
+    "logoPath": "/assets/img/mb3n-logo.png",
+    "contact": "judit.gervain@parisdescartes.fr\n",
+    "listservSub": "https://groups.google.com/g/mb3nirs",
+    "slack": "**[MB3-NIRS workspace](https://join.slack.com/t/mb3nirs/shared_invite/zt-1opm3wjvb-Hk5cO2ZDciUhWyuJfeunQQ)**\n"
   },
   {
     "id": "recXetBIy5suiUK5t",
@@ -359,6 +360,23 @@
     "listservSub": "https://groups.google.com/g/mb3l"
   },
   {
+    "id": "rec0Hswo8T9WGP4jt",
+    "project": "MB3P",
+    "mainProject": "MB3",
+    "title": "**MB3P: **",
+    "description": "Pupil Dilation",
+    "type": "Spin-off",
+    "category": "Empirical",
+    "status": "Analysis",
+    "website": "manybabies.org/MB3P",
+    "leads": [
+      "Ingmar Visser"
+    ],
+    "logoPath": "/assets/img/mb3-spinoff.png",
+    "listservSub": "https://groups.google.com/a/manybabies.org/g/mb3p-list",
+    "slack": "**_[#mb3p-pupillometry](https://manybabies.slack.com/archives/C087ZL52TGA)_**\n"
+  },
+  {
     "id": "reck2oIwbge2U2D5H",
     "project": "MB3T",
     "mainProject": "MB3",
@@ -374,24 +392,6 @@
     ],
     "logoPath": "/assets/img/mb3-spinoff.png",
     "listservSub": "https://groups.google.com/g/mb3t"
-  },
-  {
-    "id": "recsp4314Kzm6cjGV",
-    "project": "MB3-NIRS",
-    "mainProject": "MB3",
-    "title": "**MB3-NIRS:**",
-    "description": "Rule Learning with NIRS",
-    "type": "Spin-off",
-    "category": "Empirical",
-    "status": "Design",
-    "website": "manybabies.org/MB3N",
-    "leads": [
-      "Judit Gervain"
-    ],
-    "logoPath": "/assets/img/mb3n-logo.png",
-    "contact": "judit.gervain@parisdescartes.fr\n",
-    "listservSub": "https://groups.google.com/g/mb3nirs",
-    "slack": "**[MB3-NIRS workspace](https://join.slack.com/t/mb3nirs/shared_invite/zt-1opm3wjvb-Hk5cO2ZDciUhWyuJfeunQQ)**\n"
   },
   {
     "id": "recQfWfFrz6Qb4laY",
@@ -414,6 +414,22 @@
     "slack": "**_[#mb4-general](https://manybabies.slack.com/archives/C03UBKXCGTW)_**\n"
   },
   {
+    "id": "recObQ5VJROvXYIKK",
+    "project": "MB4E",
+    "mainProject": "MB4",
+    "title": "**MB4E: **",
+    "description": "Emotional Responses",
+    "type": "Spin-off",
+    "category": "Empirical",
+    "status": "Analysis",
+    "website": "manybabies.org/MB4E",
+    "leads": [
+      "Francis L. Yuen",
+      "Kelsey Lucca"
+    ],
+    "logoPath": "/assets/img/mb4-spinoff.png"
+  },
+  {
     "id": "rec0FNRFdGesoiFRu",
     "project": "MB4I",
     "mainProject": "MB4",
@@ -430,22 +446,6 @@
     "logoPath": "/assets/img/mb4-spinoff.png",
     "contact": "- yiyiwang@uchicago.edu\n- klucca@asu.edu\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb4i-list"
-  },
-  {
-    "id": "recObQ5VJROvXYIKK",
-    "project": "MB4E",
-    "mainProject": "MB4",
-    "title": "**MB4E: **",
-    "description": "Emotional Responses",
-    "type": "Spin-off",
-    "category": "Empirical",
-    "status": "Analysis",
-    "website": "manybabies.org/MB4E",
-    "leads": [
-      "Francis L. Yuen",
-      "Kelsey Lucca"
-    ],
-    "logoPath": "/assets/img/mb4-spinoff.png"
   },
   {
     "id": "reccAENstvLoMPEyw",
@@ -501,19 +501,6 @@
     "slack": "**_[#mb5-meta](https://manybabies.slack.com/archives/C06EQMB3EAD)_**\n"
   },
   {
-    "id": "recQ4AoeIIpDlNdJz",
-    "project": "MB5T",
-    "mainProject": "MB5",
-    "title": "**MB5T: **",
-    "description": "Test-Retest Follow-up",
-    "type": "Spin-off",
-    "category": "Empirical",
-    "status": "Preparing for data collection",
-    "leads": [],
-    "logoPath": "/assets/img/mb5-spinoff.png",
-    "contact": "mb5@manybabies.org\n"
-  },
-  {
     "id": "recnrjs0S2cVNhPau",
     "project": "MB5N",
     "mainProject": "MB5",
@@ -529,6 +516,19 @@
     "logoPath": "/assets/img/mb5-spinoff.png",
     "contact": "jkosie@asu.edu\n",
     "slack": "**_[#mb5n-naturalistic](https://manybabies.slack.com/archives/C08KDPGJ55M)_**\n"
+  },
+  {
+    "id": "recQ4AoeIIpDlNdJz",
+    "project": "MB5T",
+    "mainProject": "MB5",
+    "title": "**MB5T: **",
+    "description": "Test-Retest Follow-up",
+    "type": "Spin-off",
+    "category": "Empirical",
+    "status": "Preparing for data collection",
+    "leads": [],
+    "logoPath": "/assets/img/mb5-spinoff.png",
+    "contact": "mb5@manybabies.org\n"
   },
   {
     "id": "recLIUCZUIdEddWr8",
