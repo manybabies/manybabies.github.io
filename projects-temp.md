@@ -29,7 +29,7 @@ subtitle: Pulled live from Airtable
 {% endfor %}
 
 ***
-TEST3
+TEST4
 
 {% assign mb1projects = site.data.airtable | where: "mainProject", "MB1" %}
 {% assign mb1main = mb1projects | where: "type" "Main" %}
@@ -38,7 +38,7 @@ TEST3
 {% if mb1 %}
   <div class="container">
       <div class="row">
-        <div class="col-sm-2 col-xs-6" align="center">
+        <div class="col-sm-2 col-xs-6" align="center" style="margin-top: 10px;">
           <a href="https://{{mb1.website }}"><img src="{{ mb1.logoPath }}" alt="{{ mb1.project}} logo" width="100" height="100"></a>
         </div>
         <div class="col-sm-10">
