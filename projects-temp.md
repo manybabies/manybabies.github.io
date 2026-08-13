@@ -4,8 +4,7 @@ title: Projects
 subtitle: Pulled live from Airtable
 ---
 
-{% assign sorted_projects = site.data.airtable | sort: "project" %}
-{% for item in sorted_projects %}
+{% for item in site.data.airtable %}
   <div class="panel panel-default">
     <br>
     {% if item.logopath %}<img src="{{ item.logopath }}" alt="{{ item.project }} logo" width="75" height="75">{% endif %}
@@ -25,5 +24,5 @@ subtitle: Pulled live from Airtable
 
 {% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainproject", "MB1" %}
 {% for item in spinoffs %}
-  <h4>{{ item.project }}: {{ item.title }}</h4>
+  <h4>{{ item.title }} {{ item.description }}</h4>
 {% endfor %}
