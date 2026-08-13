@@ -89,12 +89,12 @@ async function main() {
   });
 
   records.sort((a, b) => {
-    // Primary: sort by type
-    if (a.type < b.type) return -1;
-    if (a.type > b.type) return 1;
-    // Secondary: if type is the same, sort by project
+    // Primary: if type is the same, sort by project
     if (a.mainproject < b.mainproject) return -1;
     if (a.mainproject > b.mainproject) return 1;
+    // Secondary: sort by type
+    if (a.type < b.type) return -1;
+    if (a.type > b.type) return 1;
     return 0;
   });
 
