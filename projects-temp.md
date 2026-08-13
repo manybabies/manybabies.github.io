@@ -30,7 +30,7 @@ subtitle: Pulled live from Airtable
 
 ***
 
-{% assign mb1 = site.data.airtable | where: "type", "Main" | where: "mainproject", "MB1" %}
+{% assign mb1 = site.data.airtable | where: "project", "MB1" | first %}
 {% if mb1 %}
   <div class="container">
       <div class="row">
