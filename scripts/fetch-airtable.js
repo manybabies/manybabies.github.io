@@ -74,6 +74,7 @@ async function main() {
     return {
       id: r.id,
       project: f.Project,
+      mainproject: f['Main Project'],
       title,
       description,
       type: f.Type,
@@ -92,8 +93,8 @@ async function main() {
     if (a.type < b.type) return -1;
     if (a.type > b.type) return 1;
     // Secondary: if type is the same, sort by project
-    if (a.project < b.project) return -1;
-    if (a.project > b.project) return 1;
+    if (a.mainproject < b.mainproject) return -1;
+    if (a.mainproject > b.mainproject) return 1;
     return 0;
   });
 
