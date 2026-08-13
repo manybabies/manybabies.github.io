@@ -38,7 +38,7 @@ TEST4
 {% if mb1 %}
   <div class="container">
       <div class="row">
-        <div class="col-sm-2 col-xs-6" align="center" style="margin-top: 10px;">
+        <div class="col-sm-2 col-xs-6" align="center">
           <a href="https://{{mb1.website }}"><img src="{{ mb1.logoPath }}" alt="{{ mb1.project}} logo" width="100" height="100"></a>
         </div>
         <div class="col-sm-10">
