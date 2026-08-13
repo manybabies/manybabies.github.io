@@ -25,22 +25,24 @@ subtitle: Pulled live from Airtable
 
 {% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainproject", "MB1" %}
 {% for item in spinoffs %}
-  <h4><a href="https://{{ item.website }}">{{ item.project }})</a>: {{ item.description }}</h4>
+  <h4><a href="https://{{ item.website }}">{{ item.project }}</a>: {{ item.description }}</h4>
 {% endfor %}
 
 ***
 
 {% assign mb1spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainproject", "MB1" %}
 <div class="container">
-  <div class="row">
-    <div class="col-sm-2 col-xs-6" align="center">
-      <br>
-      <a href="{{site.baseurl}}/MB1/"><img src="/assets/img/mb1-logo.png" alt="MB1 logo" width="75" height="75"></a>
-    </div>
-    <div class="col-sm-10">
-      <h4><a href="{{site.baseurl}}/MB1/">MB1: Infant-Directed Speech Preference</a></h4>
-      <b>Status:</b> <i>{{ site.data.global.status.mb1 }}</i><br>
-      <hr>
-    </div>
-  </div>
+  {% for item in mb1spinoffs %}
+    <div class="row">
+      <div class="col-sm-2 col-xs-6" align="center">
+        <br>
+        <a href="{{ item.website }}"><img src="{{ item.logopath }}" alt="{{ item.project}} logo" width="75" height="75"></a>
+      </div>
+      <div class="col-sm-10">
+        <h4><a href=" item.website ">{{ item.project }}: {{ item.description }}</a></h4>
+        <b>Status:</b> <i>{{ item.status }}</i><br>
+        <hr>
+      </div>
+    </div> 
+  {% endfor %}
 </div>
