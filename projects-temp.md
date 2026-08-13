@@ -35,8 +35,7 @@ TEST2
   <div class="container">
       <div class="row">
         <div class="col-sm-2 col-xs-6" align="center">
-          <br>
-          <a href="https://{{mb1.website }}"><img src="{{ mb1.logopath }}" alt="{{ mb1.project}} logo" width="75" height="75"></a>
+          <a href="https://{{mb1.website }}"><img src="{{ mb1.logopath }}" alt="{{ mb1.project}} logo" width="100" height="100"></a>
         </div>
         <div class="col-sm-10">
           <h4><a href=" https://{{mb1.website }}">{{ mb1.project }}:</a> {{ mb1.description }}</h4>
@@ -55,7 +54,6 @@ TEST2
       <div class="col-sm-2">  
       </div>
       <div class="col-sm-2 col-xs-6" align="center">
-        <br>
         <a href="https://{{item.website }}"><img src="{{ item.logopath }}" alt="{{ item.project}} logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-8">
