@@ -43,7 +43,6 @@ subtitle: Pulled live from Airtable
         <hr>
       </div>
     </div> 
-  {% endfor %}
 </div>
 
 {% assign mb1spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainproject", "MB1" %}
