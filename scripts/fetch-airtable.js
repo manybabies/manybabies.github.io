@@ -78,7 +78,7 @@ async function main() {
       title,
       description,
       type: f.Type,
-      category: f.Category
+      category: f.Category,
       status: f.Status,
       website: f.Website,
       leads: leadNames,
