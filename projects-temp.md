@@ -16,3 +16,9 @@ subtitle: Pulled live from Airtable
     <br>
   </div>
 {% endfor %}
+
+
+{% assign mb1n = site.data.airtable | where: "project", "MB1N" | first %}
+{% if mb1n %}
+  <a href="https://{{ mb1n.website }}">Visit MB1N →</a>
+{% endif %}
