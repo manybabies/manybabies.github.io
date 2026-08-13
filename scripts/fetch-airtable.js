@@ -89,14 +89,17 @@ async function main() {
     };
   });
 
+  const typeOrder = { "Main": 0, "Spin-off": 1, "Secondary analysis": 2 };
+  
   records.sort((a, b) => {
-    // Primary: if type is the same, sort by project
-    if (a.mainproject < b.mainproject) return -1;
-    if (a.mainproject > b.mainproject) return 1;
-    // Secondary: sort by type
-    if (a.type < b.type) return -1;
-    if (a.type > b.type) return 1;
-    return 0;
+    // Primary: group by main project name
+    if (a.mainProject < b.mainProject) return -1;
+    if (a.mainProject > b.mainProject) return 1;
+  
+    // Secondary: order by type using the custom ranking above
+    const aOrder = typeOrder[a.type] ?? 99;  // unknown types go last
+    const bOrder = typeOrder[b.type] ?? 99;
+    return aOrder - bOrder;
   });
 
   fs.writeFileSync('_data/airtable.json', JSON.stringify(records, null, 2));
