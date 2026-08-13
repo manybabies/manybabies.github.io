@@ -74,16 +74,17 @@ async function main() {
     return {
       id: r.id,
       project: f.Project,
-      mainproject: f['Main Project'],
+      mainProject: f['Main Project'],
       title,
       description,
       type: f.Type,
+      category: f.Category
       status: f.Status,
       website: f.Website,
       leads: leadNames,
-      logopath: f['Logo Path'] || null,
+      logoPath: f['Logo Path'] || null,
       contact: f['Project Contact'],
-      listservsub: f['Listserv Subscribe'],
+      listservSub: f['Listserv Subscribe'],
       slack: f.Slack
     };
   });
