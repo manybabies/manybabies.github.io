@@ -2,8 +2,10 @@
 
 source "https://rubygems.org"
 
-gemspec
+gem "jekyll", "~> 4.4.1"
+gem "webrick", "~> 1.8"
 
-gem "kramdown-parser-gfm"
-
-gem "jekyll"
+group :jekyll_plugins do
+  gem "jekyll-paginate"
+  gem "jekyll-sitemap"
+end
