@@ -58,7 +58,7 @@ TEST6
         <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="75" height="75"></a>
       </div>
       <div class="col-sm-8">
-        <h4><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
+        <h4 style="margin-top:0.5em;"><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
         <b>Status:</b> <i>{{ item.status }}</i><br>
         <hr>
       </div>
