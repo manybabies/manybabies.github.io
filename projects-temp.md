@@ -39,7 +39,7 @@ TEST6
           <a href="https://{{mb1main.website }}"><img src="{{ mb1main.logoPath }}" alt="{{ mb1main.project}} logo" width="100" height="100"></a>
         </div>
         <div class="col-sm-10">
-          <h4><a href=" https://{{mb1main.website }}">{{ mb1main.project }}:</a> {{ mb1main.description }}</h4>
+          <h3><a href=" https://{{mb1main.website }}">{{ mb1main.project }}:</a> {{ mb1main.description }}</h3>
           <b>Status:</b> <i>{{ mb1main.status }}</i><br>
           <hr>
         </div>
@@ -51,6 +51,24 @@ TEST6
 {% assign mb1spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", "MB1" %}
 <div class="container">
   {% for item in mb1spinoffs %}
+    <div class="row">
+      <div class="col-sm-2">  
+      </div>
+      <div class="col-sm-2 col-xs-6" align="center">
+        <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="75" height="75"></a>
+      </div>
+      <div class="col-sm-8">
+        <h4><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
+        <b>Status:</b> <i>{{ item.status }}</i><br>
+        <hr>
+      </div>
+    </div> 
+  {% endfor %}
+</div>
+
+{% assign mb1sas = site.data.airtable | where: "type", "Secondary analysis" | where: "mainProject", "MB1" %}
+<div class="container">
+  {% for item in mb1sas %}
     <div class="row">
       <div class="col-sm-2">  
       </div>
