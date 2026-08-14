@@ -67,7 +67,6 @@ TEST6
         </div> 
       {% endfor %}
     </div>
-  </summary>
 </details>
 
 {% assign mb1sas = site.data.airtable | where: "type", "Secondary analysis" | where: "mainProject", "MB1" %}
