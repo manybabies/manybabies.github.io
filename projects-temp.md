@@ -50,8 +50,8 @@ TEST6
 <details>
   <summary><i>MB1 Spin-offs</i></summary>
     <br>
-    {% assign mb1spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", "MB1" %}
     <div class="container">
+      {% assign mb1spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", "MB1" %}
       {% for item in mb1spinoffs %}
         <div class="row">
           <div class="col-sm-2">  
@@ -64,7 +64,7 @@ TEST6
             <b>Status:</b> <i>{{ item.status }}</i><br>
             <hr>
           </div>
-        </div> 
+        </div>
       {% endfor %}
     </div>
 </details>
