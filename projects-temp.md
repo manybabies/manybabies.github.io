@@ -50,23 +50,21 @@ TEST6
 <details>
   <summary><i>MB1 Spin-offs</i></summary>
     <br>
-    <div class="container">
-      {% assign mb1spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", "MB1" %}
-      {% for item in mb1spinoffs %}
-        <div class="row">
-          <div class="col-sm-2">  
-          </div>
-          <div class="col-sm-2 col-xs-6" align="center">
-            <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="75" height="75"></a>
-          </div>
-          <div class="col-sm-8">
-            <h4 style="margin-top:0.5em;"><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
-            <b>Status:</b> <i>{{ item.status }}</i><br>
-            <hr>
-          </div>
+    {% assign mb1spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", "MB1" %}
+    {% for item in mb1spinoffs %}
+      <div class="row">
+        <div class="col-sm-2">  
         </div>
-      {% endfor %}
-    </div>
+        <div class="col-sm-2 col-xs-6" align="center">
+          <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="75" height="75"></a>
+        </div>
+        <div class="col-sm-8">
+          <h4 style="margin-top:0.5em;"><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
+          <b>Status:</b> <i>{{ item.status }}</i><br>
+          <hr>
+        </div>
+      </div> <!--- close row div -->
+    {% endfor %}
 </details>
 
 {% assign mb1sas = site.data.airtable | where: "type", "Secondary analysis" | where: "mainProject", "MB1" %}
