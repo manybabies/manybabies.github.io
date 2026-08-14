@@ -29,11 +29,9 @@ subtitle: Pulled live from Airtable
 {% endfor %}
 
 ***
-TEST4
+TEST6
 
-{% assign mb1projects = site.data.airtable | where: "mainProject", "MB1" %}
-{% assign mb1main = mb1projects | where: "type" "Main" %}
-
+{% assign mb1main = site.data.airtable | where: "project", "MB1" | first %}
 {% if mb1main %}
   <div class="container">
       <div class="row">
