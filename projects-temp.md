@@ -82,7 +82,7 @@ TEST6
     </div> 
   {% endfor %}
 </div>
->>>>>>> parent of 578c99b (Update projects-temp.md)
+
 
 {% assign mb1sas = site.data.airtable | where: "type", "Secondary analysis" | where: "mainProject", "MB1" %}
 <div class="container">
