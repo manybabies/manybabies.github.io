@@ -29,7 +29,7 @@ subtitle: Pulled live from Airtable
 {% endfor %}
 
 ***
-TEST6
+TEST7
 
 {% assign mb1main = site.data.airtable | where: "project", "MB1" | first %}
 {% if mb1main %}
@@ -46,24 +46,6 @@ TEST6
       </div> 
   </div>
 {% endif %}
-
-{% assign mb1spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", "MB1" %}
-<div class="container">
-  {% for item in mb1spinoffs %}
-    <div class="row">
-      <div class="col-sm-2">  
-      </div>
-      <div class="col-sm-2 col-xs-6" align="center">
-        <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="75" height="75"></a>
-      </div>
-      <div class="col-sm-8">
-        <h4 style="margin-top:0.5em;"><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
-        <b>Status:</b> <i>{{ item.status }}</i><br>
-        <hr>
-      </div>
-    </div> 
-  {% endfor %}
-</div>
 
 {% assign mb1spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", "MB1" %}
 <div class="container">
