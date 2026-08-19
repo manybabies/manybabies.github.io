@@ -4,7 +4,7 @@ title: Projects
 subtitle: Pulled live from Airtable
 ---
 
-***
+
 ## Empirical projects
 
 {% assign main_projects = site.data.airtable | where: "type", "Main" | where: "category", "Empirical" %} <!--- empirical projects -->
@@ -12,7 +12,7 @@ subtitle: Pulled live from Airtable
   <div class="container">
       <div class="row">
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{main.website }}"><img src="{{ main.logoPath }}" alt="{{ main.project}} logo" width="100" height="100"></a>
+          <a href="https://{{main.website }}"><img src="{{ main.logoPath }}" alt="{{ main.project}} logo" width="90" height="90"></a>
         </div>
         <div class="col-sm-10">
           <h3><a href=" https://{{main.website }}">{{ main.project }}:</a> {{ main.description }}</h3>
@@ -27,7 +27,8 @@ subtitle: Pulled live from Airtable
         <div class="col-sm-2">  
         </div>
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="75" height="75"></a>
+          <hr>
+          <a href="https://{{spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="70" height="70"></a>
         </div>
         <div class="col-sm-8">
           <hr>
@@ -44,7 +45,8 @@ subtitle: Pulled live from Airtable
         <div class="col-sm-2">  
         </div>
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="75" height="75"></a>
+          <hr>
+          <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="70" height="70"></a>
         </div>
         <div class="col-sm-8">
           <hr>
