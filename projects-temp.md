@@ -4,33 +4,8 @@ title: Projects
 subtitle: Pulled live from Airtable
 ---
 
-<!--
-{% for item in site.data.airtable %}
-  <div class="panel panel-default">
-    <br>
-    {% if item.logopath %}<img src="{{ item.logopath }}" alt="{{ item.project }} logo" width="75" height="75">{% endif %}
-    <h4>{{ item.project }}: {{ item.description }}</h4>
-    <p><strong>Leads:</strong> {% for lead in item.leads %}{{ lead }}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
-    {% if item.website %}<a href="https://{{ item.website }}">Visit site →</a>{% endif %}
-    <br>
-    <br>
-  </div>
-{% endfor %}
-
-{% assign mb1n = site.data.airtable | where: "project", "MB1N" | first %}
-{% if mb1n %}
-  <a href="https://{{ mb1n.website }}">Visit MB1N →</a>
-{% endif %}
-
-
-{% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", "MB1" %}
-{% for item in spinoffs %}
-  <h4><a href="https://{{ item.website }}">{{ item.project }}</a>: {{ item.description }}</h4>
-{% endfor %}
--->
-
 ***
-TEST9
+## Empirical projects
 
 {% assign main_projects = site.data.airtable | where: "type", "Main" | where: "category", "Empirical" %} <!--- empirical projects -->
 {% for main in main_projects %} <!--- loop over main projects -->
@@ -58,7 +33,6 @@ TEST9
         <div class="col-sm-8">
           <h4 style="margin-top:0.5em;"><a href=" https://{{spinoff.website }}">{{ spinoff.project }}:</a> {{ spinoff.description }}</h4>
           <b>Status:</b> <i>{{ spinoff.status }}</i><br>
-          <hr>
         </div>
       </div> 
     {% endfor %}
