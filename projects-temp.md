@@ -30,7 +30,7 @@ subtitle: Pulled live from Airtable
 -->
 
 ***
-TEST8
+TEST9
 
 {% assign main_projects = site.data.airtable | where: "type", "Main" %}
 {% for item in main_projects %}
@@ -45,6 +45,23 @@ TEST8
           <hr>
         </div>
       </div> 
+  </div>
+  {% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", item %}
+  <div class="container">
+    {% for spinoff in spinoffs %}
+      <div class="row">
+        <div class="col-sm-2">  
+        </div>
+        <div class="col-sm-2 col-xs-6" align="center">
+          <a href="https://{{spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="75" height="75"></a>
+        </div>
+        <div class="col-sm-8">
+          <h4 style="margin-top:0.5em;"><a href=" https://{{spinoff.website }}">{{ spinoff.project }}:</a> {{ spinoff.description }}</h4>
+          <b>Status:</b> <i>{{ spinoff.status }}</i><br>
+          <hr>
+        </div>
+      </div> 
+    {% endfor %}
   </div>
 {% endfor %}
 
@@ -65,7 +82,7 @@ TEST8
       </div> 
   </div>
 {% endif %}
--->
+
 
 {% assign mb1spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", "MB1" %}
 <div class="container">
@@ -84,7 +101,7 @@ TEST8
     </div> 
   {% endfor %}
 </div>
-
+-->
 
 {% assign mb1sas = site.data.airtable | where: "type", "Secondary analysis" | where: "mainProject", "MB1" %}
 <div class="container">
