@@ -33,20 +33,20 @@ subtitle: Pulled live from Airtable
 TEST9
 
 {% assign main_projects = site.data.airtable | where: "type", "Main" %}
-{% for item in main_projects %}
+{% for main in main_projects %}
   <div class="container">
       <div class="row">
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="100" height="100"></a>
+          <a href="https://{{main.website }}"><img src="{{ main.logoPath }}" alt="{{ main.project}} logo" width="100" height="100"></a>
         </div>
         <div class="col-sm-10">
-          <h3><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h3>
-          <b>Status:</b> <i>{{ item.status }}</i><br>
+          <h3><a href=" https://{{main.website }}">{{ main.project }}:</a> {{ main.description }}</h3>
+          <b>Status:</b> <i>{{ main.status }}</i><br>
           <hr>
         </div>
       </div> 
   </div>
-  {% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", item %}
+  {% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", main.project %}
   <div class="container">
     {% for spinoff in spinoffs %}
       <div class="row">
