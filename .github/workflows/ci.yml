@@ -11,4 +11,4 @@ jobs:
           docker run \
           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
           -e PAGES_REPO_NWO=${{ github.repository }} \
-          jekyll/jekyll:latest /bin/bash -c "chmod 777 /srv/jekyll && bundle install && jekyll build --future"
+          jekyll/jekyll:latest /bin/bash -c "chmod 777 /srv/jekyll && bundle install && bundle exec jekyll build --future"
