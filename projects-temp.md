@@ -32,8 +32,8 @@ subtitle: Pulled live from Airtable
 ***
 TEST9
 
-{% assign main_projects = site.data.airtable | where: "type", "Main" %}
-{% for main in main_projects %}
+{% assign main_projects = site.data.airtable | where: "type", "Main" | where: "category", "Empirical" %} <!--- empirical projects -->
+{% for main in main_projects %} <!--- loop over main projects -->
   <div class="container">
       <div class="row">
         <div class="col-sm-2 col-xs-6" align="center">
@@ -63,6 +63,7 @@ TEST9
       </div> 
     {% endfor %}
   </div>
+  <hr>
 {% endfor %}
 
 ***
