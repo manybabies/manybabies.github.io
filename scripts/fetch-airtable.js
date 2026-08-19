@@ -6,6 +6,8 @@ const TABLE = process.env.AIRTABLE_TABLE_NAME; // e.g., "Projects"
 const PEOPLE_TABLE = process.env.AIRTABLE_PEOPLE_TABLE; // e.g. "People"
 const TOKEN = process.env.AIRTABLE_TOKEN;
 
+console.log('DEBUG - BASE_ID:', BASE_ID, 'TABLE:', TABLE, 'PEOPLE_TABLE:', PEOPLE_TABLE);
+
 function getJSON(apiPath) {
   return new Promise((resolve, reject) => {
     https.get(
