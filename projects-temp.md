@@ -42,13 +42,13 @@ TEST9
         <div class="col-sm-10">
           <h3><a href=" https://{{main.website }}">{{ main.project }}:</a> {{ main.description }}</h3>
           <b>Status:</b> <i>{{ main.status }}</i><br>
-          <hr>
         </div>
       </div> 
   </div>
   {% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", main.project %}
   <div class="container">
     {% for spinoff in spinoffs %}
+      <hr>
       <div class="row">
         <div class="col-sm-2">  
         </div>
@@ -66,6 +66,7 @@ TEST9
   {% assign secondary = site.data.airtable | where: "type", "Secondary analysis" | where: "mainProject", main.project %}
   <div class="container">
     {% for item in secondary %}
+      <hr>
       <div class="row">
         <div class="col-sm-2">  
         </div>
@@ -75,7 +76,6 @@ TEST9
         <div class="col-sm-8">
           <h4 style="margin-top:0.5em;"><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
           <b>Status:</b> <i>{{ item.status }}</i><br>
-          <hr>
         </div>
       </div> 
     {% endfor %}
