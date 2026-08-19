@@ -28,7 +28,7 @@ subtitle: Pulled live from Airtable
         </div>
         <div class="col-sm-2 col-xs-6" align="center">
           <hr>
-          <a href="https://{{spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="70" height="70"></a>
+          <a href="https://{{spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="70" height="70" style="margin-top:10px"></a>
         </div>
         <div class="col-sm-8">
           <hr>
@@ -45,7 +45,6 @@ subtitle: Pulled live from Airtable
         <div class="col-sm-2">  
         </div>
         <div class="col-sm-2 col-xs-6" align="center">
-          <hr>
           <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="70" height="70"></a>
         </div>
         <div class="col-sm-8">
