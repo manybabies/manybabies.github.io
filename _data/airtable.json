@@ -1,5 +1,18 @@
 [
   {
+    "id": "recPae20YUuCGUKb9",
+    "project": "CONNECT",
+    "mainProject": "CONNECT",
+    "title": "**CONNECT: **",
+    "description": "Coordinated Network of Networks for Enhancing Collaborative Teams",
+    "type": "Main",
+    "category": "Affiliated",
+    "status": "Check CONNECT site",
+    "website": "connect-btss.github.io/",
+    "leads": [],
+    "logoPath": "/assets/img/connect_logo.png"
+  },
+  {
     "id": "recEXIQyAEgJcqhCW",
     "project": "MB-AtHome",
     "mainProject": "MB-AtHome",
@@ -614,6 +627,19 @@
     "contact": "mb9@manybabies.org\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb9-list",
     "slack": "**_[#mb9-general](https://manybabies.slack.com/archives/C0BFLFJPE4T)_**\n"
+  },
+  {
+    "id": "recYCAyY3jOcQlvt1",
+    "project": "ManyManys1",
+    "mainProject": "ManyManys1",
+    "title": "**ManyManys1: **",
+    "description": "Reversal Learning",
+    "type": "Main",
+    "category": "Affiliated",
+    "status": "Check ManyManys site",
+    "website": "manymanys.github.io/MM1/",
+    "leads": [],
+    "logoPath": "/assets/img/manymanys_logo.png"
   },
   {
     "id": "recT4oZicG8sVJm89",
