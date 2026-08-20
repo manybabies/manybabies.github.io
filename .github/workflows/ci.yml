@@ -1,7 +1,7 @@
 name: Beautiful Jekyll CI
 on:
   push:
-    branches: ["main"]
+    branches: ["master"]
   pull_request:
 
 permissions:
@@ -32,7 +32,7 @@ jobs:
 
   deploy:
     needs: build
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/master' && github.event_name == 'push'
     permissions:
       pages: write
       id-token: write
