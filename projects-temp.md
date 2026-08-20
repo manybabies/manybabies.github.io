@@ -57,9 +57,8 @@ subtitle: Pulled live from Airtable
   <hr>
 {% endfor %}
 
-<br>
 
-## Methodological projects
+<h2 style="margin-top:2em;">Methodological projects</h2>
 
 {% assign main_projects = site.data.airtable | where: "type", "Main" | where: "category", "Methodological" %} <!--- methodological projects -->
 {% for main in main_projects %} <!--- loop over main projects -->
