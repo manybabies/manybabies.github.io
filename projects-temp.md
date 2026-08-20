@@ -27,7 +27,7 @@ subtitle: Pulled live from Airtable
         <div class="col-sm-2">  
         </div>
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="70" height="70" style="margin-top:10px"></a>
+          <a href="https://{{spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="70" height="70" style="margin-top:40px;"></a>
         </div>
         <div class="col-sm-8">
           <hr>
