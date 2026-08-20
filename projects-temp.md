@@ -15,7 +15,7 @@ subtitle: Pulled live from Airtable
           <a href="https://{{main.website }}"><img src="{{ main.logoPath }}" alt="{{ main.project}} logo" width="90" height="90"></a>
         </div>
         <div class="col-sm-10">
-          <h3><a href=" https://{{main.website }}">{{ main.project }}:</a> {{ main.description }}</h3>
+          <h3 style="margin-top:0.5em;"><a href=" https://{{main.website }}">{{ main.project }}:</a> {{ main.description }}</h3>
           <b>Status:</b> <i>{{ main.status }}</i><br>
         </div>
       </div> 
@@ -56,6 +56,8 @@ subtitle: Pulled live from Airtable
   </div>
   <hr>
 {% endfor %}
+
+<br>
 
 ## Methodological projects
 
