@@ -5,14 +5,14 @@ subtitle: Pulled live from Airtable
 ---
 
 
-<h2 style="margin-top:2em;">Empirical projects</h2>
+<h2>Empirical projects</h2>
 
 {% assign main_projects = site.data.airtable | where: "type", "Main" | where: "category", "Empirical" %} <!--- empirical projects -->
 {% for main in main_projects %} <!--- loop over main projects -->
   <div class="container">
       <div class="row">
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{main.website }}"><img src="{{ main.logoPath }}" alt="{{ main.project}} logo" width="70"></a>
+          <a href="https://{{main.website }}"><img src="{{ main.logoPath }}" alt="{{ main.project}} logo" width="70" style="margin-top:4px;"></a>
         </div>
         <div class="col-sm-10">
           <h3 style="margin-top:0em;"><a href=" https://{{main.website }}">{{ main.project }}:</a> {{ main.description }}</h3>
@@ -58,14 +58,14 @@ subtitle: Pulled live from Airtable
   <hr>
 {% endfor %}
 
-<h2 style="margin-top:2em;">Methodological projects</h2>
+<h2 style="margin-top:1em">Methodological projects</h2>
 
 {% assign main_projects = site.data.airtable | where: "type", "Main" | where: "category", "Methodological" %} <!--- methodological projects -->
 {% for main in main_projects %} <!--- loop over main projects -->
   <div class="container">
       <div class="row">
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{main.website }}"><img src="{{ main.logoPath }}" alt="{{ main.project}} logo" width="70"></a>
+          <a href="https://{{main.website }}"><img src="{{ main.logoPath }}" alt="{{ main.project}} logo" width="70" style="margin-top:4px;"></a>
         </div>
         <div class="col-sm-10">
           <h3 style="margin-top:0.1em;"><a href=" https://{{main.website }}">{{ main.project }}:</a> {{ main.description }}</h3>
@@ -111,18 +111,18 @@ subtitle: Pulled live from Airtable
   <hr>
 {% endfor %}
 
-<h2 style="margin-top:2em;">Affiliated projects</h2>
+<h2 style="margin-top:1em">Affiliated projects</h2>
 
 {% assign affiliated_projects = site.data.airtable | where: "category", "Affiliated"%} <!--- affiliated projects -->
 {% for affiliate in affiliated_projects %} <!--- loop over affiliated projects -->
   <div class="container">
       <div class="row">
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{affiliate.website }}" target="_blank"><img src="{{ affiliate.logoPath }}" alt="{{ affiliate.project}} logo" width="70"></a>
+          <a href="https://{{affiliate.website }}" target="_blank"><img src="{{ affiliate.logoPath }}" alt="{{ affiliate.project}} logo" width="70" style="margin-top:4px;"></a>
         </div>
         <div class="col-sm-10">
           <h3 style="margin-top:0.1em;"><a href=" https://{{affiliate.website }}" target="_blank">{{ affiliate.project }}:</a> {{ affiliate.description }}</h3>
-          <i>{{ main.tagline }}</i><br>
+          <i>{{ affiliate.tagline }}</i><br>
           <b>Go to the <a href="https://{{ affiliate.website }}" target="_blank">{{ affiliate.project }} website</a> for more info</b><br> 
         </div>
       </div> 
