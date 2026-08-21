@@ -12,7 +12,7 @@ subtitle: Pulled live from Airtable
   <div class="container">
       <div class="row">
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{main.website }}"><img src="{{ main.logoPath }}" alt="{{ main.project}} logo" width="70"></a>
+          <a href="https://{{main.website }}"><img src="{{ main.logoPath }}" alt="{{ main.project}} logo" width="70" style="margin-top:5px;"></a>
         </div>
         <div class="col-sm-10">
           <h3 style="margin-top:0em;"><a href=" https://{{main.website }}">{{ main.project }}:</a> {{ main.description }}</h3>
