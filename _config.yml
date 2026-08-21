@@ -12,6 +12,9 @@
 # Name of website
 title: ManyBabies
 
+# custom URL for website
+url: "https://manybabies.org"
+
 # Your name to show in the footer
 author: ManyBabies
 
