@@ -16,6 +16,7 @@ subtitle: Pulled live from Airtable
         </div>
         <div class="col-sm-10">
           <h3 style="margin-top:0.1em;"><a href=" https://{{main.website }}">{{ main.project }}:</a> {{ main.description }}</h3>
+          <i>{{ main.tagline }}</i>
           <b>Status:</b> <i>{{ main.status }}</i><br>
         </div>
       </div> 
@@ -27,7 +28,7 @@ subtitle: Pulled live from Airtable
         <div class="col-sm-1">  
         </div>
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="40" align="right" style="margin-top:15px;"></a>
+          <a href="https://{{spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="40" align="right" style="margin-top:16px;"></a>
         </div>
         <div class="col-sm-9">
           <hr style="margin-top:0.3em; margin-bottom:0.3em;">
@@ -44,7 +45,7 @@ subtitle: Pulled live from Airtable
         <div class="col-sm-1">  
         </div>
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="40" align="right" style="margin-top:15px;"></a>
+          <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="40" align="right" style="margin-top:16px;"></a>
         </div>
         <div class="col-sm-9">
           <hr style="margin-top:0.3em; margin-bottom:0.3em;">
@@ -80,7 +81,7 @@ subtitle: Pulled live from Airtable
         <div class="col-sm-1">  
         </div>
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="40" align="right" style="margin-top:15px;"></a>
+          <a href="https://{{spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="40" align="right" style="margin-top:16px;"></a>
         </div>
         <div class="col-sm-9">
           <hr style="margin-top:0.3em; margin-bottom:0.3em;">
@@ -97,7 +98,7 @@ subtitle: Pulled live from Airtable
         <div class="col-sm-1">  
         </div>
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="40" align="right" style="margin-top:15px;"></a>
+          <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="40" align="right" style="margin-top:16px;"></a>
         </div>
         <div class="col-sm-9">
           <hr style="margin-top:0.3em; margin-bottom:0.3em;">
