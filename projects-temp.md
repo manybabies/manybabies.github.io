@@ -16,8 +16,8 @@ subtitle: Pulled live from Airtable
         </div>
         <div class="col-sm-10">
           <h3 style="margin-top:0.1em;"><a href=" https://{{main.website }}">{{ main.project }}:</a> {{ main.description }}</h3>
-          <i>{{ main.tagline }}</i>
-          <b>Status:</b> <i>{{ main.status }}</i><br>
+          <i>{{ main.tagline }}</i><br>
+          <b>Status:</b> <code>{{ main.status }}</code><br>
         </div>
       </div> 
   </div>
