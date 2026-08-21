@@ -8,7 +8,6 @@ The broader goals of **ManyBabies** come together through collaborative projects
   <div class="container">
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
-        <br>
         <img src="/assets/img/mainprojects.png" alt="spin-off pinwheel icon" width="75" height="75">
       </div>
       <div class="col-sm-10">
@@ -40,279 +39,135 @@ The broader goals of **ManyBabies** come together through collaborative projects
   </div>
 </section>
 
-<br>
-
 ***
 
-<!-- LIST OF PROJECTS WITH CONTACT INFO, LISTSERV SUBSCRIPTION LINKS, ETC. (was previously on "Get Involved" page)-->
+<!-- LIST OF PROJECTS -->
 
-<section>
-  <header class="major">
-	  <h2 id="projects">Projects</h2>
-  </header>
+<h2 style="margin-top:1em">Empirical projects</h2>
+
+{% assign main_projects = site.data.airtable | where: "type", "Main" | where: "category", "Empirical" %} <!--- empirical projects -->
+{% for main in main_projects %} <!--- loop over main projects -->
   <div class="container">
-    <div class="row">
-      <h3>Empirical projects</h3>
-    </div>
-    <div class="row">
-      <div class="col-sm-2 col-xs-6" align="center">
-        <br>
-        <a href="{{site.baseurl}}/MB1/"><img src="/assets/img/mb1-logo.png" alt="MB1 logo" width="75" height="75"></a>
-      </div>
-      <div class="col-sm-10">
-        <h4><a href="{{site.baseurl}}/MB1/">MB1: Infant-Directed Speech Preference</a></h4>
-        <b>Status:</b> <i>{{ site.data.global.status.mb1 }}</i><br>
-        <hr>
-        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1A/">MB1A: Infant-Directed Speech Preference in African Infants</a></b><br>
-        <b>Status:</b> <i>{{ site.data.global.status.mb1a }}</i><br>
-        <b>MB1A listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-africa" target="_blank"><i>Subscribe</i></a><br>
-        <b>MB1A Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb1africa-general</b> channel</i><br>
-        <hr>
-        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1B/">MB1B: Infant-Directed Speech Preference in Bilingual Infants</a></b><br>
-        <b>Status:</b> <i>{{ site.data.global.status.mb1b }}</i><br> 
-        <hr>
-        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1G/">MB1G: Gaze Following in Monolingual and Bilingual Infants</a></b><br>
-        <b>Status:</b> <i>{{ site.data.global.status.mb1g }}</i><br> 
-        <hr>
-        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1L/">MB1L: Longitudinal Vocabulary Follow-up</a></b><br>
-        <b>Status:</b> <i>{{ site.data.global.status.mb1l }}</i><br> 
-        <hr>
-        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1N/">MB1N: Native Languages Follow-up</a></b><br>
-        <b>Status:</b> <i>{{ site.data.global.status.mb1n }}</i><br> 
-        <b>MB1N listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb1n-list" target="_blank"><i>Subscribe</i></a><br>
-        <hr>
-        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1T/">MB1T: Test-Retest Follow-up</a></b><br>
-        <b>Status:</b> <i>{{ site.data.global.status.mb1t }}</i><br> 
-        <hr>
-        <img src="/assets/img/analysis.png" alt="analysis icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1SA/">MB1-Meta: Comparison to meta-analytic data</a></b><br>
-        <b>Status:</b> <i>{{ site.data.global.status.mb1meta }}</i><br> 
-        <br>
-        <img src="/assets/img/analysis.png" alt="analysis icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB1SA/">MB1-Demo: Analysis of supplemental demographic variables</a></b><br>
-        <b>Status:</b> <i>{{ site.data.global.status.mb1demo }}</i><br> 
-      </div>
-    </div>
-    <hr>
-    <div class="row">
-      <div class="col-sm-2 col-xs-6" align="center">
-        <br>
-        <a href="{{site.baseurl}}/MB2/"><img src="/assets/img/mb2-logo.png" alt="MB2 logo" width="75" height="75"></a>
-      </div>
-      <div class="col-sm-10">
-        <h4><a href="{{site.baseurl}}/MB2/">MB2: Theory of Mind</a></h4>
-        <b>Status:</b> <i>{{ site.data.global.status.mb2 }}</i><br>
-        <b>MB2 listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb2-list" target="_blank"><i>Subscribe</i></a><br>
-        <b>MB2 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb2-general</b> channel</i><br>
-        <hr>
-        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB2P/">MB2P: Pupil Dilation to Measure Violation-of-Expectation</a></b><br>
-        <b>Status:</b> <i>{{ site.data.global.status.mb2p }}</i><br>
-        <b>MB2P listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb2p-list" target="_blank"><i>Subscribe</i></a><br>
-        <b>MB2P Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb2p-pupillometry</b> channel</i><br>
-        <hr>
-        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB-ManyTrackers/">MB-ManyTrackers: Evaluating Eye-Tracking Consistency and Accuracy</a></b><br>
-        <b>Status:</b> <i>{{ site.data.global.status.mt }}</i><br>
-        <b>MB-MT listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/manytrackers-list" target="_blank"><i>Subscribe</i></a><br>
-      </div>
-    </div>
-    <hr>
-    <div class="row">
-      <div class="col-sm-2 col-xs-6" align="center">
-        <br>
-        <a href="{{site.baseurl}}/MB3/"><img src="/assets/img/mb3-logo.png" alt="MB3 logo" width="75" height="75"></a>
-      </div>
-      <div class="col-sm-10">
-        <h4><a href="{{site.baseurl}}/MB3/">MB3: Rule Learning</a></h4>
-        <b>Status:</b> <i>{{ site.data.global.status.mb3 }}</i><br>
-        <b>MB3 listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb3-list" target="_blank"><i>Subscribe</i></a><br>
-        <b>MB3 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb3-general</b> channel</i><br>
-        <hr>
-        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB3L/">MB3L: Longitudinal Follow-up</a></b><br>
-        <b>Status:</b> <i>{{ site.data.global.status.mb3l }}</i><br>
-        <b>MB3L listserv:</b> <a href="https://groups.google.com/g/mb3l" target="_blank"><i>Subscribe</i></a><br>
-        <hr>
-        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB3P/">MB3P: Pupil Dilation</a></b><br>
-        <b>Status:</b> <i>{{ site.data.global.status.mb3p }}</i><br>
-        <b>MB3P listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb3p-list" target="_blank"><i>Subscribe</i></a><br>
-        <hr>
-        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB3T/">MB3T: Test-Retest Follow-up</a></b><br>
-        <b>Status:</b> <i>{{ site.data.global.status.mb3t }}</i><br>
-        <b>MB3T listserv:</b> <a href="https://groups.google.com/g/mb3t" target="_blank"><i>Subscribe</i></a><br>
-      </div>
-    </div>
-    <hr>
-    <div class="row">
-      <div class="col-sm-2 col-xs-6" align="center">
-        <br>
-        <a href="{{site.baseurl}}/MB3N/"><img src="/assets/img/mb3n-logo.png" alt="MB3N logo" width="75" height="75"></a>
-      </div>
-      <div class="col-sm-10">
-        <h4><a href="{{site.baseurl}}/MB3N/">MB3N: Rule Learning using NIRS</a></h4>
-        <b>Status:</b> <i>{{ site.data.global.status.mb3nirs }}</i><br>
-        <b>MB3N listserv:</b> <a href="https://groups.google.com/g/mb3nirs" target="_blank"><i>Subscribe</i></a><br>
-        <b>MB3N Slack:</b> <i><a href="https://join.slack.com/t/mb3nirs/shared_invite/zt-1opm3wjvb-Hk5cO2ZDciUhWyuJfeunQQ" target="_blank">Join workspace</a></i>
-      </div>
-    </div>
-    <hr>
-    <div class="row">
-      <div class="col-sm-2 col-xs-6" align="center">
-        <br>
-        <a href="{{site.baseurl}}/MB4/"><img src="/assets/img/mb4-logo.png" alt="MB4 logo" width="75" height="75"></a>
-      </div>
-      <div class="col-sm-10">
-        <h4><a href="{{site.baseurl}}/MB4/">MB4: Social Evaluation</a></h4>
-        <b>Project Status:</b> <i>{{ site.data.global.status.mb4 }}</i><br> 
-        <b>MB4 listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb4-list" target="_blank"><i>Subscribe</i></a><br>
-        <b>MB4 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb4-general</b> channel</i><br>
-        <hr>
-        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB4E/">MB4E: Emotional Responses</a></b><br>
-        <b>Status:</b> <i>{{ site.data.global.status.mb4e }}</i><br>
-        <b>MB4E listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb4e-list" target="_blank"><i>Subscribe</i></a><br>
-        <hr>
-        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB4I/">MB4I: Individual Differences</a></b><br>
-        <b>Status:</b> <i>{{ site.data.global.status.mb4i }}</i><br>
-        <b>MB4I listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb4i-list" target="_blank"><i>Subscribe</i></a><br>
-        <hr>
-        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB4P/">MB4P: Postural Responses</a></b><br>
-        <b>Status:</b> <i>{{ site.data.global.status.mb4p }}</i><br>
-      </div>
-    </div>
-    <hr>
-    <div class="row">
-      <div class="col-sm-2 col-xs-6" align="center">
-        <br>
-        <a href="{{site.baseurl}}/MB5/"><img src="/assets/img/mb5-logo.png" alt="MB5 logo" width="75" height="75"></a>
-      </div>
-      <div class="col-sm-10">
-        <h4><a href="{{site.baseurl}}/MB5/">MB5: The Hunter & Ames Model of Infant Looking Preference</a></h4>
-        <b>Status:</b> <i>{{ site.data.global.status.mb5 }}</i><br>
-        <b>MB5 email:</b> <a href="mailto:{{ site.data.global.contact.mb5 }}"><i>Contact</i></a><br>
-        <b>MB5 listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blank"><i>Subscribe</i></a><br>
-        <b>MB5 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb5-general</b> channel</i><br>
-        <hr>
-        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB5-Meta/">MB5-Meta: Systematic review of infant familiarity/novelty</a></b><br>
-        <b>Status:</b> <i>{{ site.data.global.status.mb5meta }}</i><br>
-        <hr>
-        <img src="/assets/img/spinoff_icon.png" alt="spinoff pinwheel icon" width="20" height="20">  <b><a href="{{site.baseurl}}/MB5N/">MB5N: Naturalistic Interactions</a></b><br>
-        <b>Status:</b> <i>{{ site.data.global.status.mb5n }}</i><br>
-        <b>MB5N listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb5n-list" target="_blank"><i>Subscribe</i></a><br>
-      </div>
-    </div>
-    <hr>
-    <div class="row">
-      <div class="col-sm-2 col-xs-6" align="center">
-        <br>
-        <a href="{{site.baseurl}}/MB6/"><img src="/assets/img/mb6-logo.png" alt="MB6 logo" width="75" height="75"></a>
-      </div>
-      <div class="col-sm-10">
-        <h4><a href="{{site.baseurl}}/MB6/">MB6: Neonatal and Early Imitation</a></h4>
-        <b>Status:</b> <i>{{ site.data.global.status.mb6 }}</i><br>
-        <b>MB6 email:</b> <a href="mailto:mb6@manybabies.org"><i>Contact</i></a><br>
-        <b>MB6 listserv:</b> <a href="https://groups.google.com/a/manybabies.org/g/mb6-list" target="_blank"><i>Subscribe</i></a><br>
-        <b>MB6 Slack:</b> <i><a href="https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ" target="_blank">Join workspace</a>, then add <b>#mb6-general</b> channel</i><br>
-      </div>
-    </div>
-    <hr>
-    <div class="row">
-      <div class="col-sm-2 col-xs-6" align="center">
-        <br>
-        <a href="{{site.baseurl}}/MB7/"><img src="/assets/img/mb7-logo.png" alt="MB7 logo" width="75" height="75"></a>
-      </div>
-      <div class="col-sm-10">
-        <h4><a href="{{site.baseurl}}/MB7/">MB7: Curiosity</a></h4>
-        <b>Status:</b> <i>{{ site.data.global.status.mb7 }}</i><br>
-        <b>MB7 email:</b> <a href="mailto:{{ site.data.global.contact.mb7 }}"><i>Contact</i></a><br>
-        <b>MB7 listserv:</b> <a href="{{ site.data.global.listserv.mb7 }}" target="_blank"><i>Subscribe</i></a><br>
-        <b>MB7 Slack:</b> <i><a href="{{ site.data.global.link.slack-invite }}" target="_blank">Join workspace</a>, then add <b>#mb7-general</b> channel</i><br>
-      </div>
-    </div>
-    <hr>
-    <div class="row">
-      <div class="col-sm-2 col-xs-6" align="center">
-        <br>
-        <a href="{{site.baseurl}}/MB8/"><img src="/assets/img/mb8-logo.png" alt="MB8 logo" width="75" height="75"></a>
-      </div>
-      <div class="col-sm-10">
-        <h4><a href="{{site.baseurl}}/MB8/">MB8: Screen Use</a></h4>
-        <b>Status:</b> <i>{{ site.data.global.status.mb8 }}</i><br>
-        <b>MB8 email:</b> <a href="mailto:{{ site.data.global.contact.mb8 }}"><i>Contact</i></a><br>
-        <b>MB8 listserv:</b> <a href="{{ site.data.global.listserv.mb8 }}" target="_blank"><i>Subscribe</i></a><br>
-        <b>MB8 Slack:</b> <i><a href="{{ site.data.global.link.slack-invite }}" target="_blank">Join workspace</a>, then add <b>#mb8-general</b> channel</i><br>
-      </div>
-    </div>
-    <hr>
-    <div class="row">
-      <div class="col-sm-2 col-xs-6" align="center">
-        <br>
-        <a href="{{site.baseurl}}/MB9/"><img src="/assets/img/mb9-logo.png" alt="MB9 logo" width="75" height="75"></a>
-      </div>
-      <div class="col-sm-10">
-        <h4><a href="{{site.baseurl}}/MB9/">MB9: Perceptual Specialization</a></h4>
-        <b>Status:</b> <i>{{ site.data.global.status.mb9 }}</i><br>
-        <b>MB9 email:</b> <a href="mailto:{{ site.data.global.contact.mb9 }}"><i>Contact</i></a><br>
-        <b>MB9 listserv:</b> <a href="{{ site.data.global.listserv.mb9 }}" target="_blank"><i>Subscribe</i></a><br>
-        <b>MB9 Slack:</b> <i><a href="{{ site.data.global.link.slack-invite }}" target="_blank">Join workspace</a>, then add <b>#mb9-general</b> channel</i><br>
-      </div>
-    </div>
-    <br>
-    <div class="row">
-      <h3>Methodological projects</h3>
-    </div>
-    <div class="row">
-      <div class="col-sm-2 col-xs-6" align="center">
-        <br>
-        <a href="{{site.baseurl}}/MB-AtHome/"><img src="/assets/img/mbah-logo.png" alt="MB-AtHome logo" width="75" height="75"></a>
-      </div>
-      <div class="col-sm-10">
-        <h4><a href="{{site.baseurl}}/MB-AtHome/">MB-AtHome: Online Infant Data Collection</a></h4>
-        <b>Status:</b> <i>{{ site.data.global.status.athome }}</i><br>
-        <b>MB-AH listserv:</b> <a href="https://groups.google.com/forum/#!forum/infantlooksathome" target="_blank"><i>Subscribe</i></a><br>
-        <b>MB-AH Slack:</b> <i><a href="https://join.slack.com/t/infantlooksathome/shared_invite/zt-1ow4drttf-O6fvUJFIyvvwpDdR3W2paw" target="_blank">Join workspace</a></i><br>
-      </div>
-    </div>
-    <hr>
-    <div class="row">
-      <div class="col-sm-2 col-xs-6" align="center">
-        <br>
-        <a href="{{site.baseurl}}/MB-Demographics/"><img src="/assets/img/mbdemo-logo.png" alt="MB-Demographics logo" width="75" height="75"></a>
-      </div>
-      <div class="col-sm-10">
-        <h4><a href="{{site.baseurl}}/MB-Demographics/">MB-Demographics: Unified Demographics for MB Projects</a></h4>
-        <b>Status:</b> <i>{{ site.data.global.status.demo }}</i><br>
-        <b>MB-Demo listserv:</b> <a href="https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics" target="_blank"><i>Subscribe</i></a>
-      </div>
-    </div>
-    <hr>
-    <div class="row">
-      <div class="col-sm-2 col-xs-6" align="center">
-        <br>
-        <a href="{{site.baseurl}}/MB-ManyWebcams/"><img src="/assets/img/mbmw-logo.png" alt="MB-ManyWebcams logo" width="75" height="75"></a>
-      </div>
-      <div class="col-sm-10">
-        <h4><a href="{{site.baseurl}}/MB-ManyWebcams/">MB-ManyWebcams: Web-based Eye Tracking for Infant Studies</a></h4>
-        <b>Status:</b> <i>{{ site.data.global.status.mw }}</i><br>
-        <b>MB-MW listserv:</b> <a href="https://lists.lrz.de/mailman/listinfo/online_mb2" target="_blank"><i>Subscribe</i></a>
-      </div>
-    </div>
-    <br>
-    <div class="row">
-      <h3>Affiliated project</h3>
-    </div>
-    <div class="row">
-      <div class="col-sm-2 col-xs-6" align="center">
-        <br>
-        <a href="{{site.baseurl}}/manymanys/"><img src="/assets/img/manymanys_logo.png" alt="manymanys logo" width="75" height="75"></a>
-      </div>
-      <div class="col-sm-10">
-        <h4><a href="{{site.baseurl}}/manymanys/">ManyManys1: Reversal Learning</a></h4>
-        <b>MM1 Website:</b> <a href="https://manymanys.github.io/MM1/" target="_blank"><i>link</i></a>
-      </div>
-    </div>
-    <br>
+      <div class="row">
+        <div class="col-sm-2 col-xs-6" align="center">
+          <a href="https://{{main.website }}"><img src="{{ main.logoPath }}" alt="{{ main.project}} logo" width="70" style="margin-top:4px;"></a>
+        </div>
+        <div class="col-sm-10">
+          <h3 style="margin-top:0em;"><a href=" https://{{main.website }}">{{ main.project }}:</a> {{ main.description }}</h3>
+          <i>{{ main.tagline }}</i><br>
+          <b>Status:</b> <code>{{ main.status }}</code><br>
+        </div>
+      </div> 
   </div>
-</section>
+  {% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", main.project %}
+  <div class="container">
+    {% for spinoff in spinoffs %} <!--- loop over spinoff projects -->
+      <div class="row">
+        <div class="col-sm-1">  
+        </div>
+        <div class="col-sm-2 col-xs-6" align="center">
+          <a href="https://{{spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="40" align="right" style="margin-top:27px;"></a>
+        </div>
+        <div class="col-sm-9">
+          <hr style="margin-top:0.8em; margin-bottom:0.3em;">
+          <h4 style="margin-top:0.5em; margin-bottom:0.1em;"><a href=" https://{{spinoff.website }}">{{ spinoff.project }}:</a> {{ spinoff.description }}</h4>
+          <b>Status:</b> <code>{{ spinoff.status }}</code><br>
+        </div>
+      </div> 
+    {% endfor %}
+  </div>
+  {% assign secondary = site.data.airtable | where: "type", "Secondary analysis" | where: "mainProject", main.project %}
+  <div class="container">
+    {% for item in secondary %} <!--- loop over sec.analysis projects -->
+      <div class="row">
+        <div class="col-sm-1">  
+        </div>
+        <div class="col-sm-2 col-xs-6" align="center">
+          <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="40" align="right" style="margin-top:27px;"></a>
+        </div>
+        <div class="col-sm-9">
+          <hr style="margin-top:0.8em; margin-bottom:0.3em;">
+          <h4 style="margin-top:0.5em;margin-bottom:0.1em;"><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
+          <b>Status:</b> <code>{{ item.status }}</code><br>
+        </div>
+      </div> 
+    {% endfor %}
+  </div>
+  <hr>
+{% endfor %}
 
-<br>
+<h2 style="margin-top:1em">Methodological projects</h2>
 
-***
+{% assign main_projects = site.data.airtable | where: "type", "Main" | where: "category", "Methodological" %} <!--- methodological projects -->
+{% for main in main_projects %} <!--- loop over main projects -->
+  <div class="container">
+      <div class="row">
+        <div class="col-sm-2 col-xs-6" align="center">
+          <a href="https://{{main.website }}"><img src="{{ main.logoPath }}" alt="{{ main.project}} logo" width="70" style="margin-top:4px;"></a>
+        </div>
+        <div class="col-sm-10">
+          <h3 style="margin-top:0.1em;"><a href=" https://{{main.website }}">{{ main.project }}:</a> {{ main.description }}</h3>
+          <i>{{ main.tagline }}</i><br>
+          <b>Status:</b> <code>{{ main.status }}</code><br>
+        </div>
+      </div> 
+  </div>
+  {% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", main.project %}
+  <div class="container">
+    {% for spinoff in spinoffs %} <!--- loop over spinoff projects -->
+      <div class="row">
+        <div class="col-sm-1">  
+        </div>
+        <div class="col-sm-2 col-xs-6" align="center">
+          <a href="https://{{spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="40" align="right" style="margin-top:27px;"></a>
+        </div>
+        <div class="col-sm-9">
+          <hr style="margin-top:0.8em; margin-bottom:0.3em;">
+          <h4 style="margin-top:0.5em; margin-bottom:0.1em;"><a href=" https://{{spinoff.website }}">{{ spinoff.project }}:</a> {{ spinoff.description }}</h4>
+          <b>Status:</b> <code>{{ spinoff.status }}</code><br>
+        </div>
+      </div> 
+    {% endfor %}
+  </div>
+  {% assign secondary = site.data.airtable | where: "type", "Secondary analysis" | where: "mainProject", main.project %}
+  <div class="container">
+    {% for item in secondary %} <!--- loop over sec.analysis projects -->
+      <div class="row">
+        <div class="col-sm-1">  
+        </div>
+        <div class="col-sm-2 col-xs-6" align="center">
+          <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="40" align="right" style="margin-top:27px;"></a>
+        </div>
+        <div class="col-sm-9">
+          <hr style="margin-top:0.8em; margin-bottom:0.3em;">
+          <h4 style="margin-top:0.5em; margin-bottom:0.1em;"><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
+          <b>Status:</b> <code>{{ item.status }}</code  ><br>
+        </div>
+      </div> 
+    {% endfor %}
+  </div>
+  <hr>
+{% endfor %}
+
+<h2 style="margin-top:1em">Affiliated projects</h2>
+
+{% assign affiliated_projects = site.data.airtable | where: "category", "Affiliated"%} <!--- affiliated projects -->
+{% for affiliate in affiliated_projects %} <!--- loop over affiliated projects -->
+  <div class="container">
+      <div class="row">
+        <div class="col-sm-2 col-xs-6" align="center">
+          <a href="https://{{affiliate.website }}" target="_blank"><img src="{{ affiliate.logoPath }}" alt="{{ affiliate.project}} logo" width="70" style="margin-top:4px;"></a>
+        </div>
+        <div class="col-sm-10">
+          <h3 style="margin-top:0.1em;"><a href=" https://{{affiliate.website }}" target="_blank">{{ affiliate.project }}:</a> {{ affiliate.description }}</h3>
+          <i>{{ affiliate.tagline }}</i><br>
+          <b>Go to the <a href="https://{{ affiliate.website }}" target="_blank">{{ affiliate.project }} website</a> for more info</b><br> 
+        </div>
+      </div> 
+  </div>
+  <hr>
+{% endfor %}
+
 
 ## New Projects
 
