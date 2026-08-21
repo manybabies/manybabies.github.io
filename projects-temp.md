@@ -31,7 +31,7 @@ subtitle: Pulled live from Airtable
         </div>
         <div class="col-sm-9">
           <hr>
-          <h4 style="margin-top:0.5em;"><a href=" https://{{spinoff.website }}">{{ spinoff.project }}:</a> {{ spinoff.description }}</h4>
+          <h4 style="margin-top:0.5em; margin-bottom:0.1em;"><a href=" https://{{spinoff.website }}">{{ spinoff.project }}:</a> {{ spinoff.description }}</h4>
           <b>Status:</b> <i>{{ spinoff.status }}</i><br>
         </div>
       </div> 
@@ -48,7 +48,7 @@ subtitle: Pulled live from Airtable
         </div>
         <div class="col-sm-9">
           <hr>
-          <h4 style="margin-top:0.5em;"><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
+          <h4 style="margin-top:0.5em;margin-bottom:0.1em;"><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
           <b>Status:</b> <i>{{ item.status }}</i><br>
         </div>
       </div> 
@@ -68,7 +68,7 @@ subtitle: Pulled live from Airtable
           <a href="https://{{main.website }}"><img src="{{ main.logoPath }}" alt="{{ main.project}} logo" width="70"></a>
         </div>
         <div class="col-sm-10">
-          <h3  style="margin-top:0.1em;"><a href=" https://{{main.website }}">{{ main.project }}:</a> {{ main.description }}</h3>
+          <h3 style="margin-top:0.1em;"><a href=" https://{{main.website }}">{{ main.project }}:</a> {{ main.description }}</h3>
           <b>Status:</b> <i>{{ main.status }}</i><br>
         </div>
       </div> 
@@ -84,7 +84,7 @@ subtitle: Pulled live from Airtable
         </div>
         <div class="col-sm-9">
           <hr>
-          <h4 style="margin-top:0.5em;"><a href=" https://{{spinoff.website }}">{{ spinoff.project }}:</a> {{ spinoff.description }}</h4>
+          <h4 style="margin-top:0.5em; margin-bottom:0.1em;"><a href=" https://{{spinoff.website }}">{{ spinoff.project }}:</a> {{ spinoff.description }}</h4>
           <b>Status:</b> <i>{{ spinoff.status }}</i><br>
         </div>
       </div> 
@@ -101,7 +101,7 @@ subtitle: Pulled live from Airtable
         </div>
         <div class="col-sm-9">
           <hr>
-          <h4 style="margin-top:0.5em;"><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
+          <h4 style="margin-top:0.5em; margin-bottom:0.1em;"><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
           <b>Status:</b> <i>{{ item.status }}</i><br>
         </div>
       </div> 
