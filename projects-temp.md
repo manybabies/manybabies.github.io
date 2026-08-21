@@ -27,11 +27,11 @@ subtitle: Pulled live from Airtable
         <div class="col-sm-1">  
         </div>
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="40" align="right" style="margin-top:30px;"></a>
+          <a href="https://{{spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="40" align="right" style="margin-top:15px;"></a>
         </div>
         <div class="col-sm-9">
-          <hr>
-          <h4 style="margin-top:0.5em;"><a href=" https://{{spinoff.website }}">{{ spinoff.project }}:</a> {{ spinoff.description }}</h4>
+          <hr style="margin-top:0.3em; margin-bottom:0.3em;">
+          <h4 style="margin-top:0.5em; margin-bottom:0.1em;"><a href=" https://{{spinoff.website }}">{{ spinoff.project }}:</a> {{ spinoff.description }}</h4>
           <b>Status:</b> <i>{{ spinoff.status }}</i><br>
         </div>
       </div> 
@@ -44,11 +44,11 @@ subtitle: Pulled live from Airtable
         <div class="col-sm-1">  
         </div>
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="40" align="right" style="margin-top:30px;"></a>
+          <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="40" align="right" style="margin-top:15px;"></a>
         </div>
         <div class="col-sm-9">
-          <hr>
-          <h4 style="margin-top:0.5em;"><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
+          <hr style="margin-top:0.3em; margin-bottom:0.3em;">
+          <h4 style="margin-top:0.5em;margin-bottom:0.1em;"><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
           <b>Status:</b> <i>{{ item.status }}</i><br>
         </div>
       </div> 
@@ -68,7 +68,7 @@ subtitle: Pulled live from Airtable
           <a href="https://{{main.website }}"><img src="{{ main.logoPath }}" alt="{{ main.project}} logo" width="70"></a>
         </div>
         <div class="col-sm-10">
-          <h3  style="margin-top:0.1em;"><a href=" https://{{main.website }}">{{ main.project }}:</a> {{ main.description }}</h3>
+          <h3 style="margin-top:0.1em;"><a href=" https://{{main.website }}">{{ main.project }}:</a> {{ main.description }}</h3>
           <b>Status:</b> <i>{{ main.status }}</i><br>
         </div>
       </div> 
@@ -80,11 +80,11 @@ subtitle: Pulled live from Airtable
         <div class="col-sm-1">  
         </div>
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="40" align="right" style="margin-top:30px;"></a>
+          <a href="https://{{spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="40" align="right" style="margin-top:15px;"></a>
         </div>
         <div class="col-sm-9">
-          <hr>
-          <h4 style="margin-top:0.5em;"><a href=" https://{{spinoff.website }}">{{ spinoff.project }}:</a> {{ spinoff.description }}</h4>
+          <hr style="margin-top:0.3em; margin-bottom:0.3em;">
+          <h4 style="margin-top:0.5em; margin-bottom:0.1em;"><a href=" https://{{spinoff.website }}">{{ spinoff.project }}:</a> {{ spinoff.description }}</h4>
           <b>Status:</b> <i>{{ spinoff.status }}</i><br>
         </div>
       </div> 
@@ -97,11 +97,11 @@ subtitle: Pulled live from Airtable
         <div class="col-sm-1">  
         </div>
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="40" align="right" style="margin-top:30px;"></a>
+          <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="40" align="right" style="margin-top:15px;"></a>
         </div>
         <div class="col-sm-9">
-          <hr>
-          <h4 style="margin-top:0.5em;"><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
+          <hr style="margin-top:0.3em; margin-bottom:0.3em;">
+          <h4 style="margin-top:0.5em; margin-bottom:0.1em;"><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
           <b>Status:</b> <i>{{ item.status }}</i><br>
         </div>
       </div> 
