@@ -70,6 +70,7 @@ subtitle: Pulled live from Airtable
         </div>
         <div class="col-sm-10">
           <h3 style="margin-top:0.1em;"><a href=" https://{{main.website }}">{{ main.project }}:</a> {{ main.description }}</h3>
+          <i>{{ main.tagline }}</i><br>
           <b>Status:</b> <i>{{ main.status }}</i><br>
         </div>
       </div> 
@@ -123,7 +124,8 @@ subtitle: Pulled live from Airtable
         </div>
         <div class="col-sm-10">
           <h3 style="margin-top:0.1em;"><a href=" https://{{affiliate.website }}" target="_blank">{{ affiliate.project }}:</a> {{ affiliate.description }}</h3>
-          <i>Go to the <a href="https://{{ affiliate.website }}" target="_blank">{{ affiliate.project }} website</a> for more info</i><br>
+          <i>{{ main.tagline }}</i><br>
+          <b>Go to the <a href="https://{{ affiliate.website }}" target="_blank">{{ affiliate.project }} website</a> for more info</b><br>
         </div>
       </div> 
   </div>
