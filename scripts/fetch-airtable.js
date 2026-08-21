@@ -79,6 +79,7 @@ async function main() {
       mainProject: f['Main Project'],
       title,
       description,
+      tagline,
       type: f.Type,
       category: f.Category,
       status: f.Status,
