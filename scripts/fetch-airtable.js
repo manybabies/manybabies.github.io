@@ -120,7 +120,7 @@ async function main() {
     return {
       id: r.id,
       title: f.Title || null,
-      authors: f.Authors || null,
+      authors: authorNames,
       year: f.Year || null,
       journalLink: f['Journal DOI'] || null,
       preprintLink: f['Preprint DOI'] || null
