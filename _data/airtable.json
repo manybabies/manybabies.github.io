@@ -25,11 +25,41 @@
     "status": "Data collection",
     "website": "manybabies.org/MB-AtHome",
     "leads": [
-      "Sho Tsuji",
-      "Lorijn Zaadnoordijk",
-      "Katie Von Holzen",
-      "Rhodri Cusack",
-      "Helen Buckler"
+      {
+        "name": "Sho Tsuji",
+        "orcid": "https://orcid.org/0000-0001-9580-4500",
+        "institution": [
+          "recZQfI89Gkkzw3Xs"
+        ]
+      },
+      {
+        "name": "Lorijn Zaadnoordijk",
+        "orcid": "https://orcid.org/0000-0002-7484-6995",
+        "institution": [
+          "recSGGdIIfqldSpDo"
+        ]
+      },
+      {
+        "name": "Katie Von Holzen",
+        "orcid": "https://orcid.org/0000-0001-7636-2209 ",
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      },
+      {
+        "name": "Rhodri Cusack",
+        "orcid": "https://orcid.org/0000-0002-5234-7415",
+        "institution": [
+          "recSGGdIIfqldSpDo"
+        ]
+      },
+      {
+        "name": "Helen Buckler",
+        "orcid": "https://orcid.org/0000-0002-9039-0406",
+        "institution": [
+          "recJFjqQHEzub03XV"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mbah-logo.png",
     "listservSub": "https://groups.google.com/g/InfantLooksAtHome"
@@ -45,9 +75,27 @@
     "status": "Preparing for data collection",
     "website": "manybabies.org/MBAH1",
     "leads": [
-      "Eon-Suk Ko",
-      "Rajalakshmi Madhavan",
-      "Katie Von Holzen"
+      {
+        "name": "Eon-Suk Ko",
+        "orcid": "https://orcid.org/0000-0003-3963-4492",
+        "institution": [
+          "rec2TLynKlPxFlpxX"
+        ]
+      },
+      {
+        "name": "Rajalakshmi Madhavan",
+        "orcid": null,
+        "institution": [
+          "rec2TLynKlPxFlpxX"
+        ]
+      },
+      {
+        "name": "Katie Von Holzen",
+        "orcid": "https://orcid.org/0000-0001-7636-2209 ",
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mbah-spinoff.png",
     "contact": "mbah1@manybabies.org\n",
@@ -79,8 +127,20 @@
     "status": "Complete",
     "website": "manybabies.org/MB-Demographics",
     "leads": [
-      "Leher Singh",
-      "Mihaela D. Barokova"
+      {
+        "name": "Leher Singh",
+        "orcid": "https://orcid.org/0000-0001-9423-4956",
+        "institution": [
+          "recbCYur3uhshRqa2"
+        ]
+      },
+      {
+        "name": "Mihaela D. Barokova",
+        "orcid": "https://orcid.org/0000-0002-4643-9452 ",
+        "institution": [
+          "recGSMbTGN0Fd52I6"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mbdemo-logo.png",
     "contact": "leher.singh.nus@gmail.com\n",
@@ -98,8 +158,20 @@
     "status": "Complete",
     "website": "manybabies.org/MB1",
     "leads": [
-      "Michael C. Frank",
-      "Melanie Soderstrom"
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb1-logo.png",
     "contact": "M\\_Soderstrom@umanitoba.ca\n",
@@ -116,12 +188,48 @@
     "status": "Complete",
     "website": "manybabies.org/MB1A",
     "leads": [
-      "Angeline Sin Mei Tsui",
-      "Alexandra Carstensen",
-      "Casey Lew-Williams",
-      "George Kachergis",
-      "Michael C. Frank",
-      "Maya B. Mathur"
+      {
+        "name": "Angeline Sin Mei Tsui",
+        "orcid": "https://orcid.org/0000-0003-0333-7234",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Alexandra Carstensen",
+        "orcid": "https://orcid.org/0000-0003-0582-9152",
+        "institution": [
+          "recJ8Hkx51RfYBCJI"
+        ]
+      },
+      {
+        "name": "Casey Lew-Williams",
+        "orcid": "https://orcid.org/0000-0002-8781-4458",
+        "institution": [
+          "recYfz0y5hrmMoG4P"
+        ]
+      },
+      {
+        "name": "George Kachergis",
+        "orcid": "https://orcid.org/0000-0003-4153-4167",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Maya B. Mathur",
+        "orcid": "https://orcid.org/0000-0001-6698-2607",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
     "contact": "mcfrank@stanford.edu\n",
@@ -139,7 +247,13 @@
     "status": "Complete",
     "website": "manybabies.org/MB1B",
     "leads": [
-      "Krista Byers-Heinlein"
+      {
+        "name": "Krista Byers-Heinlein",
+        "orcid": "https://orcid.org/0000-0002-7040-2510",
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
     "contact": "K.Byers@concordia.ca\n"
@@ -155,7 +269,13 @@
     "status": "Complete",
     "website": "manybabies.org/MB1G",
     "leads": [
-      "Krista Byers-Heinlein"
+      {
+        "name": "Krista Byers-Heinlein",
+        "orcid": "https://orcid.org/0000-0002-7040-2510",
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
     "contact": "K.Byers@concordia.ca\n"
@@ -171,7 +291,13 @@
     "status": "Complete",
     "website": "manybabies.org/MB1L",
     "leads": [
-      "Melanie Soderstrom"
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
     "contact": "M\\_Soderstrom@umanitoba.ca\n",
@@ -188,9 +314,27 @@
     "status": "Analysis",
     "website": "manybabies.org/MB1N",
     "leads": [
-      "Natalia Kartushina",
-      "Virginie Durier",
-      "Melanie Soderstrom"
+      {
+        "name": "Natalia Kartushina",
+        "orcid": "https://orcid.org/0000-0003-4650-5832",
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "Virginie Durier",
+        "orcid": "https://orcid.org/0000-0002-7323-8779",
+        "institution": [
+          "recEAGi14ePONjw60"
+        ]
+      },
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb1n-list",
@@ -207,7 +351,13 @@
     "status": "Complete",
     "website": "manybabies.org/MB1T",
     "leads": [
-      "Melanie S. Schreiner"
+      {
+        "name": "Melanie S. Schreiner",
+        "orcid": "https://orcid.org/0000-0002-1530-8839",
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
     "contact": "melanie.schreiner@psych.uni-goettingen.de\n"
@@ -223,10 +373,34 @@
     "status": "Complete",
     "website": "manybabies.org/MB1SA",
     "leads": [
-      "Christina Bergmann",
-      "Martin Zettersten",
-      "Christopher M. M. Cox",
-      "Maya B. Mathur"
+      {
+        "name": "Christina Bergmann",
+        "orcid": "https://orcid.org/0000-0003-2656-9070",
+        "institution": [
+          "rect03ueGUhsXmZtu"
+        ]
+      },
+      {
+        "name": "Martin Zettersten",
+        "orcid": "https://orcid.org/0000-0002-0444-7059",
+        "institution": [
+          "recYIF1ISrnh5P6ZD"
+        ]
+      },
+      {
+        "name": "Christopher M. M. Cox",
+        "orcid": "https://orcid.org/0000-0003-4076-581X",
+        "institution": [
+          "recc9nIOVdiCBL5gY"
+        ]
+      },
+      {
+        "name": "Maya B. Mathur",
+        "orcid": "https://orcid.org/0000-0001-6698-2607",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb1-analysis.png"
   },
@@ -241,7 +415,13 @@
     "status": "On hold",
     "website": "manybabies.org/MB1SA",
     "leads": [
-      "Melissa Kline Struhl"
+      {
+        "name": "Melissa Kline Struhl",
+        "orcid": "https://orcid.org/0000-0003-2217-9331",
+        "institution": [
+          "rect0KvfMCxkd2bAu"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb1-analysis.png"
   },
@@ -257,10 +437,34 @@
     "status": "Under review (Stage 2)",
     "website": "manybabies.org/MB2",
     "leads": [
-      "Tobias Schuwerk",
-      "Dora Kampis",
-      "Hannes Rakoczy",
-      "Michael C. Frank"
+      {
+        "name": "Tobias Schuwerk",
+        "orcid": "https://orcid.org/0000-0003-3720-7120",
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      },
+      {
+        "name": "Dora Kampis",
+        "orcid": "https://orcid.org/0000-0003-1678-3874",
+        "institution": [
+          "recSY5pg5hZ8XIGO3"
+        ]
+      },
+      {
+        "name": "Hannes Rakoczy",
+        "orcid": "https://orcid.org/0000-0003-3296-0551",
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      },
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb2-logo.png",
     "contact": "manybabies2@gmail.com\n",
@@ -278,9 +482,27 @@
     "status": "Analysis",
     "website": "https://manybabies.org/MB-ManyTrackers/",
     "leads": [
-      "Shuting Li",
-      "Tobias Schuwerk",
-      "Lucie Zimmer"
+      {
+        "name": "Shuting Li",
+        "orcid": null,
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      },
+      {
+        "name": "Tobias Schuwerk",
+        "orcid": "https://orcid.org/0000-0003-3720-7120",
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      },
+      {
+        "name": "Lucie Zimmer",
+        "orcid": "https://orcid.org/0000-0002-5766-2991",
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb2-spinoff.png",
     "contact": "Shuting.Li@psy.lmu.de\n",
@@ -297,9 +519,27 @@
     "status": "Complete",
     "website": "manybabies.org/MB-ManyWebcams",
     "leads": [
-      "Tobias Schuwerk",
-      "Adrian Steffan",
-      "Lucie Zimmer"
+      {
+        "name": "Tobias Schuwerk",
+        "orcid": "https://orcid.org/0000-0003-3720-7120",
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      },
+      {
+        "name": "Adrian Steffan",
+        "orcid": "https://orcid.org/0000-0001-8380-6488",
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      },
+      {
+        "name": "Lucie Zimmer",
+        "orcid": "https://orcid.org/0000-0002-5766-2991",
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb2-spinoff.png",
     "listservSub": "https://lists.lrz.de/mailman/listinfo/online_mb2"
@@ -315,8 +555,20 @@
     "status": "Analysis",
     "website": "manybabies.org/MB2P",
     "leads": [
-      "Robert Hepach",
-      "Hannes Rakoczy"
+      {
+        "name": "Robert Hepach",
+        "orcid": "https://orcid.org/0000-0003-4780-6549",
+        "institution": [
+          "recYyW1ONlSEqBjCX"
+        ]
+      },
+      {
+        "name": "Hannes Rakoczy",
+        "orcid": "https://orcid.org/0000-0003-3296-0551",
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb2-spinoff.png",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb2p-list",
@@ -334,10 +586,34 @@
     "status": "Complete",
     "website": "manybabies.org/MB3",
     "leads": [
-      "Ingmar Visser",
-      "Claartje Levelt",
-      "Andreea Geambașu",
-      "Melanie Soderstrom"
+      {
+        "name": "Ingmar Visser",
+        "orcid": "https://orcid.org/0000-0003-3855-2778",
+        "institution": [
+          "recVS4PgwpFkIfuAB"
+        ]
+      },
+      {
+        "name": "Claartje Levelt",
+        "orcid": "https://orcid.org/0000-0003-2916-0326",
+        "institution": [
+          "recAHFDb7jGqRSB63"
+        ]
+      },
+      {
+        "name": "Andreea Geambașu",
+        "orcid": "https://orcid.org/0000-0002-5883-9875",
+        "institution": [
+          "recAHFDb7jGqRSB63"
+        ]
+      },
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb3-logo.png",
     "contact": "i.visser@uva.nl\n",
@@ -356,7 +632,13 @@
     "status": "Design",
     "website": "manybabies.org/MB3N",
     "leads": [
-      "Judit Gervain"
+      {
+        "name": "Judit Gervain",
+        "orcid": "https://orcid.org/0000-0002-2125-6369",
+        "institution": [
+          "recXK4Lpx5saRiPu3"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb3n-logo.png",
     "contact": "judit.gervain@parisdescartes.fr\n",
@@ -374,7 +656,13 @@
     "status": "Analysis",
     "website": "manybabies.org/MB3L",
     "leads": [
-      "Anna Exner"
+      {
+        "name": "Anna Exner",
+        "orcid": "https://orcid.org/0000-0002-0741-9045",
+        "institution": [
+          "rectaY5xpIc1wxYUx"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb3-spinoff.png",
     "listservSub": "https://groups.google.com/g/mb3l"
@@ -390,7 +678,13 @@
     "status": "Analysis",
     "website": "manybabies.org/MB3P",
     "leads": [
-      "Ingmar Visser"
+      {
+        "name": "Ingmar Visser",
+        "orcid": "https://orcid.org/0000-0003-3855-2778",
+        "institution": [
+          "recVS4PgwpFkIfuAB"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb3-spinoff.png",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb3p-list",
@@ -407,8 +701,20 @@
     "status": "Analysis",
     "website": "manybabies.org/MB3T",
     "leads": [
-      "Anna Exner",
-      "Ingmar Visser"
+      {
+        "name": "Anna Exner",
+        "orcid": "https://orcid.org/0000-0002-0741-9045",
+        "institution": [
+          "rectaY5xpIc1wxYUx"
+        ]
+      },
+      {
+        "name": "Ingmar Visser",
+        "orcid": "https://orcid.org/0000-0003-3855-2778",
+        "institution": [
+          "recVS4PgwpFkIfuAB"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb3-spinoff.png",
     "listservSub": "https://groups.google.com/g/mb3t"
@@ -425,9 +731,27 @@
     "status": "Complete",
     "website": "manybabies.org/MB4",
     "leads": [
-      "Kelsey Lucca",
-      "Francis L. Yuen",
-      "J. Kiley Hamlin"
+      {
+        "name": "Kelsey Lucca",
+        "orcid": "https://orcid.org/0000-0002-0581-2257",
+        "institution": [
+          "recJ8Hkx51RfYBCJI"
+        ]
+      },
+      {
+        "name": "Francis L. Yuen",
+        "orcid": "https://orcid.org/0000-0001-7570-123X",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "J. Kiley Hamlin",
+        "orcid": "https://orcid.org/0000-0001-6173-9878",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb4-logo.png",
     "contact": "- francis.yuen@psych.ubc.ca\n- klucca@asu.edu\n",
@@ -445,8 +769,20 @@
     "status": "Analysis",
     "website": "manybabies.org/MB4E",
     "leads": [
-      "Francis L. Yuen",
-      "Kelsey Lucca"
+      {
+        "name": "Francis L. Yuen",
+        "orcid": "https://orcid.org/0000-0001-7570-123X",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Kelsey Lucca",
+        "orcid": "https://orcid.org/0000-0002-0581-2257",
+        "institution": [
+          "recJ8Hkx51RfYBCJI"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb4-spinoff.png"
   },
@@ -461,8 +797,20 @@
     "status": "Analysis",
     "website": "manybabies.org/MB4I",
     "leads": [
-      "Yiyi Wang",
-      "Kelsey Lucca"
+      {
+        "name": "Yiyi Wang",
+        "orcid": "https://orcid.org/0000-0003-1060-0862",
+        "institution": [
+          "recRAAVyMNRB9Eds0"
+        ]
+      },
+      {
+        "name": "Kelsey Lucca",
+        "orcid": "https://orcid.org/0000-0002-0581-2257",
+        "institution": [
+          "recJ8Hkx51RfYBCJI"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb4-spinoff.png",
     "contact": "- yiyiwang@uchicago.edu\n- klucca@asu.edu\n",
@@ -479,8 +827,20 @@
     "status": "Analysis",
     "website": "manybabies.org/MB4P",
     "leads": [
-      "Marlene Försterling",
-      "Robert Hepach"
+      {
+        "name": "Marlene Försterling",
+        "orcid": null,
+        "institution": [
+          "recYyW1ONlSEqBjCX"
+        ]
+      },
+      {
+        "name": "Robert Hepach",
+        "orcid": "https://orcid.org/0000-0003-4780-6549",
+        "institution": [
+          "recYyW1ONlSEqBjCX"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb4-spinoff.png"
   },
@@ -496,9 +856,27 @@
     "status": "Data collection",
     "website": "manybabies.org/MB5",
     "leads": [
-      "Jessica E. Kosie",
-      "Martin Zettersten",
-      "Casey Lew-Williams"
+      {
+        "name": "Jessica E. Kosie",
+        "orcid": "https://orcid.org/0000-0002-2390-0963",
+        "institution": [
+          "recJ8Hkx51RfYBCJI"
+        ]
+      },
+      {
+        "name": "Martin Zettersten",
+        "orcid": "https://orcid.org/0000-0002-0444-7059",
+        "institution": [
+          "recYIF1ISrnh5P6ZD"
+        ]
+      },
+      {
+        "name": "Casey Lew-Williams",
+        "orcid": "https://orcid.org/0000-0002-8781-4458",
+        "institution": [
+          "recYfz0y5hrmMoG4P"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb5-logo.png",
     "contact": "mb5@manybabies.org\n",
@@ -516,7 +894,13 @@
     "status": "Data collection",
     "website": "manybabies.org/MB5meta",
     "leads": [
-      "Martin Zettersten"
+      {
+        "name": "Martin Zettersten",
+        "orcid": "https://orcid.org/0000-0002-0444-7059",
+        "institution": [
+          "recYIF1ISrnh5P6ZD"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb5-spinoff.png",
     "contact": "mzettersten@ucsd.edu\n",
@@ -533,7 +917,13 @@
     "status": "Design",
     "website": "manybabies.org/MB5N",
     "leads": [
-      "Brianna T. M. McMillan"
+      {
+        "name": "Brianna T. M. McMillan",
+        "orcid": "https://orcid.org/0000-0002-7585-4911",
+        "institution": [
+          "recL2XvrWs4YK8FoF"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb5-spinoff.png",
     "contact": "jkosie@asu.edu\n",
@@ -564,12 +954,48 @@
     "status": "Under review (Stage 1)",
     "website": "manybabies.org/MB6",
     "leads": [
-      "Sumeet Farwaha",
-      "Virginia Slaughter",
-      "Andrew N. Meltzoff",
-      "Elizabeth A. Simpson",
-      "Mark Nielsen",
-      "Rechele Brooks"
+      {
+        "name": "Sumeet Farwaha",
+        "orcid": null,
+        "institution": [
+          "recWqTHWrOJZAruO3"
+        ]
+      },
+      {
+        "name": "Virginia Slaughter",
+        "orcid": "https://orcid.org/0000-0001-9315-1497",
+        "institution": [
+          "recWqTHWrOJZAruO3"
+        ]
+      },
+      {
+        "name": "Andrew N. Meltzoff",
+        "orcid": "https://orcid.org/0000-0001-8683-0547",
+        "institution": [
+          "recRSHA7015DGx68g"
+        ]
+      },
+      {
+        "name": "Elizabeth A. Simpson",
+        "orcid": "https://orcid.org/0000-0003-2715-2533",
+        "institution": [
+          "recsJwGRCjX3ka12d"
+        ]
+      },
+      {
+        "name": "Mark Nielsen",
+        "orcid": "https://orcid.org/0000-0002-0402-8372",
+        "institution": [
+          "recWqTHWrOJZAruO3"
+        ]
+      },
+      {
+        "name": "Rechele Brooks",
+        "orcid": "https://orcid.org/0000-0002-3798-3448",
+        "institution": [
+          "recRSHA7015DGx68g"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb6-logo.png",
     "contact": "mb6@manybabies.org\n",
@@ -588,12 +1014,48 @@
     "status": "Design",
     "website": "manybabies.org/MB7",
     "leads": [
-      "Elena C. Altmann",
-      "Nivedita Mani",
-      "Gert Westermann",
-      "Laura Lewis",
-      "Hanna Schleihauf",
-      "Martin Zettersten"
+      {
+        "name": "Elena C. Altmann",
+        "orcid": "https://orcid.org/0000-0002-8602-9845",
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      },
+      {
+        "name": "Nivedita Mani",
+        "orcid": "https://orcid.org/0000-0002-9843-4629",
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      },
+      {
+        "name": "Gert Westermann",
+        "orcid": "https://orcid.org/0000-0003-2803-1872",
+        "institution": [
+          "recS9q79twEKQbsIm"
+        ]
+      },
+      {
+        "name": "Laura Lewis",
+        "orcid": null,
+        "institution": [
+          "recBMvmF1agt5NdRh"
+        ]
+      },
+      {
+        "name": "Hanna Schleihauf",
+        "orcid": "https://orcid.org/0000-0003-4344-9070",
+        "institution": [
+          "recZbwZqZ1IOeph3Q"
+        ]
+      },
+      {
+        "name": "Martin Zettersten",
+        "orcid": "https://orcid.org/0000-0002-0444-7059",
+        "institution": [
+          "recYIF1ISrnh5P6ZD"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb7-logo.png",
     "contact": "mb7@manybabies.org\n",
@@ -612,10 +1074,34 @@
     "status": "Design",
     "website": "manybabies.org/MB8",
     "leads": [
-      "Nevena Dimitrova",
-      "Rachel Barr",
-      "Sarah C. Kucker",
-      "Joscelin Rocha-Hidalgo"
+      {
+        "name": "Nevena Dimitrova",
+        "orcid": "https://orcid.org/0000-0002-3433-096X",
+        "institution": [
+          "recJubz7JY7mAzoDS"
+        ]
+      },
+      {
+        "name": "Rachel Barr",
+        "orcid": "https://orcid.org/0000-0002-5855-9718",
+        "institution": [
+          "recz9NAKYhpYauOwN"
+        ]
+      },
+      {
+        "name": "Sarah C. Kucker",
+        "orcid": "https://orcid.org/0000-0003-2210-3599",
+        "institution": [
+          "recuBbEzVoRzByqvt"
+        ]
+      },
+      {
+        "name": "Joscelin Rocha-Hidalgo",
+        "orcid": "https://orcid.org/0000-0003-3572-5848",
+        "institution": [
+          "recLfqWgXOCOb21Ts"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb8-logo.png",
     "contact": "mb8@manybabies.org\n",
@@ -634,7 +1120,13 @@
     "status": "Design",
     "website": "manybabies.org/MB9",
     "leads": [
-      "Charisse B. Pickron"
+      {
+        "name": "Charisse B. Pickron",
+        "orcid": "https://orcid.org/0000-0001-7905-0593",
+        "institution": [
+          "rec1rCCXC013Wv8X0"
+        ]
+      }
     ],
     "logoPath": "/assets/img/mb9-logo.png",
     "contact": "mb9@manybabies.org\n",

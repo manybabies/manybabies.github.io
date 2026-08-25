@@ -6,44 +6,272 @@
     ],
     "title": "A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech",
     "authors": [
-      "Krista Byers-Heinlein",
-      "Angeline Sin Mei Tsui",
-      "Christina Bergmann",
-      "Alexis K. Black",
-      "Anna Brown",
-      "Maria Julia Carbajal",
-      "Samantha Durrant",
-      "Christopher Fennell",
-      "Anne-Caroline Fiévet",
-      "Michael C. Frank",
-      "Anja Gampe",
-      "Judit Gervain",
-      "Nayeli Gonzalez-Gomez",
-      "J. Kiley Hamlin",
-      "Naomi Havron",
-      "Mikołaj Hernik",
-      "Shila Kerr",
-      "Hilary Killam",
-      "Kelsey Klassen",
-      "Jessica E. Kosie",
-      "Ágnes Melinda Ková­cs",
-      "Casey Lew-Williams",
-      "Liquan Liu",
-      "Nivedita Mani",
-      "Caterina Marino",
-      "Meghan Mastroberardino",
-      "Victoria Mateu",
-      "Claire Noble",
-      "Adriel John Orena",
-      "Linda Polka",
-      "Christine E. Potter",
-      "Melanie S. Schreiner",
-      "Leher Singh",
-      "Melanie Soderstrom",
-      "Megha Sundara",
-      "Connor Waddell",
-      "Janet F. Werker",
-      "Stephanie Wermelinger"
+      {
+        "name": "Krista Byers-Heinlein",
+        "orcid": "https://orcid.org/0000-0002-7040-2510",
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      },
+      {
+        "name": "Angeline Sin Mei Tsui",
+        "orcid": "https://orcid.org/0000-0003-0333-7234",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Christina Bergmann",
+        "orcid": "https://orcid.org/0000-0003-2656-9070",
+        "institution": [
+          "rect03ueGUhsXmZtu"
+        ]
+      },
+      {
+        "name": "Alexis K. Black",
+        "orcid": "https://orcid.org/0000-0001-6764-4319",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Anna Brown",
+        "orcid": "https://orcid.org/0000-0001-6119-7925",
+        "institution": [
+          "recUchabpbvQWLLcg"
+        ]
+      },
+      {
+        "name": "Maria Julia Carbajal",
+        "orcid": "https://orcid.org/0000-0001-8275-1147",
+        "institution": [
+          "recRrTObPSkpy8iIl"
+        ]
+      },
+      {
+        "name": "Samantha Durrant",
+        "orcid": "https://orcid.org/0000-0001-9720-0866",
+        "institution": [
+          "recUchabpbvQWLLcg"
+        ]
+      },
+      {
+        "name": "Christopher Fennell",
+        "orcid": "https://orcid.org/0000-0001-9616-9385",
+        "institution": [
+          "recSCaaZD3ughVU7D"
+        ]
+      },
+      {
+        "name": "Anne-Caroline Fiévet",
+        "orcid": null,
+        "institution": [
+          "recRrTObPSkpy8iIl"
+        ]
+      },
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Anja Gampe",
+        "orcid": "https://orcid.org/0000-0001-9812-9694 ",
+        "institution": [
+          "recHhUCaUgw7RLCcu"
+        ]
+      },
+      {
+        "name": "Judit Gervain",
+        "orcid": "https://orcid.org/0000-0002-2125-6369",
+        "institution": [
+          "recXK4Lpx5saRiPu3"
+        ]
+      },
+      {
+        "name": "Nayeli Gonzalez-Gomez",
+        "orcid": "https://orcid.org/0000-0003-2012-8290",
+        "institution": [
+          "recCrx5L9O4mHYOIB"
+        ]
+      },
+      {
+        "name": "J. Kiley Hamlin",
+        "orcid": "https://orcid.org/0000-0001-6173-9878",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Naomi Havron",
+        "orcid": "https://orcid.org/0000-0001-6429-1546",
+        "institution": [
+          "reclqwNVytPWPOHis"
+        ]
+      },
+      {
+        "name": "Mikołaj Hernik",
+        "orcid": "https://orcid.org/0000-0001-6745-5163",
+        "institution": [
+          "recdBQTQmcdZLwNnM"
+        ]
+      },
+      {
+        "name": "Shila Kerr",
+        "orcid": null,
+        "institution": [
+          "recsFSkVjXBg5r3cz"
+        ]
+      },
+      {
+        "name": "Hilary Killam",
+        "orcid": "https://orcid.org/0000-0002-3080-0610",
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      },
+      {
+        "name": "Kelsey Klassen",
+        "orcid": null,
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      },
+      {
+        "name": "Jessica E. Kosie",
+        "orcid": "https://orcid.org/0000-0002-2390-0963",
+        "institution": [
+          "recJ8Hkx51RfYBCJI"
+        ]
+      },
+      {
+        "name": "Ágnes Melinda Ková­cs",
+        "orcid": "https://orcid.org/0000-0003-3452-7727",
+        "institution": [
+          "rec8ZZunLvlx5Sp0v"
+        ]
+      },
+      {
+        "name": "Casey Lew-Williams",
+        "orcid": "https://orcid.org/0000-0002-8781-4458",
+        "institution": [
+          "recYfz0y5hrmMoG4P"
+        ]
+      },
+      {
+        "name": "Liquan Liu",
+        "orcid": "https://orcid.org/0000-0001-8671-5098",
+        "institution": [
+          "rece4MHumLD8zqyab"
+        ]
+      },
+      {
+        "name": "Nivedita Mani",
+        "orcid": "https://orcid.org/0000-0002-9843-4629",
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      },
+      {
+        "name": "Caterina Marino",
+        "orcid": "https://orcid.org/0000-0002-9292-1549",
+        "institution": [
+          "rec6JF64CAK1whbRS"
+        ]
+      },
+      {
+        "name": "Meghan Mastroberardino",
+        "orcid": null,
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      },
+      {
+        "name": "Victoria Mateu",
+        "orcid": "https://orcid.org/0000-0002-3170-4444",
+        "institution": [
+          "recKPhQIdxCmkOodQ"
+        ]
+      },
+      {
+        "name": "Claire Noble",
+        "orcid": null,
+        "institution": [
+          "recUchabpbvQWLLcg"
+        ]
+      },
+      {
+        "name": "Adriel John Orena",
+        "orcid": "https://orcid.org/0000-0002-9231-567X",
+        "institution": [
+          "recsFSkVjXBg5r3cz"
+        ]
+      },
+      {
+        "name": "Linda Polka",
+        "orcid": "https://orcid.org/0000-0003-4761-9057",
+        "institution": [
+          "recsFSkVjXBg5r3cz"
+        ]
+      },
+      {
+        "name": "Christine E. Potter",
+        "orcid": "https://orcid.org/0000-0002-9580-3919",
+        "institution": [
+          "rec0pMYENssi39SeG"
+        ]
+      },
+      {
+        "name": "Melanie S. Schreiner",
+        "orcid": "https://orcid.org/0000-0002-1530-8839",
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      },
+      {
+        "name": "Leher Singh",
+        "orcid": "https://orcid.org/0000-0001-9423-4956",
+        "institution": [
+          "recbCYur3uhshRqa2"
+        ]
+      },
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      },
+      {
+        "name": "Megha Sundara",
+        "orcid": "https://orcid.org/0000-0003-0028-750X",
+        "institution": [
+          "recKPhQIdxCmkOodQ"
+        ]
+      },
+      {
+        "name": "Connor Waddell",
+        "orcid": "https://orcid.org/0000-0002-6734-9413",
+        "institution": [
+          "recvzSVw3VeTZKePr"
+        ]
+      },
+      {
+        "name": "Janet F. Werker",
+        "orcid": "https://orcid.org/0000-0002-1168-9013",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Stephanie Wermelinger",
+        "orcid": "https://orcid.org/0000-0002-6500-9108",
+        "institution": [
+          "recOiMEenENsAG4LC"
+        ]
+      }
     ],
     "authorsCondensed": "Byers-Heinlein, K., Tsui, A. S. M., Bergmann, C., Black, A. K., Brown, A., Carbajal, M. J., Durrant, S., Fennell, C. T., Fiévet, A., Frank, M. C., Gampe, A., Gervain, J., Gonzalez-Gomez, N., Hamlin, J. K., Havron, N., Hernik, M., Kerr, S., Killam, H., Klassen, K., ... Wermelinger, S.",
     "year": "2021",
@@ -68,24 +296,132 @@
     ],
     "title": "A collaborative approach to infant research: Promoting reproducibility, best practices, and theory-building",
     "authors": [
-      "Michael C. Frank",
-      "Elika Bergelson",
-      "Christina Bergmann",
-      "Alejandrina Cristia",
-      "Caroline Floccia",
-      "Judit Gervain",
-      "J. Kiley Hamlin",
-      "Erin E. Hannon",
-      "Melissa Kline Struhl",
-      "Claartje Levelt",
-      "Casey Lew-Williams",
-      "Thierry Nazzi",
-      "Robin Panneton",
-      "Hugh Rabagliati",
-      "Melanie Soderstrom",
-      "Jessica Sullivan",
-      "Sandra Waxman",
-      "Daniel Yurovsky"
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Elika Bergelson",
+        "orcid": "https://orcid.org/0000-0003-2742-4797",
+        "institution": [
+          "recSjEeBxKEmGjNDF"
+        ]
+      },
+      {
+        "name": "Christina Bergmann",
+        "orcid": "https://orcid.org/0000-0003-2656-9070",
+        "institution": [
+          "rect03ueGUhsXmZtu"
+        ]
+      },
+      {
+        "name": "Alejandrina Cristia",
+        "orcid": "https://orcid.org/0000-0003-2979-4556",
+        "institution": [
+          "recRrTObPSkpy8iIl"
+        ]
+      },
+      {
+        "name": "Caroline Floccia",
+        "orcid": null,
+        "institution": [
+          "recXMI8YEruzYFGUt"
+        ]
+      },
+      {
+        "name": "Judit Gervain",
+        "orcid": "https://orcid.org/0000-0002-2125-6369",
+        "institution": [
+          "recXK4Lpx5saRiPu3"
+        ]
+      },
+      {
+        "name": "J. Kiley Hamlin",
+        "orcid": "https://orcid.org/0000-0001-6173-9878",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Erin E. Hannon",
+        "orcid": "https://orcid.org/0000-0002-3482-5954",
+        "institution": [
+          "recUZv6FTLj1uO1dD"
+        ]
+      },
+      {
+        "name": "Melissa Kline Struhl",
+        "orcid": "https://orcid.org/0000-0003-2217-9331",
+        "institution": [
+          "rect0KvfMCxkd2bAu"
+        ]
+      },
+      {
+        "name": "Claartje Levelt",
+        "orcid": "https://orcid.org/0000-0003-2916-0326",
+        "institution": [
+          "recAHFDb7jGqRSB63"
+        ]
+      },
+      {
+        "name": "Casey Lew-Williams",
+        "orcid": "https://orcid.org/0000-0002-8781-4458",
+        "institution": [
+          "recYfz0y5hrmMoG4P"
+        ]
+      },
+      {
+        "name": "Thierry Nazzi",
+        "orcid": "https://orcid.org/0000-0002-4378-3661",
+        "institution": [
+          "rec6JF64CAK1whbRS"
+        ]
+      },
+      {
+        "name": "Robin Panneton",
+        "orcid": "https://orcid.org/0000-0001-6519-8319",
+        "institution": [
+          "recF4SyuB9qV6Tpxt"
+        ]
+      },
+      {
+        "name": "Hugh Rabagliati",
+        "orcid": null,
+        "institution": [
+          "recXRZkJdJRMvWNIj"
+        ]
+      },
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      },
+      {
+        "name": "Jessica Sullivan",
+        "orcid": "https://orcid.org/0000-0002-3843-3712",
+        "institution": [
+          "rec9Qqbvy0DWoNvwl"
+        ]
+      },
+      {
+        "name": "Sandra Waxman",
+        "orcid": "https://orcid.org/0000-0002-5009-2068",
+        "institution": [
+          "recwfEHjzuSJqvISq"
+        ]
+      },
+      {
+        "name": "Daniel Yurovsky",
+        "orcid": "https://orcid.org/0000-0002-8515-0029",
+        "institution": [
+          "recycZyv4gNJVKn7E"
+        ]
+      }
     ],
     "authorsCondensed": "Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., Hamlin, J. K., Hannon, E. E., Kline, M., Levelt, C., Lew-Williams, C., Nazzi, T., Panneton, R., Rabagliati, H., Soderstrom, M., Sullivan, J., Waxman, S., & Yurovsky, D.",
     "year": "2017",
@@ -110,33 +446,195 @@
     ],
     "title": "The development of gaze following in monolingual and bilingual infants: A multi-lab study",
     "authors": [
-      "Krista Byers-Heinlein",
-      "Rachel Ka-Ying Tsui",
-      "Daan van Renswoude",
-      "Alexis K. Black",
-      "Rachel Barr",
-      "Anna Brown",
-      "Marc Colomer",
-      "Samantha Durrant",
-      "Anja Gampe",
-      "Nayeli Gonzalez-Gomez",
-      "Jessica F. Hay",
-      "Mikołaj Hernik",
-      "Marianna Jarto",
-      "Ágnes Melinda Ková­cs",
-      "Alexandra Laoun-Rubenstein",
-      "Casey Lew-Williams",
-      "Ulf Liszkowski",
-      "Liquan Liu",
-      "Claire Noble",
-      "Christine E. Potter",
-      "Joscelin Rocha-Hidalgo",
-      "Nuria Sebastian-Galles",
-      "Melanie Soderstrom",
-      "Ingmar Visser",
-      "Connor Waddell",
-      "Stephanie Wermelinger",
-      "Leher Singh"
+      {
+        "name": "Krista Byers-Heinlein",
+        "orcid": "https://orcid.org/0000-0002-7040-2510",
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      },
+      {
+        "name": "Rachel Ka-Ying Tsui",
+        "orcid": "https://orcid.org/0000-0002-0152-3132",
+        "institution": [
+          "recNksQn3J1qOg7yO"
+        ]
+      },
+      {
+        "name": "Daan van Renswoude",
+        "orcid": "https://orcid.org/0000-0002-2654-081X",
+        "institution": [
+          "recVS4PgwpFkIfuAB"
+        ]
+      },
+      {
+        "name": "Alexis K. Black",
+        "orcid": "https://orcid.org/0000-0001-6764-4319",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Rachel Barr",
+        "orcid": "https://orcid.org/0000-0002-5855-9718",
+        "institution": [
+          "recz9NAKYhpYauOwN"
+        ]
+      },
+      {
+        "name": "Anna Brown",
+        "orcid": "https://orcid.org/0000-0001-6119-7925",
+        "institution": [
+          "recUchabpbvQWLLcg"
+        ]
+      },
+      {
+        "name": "Marc Colomer",
+        "orcid": "https://orcid.org/0000-0002-4337-0373",
+        "institution": [
+          "recusB17BwdmIl1Fm"
+        ]
+      },
+      {
+        "name": "Samantha Durrant",
+        "orcid": "https://orcid.org/0000-0001-9720-0866",
+        "institution": [
+          "recUchabpbvQWLLcg"
+        ]
+      },
+      {
+        "name": "Anja Gampe",
+        "orcid": "https://orcid.org/0000-0001-9812-9694 ",
+        "institution": [
+          "recHhUCaUgw7RLCcu"
+        ]
+      },
+      {
+        "name": "Nayeli Gonzalez-Gomez",
+        "orcid": "https://orcid.org/0000-0003-2012-8290",
+        "institution": [
+          "recCrx5L9O4mHYOIB"
+        ]
+      },
+      {
+        "name": "Jessica F. Hay",
+        "orcid": "https://orcid.org/0000-0002-0197-6713",
+        "institution": [
+          "recCHo2fI9pe1ghHv"
+        ]
+      },
+      {
+        "name": "Mikołaj Hernik",
+        "orcid": "https://orcid.org/0000-0001-6745-5163",
+        "institution": [
+          "recdBQTQmcdZLwNnM"
+        ]
+      },
+      {
+        "name": "Marianna Jarto",
+        "orcid": "https://orcid.org/0000-0001-7700-696X",
+        "institution": [
+          "rec0AFILj4GOt5Xdx"
+        ]
+      },
+      {
+        "name": "Ágnes Melinda Ková­cs",
+        "orcid": "https://orcid.org/0000-0003-3452-7727",
+        "institution": [
+          "rec8ZZunLvlx5Sp0v"
+        ]
+      },
+      {
+        "name": "Alexandra Laoun-Rubenstein",
+        "orcid": "https://orcid.org/0000-0002-9828-2645",
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      },
+      {
+        "name": "Casey Lew-Williams",
+        "orcid": "https://orcid.org/0000-0002-8781-4458",
+        "institution": [
+          "recYfz0y5hrmMoG4P"
+        ]
+      },
+      {
+        "name": "Ulf Liszkowski",
+        "orcid": "https://orcid.org/0000-0003-4294-3632",
+        "institution": [
+          "rec0AFILj4GOt5Xdx"
+        ]
+      },
+      {
+        "name": "Liquan Liu",
+        "orcid": "https://orcid.org/0000-0001-8671-5098",
+        "institution": [
+          "rece4MHumLD8zqyab"
+        ]
+      },
+      {
+        "name": "Claire Noble",
+        "orcid": null,
+        "institution": [
+          "recUchabpbvQWLLcg"
+        ]
+      },
+      {
+        "name": "Christine E. Potter",
+        "orcid": "https://orcid.org/0000-0002-9580-3919",
+        "institution": [
+          "rec0pMYENssi39SeG"
+        ]
+      },
+      {
+        "name": "Joscelin Rocha-Hidalgo",
+        "orcid": "https://orcid.org/0000-0003-3572-5848",
+        "institution": [
+          "recLfqWgXOCOb21Ts"
+        ]
+      },
+      {
+        "name": "Nuria Sebastian-Galles",
+        "orcid": "https://orcid.org/0000-0001-6938-2498",
+        "institution": [
+          "recusB17BwdmIl1Fm"
+        ]
+      },
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      },
+      {
+        "name": "Ingmar Visser",
+        "orcid": "https://orcid.org/0000-0003-3855-2778",
+        "institution": [
+          "recVS4PgwpFkIfuAB"
+        ]
+      },
+      {
+        "name": "Connor Waddell",
+        "orcid": "https://orcid.org/0000-0002-6734-9413",
+        "institution": [
+          "recvzSVw3VeTZKePr"
+        ]
+      },
+      {
+        "name": "Stephanie Wermelinger",
+        "orcid": "https://orcid.org/0000-0002-6500-9108",
+        "institution": [
+          "recOiMEenENsAG4LC"
+        ]
+      },
+      {
+        "name": "Leher Singh",
+        "orcid": "https://orcid.org/0000-0001-9423-4956",
+        "institution": [
+          "recbCYur3uhshRqa2"
+        ]
+      }
     ],
     "authorsCondensed": "Byers-Heinlein, K., Tsui, R. K. Y., van Renswoude, D., Black, A. K., Barr, R., Brown, A., Colomer, M., Durrant, S., Gampe, A., Gonzalez-Gomez, N., Hay, J. F., Hernik, M., Jartó, M., Kovács, A. M., Laoun-Rubenstein, A., Lew-Williams, C., Liszkowski, U., Liu, L., Noble, C., ... Singh, L.",
     "year": "2020",
@@ -161,20 +659,104 @@
     ],
     "title": "Tools of the Trade: A guide to sociodemographic reporting for researchers, reviewers, and editors",
     "authors": [
-      "Leher Singh",
-      "Mihaela D. Barokova",
-      "Marina Bazhydai",
-      "Heidi A. Baumgartner",
-      "Laura Franchin",
-      "Jessica E. Kosie",
-      "Casey Lew-Williams",
-      "Paul Okyere Omane",
-      "Tilman Reinelt",
-      "Tobias Schuwerk",
-      "Mark Sheskin",
-      "Melanie Soderstrom",
-      "Yang Wu",
-      "Michael C. Frank"
+      {
+        "name": "Leher Singh",
+        "orcid": "https://orcid.org/0000-0001-9423-4956",
+        "institution": [
+          "recbCYur3uhshRqa2"
+        ]
+      },
+      {
+        "name": "Mihaela D. Barokova",
+        "orcid": "https://orcid.org/0000-0002-4643-9452 ",
+        "institution": [
+          "recGSMbTGN0Fd52I6"
+        ]
+      },
+      {
+        "name": "Marina Bazhydai",
+        "orcid": "https://orcid.org/0000-0001-9619-3975",
+        "institution": [
+          "recS9q79twEKQbsIm"
+        ]
+      },
+      {
+        "name": "Heidi A. Baumgartner",
+        "orcid": "https://orcid.org/0000-0001-5032-5995",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Laura Franchin",
+        "orcid": "https://orcid.org/0000-0001-8777-8752",
+        "institution": [
+          "recCCsTFWqo6iNi2p"
+        ]
+      },
+      {
+        "name": "Jessica E. Kosie",
+        "orcid": "https://orcid.org/0000-0002-2390-0963",
+        "institution": [
+          "recJ8Hkx51RfYBCJI"
+        ]
+      },
+      {
+        "name": "Casey Lew-Williams",
+        "orcid": "https://orcid.org/0000-0002-8781-4458",
+        "institution": [
+          "recYfz0y5hrmMoG4P"
+        ]
+      },
+      {
+        "name": "Paul Okyere Omane",
+        "orcid": "https://orcid.org/0000-0002-0859-9826",
+        "institution": [
+          "recUqGHNasI4ZQ0tf"
+        ]
+      },
+      {
+        "name": "Tilman Reinelt",
+        "orcid": "https://orcid.org/0000-0003-0951-5927",
+        "institution": [
+          "recOiMEenENsAG4LC"
+        ]
+      },
+      {
+        "name": "Tobias Schuwerk",
+        "orcid": "https://orcid.org/0000-0003-3720-7120",
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      },
+      {
+        "name": "Mark Sheskin",
+        "orcid": "https://orcid.org/0000-0002-1277-8608",
+        "institution": [
+          "recdebFAT2hW0lZGU"
+        ]
+      },
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      },
+      {
+        "name": "Yang Wu",
+        "orcid": "https://orcid.org/0000-0002-0157-4925",
+        "institution": [
+          "recTAGGrXD1BMYo9F"
+        ]
+      },
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      }
     ],
     "authorsCondensed": "Singh, L., Barokova, M., Bazhydai, M., Baumgartner, H. A., Franchin, L., Kosie, J., Lew-Williams, C., Omane, P. O., Reinelt, T., Schuwerk, T., Sheskin, M., Soderstrom, M., Wu, Y., & Frank, M. C.",
     "year": "2024",
@@ -199,11 +781,41 @@
     ],
     "title": "A Global Perspective on Testing Infants Online: Introducing ManyBabies-AtHome",
     "authors": [
-      "Lorijn Zaadnoordijk",
-      "Helen Buckler",
-      "Rhodri Cusack",
-      "Sho Tsuji",
-      "Christina Bergmann"
+      {
+        "name": "Lorijn Zaadnoordijk",
+        "orcid": "https://orcid.org/0000-0002-7484-6995",
+        "institution": [
+          "recSGGdIIfqldSpDo"
+        ]
+      },
+      {
+        "name": "Helen Buckler",
+        "orcid": "https://orcid.org/0000-0002-9039-0406",
+        "institution": [
+          "recJFjqQHEzub03XV"
+        ]
+      },
+      {
+        "name": "Rhodri Cusack",
+        "orcid": "https://orcid.org/0000-0002-5234-7415",
+        "institution": [
+          "recSGGdIIfqldSpDo"
+        ]
+      },
+      {
+        "name": "Sho Tsuji",
+        "orcid": "https://orcid.org/0000-0001-9580-4500",
+        "institution": [
+          "recZQfI89Gkkzw3Xs"
+        ]
+      },
+      {
+        "name": "Christina Bergmann",
+        "orcid": "https://orcid.org/0000-0003-2656-9070",
+        "institution": [
+          "rect03ueGUhsXmZtu"
+        ]
+      }
     ],
     "authorsCondensed": "Zaadnoordijk, L., Buckler, H., Cusack, R., Tsuji, S., & Bergmann, C.",
     "year": "2021",
@@ -228,34 +840,202 @@
     ],
     "title": "Improving the generalizability of infant psychological research: The ManyBabies model",
     "authors": [
-      "Ingmar Visser",
-      "Christina Bergmann",
-      "Krista Byers-Heinlein",
-      "Rodrigo Dal Ben",
-      "Wlodzislaw Duch",
-      "Samuel H. Forbes",
-      "Laura Franchin",
-      "Michael C. Frank",
-      "Alessandra Geraci",
-      "J. Kiley Hamlin",
-      "Zsuzsa Kaldy",
-      "Louisa Kulke",
-      "Catherine Laverty",
-      "Casey Lew-Williams",
-      "Victoria Mateu",
-      "Julien Mayor",
-      "David Moreau",
-      "Iris Nomikou",
-      "Tobias Schuwerk",
-      "Elizabeth A. Simpson",
-      "Leher Singh",
-      "Melanie Soderstrom",
-      "Jessica Sullivan",
-      "Marion I. van den Heuvel",
-      "Gert Westermann",
-      "Yuki Yamada",
-      "Lorijn Zaadnoordijk",
-      "Martin Zettersten"
+      {
+        "name": "Ingmar Visser",
+        "orcid": "https://orcid.org/0000-0003-3855-2778",
+        "institution": [
+          "recVS4PgwpFkIfuAB"
+        ]
+      },
+      {
+        "name": "Christina Bergmann",
+        "orcid": "https://orcid.org/0000-0003-2656-9070",
+        "institution": [
+          "rect03ueGUhsXmZtu"
+        ]
+      },
+      {
+        "name": "Krista Byers-Heinlein",
+        "orcid": "https://orcid.org/0000-0002-7040-2510",
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      },
+      {
+        "name": "Rodrigo Dal Ben",
+        "orcid": "https://orcid.org/0000-0003-2185-8762",
+        "institution": [
+          "recGtAQgrDfJsNpyc"
+        ]
+      },
+      {
+        "name": "Wlodzislaw Duch",
+        "orcid": null,
+        "institution": [
+          "recVLhEB2Cf4kOVuG"
+        ]
+      },
+      {
+        "name": "Samuel H. Forbes",
+        "orcid": "https://orcid.org/0000-0003-1022-4676",
+        "institution": [
+          "recBFTKe9hGiQxJq1"
+        ]
+      },
+      {
+        "name": "Laura Franchin",
+        "orcid": "https://orcid.org/0000-0001-8777-8752",
+        "institution": [
+          "recCCsTFWqo6iNi2p"
+        ]
+      },
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Alessandra Geraci",
+        "orcid": "https://orcid.org/0000-0003-1375-9190",
+        "institution": [
+          "recnFe28dBm9yMrta"
+        ]
+      },
+      {
+        "name": "J. Kiley Hamlin",
+        "orcid": "https://orcid.org/0000-0001-6173-9878",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Zsuzsa Kaldy",
+        "orcid": "https://orcid.org/0000-0002-0679-4505",
+        "institution": [
+          "recvs71f34uV8w8Ul"
+        ]
+      },
+      {
+        "name": "Louisa Kulke",
+        "orcid": "https://orcid.org/0000-0002-9696-8619",
+        "institution": [
+          "rec979u6tR7JWTYks"
+        ]
+      },
+      {
+        "name": "Catherine Laverty",
+        "orcid": null,
+        "institution": [
+          "recIrxzwEN09lJPg8"
+        ]
+      },
+      {
+        "name": "Casey Lew-Williams",
+        "orcid": "https://orcid.org/0000-0002-8781-4458",
+        "institution": [
+          "recYfz0y5hrmMoG4P"
+        ]
+      },
+      {
+        "name": "Victoria Mateu",
+        "orcid": "https://orcid.org/0000-0002-3170-4444",
+        "institution": [
+          "recKPhQIdxCmkOodQ"
+        ]
+      },
+      {
+        "name": "Julien Mayor",
+        "orcid": "https://orcid.org/0000-0001-9827-5421",
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "David Moreau",
+        "orcid": "https://orcid.org/0000-0002-1957-1941",
+        "institution": [
+          "recY9LkifMFGIvlnm"
+        ]
+      },
+      {
+        "name": "Iris Nomikou",
+        "orcid": null,
+        "institution": [
+          "recxvCvIeMHSi6nFx"
+        ]
+      },
+      {
+        "name": "Tobias Schuwerk",
+        "orcid": "https://orcid.org/0000-0003-3720-7120",
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      },
+      {
+        "name": "Elizabeth A. Simpson",
+        "orcid": "https://orcid.org/0000-0003-2715-2533",
+        "institution": [
+          "recsJwGRCjX3ka12d"
+        ]
+      },
+      {
+        "name": "Leher Singh",
+        "orcid": "https://orcid.org/0000-0001-9423-4956",
+        "institution": [
+          "recbCYur3uhshRqa2"
+        ]
+      },
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      },
+      {
+        "name": "Jessica Sullivan",
+        "orcid": "https://orcid.org/0000-0002-3843-3712",
+        "institution": [
+          "rec9Qqbvy0DWoNvwl"
+        ]
+      },
+      {
+        "name": "Marion I. van den Heuvel",
+        "orcid": null,
+        "institution": [
+          "recMCybsNHmmGDqbf"
+        ]
+      },
+      {
+        "name": "Gert Westermann",
+        "orcid": "https://orcid.org/0000-0003-2803-1872",
+        "institution": [
+          "recS9q79twEKQbsIm"
+        ]
+      },
+      {
+        "name": "Yuki Yamada",
+        "orcid": null,
+        "institution": [
+          "rec1UhvrXZMS3m3kr"
+        ]
+      },
+      {
+        "name": "Lorijn Zaadnoordijk",
+        "orcid": "https://orcid.org/0000-0002-7484-6995",
+        "institution": [
+          "recSGGdIIfqldSpDo"
+        ]
+      },
+      {
+        "name": "Martin Zettersten",
+        "orcid": "https://orcid.org/0000-0002-0444-7059",
+        "institution": [
+          "recYIF1ISrnh5P6ZD"
+        ]
+      }
     ],
     "authorsCondensed": "Visser, I., Bergmann, C., Byers-Heinlein, K., Dal Ben, R., Duch, W., Forbes, S., Franchin, L., Frank, M. C., Geraci, A., Hamlin, J. K., Kaldy, Z., Kulke, L., Laverty, C., Lew-Williams, C., Mateu, V., Mayor, J., Moreau, D., Nomikou, I., Schuwerk, T., ... Zettersten, M.",
     "year": "2022",
@@ -280,30 +1060,174 @@
     ],
     "title": "A unified approach to demographic data collection for research with young children across diverse cultures",
     "authors": [
-      "Leher Singh",
-      "Mihaela D. Barokova",
-      "Heidi A. Baumgartner",
-      "Diana C. Lopera-Perez",
-      "Paul Okyere Omane",
-      "Mark Sheskin",
-      "Francis L. Yuen",
-      "Yang Wu",
-      "Katherine J. Alcock",
-      "Elena C. Altmann",
-      "Marina Bazhydai",
-      "Alexandra Carstensen",
-      "Kin Chung Jacky Chan",
-      "Hu Chuan-Peng",
-      "Rodrigo Dal Ben",
-      "Laura Franchin",
-      "Jessica E. Kosie",
-      "Casey Lew-Williams",
-      "Asana Okocha",
-      "Tilman Reinelt",
-      "Tobias Schuwerk",
-      "Melanie Soderstrom",
-      "Angeline Sin Mei Tsui",
-      "Michael C. Frank"
+      {
+        "name": "Leher Singh",
+        "orcid": "https://orcid.org/0000-0001-9423-4956",
+        "institution": [
+          "recbCYur3uhshRqa2"
+        ]
+      },
+      {
+        "name": "Mihaela D. Barokova",
+        "orcid": "https://orcid.org/0000-0002-4643-9452 ",
+        "institution": [
+          "recGSMbTGN0Fd52I6"
+        ]
+      },
+      {
+        "name": "Heidi A. Baumgartner",
+        "orcid": "https://orcid.org/0000-0001-5032-5995",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Diana C. Lopera-Perez",
+        "orcid": "https://orcid.org/0000-0002-2489-2512",
+        "institution": [
+          "receWLuTTRQd9b5OV"
+        ]
+      },
+      {
+        "name": "Paul Okyere Omane",
+        "orcid": "https://orcid.org/0000-0002-0859-9826",
+        "institution": [
+          "recUqGHNasI4ZQ0tf"
+        ]
+      },
+      {
+        "name": "Mark Sheskin",
+        "orcid": "https://orcid.org/0000-0002-1277-8608",
+        "institution": [
+          "recdebFAT2hW0lZGU"
+        ]
+      },
+      {
+        "name": "Francis L. Yuen",
+        "orcid": "https://orcid.org/0000-0001-7570-123X",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Yang Wu",
+        "orcid": "https://orcid.org/0000-0002-0157-4925",
+        "institution": [
+          "recTAGGrXD1BMYo9F"
+        ]
+      },
+      {
+        "name": "Katherine J. Alcock",
+        "orcid": "https://orcid.org/0000-0001-5219-5442",
+        "institution": [
+          "recS9q79twEKQbsIm"
+        ]
+      },
+      {
+        "name": "Elena C. Altmann",
+        "orcid": "https://orcid.org/0000-0002-8602-9845",
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      },
+      {
+        "name": "Marina Bazhydai",
+        "orcid": "https://orcid.org/0000-0001-9619-3975",
+        "institution": [
+          "recS9q79twEKQbsIm"
+        ]
+      },
+      {
+        "name": "Alexandra Carstensen",
+        "orcid": "https://orcid.org/0000-0003-0582-9152",
+        "institution": [
+          "recJ8Hkx51RfYBCJI"
+        ]
+      },
+      {
+        "name": "Kin Chung Jacky Chan",
+        "orcid": "https://orcid.org/0000-0002-8533-2949",
+        "institution": [
+          "recBFTKe9hGiQxJq1"
+        ]
+      },
+      {
+        "name": "Hu Chuan-Peng",
+        "orcid": "https://orcid.org/0000-0002-7503-5131",
+        "institution": [
+          "recXTrsxli2ocMLnt"
+        ]
+      },
+      {
+        "name": "Rodrigo Dal Ben",
+        "orcid": "https://orcid.org/0000-0003-2185-8762",
+        "institution": [
+          "recGtAQgrDfJsNpyc"
+        ]
+      },
+      {
+        "name": "Laura Franchin",
+        "orcid": "https://orcid.org/0000-0001-8777-8752",
+        "institution": [
+          "recCCsTFWqo6iNi2p"
+        ]
+      },
+      {
+        "name": "Jessica E. Kosie",
+        "orcid": "https://orcid.org/0000-0002-2390-0963",
+        "institution": [
+          "recJ8Hkx51RfYBCJI"
+        ]
+      },
+      {
+        "name": "Casey Lew-Williams",
+        "orcid": "https://orcid.org/0000-0002-8781-4458",
+        "institution": [
+          "recYfz0y5hrmMoG4P"
+        ]
+      },
+      {
+        "name": "Asana Okocha",
+        "orcid": "https://orcid.org/0000-0002-4506-3430",
+        "institution": [
+          "recYfz0y5hrmMoG4P"
+        ]
+      },
+      {
+        "name": "Tilman Reinelt",
+        "orcid": "https://orcid.org/0000-0003-0951-5927",
+        "institution": [
+          "recOiMEenENsAG4LC"
+        ]
+      },
+      {
+        "name": "Tobias Schuwerk",
+        "orcid": "https://orcid.org/0000-0003-3720-7120",
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      },
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      },
+      {
+        "name": "Angeline Sin Mei Tsui",
+        "orcid": "https://orcid.org/0000-0003-0333-7234",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      }
     ],
     "authorsCondensed": "Singh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F. L., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., … Frank, M. C.",
     "year": "2024",
@@ -328,22 +1252,118 @@
     ],
     "title": "Limited evidence of test-retest reliability in infant-directed speech preference in a large pre-registered infant sample",
     "authors": [
-      "Melanie S. Schreiner",
-      "Martin Zettersten",
-      "Christina Bergmann",
-      "Michael C. Frank",
-      "Tom Fritzsche",
-      "Nayeli Gonzalez-Gomez",
-      "J. Kiley Hamlin",
-      "Natalia Kartushina",
-      "Danielle J. Kellier",
-      "Nivedita Mani",
-      "Julien Mayor",
-      "Jenny R. Saffran",
-      "Mohinish Shukla",
-      "Priya Silverstein",
-      "Melanie Soderstrom",
-      "Matthias Lippold"
+      {
+        "name": "Melanie S. Schreiner",
+        "orcid": "https://orcid.org/0000-0002-1530-8839",
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      },
+      {
+        "name": "Martin Zettersten",
+        "orcid": "https://orcid.org/0000-0002-0444-7059",
+        "institution": [
+          "recYIF1ISrnh5P6ZD"
+        ]
+      },
+      {
+        "name": "Christina Bergmann",
+        "orcid": "https://orcid.org/0000-0003-2656-9070",
+        "institution": [
+          "rect03ueGUhsXmZtu"
+        ]
+      },
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Tom Fritzsche",
+        "orcid": "https://orcid.org/0000-0002-7917-514X",
+        "institution": [
+          "recUqGHNasI4ZQ0tf"
+        ]
+      },
+      {
+        "name": "Nayeli Gonzalez-Gomez",
+        "orcid": "https://orcid.org/0000-0003-2012-8290",
+        "institution": [
+          "recCrx5L9O4mHYOIB"
+        ]
+      },
+      {
+        "name": "J. Kiley Hamlin",
+        "orcid": "https://orcid.org/0000-0001-6173-9878",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Natalia Kartushina",
+        "orcid": "https://orcid.org/0000-0003-4650-5832",
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "Danielle J. Kellier",
+        "orcid": "https://orcid.org/0000-0001-7811-3468",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Nivedita Mani",
+        "orcid": "https://orcid.org/0000-0002-9843-4629",
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      },
+      {
+        "name": "Julien Mayor",
+        "orcid": "https://orcid.org/0000-0001-9827-5421",
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "Jenny R. Saffran",
+        "orcid": "https://orcid.org/0000-0003-3749-8773",
+        "institution": [
+          "recCs3vQG1UV4TRCy"
+        ]
+      },
+      {
+        "name": "Mohinish Shukla",
+        "orcid": "https://orcid.org/0000-0002-2806-0174",
+        "institution": [
+          "recVS4PgwpFkIfuAB"
+        ]
+      },
+      {
+        "name": "Priya Silverstein",
+        "orcid": null,
+        "institution": [
+          "recdLWyXbkoqchDff"
+        ]
+      },
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      },
+      {
+        "name": "Matthias Lippold",
+        "orcid": null,
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      }
     ],
     "authorsCondensed": "Schreiner, M. S., Zettersten, M., Bergmann, C., Frank, M. C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, J. K., Kartushina, N., Kellier, D. J., Mani, N., Mayor, J., Saffran, J. R., Shukla, M., Silverstein, P., Soderstrom, M., & Lippold, M.",
     "year": "2024",
@@ -368,16 +1388,76 @@
     ],
     "title": "How to build up big team science: a practical guide for large-scale collaborations",
     "authors": [
-      "Heidi A. Baumgartner",
-      "Nicolás Alessandroni",
-      "Krista Byers-Heinlein",
-      "Michael C. Frank",
-      "J. Kiley Hamlin",
-      "Melanie Soderstrom",
-      "Jan Gerrit Voelkel",
-      "Robb Willer",
-      "Francis L. Yuen",
-      "Nicholas A. Coles"
+      {
+        "name": "Heidi A. Baumgartner",
+        "orcid": "https://orcid.org/0000-0001-5032-5995",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Nicolás Alessandroni",
+        "orcid": "https://orcid.org/0000-0002-6595-0969",
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      },
+      {
+        "name": "Krista Byers-Heinlein",
+        "orcid": "https://orcid.org/0000-0002-7040-2510",
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      },
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "J. Kiley Hamlin",
+        "orcid": "https://orcid.org/0000-0001-6173-9878",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      },
+      {
+        "name": "Jan Gerrit Voelkel",
+        "orcid": "https://orcid.org/0000-0003-4275-9798",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Robb Willer",
+        "orcid": "https://orcid.org/0000-0003-3404-6472",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Francis L. Yuen",
+        "orcid": "https://orcid.org/0000-0001-7570-123X",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Nicholas A. Coles",
+        "orcid": "https://orcid.org/0000-0001-8583-5610",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      }
     ],
     "authorsCondensed": "Baumgartner, H.A., Alessandroni, N., Byers-Heinlein, K., Frank, M.C., Hamlin, J.K., Soderstrom, M., Voelkel, J.G., Willer, R., Yuen, F., & Coles, N.A.",
     "year": "2023",
@@ -402,48 +1482,300 @@
     ],
     "title": "Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study",
     "authors": [
-      "Melanie Soderstrom",
-      "Joscelin Rocha-Hidalgo",
-      "Luis E. Muñoz",
-      "Agata Bochynska",
-      "Janet F. Werker",
-      "Barbora Skarabela",
-      "Amanda Seidl",
-      "Yana Ryjova",
-      "Jennifer L. Rennels",
-      "Christine E. Potter",
-      "Markus Paulus",
-      "Mitsuhiko Ota",
-      "Nonah M. Olesen",
-      "Karli M. Nave",
-      "Julien Mayor",
-      "Alia Martin",
-      "Lauren C. Machon",
-      "Casey Lew-Williams",
-      "Eon-Suk Ko",
-      "Hyunji Kim",
-      "Natalia Kartushina",
-      "Marina Kammermeier",
-      "Andrew Jessop",
-      "Jessica F. Hay",
-      "Naomi Havron",
-      "Erin E. Hannon",
-      "J. Kiley Hamlin",
-      "Nayeli Gonzalez-Gomez",
-      "Anja Gampe",
-      "Tom Fritzsche",
-      "Michael C. Frank",
-      "Samantha Durrant",
-      "Catherine Davies",
-      "Cara Cashon",
-      "Krista Byers-Heinlein",
-      "Veronica Boyce",
-      "Alexis K. Black",
-      "Christina Bergmann",
-      "Laura Anderson",
-      "Mohammed K. AlShakhori",
-      "Ali H. Al-Hoorie",
-      "Angeline Sin Mei Tsui"
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      },
+      {
+        "name": "Joscelin Rocha-Hidalgo",
+        "orcid": "https://orcid.org/0000-0003-3572-5848",
+        "institution": [
+          "recLfqWgXOCOb21Ts"
+        ]
+      },
+      {
+        "name": "Luis E. Muñoz",
+        "orcid": "https://orcid.org/0000-0002-6027-9643",
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "Agata Bochynska",
+        "orcid": "https://orcid.org/0000-0001-6211-8600",
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "Janet F. Werker",
+        "orcid": "https://orcid.org/0000-0002-1168-9013",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Barbora Skarabela",
+        "orcid": "https://orcid.org/0000-0001-9344-349X",
+        "institution": [
+          "recXRZkJdJRMvWNIj"
+        ]
+      },
+      {
+        "name": "Amanda Seidl",
+        "orcid": "https://orcid.org/0000-0001-9825-1462",
+        "institution": [
+          "recZlEw21btg9EjkI"
+        ]
+      },
+      {
+        "name": "Yana Ryjova",
+        "orcid": "https://orcid.org/0000-0002-2037-8743",
+        "institution": [
+          "recUZv6FTLj1uO1dD"
+        ]
+      },
+      {
+        "name": "Jennifer L. Rennels",
+        "orcid": "https://orcid.org/0000-0002-2639-2837",
+        "institution": [
+          "recUZv6FTLj1uO1dD"
+        ]
+      },
+      {
+        "name": "Christine E. Potter",
+        "orcid": "https://orcid.org/0000-0002-9580-3919",
+        "institution": [
+          "rec0pMYENssi39SeG"
+        ]
+      },
+      {
+        "name": "Markus Paulus",
+        "orcid": "https://orcid.org/0000-0003-0446-4956",
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      },
+      {
+        "name": "Mitsuhiko Ota",
+        "orcid": "https://orcid.org/0000-0003-3693-8490",
+        "institution": [
+          "recXRZkJdJRMvWNIj"
+        ]
+      },
+      {
+        "name": "Nonah M. Olesen",
+        "orcid": null,
+        "institution": [
+          "recP9joUGOIY3L43S"
+        ]
+      },
+      {
+        "name": "Karli M. Nave",
+        "orcid": "https://orcid.org/0000-0001-8672-674X",
+        "institution": [
+          "recUZv6FTLj1uO1dD"
+        ]
+      },
+      {
+        "name": "Julien Mayor",
+        "orcid": "https://orcid.org/0000-0001-9827-5421",
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "Alia Martin",
+        "orcid": "https://orcid.org/0000-0003-4724-8217",
+        "institution": [
+          "rect83r0xkwkwTvww"
+        ]
+      },
+      {
+        "name": "Lauren C. Machon",
+        "orcid": "https://orcid.org/0000-0002-3006-4879",
+        "institution": [
+          "reclFofJqS9ZWPudk"
+        ]
+      },
+      {
+        "name": "Casey Lew-Williams",
+        "orcid": "https://orcid.org/0000-0002-8781-4458",
+        "institution": [
+          "recYfz0y5hrmMoG4P"
+        ]
+      },
+      {
+        "name": "Eon-Suk Ko",
+        "orcid": "https://orcid.org/0000-0003-3963-4492",
+        "institution": [
+          "rec2TLynKlPxFlpxX"
+        ]
+      },
+      {
+        "name": "Hyunji Kim",
+        "orcid": "https://orcid.org/0000-0002-2076-3393",
+        "institution": [
+          "rec2TLynKlPxFlpxX"
+        ]
+      },
+      {
+        "name": "Natalia Kartushina",
+        "orcid": "https://orcid.org/0000-0003-4650-5832",
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "Marina Kammermeier",
+        "orcid": "https://orcid.org/0000-0003-0037-0039",
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      },
+      {
+        "name": "Andrew Jessop",
+        "orcid": "https://orcid.org/0000-0002-2207-4663",
+        "institution": [
+          "recUchabpbvQWLLcg"
+        ]
+      },
+      {
+        "name": "Jessica F. Hay",
+        "orcid": "https://orcid.org/0000-0002-0197-6713",
+        "institution": [
+          "recCHo2fI9pe1ghHv"
+        ]
+      },
+      {
+        "name": "Naomi Havron",
+        "orcid": "https://orcid.org/0000-0001-6429-1546",
+        "institution": [
+          "reclqwNVytPWPOHis"
+        ]
+      },
+      {
+        "name": "Erin E. Hannon",
+        "orcid": "https://orcid.org/0000-0002-3482-5954",
+        "institution": [
+          "recUZv6FTLj1uO1dD"
+        ]
+      },
+      {
+        "name": "J. Kiley Hamlin",
+        "orcid": "https://orcid.org/0000-0001-6173-9878",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Nayeli Gonzalez-Gomez",
+        "orcid": "https://orcid.org/0000-0003-2012-8290",
+        "institution": [
+          "recCrx5L9O4mHYOIB"
+        ]
+      },
+      {
+        "name": "Anja Gampe",
+        "orcid": "https://orcid.org/0000-0001-9812-9694 ",
+        "institution": [
+          "recHhUCaUgw7RLCcu"
+        ]
+      },
+      {
+        "name": "Tom Fritzsche",
+        "orcid": "https://orcid.org/0000-0002-7917-514X",
+        "institution": [
+          "recUqGHNasI4ZQ0tf"
+        ]
+      },
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Samantha Durrant",
+        "orcid": "https://orcid.org/0000-0001-9720-0866",
+        "institution": [
+          "recUchabpbvQWLLcg"
+        ]
+      },
+      {
+        "name": "Catherine Davies",
+        "orcid": "https://orcid.org/0000-0001-9347-7905",
+        "institution": [
+          "reclFofJqS9ZWPudk"
+        ]
+      },
+      {
+        "name": "Cara Cashon",
+        "orcid": "https://orcid.org/0000-0001-8652-3264",
+        "institution": [
+          "recP9joUGOIY3L43S"
+        ]
+      },
+      {
+        "name": "Krista Byers-Heinlein",
+        "orcid": "https://orcid.org/0000-0002-7040-2510",
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      },
+      {
+        "name": "Veronica Boyce",
+        "orcid": "https://orcid.org/0000-0002-8890-2775",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Alexis K. Black",
+        "orcid": "https://orcid.org/0000-0001-6764-4319",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Christina Bergmann",
+        "orcid": "https://orcid.org/0000-0003-2656-9070",
+        "institution": [
+          "rect03ueGUhsXmZtu"
+        ]
+      },
+      {
+        "name": "Laura Anderson",
+        "orcid": "https://orcid.org/0000-0002-2271-2653",
+        "institution": [
+          "rect83r0xkwkwTvww"
+        ]
+      },
+      {
+        "name": "Mohammed K. AlShakhori",
+        "orcid": "https://orcid.org/0000-0003-0718-1038",
+        "institution": [
+          "recMnntUOPVtLn8Wm"
+        ]
+      },
+      {
+        "name": "Ali H. Al-Hoorie",
+        "orcid": "https://orcid.org/0000-0003-3810-5978",
+        "institution": [
+          "recYGvMQLcoibFAID"
+        ]
+      },
+      {
+        "name": "Angeline Sin Mei Tsui",
+        "orcid": "https://orcid.org/0000-0003-0333-7234",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      }
     ],
     "authorsCondensed": "Soderstrom, M., Rocha-Hidalgo, J., Muñoz, L. E., Bochynska, A., Werker, J. F., Skarabela, B., Seidl, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Olesen, N. M., Nave, K., Mayor, J., Martin, A., Machon, L. C., Lew-Williams, C., Ko, E., Kim, H., Kartushina, N., ... Tsui, A. S. M.",
     "year": "2024",
@@ -468,44 +1800,272 @@
     ],
     "title": "Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa",
     "authors": [
-      "Angeline Sin Mei Tsui",
-      "Alexandra Carstensen",
-      "George Kachergis",
-      "Anjie Cao",
-      "Amina Abubakar",
-      "Mulat Asnake Goshu",
-      "Oumar Barry",
-      "Dana M. Basnight-Brown",
-      "Dangkat Bentu",
-      "Christina Bergmann",
-      "Evans Binan Dami",
-      "Natalie Boll-Avetisyan",
-      "Marguerite de Jongh",
-      "Yatma Diop",
-      "Reginald Akuoko Duah",
-      "Esther Herrmann",
-      "Chaning Jang",
-      "Simon Kizito",
-      "Tilinao Lamba",
-      "Limbika Maliwichi-Senganimalunje",
-      "Joyce Marangu",
-      "Maya B. Mathur",
-      "Catherine V. Mbagaya",
-      "Demeke Mekonnen Mengistie",
-      "Carmen Milton",
-      "Febronie Mushimiyimana",
-      "Mikateko Ndhambi",
-      "Irene Ngina",
-      "Eunice Njoroge",
-      "Paul Odhiambo Oburu",
-      "Asana Okocha",
-      "Paul Okyere Omane",
-      "Anisha Singh ",
-      "Andrew Sentoogo Ssemata",
-      "Juliette Unyuzumutima",
-      "Henriette Zeidler",
-      "Casey Lew-Williams",
-      "Michael C. Frank"
+      {
+        "name": "Angeline Sin Mei Tsui",
+        "orcid": "https://orcid.org/0000-0003-0333-7234",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Alexandra Carstensen",
+        "orcid": "https://orcid.org/0000-0003-0582-9152",
+        "institution": [
+          "recJ8Hkx51RfYBCJI"
+        ]
+      },
+      {
+        "name": "George Kachergis",
+        "orcid": "https://orcid.org/0000-0003-4153-4167",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Anjie Cao",
+        "orcid": "https://orcid.org/0000-0002-7191-6548",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Amina Abubakar",
+        "orcid": null,
+        "institution": [
+          "recxUwMuiMUTDumDo"
+        ]
+      },
+      {
+        "name": "Mulat Asnake Goshu",
+        "orcid": null,
+        "institution": [
+          "recCA8fGqP6bedHIJ"
+        ]
+      },
+      {
+        "name": "Oumar Barry",
+        "orcid": null,
+        "institution": [
+          "recY6Xu7K2mQtUC2t"
+        ]
+      },
+      {
+        "name": "Dana M. Basnight-Brown",
+        "orcid": null,
+        "institution": [
+          "rec049tSSX6eaCNR5"
+        ]
+      },
+      {
+        "name": "Dangkat Bentu",
+        "orcid": null,
+        "institution": [
+          "recyxhRoxn4a6pZPY"
+        ]
+      },
+      {
+        "name": "Christina Bergmann",
+        "orcid": "https://orcid.org/0000-0003-2656-9070",
+        "institution": [
+          "rect03ueGUhsXmZtu"
+        ]
+      },
+      {
+        "name": "Evans Binan Dami",
+        "orcid": null,
+        "institution": [
+          "recyxhRoxn4a6pZPY"
+        ]
+      },
+      {
+        "name": "Natalie Boll-Avetisyan",
+        "orcid": "https://orcid.org/0000-0001-5446-946X",
+        "institution": [
+          "recUqGHNasI4ZQ0tf"
+        ]
+      },
+      {
+        "name": "Marguerite de Jongh",
+        "orcid": null,
+        "institution": [
+          "recLOfHgMvi112vxp"
+        ]
+      },
+      {
+        "name": "Yatma Diop",
+        "orcid": null,
+        "institution": [
+          "recvBNVlfVDYzZK16"
+        ]
+      },
+      {
+        "name": "Reginald Akuoko Duah",
+        "orcid": "https://orcid.org/0000-0003-1329-9411",
+        "institution": [
+          "recLKfI5HynPsPQK7"
+        ]
+      },
+      {
+        "name": "Esther Herrmann",
+        "orcid": null,
+        "institution": [
+          "recxvCvIeMHSi6nFx"
+        ]
+      },
+      {
+        "name": "Chaning Jang",
+        "orcid": null,
+        "institution": [
+          "recG3OJ7IqUuhEujb"
+        ]
+      },
+      {
+        "name": "Simon Kizito",
+        "orcid": null,
+        "institution": [
+          "recL2e5rk9Ou4OVEf"
+        ]
+      },
+      {
+        "name": "Tilinao Lamba",
+        "orcid": null,
+        "institution": [
+          "rec7RkjnOu3fibYSC"
+        ]
+      },
+      {
+        "name": "Limbika Maliwichi-Senganimalunje",
+        "orcid": null,
+        "institution": [
+          "rec7RkjnOu3fibYSC"
+        ]
+      },
+      {
+        "name": "Joyce Marangu",
+        "orcid": null,
+        "institution": [
+          "recxUwMuiMUTDumDo"
+        ]
+      },
+      {
+        "name": "Maya B. Mathur",
+        "orcid": "https://orcid.org/0000-0001-6698-2607",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Catherine V. Mbagaya",
+        "orcid": null,
+        "institution": [
+          "recy98qEomAys8wpq"
+        ]
+      },
+      {
+        "name": "Demeke Mekonnen Mengistie",
+        "orcid": null,
+        "institution": [
+          "recAvcesd0dkBBgmA"
+        ]
+      },
+      {
+        "name": "Carmen Milton",
+        "orcid": null,
+        "institution": [
+          "recLOfHgMvi112vxp"
+        ]
+      },
+      {
+        "name": "Febronie Mushimiyimana",
+        "orcid": "https://orcid.org/0000-0001-7768-5499",
+        "institution": [
+          "recPV2Rk0aML5DCA6"
+        ]
+      },
+      {
+        "name": "Mikateko Ndhambi",
+        "orcid": "https://orcid.org/0000-0002-4328-3093",
+        "institution": [
+          "recqJEvFlH1YCbIx7"
+        ]
+      },
+      {
+        "name": "Irene Ngina",
+        "orcid": null,
+        "institution": [
+          "recG3OJ7IqUuhEujb"
+        ]
+      },
+      {
+        "name": "Eunice Njoroge",
+        "orcid": null,
+        "institution": [
+          "recxUwMuiMUTDumDo"
+        ]
+      },
+      {
+        "name": "Paul Odhiambo Oburu",
+        "orcid": null,
+        "institution": [
+          "recy98qEomAys8wpq"
+        ]
+      },
+      {
+        "name": "Asana Okocha",
+        "orcid": "https://orcid.org/0000-0002-4506-3430",
+        "institution": [
+          "recYfz0y5hrmMoG4P"
+        ]
+      },
+      {
+        "name": "Paul Okyere Omane",
+        "orcid": "https://orcid.org/0000-0002-0859-9826",
+        "institution": [
+          "recUqGHNasI4ZQ0tf"
+        ]
+      },
+      {
+        "name": "Anisha Singh ",
+        "orcid": null,
+        "institution": [
+          "recG3OJ7IqUuhEujb"
+        ]
+      },
+      {
+        "name": "Andrew Sentoogo Ssemata",
+        "orcid": "https://orcid.org/0000-0003-0060-0842",
+        "institution": [
+          "recL2e5rk9Ou4OVEf"
+        ]
+      },
+      {
+        "name": "Juliette Unyuzumutima",
+        "orcid": null,
+        "institution": [
+          "recPV2Rk0aML5DCA6"
+        ]
+      },
+      {
+        "name": "Henriette Zeidler",
+        "orcid": "https://orcid.org/0000-0002-5521-102X",
+        "institution": [
+          "rec2xv94LLd474AkD"
+        ]
+      },
+      {
+        "name": "Casey Lew-Williams",
+        "orcid": "https://orcid.org/0000-0002-8781-4458",
+        "institution": [
+          "recYfz0y5hrmMoG4P"
+        ]
+      },
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      }
     ],
     "authorsCondensed": "Tsui, A. S. M., Carstensen, A., Kachergis, G., Cao, A., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D. M., Bentu, D., Bergmann, C., Dami, E. B., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Duah, R. A., Herrmann, E., Jang, C., Kizito, S., Lamba, T., … Frank, M. C.",
     "year": "2026",
@@ -530,21 +2090,111 @@
     ],
     "title": "Building a collaborative psychological science: Lessons learned from ManyBabies 1",
     "authors": [
-      "Krista Byers-Heinlein",
-      "Christina Bergmann",
-      "Catherine Davies",
-      "Michael C. Frank",
-      "J. Kiley Hamlin",
-      "Melissa Kline Struhl",
-      "Jonathan F. Kominsky",
-      "Jessica E. Kosie",
-      "Casey Lew-Williams",
-      "Liquan Liu",
-      "Meghan Mastroberardino",
-      "Leher Singh",
-      "Connor Waddell",
-      "Martin Zettersten",
-      "Melanie Soderstrom"
+      {
+        "name": "Krista Byers-Heinlein",
+        "orcid": "https://orcid.org/0000-0002-7040-2510",
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      },
+      {
+        "name": "Christina Bergmann",
+        "orcid": "https://orcid.org/0000-0003-2656-9070",
+        "institution": [
+          "rect03ueGUhsXmZtu"
+        ]
+      },
+      {
+        "name": "Catherine Davies",
+        "orcid": "https://orcid.org/0000-0001-9347-7905",
+        "institution": [
+          "reclFofJqS9ZWPudk"
+        ]
+      },
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "J. Kiley Hamlin",
+        "orcid": "https://orcid.org/0000-0001-6173-9878",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Melissa Kline Struhl",
+        "orcid": "https://orcid.org/0000-0003-2217-9331",
+        "institution": [
+          "rect0KvfMCxkd2bAu"
+        ]
+      },
+      {
+        "name": "Jonathan F. Kominsky",
+        "orcid": "https://orcid.org/0000-0002-3236-4787",
+        "institution": [
+          "rec8ZZunLvlx5Sp0v"
+        ]
+      },
+      {
+        "name": "Jessica E. Kosie",
+        "orcid": "https://orcid.org/0000-0002-2390-0963",
+        "institution": [
+          "recJ8Hkx51RfYBCJI"
+        ]
+      },
+      {
+        "name": "Casey Lew-Williams",
+        "orcid": "https://orcid.org/0000-0002-8781-4458",
+        "institution": [
+          "recYfz0y5hrmMoG4P"
+        ]
+      },
+      {
+        "name": "Liquan Liu",
+        "orcid": "https://orcid.org/0000-0001-8671-5098",
+        "institution": [
+          "rece4MHumLD8zqyab"
+        ]
+      },
+      {
+        "name": "Meghan Mastroberardino",
+        "orcid": null,
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      },
+      {
+        "name": "Leher Singh",
+        "orcid": "https://orcid.org/0000-0001-9423-4956",
+        "institution": [
+          "recbCYur3uhshRqa2"
+        ]
+      },
+      {
+        "name": "Connor Waddell",
+        "orcid": "https://orcid.org/0000-0002-6734-9413",
+        "institution": [
+          "recvzSVw3VeTZKePr"
+        ]
+      },
+      {
+        "name": "Martin Zettersten",
+        "orcid": "https://orcid.org/0000-0002-0444-7059",
+        "institution": [
+          "recYIF1ISrnh5P6ZD"
+        ]
+      },
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      }
     ],
     "authorsCondensed": "Byers-Heinlein, K., Bergmann, C., Davies, C., Frank, M. C., Hamlin, J. K., Kline, M., Kominsky, J. F., Kosie, J. E., Lew-Williams, C., Liu, L., Mastroberardino, M., Singh, L., Waddell, C. P. G., Zettersten, M., & Soderstrom, M. ",
     "year": "2020",
@@ -569,37 +2219,223 @@
     ],
     "title": "ManyBabies 6: A Multi-Lab Investigation of Neonatal and Early Imitation (Stage 1 Registered Report)",
     "authors": [
-      "Andrew N. Meltzoff",
-      "Sumeet Farwaha",
-      "Virginia Slaughter",
-      "Elizabeth A. Simpson",
-      "Rechele Brooks",
-      "Mark Nielsen",
-      "Heidi A. Baumgartner",
-      "Laurie Bayet",
-      "Silvia Benavides-Varela",
-      "Veronica Boyce",
-      "Krista Byers-Heinlein",
-      "Jasmin Dönicke",
-      "Brian P. Flaherty",
-      "Samuel H. Forbes",
-      "Michael C. Frank",
-      "Alessandra Geraci",
-      "J. Kiley Hamlin",
-      "Mikael Heimann",
-      "Nazim Keven",
-      "Jill Lany",
-      "Jaroslaw R. Lelonkiewicz",
-      "Tiffany S. Leung",
-      "Sarah Maylott",
-      "David Moreau",
-      "Ermanno Quadrelli",
-      "Peter J. Reschke",
-      "Chiara Turati",
-      "Stefano Vincini",
-      "Staci M. Weiss",
-      "Tania S. Zamuner",
-      "Guangyu Zeng"
+      {
+        "name": "Andrew N. Meltzoff",
+        "orcid": "https://orcid.org/0000-0001-8683-0547",
+        "institution": [
+          "recRSHA7015DGx68g"
+        ]
+      },
+      {
+        "name": "Sumeet Farwaha",
+        "orcid": null,
+        "institution": [
+          "recWqTHWrOJZAruO3"
+        ]
+      },
+      {
+        "name": "Virginia Slaughter",
+        "orcid": "https://orcid.org/0000-0001-9315-1497",
+        "institution": [
+          "recWqTHWrOJZAruO3"
+        ]
+      },
+      {
+        "name": "Elizabeth A. Simpson",
+        "orcid": "https://orcid.org/0000-0003-2715-2533",
+        "institution": [
+          "recsJwGRCjX3ka12d"
+        ]
+      },
+      {
+        "name": "Rechele Brooks",
+        "orcid": "https://orcid.org/0000-0002-3798-3448",
+        "institution": [
+          "recRSHA7015DGx68g"
+        ]
+      },
+      {
+        "name": "Mark Nielsen",
+        "orcid": "https://orcid.org/0000-0002-0402-8372",
+        "institution": [
+          "recWqTHWrOJZAruO3"
+        ]
+      },
+      {
+        "name": "Heidi A. Baumgartner",
+        "orcid": "https://orcid.org/0000-0001-5032-5995",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Laurie Bayet",
+        "orcid": null,
+        "institution": [
+          "recYrJggSvdoArQlX"
+        ]
+      },
+      {
+        "name": "Silvia Benavides-Varela",
+        "orcid": "https://orcid.org/0000-0003-4818-7372",
+        "institution": [
+          "recXK4Lpx5saRiPu3"
+        ]
+      },
+      {
+        "name": "Veronica Boyce",
+        "orcid": "https://orcid.org/0000-0002-8890-2775",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Krista Byers-Heinlein",
+        "orcid": "https://orcid.org/0000-0002-7040-2510",
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      },
+      {
+        "name": "Jasmin Dönicke",
+        "orcid": "https://orcid.org/0009-0006-0721-0790",
+        "institution": [
+          "recRjcq4Xzp0aZNz0"
+        ]
+      },
+      {
+        "name": "Brian P. Flaherty",
+        "orcid": null,
+        "institution": [
+          "recRSHA7015DGx68g"
+        ]
+      },
+      {
+        "name": "Samuel H. Forbes",
+        "orcid": "https://orcid.org/0000-0003-1022-4676",
+        "institution": [
+          "recBFTKe9hGiQxJq1"
+        ]
+      },
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Alessandra Geraci",
+        "orcid": "https://orcid.org/0000-0003-1375-9190",
+        "institution": [
+          "recnFe28dBm9yMrta"
+        ]
+      },
+      {
+        "name": "J. Kiley Hamlin",
+        "orcid": "https://orcid.org/0000-0001-6173-9878",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Mikael Heimann",
+        "orcid": null,
+        "institution": [
+          "recAUd4vhNo7xDcY9"
+        ]
+      },
+      {
+        "name": "Nazim Keven",
+        "orcid": "https://orcid.org/0000-0001-5368-8265",
+        "institution": [
+          "recv0FLL7Zn09K6c9"
+        ]
+      },
+      {
+        "name": "Jill Lany",
+        "orcid": "https://orcid.org/0000-0001-8077-6244",
+        "institution": [
+          "recS9q79twEKQbsIm"
+        ]
+      },
+      {
+        "name": "Jaroslaw R. Lelonkiewicz",
+        "orcid": "https://orcid.org/0000-0002-3802-3393",
+        "institution": [
+          "rec0QOHbIXhxN670T"
+        ]
+      },
+      {
+        "name": "Tiffany S. Leung",
+        "orcid": "https://orcid.org/0000-0001-6719-4370",
+        "institution": [
+          "recsJwGRCjX3ka12d"
+        ]
+      },
+      {
+        "name": "Sarah Maylott",
+        "orcid": null,
+        "institution": [
+          "recy9gHUZhuVdIPkr"
+        ]
+      },
+      {
+        "name": "David Moreau",
+        "orcid": "https://orcid.org/0000-0002-1957-1941",
+        "institution": [
+          "recY9LkifMFGIvlnm"
+        ]
+      },
+      {
+        "name": "Ermanno Quadrelli",
+        "orcid": "https://orcid.org/0000-0002-6834-0912",
+        "institution": [
+          "recYFO6UaqSiHnG53"
+        ]
+      },
+      {
+        "name": "Peter J. Reschke",
+        "orcid": "https://orcid.org/0000-0002-1711-8385",
+        "institution": [
+          "recGyY79W2I5q9OZf"
+        ]
+      },
+      {
+        "name": "Chiara Turati",
+        "orcid": null,
+        "institution": [
+          "recYFO6UaqSiHnG53"
+        ]
+      },
+      {
+        "name": "Stefano Vincini",
+        "orcid": "https://orcid.org/0000-0001-8240-4751",
+        "institution": [
+          "recKOoFmj0fekulAZ"
+        ]
+      },
+      {
+        "name": "Staci M. Weiss",
+        "orcid": null,
+        "institution": [
+          "recfVk4GHj50e4XrZ"
+        ]
+      },
+      {
+        "name": "Tania S. Zamuner",
+        "orcid": "https://orcid.org/0000-0002-6576-1818",
+        "institution": [
+          "recSCaaZD3ughVU7D"
+        ]
+      },
+      {
+        "name": "Guangyu Zeng",
+        "orcid": null,
+        "institution": [
+          "recif7p2sgU1KDdpl"
+        ]
+      }
     ],
     "authorsCondensed": "Meltzoff, A. N., Farwaha, S., Slaughter, V., Simpson, E. A., Brooks, R., Nielsen, M., Baumgartner, H. A., Bayet, L., Benavides-Varela, S., Boyce, V., Byers-Heinlein, K., Dönicke, J., Flaherty, B. P., Forbes, S. H., Frank, M. C., Geraci, A., Hamlin, K., Heimann, M., Keven, N., … Zeng, G. ",
     "year": "2026",
@@ -624,21 +2460,111 @@
     ],
     "title": "Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis",
     "authors": [
-      "Martin Zettersten",
-      "Christopher M. M. Cox",
-      "Christina Bergmann",
-      "Angeline Sin Mei Tsui",
-      "Melanie Soderstrom",
-      "Julien Mayor",
-      "Rebecca A. Lundwall",
-      "Molly Lewis",
-      "Jessica E. Kosie",
-      "Natalia Kartushina",
-      "Riccardo Fusaroli",
-      "Michael C. Frank",
-      "Krista Byers-Heinlein",
-      "Alexis K. Black",
-      "Maya B. Mathur"
+      {
+        "name": "Martin Zettersten",
+        "orcid": "https://orcid.org/0000-0002-0444-7059",
+        "institution": [
+          "recYIF1ISrnh5P6ZD"
+        ]
+      },
+      {
+        "name": "Christopher M. M. Cox",
+        "orcid": "https://orcid.org/0000-0003-4076-581X",
+        "institution": [
+          "recc9nIOVdiCBL5gY"
+        ]
+      },
+      {
+        "name": "Christina Bergmann",
+        "orcid": "https://orcid.org/0000-0003-2656-9070",
+        "institution": [
+          "rect03ueGUhsXmZtu"
+        ]
+      },
+      {
+        "name": "Angeline Sin Mei Tsui",
+        "orcid": "https://orcid.org/0000-0003-0333-7234",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      },
+      {
+        "name": "Julien Mayor",
+        "orcid": "https://orcid.org/0000-0001-9827-5421",
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "Rebecca A. Lundwall",
+        "orcid": "https://orcid.org/0000-0003-4036-9091",
+        "institution": [
+          "recGyY79W2I5q9OZf"
+        ]
+      },
+      {
+        "name": "Molly Lewis",
+        "orcid": null,
+        "institution": [
+          "recycZyv4gNJVKn7E"
+        ]
+      },
+      {
+        "name": "Jessica E. Kosie",
+        "orcid": "https://orcid.org/0000-0002-2390-0963",
+        "institution": [
+          "recJ8Hkx51RfYBCJI"
+        ]
+      },
+      {
+        "name": "Natalia Kartushina",
+        "orcid": "https://orcid.org/0000-0003-4650-5832",
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "Riccardo Fusaroli",
+        "orcid": "https://orcid.org/0000-0003-4775-5219",
+        "institution": [
+          "recc9nIOVdiCBL5gY"
+        ]
+      },
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Krista Byers-Heinlein",
+        "orcid": "https://orcid.org/0000-0002-7040-2510",
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      },
+      {
+        "name": "Alexis K. Black",
+        "orcid": "https://orcid.org/0000-0001-6764-4319",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Maya B. Mathur",
+        "orcid": "https://orcid.org/0000-0001-6698-2607",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      }
     ],
     "authorsCondensed": "Zettersten, M.*, Cox, C. M. M.*, Bergmann, C.*, Tsui, A. S. M., Soderstrom, M., Mayor, J., Lundwall, R. A., Lewis, M., Kosie, J. E., Kartushina, N., Fusaroli, R., Frank, M. C., Byers-Heinlein, K., Black, A. K., & Mathur, M. B.",
     "year": "2024",
@@ -663,89 +2589,587 @@
     ],
     "title": "ManyBabies 3: A Multi-Lab Study of Infant Algebraic Rule Learning",
     "authors": [
-      "Ingmar Visser",
-      "Andreea Geambașu",
-      "George Kachergis",
-      "Cátia M. Oliveira",
-      "Joscelin Rocha-Hidalgo",
-      "Martin Zettersten",
-      "Teruni Ahamat",
-      "Nicolás Alessandroni",
-      "Nadja Althaus",
-      "Sudha Arunachalam",
-      "Suzanne Aussems",
-      "Emma L. Axelsson",
-      "Zeynep Aydin",
-      "Heidi A. Baumgartner",
-      "Christina Bergmann",
-      "Roberta Bettoni",
-      "Alexis K. Black",
-      "Hermann Bulf",
-      "Krista Byers-Heinlein",
-      "Chiara Capparini",
-      "Lily Carroll",
-      "Alexandra Carstensen",
-      "Rebekka Cebulla",
-      "Xiaoyun Chen",
-      "Kateřina Chládková",
-      "Benedetta Colavolpe",
-      "Rodica R. Constantine",
-      "Elísabet Eir Cortes",
-      "Frances L. Doyle",
-      "Anna Exner",
-      "Samuel H. Forbes",
-      "Laura Franchin",
-      "Alessandra Geraci",
-      "Judit Gervain",
-      "Nayeli Gonzalez-Gomez",
-      "Silje Hagelund",
-      "Erin E. Hannon",
-      "Naomi Havron",
-      "Sagi Jaffe-Dax",
-      "Scott P. Johnson",
-      "Wiktoria Jędryczka",
-      "Natalia Kartushina",
-      "Melissa Kline Struhl",
-      "Ada Koleini",
-      "Abhinav Kona",
-      "Shannon P. Kong",
-      "Jessica E. Kosie",
-      "Monika Kučerová",
-      "Katerina Cook",
-      "Jared W. Leslie",
-      "Casey Lew-Williams",
-      "Scarlet Wan Yee Li",
-      "Romi Livne",
-      "Ellen Marklund",
-      "Julien Mayor",
-      "Michal Misiak",
-      "David Moreau",
-      "Jutta L. Mueller",
-      "Amber Muhinyi",
-      "Alyssa A. Quinn",
-      "Maartje E. J. Raijmakers",
-      "Audun Rosslund",
-      "Iris-Corinna Schwarz",
-      "Jeanne L. Shinskey",
-      "Mohinish Shukla",
-      "Sylvain Sirois",
-      "Piotr Sorokowski",
-      "Basma Sowan",
-      "TIbor Tauzin",
-      "Angeline Sin Mei Tsui",
-      "Martina Turconi",
-      "Rebeca C. Urizar",
-      "Lisa Wagner",
-      "Stephanie Wermelinger",
-      "Gert Westermann",
-      "Ivonne Weyers",
-      "Luiza S.B. Yuan",
-      "Martina S. Zaharieva",
-      "Tania S. Zamuner",
-      "Barbara Zapiór",
-      "Simone Zasso",
-      "J. Grace Zhou",
-      "Melanie Soderstrom"
+      {
+        "name": "Ingmar Visser",
+        "orcid": "https://orcid.org/0000-0003-3855-2778",
+        "institution": [
+          "recVS4PgwpFkIfuAB"
+        ]
+      },
+      {
+        "name": "Andreea Geambașu",
+        "orcid": "https://orcid.org/0000-0002-5883-9875",
+        "institution": [
+          "recAHFDb7jGqRSB63"
+        ]
+      },
+      {
+        "name": "George Kachergis",
+        "orcid": "https://orcid.org/0000-0003-4153-4167",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Cátia M. Oliveira",
+        "orcid": "https://orcid.org/0000-0002-2976-3330",
+        "institution": [
+          "recEyEpdqRZZyfbLg"
+        ]
+      },
+      {
+        "name": "Joscelin Rocha-Hidalgo",
+        "orcid": "https://orcid.org/0000-0003-3572-5848",
+        "institution": [
+          "recLfqWgXOCOb21Ts"
+        ]
+      },
+      {
+        "name": "Martin Zettersten",
+        "orcid": "https://orcid.org/0000-0002-0444-7059",
+        "institution": [
+          "recYIF1ISrnh5P6ZD"
+        ]
+      },
+      {
+        "name": "Teruni Ahamat",
+        "orcid": "https://orcid.org/0009-0009-3844-2537",
+        "institution": [
+          "reczfRALsXPTdN39m"
+        ]
+      },
+      {
+        "name": "Nicolás Alessandroni",
+        "orcid": "https://orcid.org/0000-0002-6595-0969",
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      },
+      {
+        "name": "Nadja Althaus",
+        "orcid": "https://orcid.org/0000-0003-4888-1508",
+        "institution": [
+          "recYaf6EjDZIYV9td"
+        ]
+      },
+      {
+        "name": "Sudha Arunachalam",
+        "orcid": "https://orcid.org/0000-0003-4394-3626",
+        "institution": [
+          "recTjNRaDFx93HOgJ"
+        ]
+      },
+      {
+        "name": "Suzanne Aussems",
+        "orcid": "https://orcid.org/0000-0002-0781-5849",
+        "institution": [
+          "reczfRALsXPTdN39m"
+        ]
+      },
+      {
+        "name": "Emma L. Axelsson",
+        "orcid": "https://orcid.org/0000-0002-6038-6254",
+        "institution": [
+          "recUyBEOqmhf8IuOt"
+        ]
+      },
+      {
+        "name": "Zeynep Aydin",
+        "orcid": "https://orcid.org/0009-0007-8419-6109",
+        "institution": [
+          "recXK4Lpx5saRiPu3"
+        ]
+      },
+      {
+        "name": "Heidi A. Baumgartner",
+        "orcid": "https://orcid.org/0000-0001-5032-5995",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Christina Bergmann",
+        "orcid": "https://orcid.org/0000-0003-2656-9070",
+        "institution": [
+          "rect03ueGUhsXmZtu"
+        ]
+      },
+      {
+        "name": "Roberta Bettoni",
+        "orcid": "https://orcid.org/0000-0001-7866-565X",
+        "institution": [
+          "recYFO6UaqSiHnG53"
+        ]
+      },
+      {
+        "name": "Alexis K. Black",
+        "orcid": "https://orcid.org/0000-0001-6764-4319",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Hermann Bulf",
+        "orcid": "https://orcid.org/0000-0003-4121-1341",
+        "institution": [
+          "recYFO6UaqSiHnG53"
+        ]
+      },
+      {
+        "name": "Krista Byers-Heinlein",
+        "orcid": "https://orcid.org/0000-0002-7040-2510",
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      },
+      {
+        "name": "Chiara Capparini",
+        "orcid": "https://orcid.org/0000-0003-3551-9446",
+        "institution": [
+          "recW6OBbJRzOvBBQx"
+        ]
+      },
+      {
+        "name": "Lily Carroll",
+        "orcid": "https://orcid.org/0009-0008-9230-7996",
+        "institution": [
+          "recTjNRaDFx93HOgJ"
+        ]
+      },
+      {
+        "name": "Alexandra Carstensen",
+        "orcid": "https://orcid.org/0000-0003-0582-9152",
+        "institution": [
+          "recJ8Hkx51RfYBCJI"
+        ]
+      },
+      {
+        "name": "Rebekka Cebulla",
+        "orcid": "https://orcid.org/0009-0000-9434-4936",
+        "institution": [
+          "recVS4PgwpFkIfuAB"
+        ]
+      },
+      {
+        "name": "Xiaoyun Chen",
+        "orcid": "https://orcid.org/0000-0002-9527-4965",
+        "institution": [
+          "recS9q79twEKQbsIm"
+        ]
+      },
+      {
+        "name": "Kateřina Chládková",
+        "orcid": "https://orcid.org/0000-0003-2009-1897",
+        "institution": [
+          "recdC1Y2KWmbBtNze"
+        ]
+      },
+      {
+        "name": "Benedetta Colavolpe",
+        "orcid": "https://orcid.org/0009-0001-8670-4732",
+        "institution": [
+          "recXK4Lpx5saRiPu3"
+        ]
+      },
+      {
+        "name": "Rodica R. Constantine",
+        "orcid": "https://orcid.org/0000-0002-8128-8469",
+        "institution": [
+          "recUZv6FTLj1uO1dD"
+        ]
+      },
+      {
+        "name": "Elísabet Eir Cortes",
+        "orcid": "https://orcid.org/0000-0003-3945-8759",
+        "institution": [
+          "recyPt4IXHx4BW1fE"
+        ]
+      },
+      {
+        "name": "Frances L. Doyle",
+        "orcid": "https://orcid.org/0000-0001-6621-5280",
+        "institution": [
+          "recwdbFPKp1Uhf7Y7"
+        ]
+      },
+      {
+        "name": "Anna Exner",
+        "orcid": "https://orcid.org/0000-0002-0741-9045",
+        "institution": [
+          "rectaY5xpIc1wxYUx"
+        ]
+      },
+      {
+        "name": "Samuel H. Forbes",
+        "orcid": "https://orcid.org/0000-0003-1022-4676",
+        "institution": [
+          "recBFTKe9hGiQxJq1"
+        ]
+      },
+      {
+        "name": "Laura Franchin",
+        "orcid": "https://orcid.org/0000-0001-8777-8752",
+        "institution": [
+          "recCCsTFWqo6iNi2p"
+        ]
+      },
+      {
+        "name": "Alessandra Geraci",
+        "orcid": "https://orcid.org/0000-0003-1375-9190",
+        "institution": [
+          "recnFe28dBm9yMrta"
+        ]
+      },
+      {
+        "name": "Judit Gervain",
+        "orcid": "https://orcid.org/0000-0002-2125-6369",
+        "institution": [
+          "recXK4Lpx5saRiPu3"
+        ]
+      },
+      {
+        "name": "Nayeli Gonzalez-Gomez",
+        "orcid": "https://orcid.org/0000-0003-2012-8290",
+        "institution": [
+          "recCrx5L9O4mHYOIB"
+        ]
+      },
+      {
+        "name": "Silje Hagelund",
+        "orcid": "https://orcid.org/0009-0007-1293-7844",
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "Erin E. Hannon",
+        "orcid": "https://orcid.org/0000-0002-3482-5954",
+        "institution": [
+          "recUZv6FTLj1uO1dD"
+        ]
+      },
+      {
+        "name": "Naomi Havron",
+        "orcid": "https://orcid.org/0000-0001-6429-1546",
+        "institution": [
+          "reclqwNVytPWPOHis"
+        ]
+      },
+      {
+        "name": "Sagi Jaffe-Dax",
+        "orcid": "https://orcid.org/0000-0002-8759-6980",
+        "institution": [
+          "recsI3SDQD0Rgviai"
+        ]
+      },
+      {
+        "name": "Scott P. Johnson",
+        "orcid": "https://orcid.org/0000-0003-2970-184X",
+        "institution": [
+          "recKPhQIdxCmkOodQ"
+        ]
+      },
+      {
+        "name": "Wiktoria Jędryczka",
+        "orcid": "https://orcid.org/0000-0002-6901-3251",
+        "institution": [
+          "recyCCWSTAbJPbSk3"
+        ]
+      },
+      {
+        "name": "Natalia Kartushina",
+        "orcid": "https://orcid.org/0000-0003-4650-5832",
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "Melissa Kline Struhl",
+        "orcid": "https://orcid.org/0000-0003-2217-9331",
+        "institution": [
+          "rect0KvfMCxkd2bAu"
+        ]
+      },
+      {
+        "name": "Ada Koleini",
+        "orcid": "https://orcid.org/0000-0002-1609-254X",
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "Abhinav Kona",
+        "orcid": "https://orcid.org/0009-0002-6579-4908",
+        "institution": [
+          "rectv32dx7y7OCNiD"
+        ]
+      },
+      {
+        "name": "Shannon P. Kong",
+        "orcid": "https://orcid.org/0000-0002-4487-3757",
+        "institution": [
+          "recCrx5L9O4mHYOIB"
+        ]
+      },
+      {
+        "name": "Jessica E. Kosie",
+        "orcid": "https://orcid.org/0000-0002-2390-0963",
+        "institution": [
+          "recJ8Hkx51RfYBCJI"
+        ]
+      },
+      {
+        "name": "Monika Kučerová",
+        "orcid": "https://orcid.org/0009-0003-8551-5985",
+        "institution": [
+          "recZOGxcoNliiufFY"
+        ]
+      },
+      {
+        "name": "Katerina Cook",
+        "orcid": "https://orcid.org/0009-0007-6120-3927",
+        "institution": [
+          "recdC1Y2KWmbBtNze"
+        ]
+      },
+      {
+        "name": "Jared W. Leslie",
+        "orcid": "https://orcid.org/0009-0002-8951-3744",
+        "institution": [
+          "recUZv6FTLj1uO1dD"
+        ]
+      },
+      {
+        "name": "Casey Lew-Williams",
+        "orcid": "https://orcid.org/0000-0002-8781-4458",
+        "institution": [
+          "recYfz0y5hrmMoG4P"
+        ]
+      },
+      {
+        "name": "Scarlet Wan Yee Li",
+        "orcid": "https://orcid.org/0009-0000-4510-1612",
+        "institution": [
+          "recSCaaZD3ughVU7D"
+        ]
+      },
+      {
+        "name": "Romi Livne",
+        "orcid": "https://orcid.org/0009-0000-5507-9914",
+        "institution": [
+          "recsI3SDQD0Rgviai"
+        ]
+      },
+      {
+        "name": "Ellen Marklund",
+        "orcid": "https://orcid.org/0000-0001-7658-9307",
+        "institution": [
+          "recyPt4IXHx4BW1fE"
+        ]
+      },
+      {
+        "name": "Julien Mayor",
+        "orcid": "https://orcid.org/0000-0001-9827-5421",
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "Michal Misiak",
+        "orcid": "https://orcid.org/0000-0002-6892-3325",
+        "institution": [
+          "recyCCWSTAbJPbSk3"
+        ]
+      },
+      {
+        "name": "David Moreau",
+        "orcid": "https://orcid.org/0000-0002-1957-1941",
+        "institution": [
+          "recY9LkifMFGIvlnm"
+        ]
+      },
+      {
+        "name": "Jutta L. Mueller",
+        "orcid": "https://orcid.org/0000-0002-5463-9585",
+        "institution": [
+          "rec1WyWDZnRtTXnja"
+        ]
+      },
+      {
+        "name": "Amber Muhinyi",
+        "orcid": "https://orcid.org/0009-0003-4789-2245",
+        "institution": [
+          "recHo5aYLxV29yqJK"
+        ]
+      },
+      {
+        "name": "Alyssa A. Quinn",
+        "orcid": "https://orcid.org/0009-0008-8359-4719 ",
+        "institution": [
+          "recUyBEOqmhf8IuOt"
+        ]
+      },
+      {
+        "name": "Maartje E. J. Raijmakers",
+        "orcid": "https://orcid.org/0000-0003-1843-6462",
+        "institution": [
+          "recVS4PgwpFkIfuAB"
+        ]
+      },
+      {
+        "name": "Audun Rosslund",
+        "orcid": "https://orcid.org/0000-0002-2646-8053",
+        "institution": [
+          "recxqm1TnS8NLfBLf"
+        ]
+      },
+      {
+        "name": "Iris-Corinna Schwarz",
+        "orcid": "https://orcid.org/0000-0002-8036-516X",
+        "institution": [
+          "recyPt4IXHx4BW1fE"
+        ]
+      },
+      {
+        "name": "Jeanne L. Shinskey",
+        "orcid": "https://orcid.org/0000-0002-7380-4590 ",
+        "institution": [
+          "recHo5aYLxV29yqJK"
+        ]
+      },
+      {
+        "name": "Mohinish Shukla",
+        "orcid": "https://orcid.org/0000-0002-2806-0174",
+        "institution": [
+          "recVS4PgwpFkIfuAB"
+        ]
+      },
+      {
+        "name": "Sylvain Sirois",
+        "orcid": "https://orcid.org/0000-0002-2004-4583",
+        "institution": [
+          "rec62n5ry8HGQz8bj"
+        ]
+      },
+      {
+        "name": "Piotr Sorokowski",
+        "orcid": "https://orcid.org/0000-0001-9225-9965",
+        "institution": [
+          "recyCCWSTAbJPbSk3"
+        ]
+      },
+      {
+        "name": "Basma Sowan",
+        "orcid": "https://orcid.org/0009-0000-7124-3542",
+        "institution": [
+          "reclqwNVytPWPOHis"
+        ]
+      },
+      {
+        "name": "TIbor Tauzin",
+        "orcid": "https://orcid.org/0009-0005-3442-0374",
+        "institution": [
+          "rec1WyWDZnRtTXnja"
+        ]
+      },
+      {
+        "name": "Angeline Sin Mei Tsui",
+        "orcid": "https://orcid.org/0000-0003-0333-7234",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Martina Turconi",
+        "orcid": "https://orcid.org/0000-0001-7132-9207",
+        "institution": [
+          "recXK4Lpx5saRiPu3"
+        ]
+      },
+      {
+        "name": "Rebeca C. Urizar",
+        "orcid": "https://orcid.org/0009-0003-1952-4293",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      },
+      {
+        "name": "Lisa Wagner",
+        "orcid": "https://orcid.org/0000-0002-1925-2676",
+        "institution": [
+          "recOiMEenENsAG4LC"
+        ]
+      },
+      {
+        "name": "Stephanie Wermelinger",
+        "orcid": "https://orcid.org/0000-0002-6500-9108",
+        "institution": [
+          "recOiMEenENsAG4LC"
+        ]
+      },
+      {
+        "name": "Gert Westermann",
+        "orcid": "https://orcid.org/0000-0003-2803-1872",
+        "institution": [
+          "recS9q79twEKQbsIm"
+        ]
+      },
+      {
+        "name": "Ivonne Weyers",
+        "orcid": "https://orcid.org/0000-0003-3089-8934",
+        "institution": [
+          "rec1WyWDZnRtTXnja"
+        ]
+      },
+      {
+        "name": "Luiza S.B. Yuan",
+        "orcid": "https://orcid.org/0009-0008-7653-9412",
+        "institution": [
+          "recVS4PgwpFkIfuAB"
+        ]
+      },
+      {
+        "name": "Martina S. Zaharieva",
+        "orcid": "https://orcid.org/0000-0003-1795-1868",
+        "institution": [
+          "recVS4PgwpFkIfuAB"
+        ]
+      },
+      {
+        "name": "Tania S. Zamuner",
+        "orcid": "https://orcid.org/0000-0002-6576-1818",
+        "institution": [
+          "recSCaaZD3ughVU7D"
+        ]
+      },
+      {
+        "name": "Barbara Zapiór",
+        "orcid": "https://orcid.org/0009-0007-0654-8084",
+        "institution": [
+          "recYaf6EjDZIYV9td"
+        ]
+      },
+      {
+        "name": "Simone Zasso",
+        "orcid": "https://orcid.org/0009-0008-8508-0965",
+        "institution": [
+          "recCCsTFWqo6iNi2p"
+        ]
+      },
+      {
+        "name": "J. Grace Zhou",
+        "orcid": "https://orcid.org/0000-0003-4201-0699",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      },
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      }
     ],
     "authorsCondensed": "Visser, I., Geambașu, A., Kachergis, G., Oliveira, C. M., Rocha-Hidalgo, J., Zettersten, M., Ahamat, T. M., Alessandroni, N., Althaus, N., Arunachalam, S., Aussems, S., Axelsson, E., Aydin, Z., Baumgartner, H. A., Bergmann, C., Bettoni, R., Black, A., Bulf, H., Byers-Heinlein, K., … Levelt, C.",
     "year": "2026",
@@ -793,39 +3217,237 @@
     ],
     "title": "Validation of an open source, remote web-based eye-tracking method (WebGazer) for research in early childhood",
     "authors": [
-      "Adrian Steffan",
-      "Lucie Zimmer",
-      "Natalia Arias-Trejo",
-      "Manuel Bohn",
-      "Rodrigo Dal Ben",
-      "Marco A. Flores-Coronado",
-      "Laura Franchin",
-      "Isa Blomberg",
-      "Charlotte Grosse Wiesmann",
-      "J. Kiley Hamlin",
-      "Naomi Havron",
-      "Jessica F. Hay",
-      "Tone K. Hermansen",
-      "Krisztina V. Jakobsen",
-      "Steven Kalinke",
-      "Eon-Suk Ko",
-      "Louisa Kulke",
-      "Julien Mayor",
-      "Marek Meristo",
-      "David Moreau",
-      "Seongmin Mun",
-      "Julia C. Prein",
-      "Hannes Rakoczy",
-      "Katrin Rothmaler",
-      "Daniela Santos Oliveira ",
-      "Elizabeth A. Simpson",
-      "Sylvain Sirois",
-      "Eleanor S. Smith",
-      "Karin Strid",
-      "Anna-Lena Tebbe",
-      "Maleen Thiele",
-      "Francis L. Yuen",
-      "Tobias Schuwerk"
+      {
+        "name": "Adrian Steffan",
+        "orcid": "https://orcid.org/0000-0001-8380-6488",
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      },
+      {
+        "name": "Lucie Zimmer",
+        "orcid": "https://orcid.org/0000-0002-5766-2991",
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      },
+      {
+        "name": "Natalia Arias-Trejo",
+        "orcid": "https://orcid.org/0000-0002-4169-1616",
+        "institution": [
+          "recJtWegBEUInC4lu"
+        ]
+      },
+      {
+        "name": "Manuel Bohn",
+        "orcid": "https://orcid.org/0000-0001-6006-1348",
+        "institution": [
+          "rec4G4e46Vjhvig0R"
+        ]
+      },
+      {
+        "name": "Rodrigo Dal Ben",
+        "orcid": "https://orcid.org/0000-0003-2185-8762",
+        "institution": [
+          "recGtAQgrDfJsNpyc"
+        ]
+      },
+      {
+        "name": "Marco A. Flores-Coronado",
+        "orcid": "https://orcid.org/0000-0003-0780-7934",
+        "institution": [
+          "recJtWegBEUInC4lu"
+        ]
+      },
+      {
+        "name": "Laura Franchin",
+        "orcid": "https://orcid.org/0000-0001-8777-8752",
+        "institution": [
+          "recCCsTFWqo6iNi2p"
+        ]
+      },
+      {
+        "name": "Isa Blomberg",
+        "orcid": "https://orcid.org/0000-0002-9524-335X",
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      },
+      {
+        "name": "Charlotte Grosse Wiesmann",
+        "orcid": "https://orcid.org/0000-0003-2577-6174",
+        "institution": [
+          "recaFVPFnN4xpphsy"
+        ]
+      },
+      {
+        "name": "J. Kiley Hamlin",
+        "orcid": "https://orcid.org/0000-0001-6173-9878",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Naomi Havron",
+        "orcid": "https://orcid.org/0000-0001-6429-1546",
+        "institution": [
+          "reclqwNVytPWPOHis"
+        ]
+      },
+      {
+        "name": "Jessica F. Hay",
+        "orcid": "https://orcid.org/0000-0002-0197-6713",
+        "institution": [
+          "recCHo2fI9pe1ghHv"
+        ]
+      },
+      {
+        "name": "Tone K. Hermansen",
+        "orcid": "https://orcid.org/0000-0002-0952-8819",
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "Krisztina V. Jakobsen",
+        "orcid": "https://orcid.org/0000-0002-5486-4651",
+        "institution": [
+          "rec4mavdUP50JDBVa"
+        ]
+      },
+      {
+        "name": "Steven Kalinke",
+        "orcid": "https://orcid.org/0000-0002-3795-6829",
+        "institution": [
+          "recBgZBypbf81OC8x"
+        ]
+      },
+      {
+        "name": "Eon-Suk Ko",
+        "orcid": "https://orcid.org/0000-0003-3963-4492",
+        "institution": [
+          "rec2TLynKlPxFlpxX"
+        ]
+      },
+      {
+        "name": "Louisa Kulke",
+        "orcid": "https://orcid.org/0000-0002-9696-8619",
+        "institution": [
+          "rec979u6tR7JWTYks"
+        ]
+      },
+      {
+        "name": "Julien Mayor",
+        "orcid": "https://orcid.org/0000-0001-9827-5421",
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "Marek Meristo",
+        "orcid": "https://orcid.org/0000-0001-6792-3123",
+        "institution": [
+          "recO15bPBdXwyjGb4"
+        ]
+      },
+      {
+        "name": "David Moreau",
+        "orcid": "https://orcid.org/0000-0002-1957-1941",
+        "institution": [
+          "recY9LkifMFGIvlnm"
+        ]
+      },
+      {
+        "name": "Seongmin Mun",
+        "orcid": "https://orcid.org/0000-0002-7289-5320",
+        "institution": [
+          "rec2TLynKlPxFlpxX"
+        ]
+      },
+      {
+        "name": "Julia C. Prein",
+        "orcid": "https://orcid.org/0000-0002-3154-6167",
+        "institution": [
+          "rec4G4e46Vjhvig0R"
+        ]
+      },
+      {
+        "name": "Hannes Rakoczy",
+        "orcid": "https://orcid.org/0000-0003-3296-0551",
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      },
+      {
+        "name": "Katrin Rothmaler",
+        "orcid": "https://orcid.org/0000-0001-8588-7664",
+        "institution": [
+          "recChZF3wHSjc47n8"
+        ]
+      },
+      {
+        "name": "Daniela Santos Oliveira ",
+        "orcid": "https://orcid.org/0000-0002-1061-0801",
+        "institution": [
+          "recCHo2fI9pe1ghHv"
+        ]
+      },
+      {
+        "name": "Elizabeth A. Simpson",
+        "orcid": "https://orcid.org/0000-0003-2715-2533",
+        "institution": [
+          "recsJwGRCjX3ka12d"
+        ]
+      },
+      {
+        "name": "Sylvain Sirois",
+        "orcid": "https://orcid.org/0000-0002-2004-4583",
+        "institution": [
+          "rec62n5ry8HGQz8bj"
+        ]
+      },
+      {
+        "name": "Eleanor S. Smith",
+        "orcid": "https://orcid.org/0000-0002-1196-3529",
+        "institution": [
+          "recYST0d4CSFQSQJg"
+        ]
+      },
+      {
+        "name": "Karin Strid",
+        "orcid": "https://orcid.org/0000-0002-1748-9012",
+        "institution": [
+          "recO15bPBdXwyjGb4"
+        ]
+      },
+      {
+        "name": "Anna-Lena Tebbe",
+        "orcid": "https://orcid.org/0000-0003-4933-2797",
+        "institution": [
+          "rectJNpalak4Oaqzx"
+        ]
+      },
+      {
+        "name": "Maleen Thiele",
+        "orcid": "https://orcid.org/0000-0002-1695-1850",
+        "institution": [
+          "recBgZBypbf81OC8x"
+        ]
+      },
+      {
+        "name": "Francis L. Yuen",
+        "orcid": "https://orcid.org/0000-0001-7570-123X",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Tobias Schuwerk",
+        "orcid": "https://orcid.org/0000-0003-3720-7120",
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      }
     ],
     "authorsCondensed": "Steffan, A., Zimmer, L., Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmann, C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E.-S., Kulke, L., Mayor, J., Meristo, M., … Schuwerk, T.",
     "year": "2024",
@@ -850,14 +3472,62 @@
     ],
     "title": "The relationship between rule learning in infancy (5-12 months) and language skills at 24-30 months",
     "authors": [
-      "Anna Exner",
-      "Roberta Bettoni",
-      "Chiara Cantiani",
-      "Ada Koleini",
-      "Cátia M. Oliveira",
-      "Abbie Thompson",
-      "Ingmar Visser",
-      "Martin Zettersten"
+      {
+        "name": "Anna Exner",
+        "orcid": "https://orcid.org/0000-0002-0741-9045",
+        "institution": [
+          "rectaY5xpIc1wxYUx"
+        ]
+      },
+      {
+        "name": "Roberta Bettoni",
+        "orcid": "https://orcid.org/0000-0001-7866-565X",
+        "institution": [
+          "recYFO6UaqSiHnG53"
+        ]
+      },
+      {
+        "name": "Chiara Cantiani",
+        "orcid": "https://orcid.org/0000-0001-6482-6627",
+        "institution": [
+          "reczqtX1ZZdOgsYDz"
+        ]
+      },
+      {
+        "name": "Ada Koleini",
+        "orcid": "https://orcid.org/0000-0002-1609-254X",
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "Cátia M. Oliveira",
+        "orcid": "https://orcid.org/0000-0002-2976-3330",
+        "institution": [
+          "recEyEpdqRZZyfbLg"
+        ]
+      },
+      {
+        "name": "Abbie Thompson",
+        "orcid": "https://orcid.org/0000-0002-5087-502X",
+        "institution": [
+          "recc6TCi08oz8vYoQ"
+        ]
+      },
+      {
+        "name": "Ingmar Visser",
+        "orcid": "https://orcid.org/0000-0003-3855-2778",
+        "institution": [
+          "recVS4PgwpFkIfuAB"
+        ]
+      },
+      {
+        "name": "Martin Zettersten",
+        "orcid": "https://orcid.org/0000-0002-0444-7059",
+        "institution": [
+          "recYIF1ISrnh5P6ZD"
+        ]
+      }
     ],
     "authorsCondensed": "Exner, A., Bettoni, R., Cantiani, C., Koleini, A., Oliveira, C., Thompson, A., Visser, I., & Zettersten, M.",
     "year": "2024",
@@ -882,7 +3552,13 @@
     ],
     "title": "The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes.",
     "authors": [
-      "Melissa Kline Struhl"
+      {
+        "name": "Melissa Kline Struhl",
+        "orcid": "https://orcid.org/0000-0003-2217-9331",
+        "institution": [
+          "rect0KvfMCxkd2bAu"
+        ]
+      }
     ],
     "authorsCondensed": "Kline Struhl, M.",
     "year": "2018",
@@ -907,23 +3583,125 @@
     ],
     "title": "What 5000 Babies Can Tell Us About Developing Minds and How to Study Them",
     "authors": [
-      "Brianna T. M. McMillan",
-      "Heidi A. Baumgartner",
-      "Christina Bergmann",
-      "Michael C. Frank",
-      "J. Kiley Hamlin",
-      "Dora Kampis",
-      "Melissa Kline Struhl",
-      "Eon-Suk Ko",
-      "Jessica E. Kosie",
-      "Casey Lew-Williams",
-      "Kelsey Lucca",
-      "Tobias Schuwerk",
-      "Melanie Soderstrom",
-      "Ingmar Visser",
-      "Francis L. Yuen",
-      "Martin Zettersten",
-      "Krista Byers-Heinlein"
+      {
+        "name": "Brianna T. M. McMillan",
+        "orcid": "https://orcid.org/0000-0002-7585-4911",
+        "institution": [
+          "recL2XvrWs4YK8FoF"
+        ]
+      },
+      {
+        "name": "Heidi A. Baumgartner",
+        "orcid": "https://orcid.org/0000-0001-5032-5995",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Christina Bergmann",
+        "orcid": "https://orcid.org/0000-0003-2656-9070",
+        "institution": [
+          "rect03ueGUhsXmZtu"
+        ]
+      },
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "J. Kiley Hamlin",
+        "orcid": "https://orcid.org/0000-0001-6173-9878",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Dora Kampis",
+        "orcid": "https://orcid.org/0000-0003-1678-3874",
+        "institution": [
+          "recSY5pg5hZ8XIGO3"
+        ]
+      },
+      {
+        "name": "Melissa Kline Struhl",
+        "orcid": "https://orcid.org/0000-0003-2217-9331",
+        "institution": [
+          "rect0KvfMCxkd2bAu"
+        ]
+      },
+      {
+        "name": "Eon-Suk Ko",
+        "orcid": "https://orcid.org/0000-0003-3963-4492",
+        "institution": [
+          "rec2TLynKlPxFlpxX"
+        ]
+      },
+      {
+        "name": "Jessica E. Kosie",
+        "orcid": "https://orcid.org/0000-0002-2390-0963",
+        "institution": [
+          "recJ8Hkx51RfYBCJI"
+        ]
+      },
+      {
+        "name": "Casey Lew-Williams",
+        "orcid": "https://orcid.org/0000-0002-8781-4458",
+        "institution": [
+          "recYfz0y5hrmMoG4P"
+        ]
+      },
+      {
+        "name": "Kelsey Lucca",
+        "orcid": "https://orcid.org/0000-0002-0581-2257",
+        "institution": [
+          "recJ8Hkx51RfYBCJI"
+        ]
+      },
+      {
+        "name": "Tobias Schuwerk",
+        "orcid": "https://orcid.org/0000-0003-3720-7120",
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      },
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      },
+      {
+        "name": "Ingmar Visser",
+        "orcid": "https://orcid.org/0000-0003-3855-2778",
+        "institution": [
+          "recVS4PgwpFkIfuAB"
+        ]
+      },
+      {
+        "name": "Francis L. Yuen",
+        "orcid": "https://orcid.org/0000-0001-7570-123X",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Martin Zettersten",
+        "orcid": "https://orcid.org/0000-0002-0444-7059",
+        "institution": [
+          "recYIF1ISrnh5P6ZD"
+        ]
+      },
+      {
+        "name": "Krista Byers-Heinlein",
+        "orcid": "https://orcid.org/0000-0002-7040-2510",
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      }
     ],
     "authorsCondensed": "McMillan, B. T. M., Baumgartner, H. A., Bergmann, C., Frank, M. C., Hamlin, J. K., Kampis, D., Kline Struhl, M., Ko, E.-S., Kosie, J. E., Lew-Williams, C., Lucca, K., Schuwerk, T., Soderstrom, M., Visser, I., Yuen, F. L., Zettersten, M., & Byers-Heinlein, K.",
     "year": "2026",
@@ -971,155 +3749,1049 @@
     ],
     "title": "Quantifying Sources of Variability in Infancy Research Using the Infant-Directed-Speech Preference",
     "authors": [
-      "Michael C. Frank",
-      "Katherine J. Alcock",
-      "Natalia Arias-Trejo",
-      "Gisa Aschersleben",
-      "Dare Baldwin",
-      "Stéphanie Barbu",
-      "Elika Bergelson",
-      "Christina Bergmann",
-      "Alexis K. Black",
-      "Ryan Blything",
-      "Maximilian P. Böhland",
-      "Petra Bolitho",
-      "Arielle Borovsky",
-      "Shannon M. Brady",
-      "Bettina Braun",
-      "Anna Brown",
-      "Krista Byers-Heinlein",
-      "Linda E. Campbell",
-      "Cara Cashon",
-      "Mihye Choi",
-      "Joan Christodoulou",
-      "Laura K. Cirelli",
-      "Stefania Conte",
-      "Sara Cordes",
-      "Christopher M. M. Cox",
-      "Alejandrina Cristia",
-      "Rhodri Cusack",
-      "Catherine Davies",
-      "Maartje de Klerk",
-      "Claire Delle Luche",
-      "Laura de Ruiter",
-      "Dhanya Dinakar",
-      "Kate C. Dixon",
-      "Virginie Durier",
-      "Samantha Durrant",
-      "Christopher Fennell",
-      "Brock Ferguson",
-      "Alissa Ferry",
-      "Paula Fikkert",
-      "Teresa Flanagan",
-      "Caroline Floccia",
-      "Megan Foley",
-      "Tom Fritzsche",
-      "Rebecca L. A. Frost",
-      "Anja Gampe",
-      "Judit Gervain",
-      "Nayeli Gonzalez-Gomez",
-      "Anna Gupta",
-      "Laura E. Hahn",
-      "J. Kiley Hamlin",
-      "Erin E. Hannon",
-      "Naomi Havron",
-      "Jessica F. Hay",
-      "Mikołaj Hernik",
-      "Barbara Höhle",
-      "Derek M. Houston",
-      "Lauren H. Howard",
-      "Mitsuhiko Ishikawa",
-      "Shoji Itakura",
-      "Iain Jackson",
-      "Krisztina V. Jakobsen",
-      "Marianna Jarto",
-      "Scott P. Johnson",
-      "Caroline Junge",
-      "Didar Karadag",
-      "Natalia Kartushina",
-      "Danielle J. Kellier",
-      "Tamar Keren-Portnoy",
-      "Kelsey Klassen",
-      "Melissa Kline Struhl",
-      "Eon-Suk Ko",
-      "Jonathan F. Kominsky",
-      "Jessica E. Kosie",
-      "Haley E. Kragness",
-      "Andrea A.R. Krieger",
-      "Florian Krieger",
-      "Jill Lany",
-      "Roberto J. Lazo",
-      "Michelle Lee",
-      "Chloé Leservoisier",
-      "Claartje Levelt",
-      "Casey Lew-Williams",
-      "Matthias Lippold",
-      "Ulf Liszkowski",
-      "Liquan Liu",
-      "Steven G. Luke",
-      "Rebecca A. Lundwall",
-      "Viola Macchi Cassia",
-      "Nivedita Mani",
-      "Caterina Marino",
-      "Alia Martin",
-      "Meghan Mastroberardino",
-      "Victoria Mateu",
-      "Julien Mayor",
-      "Katharina Menn",
-      "Christine Michel",
-      "Yusuke Moriguchi",
-      "Benjamin Morris",
-      "Karli M. Nave",
-      "Thierry Nazzi",
-      "Claire Noble",
-      "Miriam A. Novack",
-      "Nonah M. Olesen",
-      "Adriel John Orena",
-      "Mitsuhiko Ota",
-      "Robin Panneton",
-      "Sara Parvanezadeh Esfahani",
-      "Markus Paulus",
-      "Carolina Pletti",
-      "Linda Polka",
-      "Christine E. Potter",
-      "Hugh Rabagliati",
-      "Shruthilaya Ramachandran",
-      "Jennifer L. Rennels",
-      "Greg D. Reynolds",
-      "Kelly C. Roth",
-      "Charlotte Rothwell",
-      "Doroteja Rubez",
-      "Yana Ryjova",
-      "Jenny R. Saffran",
-      "Ayumi Sato",
-      "Sophie Savelkouls",
-      "Adena Schachner",
-      "Graham Schafer",
-      "Melanie S. Schreiner",
-      "Amanda Seidl",
-      "Mohinish Shukla",
-      "Elizabeth A. Simpson",
-      "Leher Singh",
-      "Barbora Skarabela",
-      "Gaye Soley",
-      "Megha Sundara",
-      "Anna Theakston",
-      "Abbie Thompson",
-      "Laurel J. Trainor",
-      "Sandra E. Trehub",
-      "Anna S. Trøan",
-      "Angeline Sin Mei Tsui",
-      "Katherine E. Twomey",
-      "Katie Von Holzen",
-      "Yuanyuan Wang",
-      "Sandra Waxman",
-      "Janet F. Werker",
-      "Stephanie Wermelinger",
-      "Alix Woolard",
-      "Daniel Yurovsky",
-      "Katharina Zahner-Ritter",
-      "Martin Zettersten",
-      "Melanie Soderstrom"
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Katherine J. Alcock",
+        "orcid": "https://orcid.org/0000-0001-5219-5442",
+        "institution": [
+          "recS9q79twEKQbsIm"
+        ]
+      },
+      {
+        "name": "Natalia Arias-Trejo",
+        "orcid": "https://orcid.org/0000-0002-4169-1616",
+        "institution": [
+          "recJtWegBEUInC4lu"
+        ]
+      },
+      {
+        "name": "Gisa Aschersleben",
+        "orcid": "https://orcid.org/0000-0003-2572-4462",
+        "institution": [
+          "rectb3k4mGD0KWnJp"
+        ]
+      },
+      {
+        "name": "Dare Baldwin",
+        "orcid": "https://orcid.org/0000-0002-1997-8143",
+        "institution": [
+          "recvwGaLpFkbWuOX2"
+        ]
+      },
+      {
+        "name": "Stéphanie Barbu",
+        "orcid": null,
+        "institution": [
+          "recEAGi14ePONjw60"
+        ]
+      },
+      {
+        "name": "Elika Bergelson",
+        "orcid": "https://orcid.org/0000-0003-2742-4797",
+        "institution": [
+          "recSjEeBxKEmGjNDF"
+        ]
+      },
+      {
+        "name": "Christina Bergmann",
+        "orcid": "https://orcid.org/0000-0003-2656-9070",
+        "institution": [
+          "rect03ueGUhsXmZtu"
+        ]
+      },
+      {
+        "name": "Alexis K. Black",
+        "orcid": "https://orcid.org/0000-0001-6764-4319",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Ryan Blything",
+        "orcid": "https://orcid.org/0000-0003-2285-7219",
+        "institution": [
+          "rec7ICzBbTIb9VTPU"
+        ]
+      },
+      {
+        "name": "Maximilian P. Böhland",
+        "orcid": null,
+        "institution": [
+          "rec4lCz9MKVDf0NL9"
+        ]
+      },
+      {
+        "name": "Petra Bolitho",
+        "orcid": null,
+        "institution": [
+          "rect83r0xkwkwTvww"
+        ]
+      },
+      {
+        "name": "Arielle Borovsky",
+        "orcid": null,
+        "institution": [
+          "recZlEw21btg9EjkI"
+        ]
+      },
+      {
+        "name": "Shannon M. Brady",
+        "orcid": "https://orcid.org/0000-0002-9691-8734",
+        "institution": [
+          "recKPhQIdxCmkOodQ"
+        ]
+      },
+      {
+        "name": "Bettina Braun",
+        "orcid": "https://orcid.org/0000-0002-7696-3255",
+        "institution": [
+          "recVpmHgPs4PmaBPN"
+        ]
+      },
+      {
+        "name": "Anna Brown",
+        "orcid": "https://orcid.org/0000-0001-6119-7925",
+        "institution": [
+          "recUchabpbvQWLLcg"
+        ]
+      },
+      {
+        "name": "Krista Byers-Heinlein",
+        "orcid": "https://orcid.org/0000-0002-7040-2510",
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      },
+      {
+        "name": "Linda E. Campbell",
+        "orcid": "https://orcid.org/0000-0002-8872-9626",
+        "institution": [
+          "recUyBEOqmhf8IuOt"
+        ]
+      },
+      {
+        "name": "Cara Cashon",
+        "orcid": "https://orcid.org/0000-0001-8652-3264",
+        "institution": [
+          "recP9joUGOIY3L43S"
+        ]
+      },
+      {
+        "name": "Mihye Choi",
+        "orcid": "https://orcid.org/0000-0002-3942-7357",
+        "institution": [
+          "recvs71f34uV8w8Ul"
+        ]
+      },
+      {
+        "name": "Joan Christodoulou",
+        "orcid": "https://orcid.org/0000-0001-6997-1567",
+        "institution": [
+          "recKPhQIdxCmkOodQ"
+        ]
+      },
+      {
+        "name": "Laura K. Cirelli",
+        "orcid": "https://orcid.org/0000-0002-1374-8558",
+        "institution": [
+          "recTAGGrXD1BMYo9F"
+        ]
+      },
+      {
+        "name": "Stefania Conte",
+        "orcid": "https://orcid.org/0000-0002-8249-3288",
+        "institution": [
+          "recaHyXqTddRYzNkt"
+        ]
+      },
+      {
+        "name": "Sara Cordes",
+        "orcid": "https://orcid.org/0000-0003-3837-6188",
+        "institution": [
+          "receClvNz2We4Kq2o"
+        ]
+      },
+      {
+        "name": "Christopher M. M. Cox",
+        "orcid": "https://orcid.org/0000-0003-4076-581X",
+        "institution": [
+          "recc9nIOVdiCBL5gY"
+        ]
+      },
+      {
+        "name": "Alejandrina Cristia",
+        "orcid": "https://orcid.org/0000-0003-2979-4556",
+        "institution": [
+          "recRrTObPSkpy8iIl"
+        ]
+      },
+      {
+        "name": "Rhodri Cusack",
+        "orcid": "https://orcid.org/0000-0002-5234-7415",
+        "institution": [
+          "recSGGdIIfqldSpDo"
+        ]
+      },
+      {
+        "name": "Catherine Davies",
+        "orcid": "https://orcid.org/0000-0001-9347-7905",
+        "institution": [
+          "reclFofJqS9ZWPudk"
+        ]
+      },
+      {
+        "name": "Maartje de Klerk",
+        "orcid": "https://orcid.org/0000-0002-5466-6196",
+        "institution": [
+          "recZbwZqZ1IOeph3Q"
+        ]
+      },
+      {
+        "name": "Claire Delle Luche",
+        "orcid": null,
+        "institution": [
+          "recS1zjTtYcjz3Doy"
+        ]
+      },
+      {
+        "name": "Laura de Ruiter",
+        "orcid": null,
+        "institution": [
+          "recRemlLT41XexRpZ"
+        ]
+      },
+      {
+        "name": "Dhanya Dinakar",
+        "orcid": null,
+        "institution": [
+          "recvzSVw3VeTZKePr"
+        ]
+      },
+      {
+        "name": "Kate C. Dixon",
+        "orcid": null,
+        "institution": [
+          "recP9joUGOIY3L43S"
+        ]
+      },
+      {
+        "name": "Virginie Durier",
+        "orcid": "https://orcid.org/0000-0002-7323-8779",
+        "institution": [
+          "recEAGi14ePONjw60"
+        ]
+      },
+      {
+        "name": "Samantha Durrant",
+        "orcid": "https://orcid.org/0000-0001-9720-0866",
+        "institution": [
+          "recUchabpbvQWLLcg"
+        ]
+      },
+      {
+        "name": "Christopher Fennell",
+        "orcid": "https://orcid.org/0000-0001-9616-9385",
+        "institution": [
+          "recSCaaZD3ughVU7D"
+        ]
+      },
+      {
+        "name": "Brock Ferguson",
+        "orcid": null,
+        "institution": [
+          "recjnwcZvCcYdpMWG"
+        ]
+      },
+      {
+        "name": "Alissa Ferry",
+        "orcid": "https://orcid.org/0000-0003-2217-1989",
+        "institution": [
+          "recRemlLT41XexRpZ"
+        ]
+      },
+      {
+        "name": "Paula Fikkert",
+        "orcid": "https://orcid.org/0000-0001-7317-2100",
+        "institution": [
+          "recFhpohkWefmgVeE"
+        ]
+      },
+      {
+        "name": "Teresa Flanagan",
+        "orcid": "https://orcid.org/0000-0002-6003-7089",
+        "institution": [
+          "recKgvjvPmbGUS7W1"
+        ]
+      },
+      {
+        "name": "Caroline Floccia",
+        "orcid": null,
+        "institution": [
+          "recXMI8YEruzYFGUt"
+        ]
+      },
+      {
+        "name": "Megan Foley",
+        "orcid": null,
+        "institution": [
+          "recsSpzYAwi2rfukj"
+        ]
+      },
+      {
+        "name": "Tom Fritzsche",
+        "orcid": "https://orcid.org/0000-0002-7917-514X",
+        "institution": [
+          "recUqGHNasI4ZQ0tf"
+        ]
+      },
+      {
+        "name": "Rebecca L. A. Frost",
+        "orcid": "https://orcid.org/0000-0002-5556-4466",
+        "institution": [
+          "reczFJ77HBSS8fgjN"
+        ]
+      },
+      {
+        "name": "Anja Gampe",
+        "orcid": "https://orcid.org/0000-0001-9812-9694 ",
+        "institution": [
+          "recHhUCaUgw7RLCcu"
+        ]
+      },
+      {
+        "name": "Judit Gervain",
+        "orcid": "https://orcid.org/0000-0002-2125-6369",
+        "institution": [
+          "recXK4Lpx5saRiPu3"
+        ]
+      },
+      {
+        "name": "Nayeli Gonzalez-Gomez",
+        "orcid": "https://orcid.org/0000-0003-2012-8290",
+        "institution": [
+          "recCrx5L9O4mHYOIB"
+        ]
+      },
+      {
+        "name": "Anna Gupta",
+        "orcid": null,
+        "institution": [
+          "recAHFDb7jGqRSB63"
+        ]
+      },
+      {
+        "name": "Laura E. Hahn",
+        "orcid": null,
+        "institution": [
+          "recFhpohkWefmgVeE"
+        ]
+      },
+      {
+        "name": "J. Kiley Hamlin",
+        "orcid": "https://orcid.org/0000-0001-6173-9878",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Erin E. Hannon",
+        "orcid": "https://orcid.org/0000-0002-3482-5954",
+        "institution": [
+          "recUZv6FTLj1uO1dD"
+        ]
+      },
+      {
+        "name": "Naomi Havron",
+        "orcid": "https://orcid.org/0000-0001-6429-1546",
+        "institution": [
+          "reclqwNVytPWPOHis"
+        ]
+      },
+      {
+        "name": "Jessica F. Hay",
+        "orcid": "https://orcid.org/0000-0002-0197-6713",
+        "institution": [
+          "recCHo2fI9pe1ghHv"
+        ]
+      },
+      {
+        "name": "Mikołaj Hernik",
+        "orcid": "https://orcid.org/0000-0001-6745-5163",
+        "institution": [
+          "recdBQTQmcdZLwNnM"
+        ]
+      },
+      {
+        "name": "Barbara Höhle",
+        "orcid": "https://orcid.org/0000-0002-9240-6117",
+        "institution": [
+          "recUqGHNasI4ZQ0tf"
+        ]
+      },
+      {
+        "name": "Derek M. Houston",
+        "orcid": "https://orcid.org/0000-0003-1050-3034",
+        "institution": [
+          "recivgLu5BpNC3nbi"
+        ]
+      },
+      {
+        "name": "Lauren H. Howard",
+        "orcid": null,
+        "institution": [
+          "recKgvjvPmbGUS7W1"
+        ]
+      },
+      {
+        "name": "Mitsuhiko Ishikawa",
+        "orcid": "https://orcid.org/0000-0002-5141-6511",
+        "institution": [
+          "recUYPcjNyM31Wdlm"
+        ]
+      },
+      {
+        "name": "Shoji Itakura",
+        "orcid": null,
+        "institution": [
+          "recOAxOKHjDX5R6t7"
+        ]
+      },
+      {
+        "name": "Iain Jackson",
+        "orcid": null,
+        "institution": [
+          "recRemlLT41XexRpZ"
+        ]
+      },
+      {
+        "name": "Krisztina V. Jakobsen",
+        "orcid": "https://orcid.org/0000-0002-5486-4651",
+        "institution": [
+          "rec4mavdUP50JDBVa"
+        ]
+      },
+      {
+        "name": "Marianna Jarto",
+        "orcid": "https://orcid.org/0000-0001-7700-696X",
+        "institution": [
+          "rec0AFILj4GOt5Xdx"
+        ]
+      },
+      {
+        "name": "Scott P. Johnson",
+        "orcid": "https://orcid.org/0000-0003-2970-184X",
+        "institution": [
+          "recKPhQIdxCmkOodQ"
+        ]
+      },
+      {
+        "name": "Caroline Junge",
+        "orcid": "https://orcid.org/0000-0001-9876-8058",
+        "institution": [
+          "recZbwZqZ1IOeph3Q"
+        ]
+      },
+      {
+        "name": "Didar Karadag",
+        "orcid": "https://orcid.org/0000-0003-3290-5229",
+        "institution": [
+          "recojtfBgSMn4VXw0"
+        ]
+      },
+      {
+        "name": "Natalia Kartushina",
+        "orcid": "https://orcid.org/0000-0003-4650-5832",
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "Danielle J. Kellier",
+        "orcid": "https://orcid.org/0000-0001-7811-3468",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Tamar Keren-Portnoy",
+        "orcid": "https://orcid.org/0000-0002-7258-2404",
+        "institution": [
+          "recSjZZNY69FoJifG"
+        ]
+      },
+      {
+        "name": "Kelsey Klassen",
+        "orcid": null,
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      },
+      {
+        "name": "Melissa Kline Struhl",
+        "orcid": "https://orcid.org/0000-0003-2217-9331",
+        "institution": [
+          "rect0KvfMCxkd2bAu"
+        ]
+      },
+      {
+        "name": "Eon-Suk Ko",
+        "orcid": "https://orcid.org/0000-0003-3963-4492",
+        "institution": [
+          "rec2TLynKlPxFlpxX"
+        ]
+      },
+      {
+        "name": "Jonathan F. Kominsky",
+        "orcid": "https://orcid.org/0000-0002-3236-4787",
+        "institution": [
+          "rec8ZZunLvlx5Sp0v"
+        ]
+      },
+      {
+        "name": "Jessica E. Kosie",
+        "orcid": "https://orcid.org/0000-0002-2390-0963",
+        "institution": [
+          "recJ8Hkx51RfYBCJI"
+        ]
+      },
+      {
+        "name": "Haley E. Kragness",
+        "orcid": "https://orcid.org/0000-0003-3137-7655",
+        "institution": [
+          "recRjb8ErtImIeLwv"
+        ]
+      },
+      {
+        "name": "Andrea A.R. Krieger",
+        "orcid": null,
+        "institution": [
+          "rectb3k4mGD0KWnJp"
+        ]
+      },
+      {
+        "name": "Florian Krieger",
+        "orcid": null,
+        "institution": [
+          "reciJLRwaXUkzzTBX"
+        ]
+      },
+      {
+        "name": "Jill Lany",
+        "orcid": "https://orcid.org/0000-0001-8077-6244",
+        "institution": [
+          "recS9q79twEKQbsIm"
+        ]
+      },
+      {
+        "name": "Roberto J. Lazo",
+        "orcid": null,
+        "institution": [
+          "recsJwGRCjX3ka12d"
+        ]
+      },
+      {
+        "name": "Michelle Lee",
+        "orcid": null,
+        "institution": [
+          "recYIF1ISrnh5P6ZD"
+        ]
+      },
+      {
+        "name": "Chloé Leservoisier",
+        "orcid": null,
+        "institution": [
+          "recEAGi14ePONjw60"
+        ]
+      },
+      {
+        "name": "Claartje Levelt",
+        "orcid": "https://orcid.org/0000-0003-2916-0326",
+        "institution": [
+          "recAHFDb7jGqRSB63"
+        ]
+      },
+      {
+        "name": "Casey Lew-Williams",
+        "orcid": "https://orcid.org/0000-0002-8781-4458",
+        "institution": [
+          "recYfz0y5hrmMoG4P"
+        ]
+      },
+      {
+        "name": "Matthias Lippold",
+        "orcid": null,
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      },
+      {
+        "name": "Ulf Liszkowski",
+        "orcid": "https://orcid.org/0000-0003-4294-3632",
+        "institution": [
+          "rec0AFILj4GOt5Xdx"
+        ]
+      },
+      {
+        "name": "Liquan Liu",
+        "orcid": "https://orcid.org/0000-0001-8671-5098",
+        "institution": [
+          "rece4MHumLD8zqyab"
+        ]
+      },
+      {
+        "name": "Steven G. Luke",
+        "orcid": null,
+        "institution": [
+          "recGyY79W2I5q9OZf"
+        ]
+      },
+      {
+        "name": "Rebecca A. Lundwall",
+        "orcid": "https://orcid.org/0000-0003-4036-9091",
+        "institution": [
+          "recGyY79W2I5q9OZf"
+        ]
+      },
+      {
+        "name": "Viola Macchi Cassia",
+        "orcid": "https://orcid.org/0000-0002-9983-8254",
+        "institution": [
+          "recYFO6UaqSiHnG53"
+        ]
+      },
+      {
+        "name": "Nivedita Mani",
+        "orcid": "https://orcid.org/0000-0002-9843-4629",
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      },
+      {
+        "name": "Caterina Marino",
+        "orcid": "https://orcid.org/0000-0002-9292-1549",
+        "institution": [
+          "rec6JF64CAK1whbRS"
+        ]
+      },
+      {
+        "name": "Alia Martin",
+        "orcid": "https://orcid.org/0000-0003-4724-8217",
+        "institution": [
+          "rect83r0xkwkwTvww"
+        ]
+      },
+      {
+        "name": "Meghan Mastroberardino",
+        "orcid": null,
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      },
+      {
+        "name": "Victoria Mateu",
+        "orcid": "https://orcid.org/0000-0002-3170-4444",
+        "institution": [
+          "recKPhQIdxCmkOodQ"
+        ]
+      },
+      {
+        "name": "Julien Mayor",
+        "orcid": "https://orcid.org/0000-0001-9827-5421",
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "Katharina Menn",
+        "orcid": "https://orcid.org/0000-0002-9555-3788",
+        "institution": [
+          "recFhpohkWefmgVeE"
+        ]
+      },
+      {
+        "name": "Christine Michel",
+        "orcid": "https://orcid.org/0000-0001-6150-4825",
+        "institution": [
+          "recChZF3wHSjc47n8"
+        ]
+      },
+      {
+        "name": "Yusuke Moriguchi",
+        "orcid": "https://orcid.org/0000-0002-9002-7834",
+        "institution": [
+          "recOAxOKHjDX5R6t7"
+        ]
+      },
+      {
+        "name": "Benjamin Morris",
+        "orcid": null,
+        "institution": [
+          "recRAAVyMNRB9Eds0"
+        ]
+      },
+      {
+        "name": "Karli M. Nave",
+        "orcid": "https://orcid.org/0000-0001-8672-674X",
+        "institution": [
+          "recUZv6FTLj1uO1dD"
+        ]
+      },
+      {
+        "name": "Thierry Nazzi",
+        "orcid": "https://orcid.org/0000-0002-4378-3661",
+        "institution": [
+          "rec6JF64CAK1whbRS"
+        ]
+      },
+      {
+        "name": "Claire Noble",
+        "orcid": null,
+        "institution": [
+          "recUchabpbvQWLLcg"
+        ]
+      },
+      {
+        "name": "Miriam A. Novack",
+        "orcid": "https://orcid.org/0000-0003-0522-0371",
+        "institution": [
+          "recwfEHjzuSJqvISq"
+        ]
+      },
+      {
+        "name": "Nonah M. Olesen",
+        "orcid": null,
+        "institution": [
+          "recP9joUGOIY3L43S"
+        ]
+      },
+      {
+        "name": "Adriel John Orena",
+        "orcid": "https://orcid.org/0000-0002-9231-567X",
+        "institution": [
+          "recsFSkVjXBg5r3cz"
+        ]
+      },
+      {
+        "name": "Mitsuhiko Ota",
+        "orcid": "https://orcid.org/0000-0003-3693-8490",
+        "institution": [
+          "recXRZkJdJRMvWNIj"
+        ]
+      },
+      {
+        "name": "Robin Panneton",
+        "orcid": "https://orcid.org/0000-0001-6519-8319",
+        "institution": [
+          "recF4SyuB9qV6Tpxt"
+        ]
+      },
+      {
+        "name": "Sara Parvanezadeh Esfahani",
+        "orcid": "https://orcid.org/0000-0003-4381-5624",
+        "institution": [
+          "recCHo2fI9pe1ghHv"
+        ]
+      },
+      {
+        "name": "Markus Paulus",
+        "orcid": "https://orcid.org/0000-0003-0446-4956",
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      },
+      {
+        "name": "Carolina Pletti",
+        "orcid": null,
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      },
+      {
+        "name": "Linda Polka",
+        "orcid": "https://orcid.org/0000-0003-4761-9057",
+        "institution": [
+          "recsFSkVjXBg5r3cz"
+        ]
+      },
+      {
+        "name": "Christine E. Potter",
+        "orcid": "https://orcid.org/0000-0002-9580-3919",
+        "institution": [
+          "rec0pMYENssi39SeG"
+        ]
+      },
+      {
+        "name": "Hugh Rabagliati",
+        "orcid": null,
+        "institution": [
+          "recXRZkJdJRMvWNIj"
+        ]
+      },
+      {
+        "name": "Shruthilaya Ramachandran",
+        "orcid": null,
+        "institution": [
+          "reccPcIs81HNiRHoq"
+        ]
+      },
+      {
+        "name": "Jennifer L. Rennels",
+        "orcid": "https://orcid.org/0000-0002-2639-2837",
+        "institution": [
+          "recUZv6FTLj1uO1dD"
+        ]
+      },
+      {
+        "name": "Greg D. Reynolds",
+        "orcid": "https://orcid.org/0000-0002-1025-0762",
+        "institution": [
+          "recCHo2fI9pe1ghHv"
+        ]
+      },
+      {
+        "name": "Kelly C. Roth",
+        "orcid": null,
+        "institution": [
+          "recCHo2fI9pe1ghHv"
+        ]
+      },
+      {
+        "name": "Charlotte Rothwell",
+        "orcid": null,
+        "institution": [
+          "recS9q79twEKQbsIm"
+        ]
+      },
+      {
+        "name": "Doroteja Rubez",
+        "orcid": null,
+        "institution": [
+          "recivgLu5BpNC3nbi"
+        ]
+      },
+      {
+        "name": "Yana Ryjova",
+        "orcid": "https://orcid.org/0000-0002-2037-8743",
+        "institution": [
+          "recUZv6FTLj1uO1dD"
+        ]
+      },
+      {
+        "name": "Jenny R. Saffran",
+        "orcid": "https://orcid.org/0000-0003-3749-8773",
+        "institution": [
+          "recCs3vQG1UV4TRCy"
+        ]
+      },
+      {
+        "name": "Ayumi Sato",
+        "orcid": null,
+        "institution": [
+          "recszhtogEZenhQkD"
+        ]
+      },
+      {
+        "name": "Sophie Savelkouls",
+        "orcid": "https://orcid.org/0000-0001-6405-5455",
+        "institution": [
+          "receClvNz2We4Kq2o"
+        ]
+      },
+      {
+        "name": "Adena Schachner",
+        "orcid": "https://orcid.org/0000-0001-6886-7098",
+        "institution": [
+          "recYIF1ISrnh5P6ZD"
+        ]
+      },
+      {
+        "name": "Graham Schafer",
+        "orcid": null,
+        "institution": [
+          "rec9JxjIlTVE8tmE6"
+        ]
+      },
+      {
+        "name": "Melanie S. Schreiner",
+        "orcid": "https://orcid.org/0000-0002-1530-8839",
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      },
+      {
+        "name": "Amanda Seidl",
+        "orcid": "https://orcid.org/0000-0001-9825-1462",
+        "institution": [
+          "recZlEw21btg9EjkI"
+        ]
+      },
+      {
+        "name": "Mohinish Shukla",
+        "orcid": "https://orcid.org/0000-0002-2806-0174",
+        "institution": [
+          "recVS4PgwpFkIfuAB"
+        ]
+      },
+      {
+        "name": "Elizabeth A. Simpson",
+        "orcid": "https://orcid.org/0000-0003-2715-2533",
+        "institution": [
+          "recsJwGRCjX3ka12d"
+        ]
+      },
+      {
+        "name": "Leher Singh",
+        "orcid": "https://orcid.org/0000-0001-9423-4956",
+        "institution": [
+          "recbCYur3uhshRqa2"
+        ]
+      },
+      {
+        "name": "Barbora Skarabela",
+        "orcid": "https://orcid.org/0000-0001-9344-349X",
+        "institution": [
+          "recXRZkJdJRMvWNIj"
+        ]
+      },
+      {
+        "name": "Gaye Soley",
+        "orcid": "https://orcid.org/0000-0002-6333-6017",
+        "institution": [
+          "recojtfBgSMn4VXw0"
+        ]
+      },
+      {
+        "name": "Megha Sundara",
+        "orcid": "https://orcid.org/0000-0003-0028-750X",
+        "institution": [
+          "recKPhQIdxCmkOodQ"
+        ]
+      },
+      {
+        "name": "Anna Theakston",
+        "orcid": "https://orcid.org/0000-0002-9483-7893",
+        "institution": [
+          "recRemlLT41XexRpZ"
+        ]
+      },
+      {
+        "name": "Abbie Thompson",
+        "orcid": "https://orcid.org/0000-0002-5087-502X",
+        "institution": [
+          "recc6TCi08oz8vYoQ"
+        ]
+      },
+      {
+        "name": "Laurel J. Trainor",
+        "orcid": null,
+        "institution": [
+          "recRjb8ErtImIeLwv"
+        ]
+      },
+      {
+        "name": "Sandra E. Trehub",
+        "orcid": "https://orcid.org/0000-0002-7940-1258",
+        "institution": [
+          "recOJQ3tNQGRR2pk6"
+        ]
+      },
+      {
+        "name": "Anna S. Trøan",
+        "orcid": null,
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "Angeline Sin Mei Tsui",
+        "orcid": "https://orcid.org/0000-0003-0333-7234",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Katherine E. Twomey",
+        "orcid": "https://orcid.org/0000-0002-5077-2741",
+        "institution": [
+          "recRemlLT41XexRpZ"
+        ]
+      },
+      {
+        "name": "Katie Von Holzen",
+        "orcid": "https://orcid.org/0000-0001-7636-2209 ",
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      },
+      {
+        "name": "Yuanyuan Wang",
+        "orcid": null,
+        "institution": [
+          "recivgLu5BpNC3nbi"
+        ]
+      },
+      {
+        "name": "Sandra Waxman",
+        "orcid": "https://orcid.org/0000-0002-5009-2068",
+        "institution": [
+          "recwfEHjzuSJqvISq"
+        ]
+      },
+      {
+        "name": "Janet F. Werker",
+        "orcid": "https://orcid.org/0000-0002-1168-9013",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Stephanie Wermelinger",
+        "orcid": "https://orcid.org/0000-0002-6500-9108",
+        "institution": [
+          "recOiMEenENsAG4LC"
+        ]
+      },
+      {
+        "name": "Alix Woolard",
+        "orcid": "https://orcid.org/0000-0003-3427-351X",
+        "institution": [
+          "recUyBEOqmhf8IuOt"
+        ]
+      },
+      {
+        "name": "Daniel Yurovsky",
+        "orcid": "https://orcid.org/0000-0002-8515-0029",
+        "institution": [
+          "recycZyv4gNJVKn7E"
+        ]
+      },
+      {
+        "name": "Katharina Zahner-Ritter",
+        "orcid": "https://orcid.org/0000-0003-1954-6436",
+        "institution": [
+          "recePP8GlK16yQhDk"
+        ]
+      },
+      {
+        "name": "Martin Zettersten",
+        "orcid": "https://orcid.org/0000-0002-0444-7059",
+        "institution": [
+          "recYIF1ISrnh5P6ZD"
+        ]
+      },
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      }
     ],
     "authorsCondensed": "ManyBabies Consortium",
     "year": "2020",
@@ -1144,100 +4816,664 @@
     ],
     "title": "Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study.",
     "authors": [
-      "Kelsey Lucca",
-      "Francis L. Yuen",
-      "Yiyi Wang",
-      "Nicolás Alessandroni",
-      "Olivia Allison",
-      "Mario Alvarez",
-      "Emma L. Axelsson",
-      "Janina Baumer",
-      "Heidi A. Baumgartner",
-      "Julie Bertels",
-      "Mitali Bhavsar",
-      "Krista Byers-Heinlein",
-      "Arthur Capelier-Mourguy",
-      "Hitomi Chijiiwa",
-      "Chantelle S. S. Chin",
-      "Natalie Christner",
-      "Laura K. Cirelli",
-      "John Corbit",
-      "Moritz Daum",
-      "Tiffany Doan",
-      "Michaela Dresel",
-      "Anna Exner",
-      "Wenxi Fei",
-      "Samuel H. Forbes",
-      "Laura Franchin",
-      "Michael C. Frank",
-      "Alessandra Geraci",
-      "Michelle Giraud",
-      "Megan E. Gornik",
-      "Charlotte Grosse Wiesmann",
-      "Tobias Grossmann",
-      "Isabelle M. Hadley",
-      "Naomi Havron",
-      "Annette M. E. Henderson",
-      "Emmy Higgs Matzner",
-      "Bailey Immel",
-      "Grzegorz Jankiewicz",
-      "Wiktoria Jędryczka",
-      "Yasuhiro Kanakogi",
-      "Jonathan F. Kominsky",
-      "Casey Lew-Williams",
-      "Zoe Liberman",
-      "Liquan Liu",
-      "Yilin Liu",
-      "Miriam T. Loeffler",
-      "Alia Martin",
-      "Julien Mayor",
-      "Xianwei Meng",
-      "Michal Misiak",
-      "David Moreau",
-      "Mira L. Nencheva",
-      "Linda S. Oña",
-      "Yenny Otálora",
-      "Markus Paulus",
-      "Bill Pepe",
-      "Charisse B. Pickron",
-      "Lindsey J. Powell",
-      "Marina Proft",
-      "Alyssa A. Quinn",
-      "Hannes Rakoczy",
-      "Peter J. Reschke",
-      "Ronit Roth-Hanania",
-      "Katrin Rothmaler",
-      "Karola Schlegelmilch",
-      "Laura Schlingloff-Nemecz",
-      "Mark A. Schmuckler",
-      "Tobias Schuwerk",
-      "Sabine Seehagen",
-      "Hilal H. Şen",
-      "Munna R. Shainy",
-      "Valentina Silvestri",
-      "Melanie Soderstrom",
-      "Jessica Sommerville",
-      "Hyun-joo Song",
-      "Piotr Sorokowski",
-      "Sandro E. Stutz",
-      "Yanjie Su",
-      "Hernando Taborda-Osorio",
-      "Alvin Wei Ming Tan",
-      "Denis Tatone",
-      "Teresa Taylor-Partridge",
-      "Chiu Kin Adrian Tsang",
-      "Arkadiusz Urbanek",
-      "Florina Uzefovsky",
-      "Ingmar Visser",
-      "Annie E. Wertz",
-      "Madison Williams",
-      "Kristina Wolsey",
-      "Terry Tin Yau Wong",
-      "Amanda Mae Woodward",
-      "Yang Wu",
-      "Zhen Zeng",
-      "Lucie Zimmer",
-      "J. Kiley Hamlin"
+      {
+        "name": "Kelsey Lucca",
+        "orcid": "https://orcid.org/0000-0002-0581-2257",
+        "institution": [
+          "recJ8Hkx51RfYBCJI"
+        ]
+      },
+      {
+        "name": "Francis L. Yuen",
+        "orcid": "https://orcid.org/0000-0001-7570-123X",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Yiyi Wang",
+        "orcid": "https://orcid.org/0000-0003-1060-0862",
+        "institution": [
+          "recRAAVyMNRB9Eds0"
+        ]
+      },
+      {
+        "name": "Nicolás Alessandroni",
+        "orcid": "https://orcid.org/0000-0002-6595-0969",
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      },
+      {
+        "name": "Olivia Allison",
+        "orcid": "https://orcid.org/0009-0000-7865-6817",
+        "institution": [
+          "recVFrStIBgCRIpuY"
+        ]
+      },
+      {
+        "name": "Mario Alvarez",
+        "orcid": "https://orcid.org/0009-0003-4905-5790",
+        "institution": [
+          "recJ8Hkx51RfYBCJI"
+        ]
+      },
+      {
+        "name": "Emma L. Axelsson",
+        "orcid": "https://orcid.org/0000-0002-6038-6254",
+        "institution": [
+          "recUyBEOqmhf8IuOt"
+        ]
+      },
+      {
+        "name": "Janina Baumer",
+        "orcid": "https://orcid.org/0009-0006-1384-4810",
+        "institution": [
+          "recZbwZqZ1IOeph3Q"
+        ]
+      },
+      {
+        "name": "Heidi A. Baumgartner",
+        "orcid": "https://orcid.org/0000-0001-5032-5995",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Julie Bertels",
+        "orcid": "https://orcid.org/0000-0002-0859-825X",
+        "institution": [
+          "recW6OBbJRzOvBBQx"
+        ]
+      },
+      {
+        "name": "Mitali Bhavsar",
+        "orcid": "https://orcid.org/0009-0002-3199-3220",
+        "institution": [
+          "recwmLwO2sgD8aIDA"
+        ]
+      },
+      {
+        "name": "Krista Byers-Heinlein",
+        "orcid": "https://orcid.org/0000-0002-7040-2510",
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      },
+      {
+        "name": "Arthur Capelier-Mourguy",
+        "orcid": "https://orcid.org/0000-0003-4746-1368",
+        "institution": [
+          "recS9q79twEKQbsIm"
+        ]
+      },
+      {
+        "name": "Hitomi Chijiiwa",
+        "orcid": "https://orcid.org/0000-0003-2739-4073",
+        "institution": [
+          "recbvKEFAVltpPxiI"
+        ]
+      },
+      {
+        "name": "Chantelle S. S. Chin",
+        "orcid": "https://orcid.org/0009-0004-1076-8942",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      },
+      {
+        "name": "Natalie Christner",
+        "orcid": "https://orcid.org/0000-0002-5751-8324",
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      },
+      {
+        "name": "Laura K. Cirelli",
+        "orcid": "https://orcid.org/0000-0002-1374-8558",
+        "institution": [
+          "recTAGGrXD1BMYo9F"
+        ]
+      },
+      {
+        "name": "John Corbit",
+        "orcid": "https://orcid.org/0000-0002-9099-6272",
+        "institution": [
+          "recx521J36FwkhOka"
+        ]
+      },
+      {
+        "name": "Moritz Daum",
+        "orcid": "https://orcid.org/0000-0002-4032-4574",
+        "institution": [
+          "recOiMEenENsAG4LC"
+        ]
+      },
+      {
+        "name": "Tiffany Doan",
+        "orcid": "https://orcid.org/0000-0001-5098-6005",
+        "institution": [
+          "recTAGGrXD1BMYo9F"
+        ]
+      },
+      {
+        "name": "Michaela Dresel",
+        "orcid": "https://orcid.org/0000-0002-3391-0794",
+        "institution": [
+          "rect83r0xkwkwTvww"
+        ]
+      },
+      {
+        "name": "Anna Exner",
+        "orcid": "https://orcid.org/0000-0002-0741-9045",
+        "institution": [
+          "rectaY5xpIc1wxYUx"
+        ]
+      },
+      {
+        "name": "Wenxi Fei",
+        "orcid": "https://orcid.org/0000-0002-7878-2247",
+        "institution": [
+          "reczo5ArSNQPtXTth"
+        ]
+      },
+      {
+        "name": "Samuel H. Forbes",
+        "orcid": "https://orcid.org/0000-0003-1022-4676",
+        "institution": [
+          "recBFTKe9hGiQxJq1"
+        ]
+      },
+      {
+        "name": "Laura Franchin",
+        "orcid": "https://orcid.org/0000-0001-8777-8752",
+        "institution": [
+          "recCCsTFWqo6iNi2p"
+        ]
+      },
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Alessandra Geraci",
+        "orcid": "https://orcid.org/0000-0003-1375-9190",
+        "institution": [
+          "recnFe28dBm9yMrta"
+        ]
+      },
+      {
+        "name": "Michelle Giraud",
+        "orcid": "https://orcid.org/0000-0003-3871-7034",
+        "institution": [
+          "recYFO6UaqSiHnG53"
+        ]
+      },
+      {
+        "name": "Megan E. Gornik",
+        "orcid": "https://orcid.org/0009-0009-4624-1137",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      },
+      {
+        "name": "Charlotte Grosse Wiesmann",
+        "orcid": "https://orcid.org/0000-0003-2577-6174",
+        "institution": [
+          "recaFVPFnN4xpphsy"
+        ]
+      },
+      {
+        "name": "Tobias Grossmann",
+        "orcid": "https://orcid.org/0000-0002-1116-6423",
+        "institution": [
+          "recVFrStIBgCRIpuY"
+        ]
+      },
+      {
+        "name": "Isabelle M. Hadley",
+        "orcid": "https://orcid.org/0009-0000-7989-2846",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      },
+      {
+        "name": "Naomi Havron",
+        "orcid": "https://orcid.org/0000-0001-6429-1546",
+        "institution": [
+          "reclqwNVytPWPOHis"
+        ]
+      },
+      {
+        "name": "Annette M. E. Henderson",
+        "orcid": "https://orcid.org/0000-0003-4384-4791",
+        "institution": [
+          "recY9LkifMFGIvlnm"
+        ]
+      },
+      {
+        "name": "Emmy Higgs Matzner",
+        "orcid": "https://orcid.org/0009-0001-6181-2753",
+        "institution": [
+          "rec1rCCXC013Wv8X0"
+        ]
+      },
+      {
+        "name": "Bailey Immel",
+        "orcid": "https://orcid.org/0000-0002-7435-1394",
+        "institution": [
+          "recBMvmF1agt5NdRh"
+        ]
+      },
+      {
+        "name": "Grzegorz Jankiewicz",
+        "orcid": "https://orcid.org/0000-0002-9706-4697",
+        "institution": [
+          "recyCCWSTAbJPbSk3"
+        ]
+      },
+      {
+        "name": "Wiktoria Jędryczka",
+        "orcid": "https://orcid.org/0000-0002-6901-3251",
+        "institution": [
+          "recyCCWSTAbJPbSk3"
+        ]
+      },
+      {
+        "name": "Yasuhiro Kanakogi",
+        "orcid": "https://orcid.org/0000-0003-0636-1619",
+        "institution": [
+          "recbvKEFAVltpPxiI"
+        ]
+      },
+      {
+        "name": "Jonathan F. Kominsky",
+        "orcid": "https://orcid.org/0000-0002-3236-4787",
+        "institution": [
+          "rec8ZZunLvlx5Sp0v"
+        ]
+      },
+      {
+        "name": "Casey Lew-Williams",
+        "orcid": "https://orcid.org/0000-0002-8781-4458",
+        "institution": [
+          "recYfz0y5hrmMoG4P"
+        ]
+      },
+      {
+        "name": "Zoe Liberman",
+        "orcid": "https://orcid.org/0000-0001-8923-2358",
+        "institution": [
+          "recBMvmF1agt5NdRh"
+        ]
+      },
+      {
+        "name": "Liquan Liu",
+        "orcid": "https://orcid.org/0000-0001-8671-5098",
+        "institution": [
+          "rece4MHumLD8zqyab"
+        ]
+      },
+      {
+        "name": "Yilin Liu",
+        "orcid": "https://orcid.org/0000-0002-7075-8461",
+        "institution": [
+          "recIiIxUEjHweePNe"
+        ]
+      },
+      {
+        "name": "Miriam T. Loeffler",
+        "orcid": "https://orcid.org/0009-0007-1650-5002",
+        "institution": [
+          "recOiMEenENsAG4LC"
+        ]
+      },
+      {
+        "name": "Alia Martin",
+        "orcid": "https://orcid.org/0000-0003-4724-8217",
+        "institution": [
+          "rect83r0xkwkwTvww"
+        ]
+      },
+      {
+        "name": "Julien Mayor",
+        "orcid": "https://orcid.org/0000-0001-9827-5421",
+        "institution": [
+          "recSYcuQu02tPmGBn"
+        ]
+      },
+      {
+        "name": "Xianwei Meng",
+        "orcid": "https://orcid.org/0000-0002-7873-7518",
+        "institution": [
+          "recyg3VzhacOZN6qw"
+        ]
+      },
+      {
+        "name": "Michal Misiak",
+        "orcid": "https://orcid.org/0000-0002-6892-3325",
+        "institution": [
+          "recyCCWSTAbJPbSk3"
+        ]
+      },
+      {
+        "name": "David Moreau",
+        "orcid": "https://orcid.org/0000-0002-1957-1941",
+        "institution": [
+          "recY9LkifMFGIvlnm"
+        ]
+      },
+      {
+        "name": "Mira L. Nencheva",
+        "orcid": "https://orcid.org/0000-0003-4854-4608",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Linda S. Oña",
+        "orcid": "https://orcid.org/0000-0002-7702-046X",
+        "institution": [
+          "recChZF3wHSjc47n8"
+        ]
+      },
+      {
+        "name": "Yenny Otálora",
+        "orcid": "https://orcid.org/0000-0001-5343-5882",
+        "institution": [
+          "recLVXAn4Gc9Xpzw6"
+        ]
+      },
+      {
+        "name": "Markus Paulus",
+        "orcid": "https://orcid.org/0000-0003-0446-4956",
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      },
+      {
+        "name": "Bill Pepe",
+        "orcid": "https://orcid.org/0000-0003-2122-0865",
+        "institution": [
+          "recYIF1ISrnh5P6ZD"
+        ]
+      },
+      {
+        "name": "Charisse B. Pickron",
+        "orcid": "https://orcid.org/0000-0001-7905-0593",
+        "institution": [
+          "rec1rCCXC013Wv8X0"
+        ]
+      },
+      {
+        "name": "Lindsey J. Powell",
+        "orcid": "https://orcid.org/0000-0001-5142-5998",
+        "institution": [
+          "recYIF1ISrnh5P6ZD"
+        ]
+      },
+      {
+        "name": "Marina Proft",
+        "orcid": "https://orcid.org/0000-0002-8799-9165",
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      },
+      {
+        "name": "Alyssa A. Quinn",
+        "orcid": "https://orcid.org/0009-0008-8359-4719 ",
+        "institution": [
+          "recUyBEOqmhf8IuOt"
+        ]
+      },
+      {
+        "name": "Hannes Rakoczy",
+        "orcid": "https://orcid.org/0000-0003-3296-0551",
+        "institution": [
+          "recZjg3RP1lboYlq1"
+        ]
+      },
+      {
+        "name": "Peter J. Reschke",
+        "orcid": "https://orcid.org/0000-0002-1711-8385",
+        "institution": [
+          "recGyY79W2I5q9OZf"
+        ]
+      },
+      {
+        "name": "Ronit Roth-Hanania",
+        "orcid": "https://orcid.org/0000-0001-8212-3191",
+        "institution": [
+          "recPUDTygQs1WZupV"
+        ]
+      },
+      {
+        "name": "Katrin Rothmaler",
+        "orcid": "https://orcid.org/0000-0001-8588-7664",
+        "institution": [
+          "recChZF3wHSjc47n8"
+        ]
+      },
+      {
+        "name": "Karola Schlegelmilch",
+        "orcid": "https://orcid.org/0000-0003-0094-4506",
+        "institution": [
+          "recChZF3wHSjc47n8"
+        ]
+      },
+      {
+        "name": "Laura Schlingloff-Nemecz",
+        "orcid": "https://orcid.org/0000-0001-7512-2617",
+        "institution": [
+          "rectAsnLos6DxIhxU"
+        ]
+      },
+      {
+        "name": "Mark A. Schmuckler",
+        "orcid": "https://orcid.org/0000-0002-9945-6141",
+        "institution": [
+          "recTAGGrXD1BMYo9F"
+        ]
+      },
+      {
+        "name": "Tobias Schuwerk",
+        "orcid": "https://orcid.org/0000-0003-3720-7120",
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      },
+      {
+        "name": "Sabine Seehagen",
+        "orcid": "https://orcid.org/0000-0001-6749-0604",
+        "institution": [
+          "rectaY5xpIc1wxYUx"
+        ]
+      },
+      {
+        "name": "Hilal H. Şen",
+        "orcid": "https://orcid.org/0000-0002-9877-5108",
+        "institution": [
+          "recAfbiIFGZopjfY9"
+        ]
+      },
+      {
+        "name": "Munna R. Shainy",
+        "orcid": "https://orcid.org/0000-0002-9314-3128",
+        "institution": [
+          "recT71CQZgEmJJuye"
+        ]
+      },
+      {
+        "name": "Valentina Silvestri",
+        "orcid": "https://orcid.org/0000-0001-7362-0663",
+        "institution": [
+          "recYFO6UaqSiHnG53"
+        ]
+      },
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": [
+          "recW72zj6UKz2IDHX"
+        ]
+      },
+      {
+        "name": "Jessica Sommerville",
+        "orcid": "https://orcid.org/0000-0001-8290-254X",
+        "institution": [
+          "recHPdGs0KRr2o4yJ"
+        ]
+      },
+      {
+        "name": "Hyun-joo Song",
+        "orcid": "https://orcid.org/0000-0002-8161-2601",
+        "institution": [
+          "recDF1GijyxfhbcHg"
+        ]
+      },
+      {
+        "name": "Piotr Sorokowski",
+        "orcid": "https://orcid.org/0000-0001-9225-9965",
+        "institution": [
+          "recyCCWSTAbJPbSk3"
+        ]
+      },
+      {
+        "name": "Sandro E. Stutz",
+        "orcid": "https://orcid.org/0009-0001-9425-4161",
+        "institution": [
+          "recOiMEenENsAG4LC"
+        ]
+      },
+      {
+        "name": "Yanjie Su",
+        "orcid": "https://orcid.org/0000-0003-3508-8674",
+        "institution": [
+          "recVzHm9FZ6zrPzGZ"
+        ]
+      },
+      {
+        "name": "Hernando Taborda-Osorio",
+        "orcid": "https://orcid.org/0000-0001-6668-4415",
+        "institution": [
+          "recHNPsGBlhG7qyXW"
+        ]
+      },
+      {
+        "name": "Alvin Wei Ming Tan",
+        "orcid": "https://orcid.org/0000-0001-5551-7507",
+        "institution": [
+          "recX7qec71h61oONm"
+        ]
+      },
+      {
+        "name": "Denis Tatone",
+        "orcid": "https://orcid.org/0000-0001-6694-2656",
+        "institution": [
+          "rec8ZZunLvlx5Sp0v"
+        ]
+      },
+      {
+        "name": "Teresa Taylor-Partridge",
+        "orcid": "https://orcid.org/0009-0006-4640-0386",
+        "institution": [
+          "recA78eaCj3jEB9GV"
+        ]
+      },
+      {
+        "name": "Chiu Kin Adrian Tsang",
+        "orcid": "https://orcid.org/0000-0003-1475-5570",
+        "institution": [
+          "recuRSyp9US6sjq9x"
+        ]
+      },
+      {
+        "name": "Arkadiusz Urbanek",
+        "orcid": "https://orcid.org/0000-0001-7592-787X",
+        "institution": [
+          "recyCCWSTAbJPbSk3"
+        ]
+      },
+      {
+        "name": "Florina Uzefovsky",
+        "orcid": "https://orcid.org/0000-0003-4571-2514",
+        "institution": [
+          "recbf5lABn9W1TY5w"
+        ]
+      },
+      {
+        "name": "Ingmar Visser",
+        "orcid": "https://orcid.org/0000-0003-3855-2778",
+        "institution": [
+          "recVS4PgwpFkIfuAB"
+        ]
+      },
+      {
+        "name": "Annie E. Wertz",
+        "orcid": "https://orcid.org/0000-0003-2145-5189",
+        "institution": [
+          "recBMvmF1agt5NdRh"
+        ]
+      },
+      {
+        "name": "Madison Williams",
+        "orcid": "https://orcid.org/0000-0001-6519-0456",
+        "institution": [
+          "recI5frtPnaYkieKO"
+        ]
+      },
+      {
+        "name": "Kristina Wolsey",
+        "orcid": "https://orcid.org/0009-0002-0561-0919",
+        "institution": [
+          "recY9LkifMFGIvlnm"
+        ]
+      },
+      {
+        "name": "Terry Tin Yau Wong",
+        "orcid": "https://orcid.org/0000-0002-7377-2453",
+        "institution": [
+          "recuRSyp9US6sjq9x"
+        ]
+      },
+      {
+        "name": "Amanda Mae Woodward",
+        "orcid": "https://orcid.org/0000-0002-8337-5822",
+        "institution": [
+          "rec1rCCXC013Wv8X0"
+        ]
+      },
+      {
+        "name": "Yang Wu",
+        "orcid": "https://orcid.org/0000-0002-0157-4925",
+        "institution": [
+          "recTAGGrXD1BMYo9F"
+        ]
+      },
+      {
+        "name": "Zhen Zeng",
+        "orcid": "https://orcid.org/0000-0001-5069-1100",
+        "institution": [
+          "recn81aHel062ZZIY"
+        ]
+      },
+      {
+        "name": "Lucie Zimmer",
+        "orcid": "https://orcid.org/0000-0002-5766-2991",
+        "institution": [
+          "recU73S0z1CEwpvpj"
+        ]
+      },
+      {
+        "name": "J. Kiley Hamlin",
+        "orcid": "https://orcid.org/0000-0001-6173-9878",
+        "institution": [
+          "recsaYGKSX0NTnDGE"
+        ]
+      }
     ],
     "authorsCondensed": "Lucca, K.*, Yuen, F.*, Capelier-Mourguy, A., Cirelli, L., Byers-Heinlein, K., Dal Ben, R., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., Wang, Y., & Hamlin, J. K.",
     "year": "2025",
