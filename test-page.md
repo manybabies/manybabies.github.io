@@ -16,10 +16,10 @@ subtitle: page for testing stuff out
 
 <h4>Stage 1 Registered Report</h4>
 <p style="padding-left: 25px; text-indent: -25px"><i>Schuwerk, T.*</i>, <i>Kampis, D.*</i>, Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K., Dörrenberg, S., Fisher, C., Franchin, L., Fulcher, T., Garbisch, I., Geraci, A., Grosse Wiesmann, C., Hamlin, K., Haun, D. B. M., Hepach, R., Hunnius, S., Hyde, D. C., Karman, P., … Rakoczy, H. (accepted pending data collection). <b>Action anticipation based on an agent's epistemic state in toddlers and adults</b>. <i>Child Development</i>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/x4jbm" target="_blank">https://doi.org/10.31234/osf.io/x4jbm</a> <i>(*co-first authors)</i></p>
--->
+
 
 {% assign pubs = site.data.publications | where: "project", "MB1" %}
-{% for pub in pubs %} <!--- loop over main projects -->
+{% for pub in pubs %} <!--- loop over main projects 
   <div class="container">
     <div class="row">
       <div class="col-sm-2" align="center">
@@ -34,6 +34,7 @@ subtitle: page for testing stuff out
     </div>
   </div>
 {% endfor %}
+-->
 
 {% assign pubs = site.data.publications | where: "project", "MB-Demographics" %}
 {% for pub in pubs %} <!--- loop over main projects -->
@@ -48,10 +49,10 @@ subtitle: page for testing stuff out
           <summary><code>View full author list</code></summary>
           {% for author in pub.authors %}
             {% if author.orcid %}
-              <a href="{{ author.orcid }}">{{ author.name }}</a> 
+              {{ author.name }} <a href="{{ author.orcid }}"><img src="/assets/img/orcid.png" height="15"></a> 
             {% else %}
               {{ author.name }}
-            {% endif %}{% unless forloop.last %}, {% endunless %}
+            {% endif %}{% unless forloop.last %}<br> {% endunless %}
           {% endfor %}
         </details>
       </div>
