@@ -34,3 +34,17 @@ subtitle: page for testing stuff out
     </div>
   </div>
 {% endfor %}
+
+{% assign pubs = site.data.publications | where: "project", "MB1" %}
+{% for pub in pubs %} <!--- loop over main projects -->
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-2" align="center">
+        <a href="https://{{pub.website }}"><img src="{{ pub.logoPath }}" alt="{{ pub.project}} logo" width="70" style="margin-top:4px;"></a>        
+      </div>
+      <div class="col-sm-10">
+        {{ pub.authorsCondensed }} ({{ pub.year }}). {{pub.title}}. <i>{{pub.journal}}, {{pub.issue}}</i>({{ pub.issue }}), {{ pub.pages }}. <a href="{{ pub.journalLink }}" target="_blank">{{ pub.journalLink}}</a>
+      </div>
+    </div>
+  </div>
+{% endfor %}
