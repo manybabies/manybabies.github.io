@@ -1,6 +1,9 @@
 [
   {
     "id": "rec0mdpjV6me6lpxk",
+    "project": [
+      "MB1B"
+    ],
     "title": "A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech",
     "authors": [
       "Krista Byers-Heinlein",
@@ -48,6 +51,9 @@
   },
   {
     "id": "rec5x9OKO8cozFMnC",
+    "project": [
+      "ManyBabies"
+    ],
     "title": "A collaborative approach to infant research: Promoting reproducibility, best practices, and theory-building",
     "authors": [
       "Michael C. Frank",
@@ -75,6 +81,9 @@
   },
   {
     "id": "rec7JzkDrr5xNmqRB",
+    "project": [
+      "MB1G"
+    ],
     "title": "The development of gaze following in monolingual and bilingual infants: A multi-lab study",
     "authors": [
       "Krista Byers-Heinlein",
@@ -111,6 +120,9 @@
   },
   {
     "id": "recCiTeBa8n5zF1Ep",
+    "project": [
+      "MB-Demographics"
+    ],
     "title": "Tools of the Trade: A guide to sociodemographic reporting for researchers, reviewers, and editors",
     "authors": [
       "Leher Singh",
@@ -134,6 +146,9 @@
   },
   {
     "id": "recF6uX0W1jQOG11T",
+    "project": [
+      "MB-AtHome"
+    ],
     "title": "A Global Perspective on Testing Infants Online: Introducing ManyBabies-AtHome",
     "authors": [
       "Lorijn Zaadnoordijk",
@@ -148,6 +163,9 @@
   },
   {
     "id": "recFInrAoGXJJdeNu",
+    "project": [
+      "ManyBabies"
+    ],
     "title": "Improving the generalizability of infant psychological research: The ManyBabies model",
     "authors": [
       "Ingmar Visser",
@@ -185,6 +203,9 @@
   },
   {
     "id": "recMITvDuwk1oZlqV",
+    "project": [
+      "MB-Demographics"
+    ],
     "title": "A unified approach to demographic data collection for research with young children across diverse cultures",
     "authors": [
       "Leher Singh",
@@ -218,6 +239,9 @@
   },
   {
     "id": "recMQSZmD4MWaWZdw",
+    "project": [
+      "MB1T"
+    ],
     "title": "Limited evidence of test-retest reliability in infant-directed speech preference in a large pre-registered infant sample",
     "authors": [
       "Melanie S. Schreiner",
@@ -243,6 +267,9 @@
   },
   {
     "id": "recOq9kyOQLpm5nYn",
+    "project": [
+      "ManyBabies"
+    ],
     "title": "How to build up big team science: a practical guide for large-scale collaborations",
     "authors": [
       "Heidi A. Baumgartner",
@@ -262,6 +289,9 @@
   },
   {
     "id": "recQ8MsScpfU6EETv",
+    "project": [
+      "MB1L"
+    ],
     "title": "Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study",
     "authors": [
       "Melanie Soderstrom",
@@ -313,6 +343,9 @@
   },
   {
     "id": "recYEfV4RB5XYxfOF",
+    "project": [
+      "MB1-Africa"
+    ],
     "title": "Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa",
     "authors": [
       "Angeline Sin Mei Tsui",
@@ -360,6 +393,9 @@
   },
   {
     "id": "reccUAkClsTA9nbXd",
+    "project": [
+      "ManyBabies"
+    ],
     "title": "Building a collaborative psychological science: Lessons learned from ManyBabies 1",
     "authors": [
       "Krista Byers-Heinlein",
@@ -384,6 +420,9 @@
   },
   {
     "id": "reciTSqXkqc7XaEfq",
+    "project": [
+      "MB6"
+    ],
     "title": "ManyBabies 6: A Multi-Lab Investigation of Neonatal and Early Imitation (Stage 1 Registered Report)",
     "authors": [
       "Andrew N. Meltzoff",
@@ -424,6 +463,9 @@
   },
   {
     "id": "reck5PCIEwXMGKMn7",
+    "project": [
+      "MB1-Meta"
+    ],
     "title": "Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis",
     "authors": [
       "Martin Zettersten",
@@ -448,6 +490,9 @@
   },
   {
     "id": "reckI3Tk0CGd5eUnh",
+    "project": [
+      "MB3"
+    ],
     "title": "ManyBabies 3: A Multi-Lab Study of Infant Algebraic Rule Learning",
     "authors": [
       "Ingmar Visser",
@@ -540,6 +585,9 @@
   },
   {
     "id": "recmK1mabSBhE71EE",
+    "project": [
+      "MB5"
+    ],
     "title": "ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time (Stage 1 Registered Report)",
     "authors": [],
     "year": "2024",
@@ -548,6 +596,9 @@
   },
   {
     "id": "recn3yCvkG6CdejLD",
+    "project": [
+      "MB-ManyWebcams"
+    ],
     "title": "Validation of an open source, remote web-based eye-tracking method (WebGazer) for research in early childhood",
     "authors": [
       "Adrian Steffan",
@@ -590,6 +641,9 @@
   },
   {
     "id": "recoa4lQ1obT0Lj54",
+    "project": [
+      "MB3L"
+    ],
     "title": "The relationship between rule learning in infancy (5-12 months) and language skills at 24-30 months",
     "authors": [
       "Anna Exner",
@@ -607,6 +661,9 @@
   },
   {
     "id": "recr7zt1Kt5Oj6tRS",
+    "project": [
+      "MB1SA-Demo"
+    ],
     "title": "The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes.",
     "authors": [
       "Melissa Kline Struhl"
@@ -617,6 +674,9 @@
   },
   {
     "id": "recsVkn9JQxmQ90ET",
+    "project": [
+      "ManyBabies"
+    ],
     "title": "What 5000 Babies Can Tell Us About Developing Minds and How to Study Them",
     "authors": [
       "Brianna T. M. McMillan",
@@ -643,6 +703,9 @@
   },
   {
     "id": "rectNjhjoU3OInjrJ",
+    "project": [
+      "MB2"
+    ],
     "title": "Action anticipation based on an agent's epistemic state in toddlers and adults",
     "authors": [],
     "year": "2022",
@@ -651,6 +714,9 @@
   },
   {
     "id": "recx7qwSaYGSMp7xq",
+    "project": [
+      "MB1"
+    ],
     "title": "Quantifying Sources of Variability in Infancy Research Using the Infant-Directed-Speech Preference",
     "authors": [
       "Michael C. Frank",
@@ -809,6 +875,9 @@
   },
   {
     "id": "reczNaafJYD4WKGc9",
+    "project": [
+      "MB4"
+    ],
     "title": "Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study.",
     "authors": [
       "Kelsey Lucca",
