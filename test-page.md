@@ -51,10 +51,10 @@ subtitle: page for testing stuff out
               <a href="{{ author.orcid }}">{{ author.name }}</a> 
             {% else %}
               {{ author.name }}
-            {% endif % }{% unless forloop.last %}, {% endunless %}
+            {% endif %}{% unless forloop.last %}, {% endunless %}
           {% endfor %}
         </details>
       </div>
     </div>
-  </div>
+  </div>  
 {% endfor %}
