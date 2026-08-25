@@ -61,16 +61,22 @@ async function main() {
 
   // Build a lookup: record ID -> display name
   // Adjust "Name" below to whatever the actual field is called in your People table
-  const nameById = {};
+  const personById = {};
   peopleRecords.forEach(r => {
-    nameById[r.id] = r.fields.Name || r.fields['Full Name'] || 'Unknown';
+    const f = r.fields;
+    personById[r.id] = {
+      name: f.Name || f['Full Name'] || 'Unknown',
+      orcid: f['🟢 ORCiD'] || null,
+      institution: f['🏫 Primary Affiliation'] || null
+      // add any other fields you want available
+    };
   });
 
   const records = projectRecords.map(r => {
     const f = r.fields;
     const { title, description } = splitTopic(f.Topic);
     const leadIds = f['Project Leads'] || [];
-    const leadNames = leadIds.map(id => nameById[id] || id);
+    const leadNames = leadIds.map(id => personById[id] || id);
 
     return {
       id: r.id,
@@ -122,9 +128,9 @@ async function main() {
   const publications = publicationRecords.map(r => {
     const f = r.fields;
     const authorIds = f.Authors || [];  // adjust to your actual field name once confirmed
-    const authorNames = authorIds.map(id => nameById[id] || id);
+    const authorNames = authorIds.map(id => personById[id] || id);
     const projectIds = f.Project || [];  // adjust to your actual field name once confirmed
-    const projectRecords = projectIds.map(id => projectById[id] || id);
+    const projectRecords = projectIds.map(id => projectById[id] || { name: id, orcid: null, institution: null });
   
     return {
       id: r.id,

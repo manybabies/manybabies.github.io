@@ -35,7 +35,7 @@ subtitle: page for testing stuff out
   </div>
 {% endfor %}
 
-{% assign pubs = site.data.publications | where: "project", "MB1" %}
+{% assign pubs = site.data.publications | where: "project", "MB-Demographics" %}
 {% for pub in pubs %} <!--- loop over main projects -->
   <div class="container">
     <div class="row">
@@ -44,6 +44,16 @@ subtitle: page for testing stuff out
       </div>
       <div class="col-sm-10">
         {{ pub.authorsCondensed }} ({{ pub.year }}). {{pub.title}}. <i>{{pub.journal}}, {{pub.issue}}</i>({{ pub.issue }}), {{ pub.pages }}. <a href="{{ pub.journalLink }}" target="_blank">{{ pub.journalLink}}</a>
+        <details>
+          <summary><code>View full author list</code></summary>
+          {% for author in pub.authors %}
+            {% if author.orcid %}
+              <a href="{{ author.orcid }}">{{ author.name }}</a>, {{ author.institution }} 
+            {% else %}
+              {{ author.name }}
+            {% endif % }{% unless forloop.last %}<br> {% endunless %}
+          {% endfor %}
+        </details>
       </div>
     </div>
   </div>
