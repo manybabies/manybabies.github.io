@@ -133,7 +133,9 @@ async function main() {
       authors: authorNames,
       year: f.Year || null,
       journalLink: f['Journal DOI'] || null,
-      preprintLink: f['Preprint DOI'] || null
+      preprintLink: f['Preprint DOI'] || null,
+      logoPath: f['Logo Path'] || null,
+      website: f.Website
     };
   });
 
