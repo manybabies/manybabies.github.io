@@ -112,13 +112,23 @@ async function main() {
   fs.writeFileSync('_data/airtable.json', JSON.stringify(records, null, 2));
   console.log(`Wrote ${records.length} records to _data/airtable.json`);
   
+  // Build a lookup: record ID -> display name
+  // Adjust "Name" below to whatever the actual field is called in your Project table
+  const nameById = {};
+  projectRecords.forEach(r => {
+    projectById[r.id] = r.fields.Project || r.fields['Project Name'] || 'Unknown';
+  });
+  
   const publications = publicationRecords.map(r => {
     const f = r.fields;
     const authorIds = f.Authors || [];  // adjust to your actual field name once confirmed
     const authorNames = authorIds.map(id => nameById[id] || id);
+    const projectIds = f.Project || [];  // adjust to your actual field name once confirmed
+    const projectRecords = projectIds.map(id => projectById[id] || id);
   
     return {
       id: r.id,
+      
       title: f.Title || null,
       authors: authorNames,
       year: f.Year || null,
