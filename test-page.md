@@ -48,10 +48,10 @@ subtitle: page for testing stuff out
           <summary><code>View full author list</code></summary>
           {% for author in pub.authors %}
             {% if author.orcid %}
-              <a href="{{ author.orcid }}">{{ author.name }}</a>, {{ author.institution }} 
+              <a href="{{ author.orcid }}">{{ author.name }}</a> 
             {% else %}
               {{ author.name }}
-            {% endif % }{% unless forloop.last %}<br> {% endunless %}
+            {% endif % }{% unless forloop.last %}, {% endunless %}
           {% endfor %}
         </details>
       </div>
