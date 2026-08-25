@@ -69,7 +69,6 @@ async function main() {
   const records = projectRecords.map(r => {
     const f = r.fields;
     const { title, description } = splitTopic(f.Topic);
-
     const leadIds = f['Project Leads'] || [];
     const leadNames = leadIds.map(id => nameById[id] || id);
 
@@ -92,22 +91,6 @@ async function main() {
     };
   });
   
-  const publications = publicationRecords.map(r => {
-  const f = r.fields;
-  
-  const authorIds = f.Authors || [];  // adjust to your actual field name once confirmed
-  const authorNames = authorIds.map(id => nameById[id] || id);
-
-  return {
-    id: r.id,
-    title: f.Title || null,
-    authors: f.Authors || null,
-    year: f.Year || null,
-    journalLink: f['Journal DOI'] || null,
-    preprintLink: f['Preprint DOI'] || null
-  };
-});
-
   const typeOrder = { "Main": 0, "Spin-off": 1, "Secondary analysis": 2 };
   
   records.sort((a, b) => {
@@ -128,6 +111,24 @@ async function main() {
 
   fs.writeFileSync('_data/airtable.json', JSON.stringify(records, null, 2));
   console.log(`Wrote ${records.length} records to _data/airtable.json`);
+  
+  const publications = publicationRecords.map(r => {
+    const f = r.fields;
+    const authorIds = f.Authors || [];  // adjust to your actual field name once confirmed
+    const authorNames = authorIds.map(id => nameById[id] || id);
+  
+    return {
+      id: r.id,
+      title: f.Title || null,
+      authors: f.Authors || null,
+      year: f.Year || null,
+      journalLink: f['Journal DOI'] || null,
+      preprintLink: f['Preprint DOI'] || null
+    };
+  });
+
+  fs.writeFileSync('_data/publications.json', JSON.stringify(publications, null, 2));
+  console.log(`Wrote ${publications.length} records to _data/publications.json`);
 }
 
 main().catch(err => {
