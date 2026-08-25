@@ -128,7 +128,7 @@ async function main() {
   
     return {
       id: r.id,
-      
+      project: projectRecords,
       title: f.Title || null,
       authors: authorNames,
       year: f.Year || null,
