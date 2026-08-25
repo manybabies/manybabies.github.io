@@ -4,6 +4,7 @@ const fs = require('fs');
 const BASE_ID = process.env.AIRTABLE_BASE_ID;
 const TABLE = process.env.AIRTABLE_TABLE_NAME; // e.g., "Projects"
 const PEOPLE_TABLE = process.env.AIRTABLE_PEOPLE_TABLE; // e.g. "People"
+const PUBLICATION_TABLE = process.env.AIRTABLE_PUBLICATION_TABLE;   // ← new
 const TOKEN = process.env.AIRTABLE_TOKEN;
 
 console.log('DEBUG - BASE_ID:', BASE_ID, 'TABLE:', TABLE, 'PEOPLE_TABLE:', PEOPLE_TABLE);
@@ -54,9 +55,10 @@ function splitTopic(topic) {
 }
 
 async function main() {
-  const [projectRecords, peopleRecords] = await Promise.all([
+  const [projectRecords, peopleRecords, publicationRecords] = await Promise.all([
     getAllRecords(TABLE),
-    getAllRecords(PEOPLE_TABLE)
+    getAllRecords(PEOPLE_TABLE),
+    getAllRecords(PUBLICATION_TABLE)
   ]);
 
   // Build a lookup: record ID -> display name
@@ -91,6 +93,22 @@ async function main() {
       slack: f.Slack
     };
   });
+  
+  const publications = publicationRecords.map(r => {
+  const f = r.fields;
+  
+  const authorIds = f.Authors || [];  // adjust to your actual field name once confirmed
+  const authorNames = authorIds.map(id => nameById[id] || id);
+
+  return {
+    id: r.id,
+    title: f.Title || null,
+    authors: f.Authors || null,
+    year: f.Year || null,
+    journalLink: f['Journal DOI'] || null,
+    preprintLink: f['Preprint DOI'] || null
+  };
+});
 
   const typeOrder = { "Main": 0, "Spin-off": 1, "Secondary analysis": 2 };
   
