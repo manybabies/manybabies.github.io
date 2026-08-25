@@ -114,7 +114,7 @@ async function main() {
   
   // Build a lookup: record ID -> display name
   // Adjust "Name" below to whatever the actual field is called in your Project table
-  const nameById = {};
+  const projectById = {};
   projectRecords.forEach(r => {
     projectById[r.id] = r.fields.Project || r.fields['Project Name'] || 'Unknown';
   });
