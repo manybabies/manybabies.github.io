@@ -46,6 +46,7 @@
       "Stephanie Wermelinger"
     ],
     "year": "2021",
+    "journal": "_Advances in Methods and Practices in Psychological Science_\n",
     "journalLink": "https://doi.org/10.1177/2515245920974622",
     "preprintLink": "https://doi.org/10.31234/osf.io/sqh9d",
     "logoPath": [
@@ -53,7 +54,8 @@
     ],
     "website": [
       "manybabies.org/MB1B"
-    ]
+    ],
+    "fullCitation": "Byers-Heinlein, K., Tsui, A. S. M., Bergmann, C., Black, A. K., Brown, A., Carbajal, M. J., Durrant, S., Fennell, C. T., Fiévet, A., Frank, M. C., Gampe, A., Gervain, J., Gonzalez-Gomez, N., Hamlin, J. K., Havron, N., Hernik, M., Kerr, S., Killam, H., Klassen, K., ... Wermelinger, S. (2021). A multi-lab study of bilingual infants: Exploring the preference for infant-directed speech. _Advances in Methods and Practices in Psychological Science, 4_(1), 1-30. <https://doi.org/10.1177/2515245920974622>\n"
   },
   {
     "id": "rec5x9OKO8cozFMnC",
@@ -82,6 +84,7 @@
       "Daniel Yurovsky"
     ],
     "year": "2017",
+    "journal": "_Infancy_\n",
     "journalLink": "https://doi.org/10.1111/infa.12182",
     "preprintLink": "https://doi.org/10.31234/osf.io/27b43",
     "logoPath": [
@@ -89,7 +92,8 @@
     ],
     "website": [
       "manybabies.org"
-    ]
+    ],
+    "fullCitation": "Frank, M. C., Bergelson, E., Bergmann, C., Cristia, A., Floccia, C., Gervain, J., Hamlin, J. K., Hannon, E. E., Kline, M., Levelt, C., Lew-Williams, C., Nazzi, T., Panneton, R., Rabagliati, H., Soderstrom, M., Sullivan, J., Waxman, S., & Yurovsky, D. (2017). A collaborative approach to infant research: Promoting reproducibility, best practices, and theory-building. _Infancy, 22_(4), 421-435. <https://doi.org/10.1111/infa.12182>\n"
   },
   {
     "id": "rec7JzkDrr5xNmqRB",
@@ -127,6 +131,7 @@
       "Leher Singh"
     ],
     "year": "2020",
+    "journal": "_Infancy_\n",
     "journalLink": "https://doi.org/10.1111/infa.12360",
     "preprintLink": "https://doi.org/10.31234/osf.io/sgfhv",
     "logoPath": [
@@ -134,7 +139,8 @@
     ],
     "website": [
       "manybabies.org/MB1G"
-    ]
+    ],
+    "fullCitation": "Byers-Heinlein, K., Tsui, R. K. Y., van Renswoude, D., Black, A. K., Barr, R., Brown, A., Colomer, M., Durrant, S., Gampe, A., Gonzalez-Gomez, N., Hay, J. F., Hernik, M., Jartó, M., Kovács, A. M., Laoun-Rubenstein, A., Lew-Williams, C., Liszkowski, U., Liu, L., Noble, C., ... Singh, L. (2020). The development of gaze following in monolingual and bilingual infants: A multi-lab study. _Infancy, 26_(1), 4-38. <https://doi.org/10.1111/infa.12360>\n"
   },
   {
     "id": "recCiTeBa8n5zF1Ep",
@@ -159,6 +165,7 @@
       "Michael C. Frank"
     ],
     "year": "2024",
+    "journal": "_Journal of Cognition and Development_\n",
     "journalLink": "https://doi.org/10.1080/15248372.2024.2431106",
     "preprintLink": "https://doi.org/10.31234/osf.io/cz3bv",
     "logoPath": [
@@ -166,7 +173,8 @@
     ],
     "website": [
       "manybabies.org/MB-Demographics"
-    ]
+    ],
+    "fullCitation": "Singh, L., Barokova, M., Bazhydai, M., Baumgartner, H. A., Franchin, L., Kosie, J., Lew-Williams, C., Omane, P. O., Reinelt, T., Schuwerk, T., Sheskin, M., Soderstrom, M., Wu, Y., & Frank, M. C. (2024). Tools of the Trade: A guide to sociodemographic reporting for researchers, reviewers, and editors. _Journal of Cognition and Development, 26_(3), 354–373. <https://doi.org/10.1080/15248372.2024.2431106>\n"
   },
   {
     "id": "recF6uX0W1jQOG11T",
@@ -182,6 +190,7 @@
       "Christina Bergmann"
     ],
     "year": "2021",
+    "journal": "_Frontiers in Psychology_\n",
     "journalLink": "https://doi.org/10.3389/fpsyg.2021.703234",
     "preprintLink": null,
     "logoPath": [
@@ -189,7 +198,8 @@
     ],
     "website": [
       "manybabies.org/MB-AtHome"
-    ]
+    ],
+    "fullCitation": "Zaadnoordijk, L., Buckler, H., Cusack, R., Tsuji, S., & Bergmann, C. (2021). A Global Perspective on Testing Infants Online: Introducing ManyBabies-AtHome. _Frontiers in Psychology, 12_, 703234. <https://doi.org/10.3389/fpsyg.2021.703234>\n"
   },
   {
     "id": "recFInrAoGXJJdeNu",
@@ -228,6 +238,7 @@
       "Martin Zettersten"
     ],
     "year": "2022",
+    "journal": "_Behavioral and Brain Sciences_\n",
     "journalLink": "https://doi.org/10.1017/S0140525X21000455",
     "preprintLink": "https://doi.org/10.31234/osf.io/8vwbf",
     "logoPath": [
@@ -235,7 +246,8 @@
     ],
     "website": [
       "manybabies.org"
-    ]
+    ],
+    "fullCitation": "Visser, I., Bergmann, C., Byers-Heinlein, K., Dal Ben, R., Duch, W., Forbes, S., Franchin, L., Frank, M. C., Geraci, A., Hamlin, J. K., Kaldy, Z., Kulke, L., Laverty, C., Lew-Williams, C., Mateu, V., Mayor, J., Moreau, D., Nomikou, I., Schuwerk, T., ... Zettersten, M. (2022). Improving the generalizability of infant psychological research: The ManyBabies model (Commentary). _Behavioral and Brain Sciences, 45_, e35. <https://doi.org/10.1017/S0140525X21000455>\n"
   },
   {
     "id": "recMITvDuwk1oZlqV",
@@ -270,6 +282,7 @@
       "Michael C. Frank"
     ],
     "year": "2024",
+    "journal": "_Developmental Psychology_\n",
     "journalLink": "https://doi.org/10.1037/dev0001623",
     "preprintLink": "https://doi.org/10.31234/osf.io/agt3d",
     "logoPath": [
@@ -277,7 +290,8 @@
     ],
     "website": [
       "manybabies.org/MB-Demographics"
-    ]
+    ],
+    "fullCitation": "Singh, L., Barokova, M. D., Baumgartner, H. A., Lopera-Perez, D. C., Omane, P. O., Sheskin, M., Yuen, F. L., Wu, Y., Alcock, K. J., Altmann, E. C., Bazhydai, M., Carstensen, A., Chan, K. C. J., Chuan-Peng, H., Dal Ben, R., Franchin, L., Kosie, J. E., Lew-Williams, C., Okocha, A., … Frank, M. C. (2024). A unified approach to demographic data collection for research with young children across diverse cultures. _Developmental Psychology_, _60_(2), 211–227. <https://doi.org/10.1037/dev0001623>\n"
   },
   {
     "id": "recMQSZmD4MWaWZdw",
@@ -304,6 +318,7 @@
       "Matthias Lippold"
     ],
     "year": "2024",
+    "journal": "_Developmental Science_\n",
     "journalLink": "https://doi.org/10.1111/desc.13551",
     "preprintLink": "https://doi.org/10.31234/osf.io/uwche",
     "logoPath": [
@@ -311,7 +326,8 @@
     ],
     "website": [
       "manybabies.org/MB1T"
-    ]
+    ],
+    "fullCitation": "Schreiner, M. S., Zettersten, M., Bergmann, C., Frank, M. C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, J. K., Kartushina, N., Kellier, D. J., Mani, N., Mayor, J., Saffran, J. R., Shukla, M., Silverstein, P., Soderstrom, M., & Lippold, M. (2024). Limited evidence of test-retest reliability in infant-directed speech preference in a large pre-registered infant sample. _Developmental Science_, e13551. <https://doi.org/10.1111/desc.13551>\n"
   },
   {
     "id": "recOq9kyOQLpm5nYn",
@@ -332,6 +348,7 @@
       "Nicholas A. Coles"
     ],
     "year": "2023",
+    "journal": "_Royal Society Open Science_\n",
     "journalLink": "https://doi.org/10.1098/rsos.230235",
     "preprintLink": "https://doi.org/10.31234/osf.io/j7mt4",
     "logoPath": [
@@ -339,7 +356,8 @@
     ],
     "website": [
       "manybabies.org"
-    ]
+    ],
+    "fullCitation": "Baumgartner, H.A., Alessandroni, N., Byers-Heinlein, K., Frank, M.C., Hamlin, J.K., Soderstrom, M., Voelkel, J.G., Willer, R., Yuen, F., & Coles, N.A. (2023). How to build up big team science: a practical guide for large-scale collaborations. _Royal Society Open Science, 10_, 230235. <https://doi.org/10.1098/rsos.230235>\n"
   },
   {
     "id": "recQ8MsScpfU6EETv",
@@ -392,6 +410,7 @@
       "Angeline Sin Mei Tsui"
     ],
     "year": "2024",
+    "journal": "_Journal of Child Language_\n",
     "journalLink": "https://doi.org/10.1017/S0305000924000254",
     "preprintLink": "https://docs.google.com/document/d/1CbLIEsJkQUctAW8a0VgW59hNMHGwyzSXkhWSFzlQYFE/edit?usp=sharing",
     "logoPath": [
@@ -399,7 +418,8 @@
     ],
     "website": [
       "manybabies.org/MB1L"
-    ]
+    ],
+    "fullCitation": "Soderstrom, M., Rocha-Hidalgo, J., Muñoz, L. E., Bochynska, A., Werker, J. F., Skarabela, B., Seidl, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Olesen, N. M., Nave, K., Mayor, J., Martin, A., Machon, L. C., Lew-Williams, C., Ko, E., Kim, H., Kartushina, N., ... Tsui, A. S. M. (2024). Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study. _Journal of Child Language_, _52_(5), 984-1009. <https://doi.org/10.1017/S0305000924000254>\n"
   },
   {
     "id": "recYEfV4RB5XYxfOF",
@@ -448,6 +468,7 @@
       "Michael C. Frank"
     ],
     "year": "2026",
+    "journal": "_Developmental Science_\n",
     "journalLink": "https://doi.org/10.1111/desc.70242",
     "preprintLink": "https://doi.org/10.31234/osf.io/dc93n_v1",
     "logoPath": [
@@ -455,7 +476,8 @@
     ],
     "website": [
       "manybabies.org/MB1A"
-    ]
+    ],
+    "fullCitation": "Tsui, A. S. M., Carstensen, A., Kachergis, G., Cao, A., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D. M., Bentu, D., Bergmann, C., Dami, E. B., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Duah, R. A., Herrmann, E., Jang, C., Kizito, S., Lamba, T., … Frank, M. C. (2026). Exploring Variation in Infants’ Preference for Infant-directed Speech: Evidence From a Multi-Site Study in Africa. _Developmental Science_, 29(5), e70242. <https://doi.org/10.1111/desc.70242>\n"
   },
   {
     "id": "reccUAkClsTA9nbXd",
@@ -481,6 +503,7 @@
       "Melanie Soderstrom"
     ],
     "year": "2020",
+    "journal": "_Canadian Psychology_\n",
     "journalLink": "https://doi.org/10.1037/cap0000216",
     "preprintLink": "https://doi.org/10.31234/osf.io/s98ab",
     "logoPath": [
@@ -488,7 +511,8 @@
     ],
     "website": [
       "manybabies.org"
-    ]
+    ],
+    "fullCitation": "Byers-Heinlein, K., Bergmann, C., Davies, C., Frank, M. C., Hamlin, J. K., Kline, M., Kominsky, J. F., Kosie, J. E., Lew-Williams, C., Liu, L., Mastroberardino, M., Singh, L., Waddell, C. P. G., Zettersten, M., & Soderstrom, M. (2020). Building a collaborative Psychological Science: Lessons from ManyBabies 1. _Canadian Psychology, 61_(4), 349 –363. <https://doi.org/10.1037/cap0000216>\n"
   },
   {
     "id": "reciTSqXkqc7XaEfq",
@@ -530,6 +554,7 @@
       "Guangyu Zeng"
     ],
     "year": "2026",
+    "journal": "PsyArXiv\n",
     "journalLink": null,
     "preprintLink": "https://doi.org/10.31234/osf.io/fe7pj_v1",
     "logoPath": [
@@ -537,7 +562,8 @@
     ],
     "website": [
       "manybabies.org/MB6"
-    ]
+    ],
+    "fullCitation": "Meltzoff, A. N., Farwaha, S., Slaughter, V., Simpson, E. A., Brooks, R., Nielsen, M., Baumgartner, H. A., Bayet, L., Benavides-Varela, S., Boyce, V., Byers-Heinlein, K., Dönicke, J., Flaherty, B. P., Forbes, S. H., Frank, M. C., Geraci, A., Hamlin, K., Heimann, M., Keven, N., … Zeng, G. (2026). ManyBabies 6: A Multi-Lab Investigation of Neonatal and Early Imitation (Fe7pj\\_v1). PsyArXiv. <https://osf.io/preprints/psyarxiv/fe7pj_v1/>\n"
   },
   {
     "id": "reck5PCIEwXMGKMn7",
@@ -563,6 +589,7 @@
       "Maya B. Mathur"
     ],
     "year": "2024",
+    "journal": "_Open Mind: Discoveries in Cognitive Science_\n",
     "journalLink": "https://doi.org/10.1162/opmi_a_00134",
     "preprintLink": "https://doi.org/10.31234/osf.io/etqs7",
     "logoPath": [
@@ -570,7 +597,8 @@
     ],
     "website": [
       "manybabies.org/MB1SA"
-    ]
+    ],
+    "fullCitation": "Zettersten, M.\\*, Cox, C. M. M.\\*, Bergmann, C.\\*, Tsui, A. S. M., Soderstrom, M., Mayor, J., Lundwall, R. A., Lewis, M., Kosie, J. E., Kartushina, N., Fusaroli, R., Frank, M. C., Byers-Heinlein, K., Black, A. K., & Mathur, M. B. (2024). Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis. _Open Mind: Discoveries in Cognitive Science, 8,_ 439–461. <https://doi.org/10.1162/opmi_a_00134>\n"
   },
   {
     "id": "reckI3Tk0CGd5eUnh",
@@ -664,6 +692,7 @@
       "Melanie Soderstrom"
     ],
     "year": "2026",
+    "journal": "_Developmental Science_\n",
     "journalLink": null,
     "preprintLink": "https://osf.io/preprints/psyarxiv/ghrdt_v3",
     "logoPath": [
@@ -671,7 +700,8 @@
     ],
     "website": [
       "manybabies.org/MB3"
-    ]
+    ],
+    "fullCitation": "Visser, I., Geambașu, A., Kachergis, G., Oliveira, C. M., Rocha-Hidalgo, J., Zettersten, M., Ahamat, T. M., Alessandroni, N., Althaus, N., Arunachalam, S., Aussems, S., Axelsson, E., Aydin, Z., Baumgartner, H. A., Bergmann, C., Bettoni, R., Black, A., Bulf, H., Byers-Heinlein, K., … Levelt, C. (2026). ManyBabies 3: A Multi-Lab Study of Infant Algebraic Rule Learning (Ghrdt\\_v2). PsyArXiv. [https://osf.io/preprints/psyarxiv/ghrdt\\_v3/](https://osf.io/preprints/psyarxiv/ghrdt_v2/)\n"
   },
   {
     "id": "recmK1mabSBhE71EE",
@@ -681,6 +711,7 @@
     "title": "ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time (Stage 1 Registered Report)",
     "authors": [],
     "year": "2024",
+    "journal": "PsyArXiv\n",
     "journalLink": null,
     "preprintLink": "https://doi.org/10.31234/osf.io/ck3vd_v1",
     "logoPath": [
@@ -688,7 +719,8 @@
     ],
     "website": [
       "manybabies.org/MB5"
-    ]
+    ],
+    "fullCitation": "Kosie, J. E.\\*, Zettersten, M.\\*, Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H. A., Bazhydai, M., Belia, M., Benavides-Varela, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., ... Lew-Williams, C. (2024, March). ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time. _Nature Human Behaviour_. (\\*co-first authors). \n"
   },
   {
     "id": "recn3yCvkG6CdejLD",
@@ -732,6 +764,7 @@
       "Tobias Schuwerk"
     ],
     "year": "2024",
+    "journal": "_Infancy_\n",
     "journalLink": "https://doi.org/10.1111/infa.12564",
     "preprintLink": "https://doi.org/10.31234/osf.io/7924h",
     "logoPath": [
@@ -739,7 +772,8 @@
     ],
     "website": [
       "manybabies.org/MB-ManyWebcams"
-    ]
+    ],
+    "fullCitation": "Steffan, A., Zimmer, L., Arias-Trejo, N., Bohn, M., Dal Ben, R., Flores-Coronado, M. A., Franchin, L., Garbisch, I., Grosse Wiesmann, C., Hamlin, J. K., Havron, N., Hay, J. F., Hermansen, T. K., Jakobsen, K. V., Kalinke, S., Ko, E.-S., Kulke, L., Mayor, J., Meristo, M., … Schuwerk, T. (2024). Validation of an open source, remote web-based eye-tracking method (WebGazer) for research in early childhood. _Infancy, 29_(1), 31–55. <https://doi.org/10.1111/infa.12564>\n"
   },
   {
     "id": "recoa4lQ1obT0Lj54",
@@ -758,6 +792,7 @@
       "Martin Zettersten"
     ],
     "year": "2024",
+    "journal": "PsyArXiv\n",
     "journalLink": null,
     "preprintLink": "https://osf.io/hfqkc",
     "logoPath": [
@@ -765,7 +800,8 @@
     ],
     "website": [
       "manybabies.org/MB3L"
-    ]
+    ],
+    "fullCitation": "Exner, A., Bettoni, R., Cantiani, C., Koleini, A., Oliveira, C., Thompson, A., Visser, I., & Zettersten, M. (2024). The relationship between rule learning in infancy (5-12 months) and language skills at 24-30 months. <https://osf.io/hfqkc>\n"
   },
   {
     "id": "recr7zt1Kt5Oj6tRS",
@@ -777,6 +813,7 @@
       "Melissa Kline Struhl"
     ],
     "year": "2018",
+    "journal": "PsyArXiv\n",
     "journalLink": null,
     "preprintLink": "https://osf.io/puxbg",
     "logoPath": [
@@ -784,7 +821,8 @@
     ],
     "website": [
       "manybabies.org/MB1SA"
-    ]
+    ],
+    "fullCitation": "Kline Struhl, M. (2018). The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes. <https://osf.io/puxbg>\n"
   },
   {
     "id": "recsVkn9JQxmQ90ET",
@@ -812,6 +850,7 @@
       "Krista Byers-Heinlein"
     ],
     "year": "2026",
+    "journal": "_Communications Psychology_\n",
     "journalLink": "https://doi.org/10.1038/s44271-026-00477-w",
     "preprintLink": "https://doi.org/10.31234/osf.io/y59sn_v1",
     "logoPath": [
@@ -819,7 +858,8 @@
     ],
     "website": [
       "manybabies.org"
-    ]
+    ],
+    "fullCitation": "McMillan, B. T. M., Baumgartner, H. A., Bergmann, C., Frank, M. C., Hamlin, J. K., Kampis, D., Kline Struhl, M., Ko, E.-S., Kosie, J. E., Lew-Williams, C., Lucca, K., Schuwerk, T., Soderstrom, M., Visser, I., Yuen, F. L., Zettersten, M., & Byers-Heinlein, K. (2026). What 5000 Babies Can Tell Us About Developing Minds and How to Study Them. _Communications Psychology, 4_(1), 92. <https://doi.org/10.1038/s44271-026-00477-w>\n"
   },
   {
     "id": "rectNjhjoU3OInjrJ",
@@ -829,6 +869,7 @@
     "title": "Action anticipation based on an agent's epistemic state in toddlers and adults",
     "authors": [],
     "year": "2022",
+    "journal": "PsyArXiv\n",
     "journalLink": null,
     "preprintLink": "https://doi.org/10.31234/osf.io/x4jbm",
     "logoPath": [
@@ -836,7 +877,8 @@
     ],
     "website": [
       "manybabies.org/MB2"
-    ]
+    ],
+    "fullCitation": "Schuwerk, T.\\*, Kampis, D.\\*, Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K., Dörrenberg, S., Fisher, C., Franchin, L., Fulcher, T., Garbisch, I., Geraci, A., Grosse Wiesmann, C., Hamlin, J. K., Haun, D. B. M., Hepach, R., Hunnius, S., Hyde, D. C., Karman, P., ... Rakoczy, H. (2022, August). Action anticipation based on an agent's epistemic state in toddlers and adults. _Child Development_. (\\*co-first authors). <https://doi.org/10.31234/osf.io/x4jbm>\n"
   },
   {
     "id": "recx7qwSaYGSMp7xq",
@@ -996,6 +1038,7 @@
       "Melanie Soderstrom"
     ],
     "year": "2020",
+    "journal": "_Advances in Methods and Practices in Psychological Science_\n",
     "journalLink": "https://doi.org/10.1177/2515245919900809",
     "preprintLink": "https://doi.org/10.31234/osf.io/s98ab",
     "logoPath": [
@@ -1003,7 +1046,8 @@
     ],
     "website": [
       "manybabies.org/MB1"
-    ]
+    ],
+    "fullCitation": "ManyBabies Consortium (2020). Quantifying sources of variability in infancy research using the infant-directed speech preference. _Advances in Methods and Practices in Psychological Science, 3_(1), 24-52. <https://doi.org/10.1177/2515245919900809>\n"
   },
   {
     "id": "reczNaafJYD4WKGc9",
@@ -1108,6 +1152,7 @@
       "J. Kiley Hamlin"
     ],
     "year": "2025",
+    "journal": "_Developmental Science_\n",
     "journalLink": "https://doi.org/10.1111/desc.13581",
     "preprintLink": "https://doi.org/10.31234/osf.io/qhxkm",
     "logoPath": [
@@ -1115,6 +1160,7 @@
     ],
     "website": [
       "manybabies.org/MB4"
-    ]
+    ],
+    "fullCitation": "Lucca, K.\\*, Yuen, F.\\*, Capelier-Mourguy, A., Cirelli, L., Byers-Heinlein, K., Dal Ben, R., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., Wang, Y., & Hamlin, J. K. (2025). Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study. _Developmental Science, 28_(1). (\\*co-first authors) <https://doi.org/10.1111/desc.13581>\n"
   }
 ]
