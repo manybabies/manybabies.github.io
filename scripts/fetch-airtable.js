@@ -132,11 +132,12 @@ async function main() {
       title: f.Title || null,
       authors: authorNames,
       year: f.Year || null,
+      journal: f.Journal || null,
       journalLink: f['Journal DOI'] || null,
       preprintLink: f['Preprint DOI'] || null,
       logoPath: f['Logo Path'] || null,
-      website: f.Website
-    };
+      website: f.Website,
+      fullCitation: f['Full Citation']};
   });
 
   fs.writeFileSync('_data/publications.json', JSON.stringify(publications, null, 2));

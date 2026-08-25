@@ -24,15 +24,12 @@ subtitle: page for testing stuff out
     <div class="row">
       <div class="col-sm-2" align="center">
         <a href="https://{{pub.website }}"><img src="{{ pub.logoPath }}" alt="{{ pub.project}} logo" width="70" style="margin-top:4px;"></a>        
-        <h3>{{ pub.project }}</h3>
       </div>
       <div class="col-sm-10">
-        <p>
-          <strong>{{ pub.title }}</strong> —
-          {% for author in pub.authors %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}
-          ({{ pub.year }})
+        <h4><a href="https://{{pub.website }}">{{ pub.project }}</a>: {{ pub.title }}</h4>
+        ({{ pub.year }})
+        {% for author in pub.authors %}{{ author }}{% unless forloop.last %}, {% endunless %}{% endfor %}
           {% if pub.journallink %} — <a href="{{ pub.link }}">Read more</a>{% endif %}
-        </p>
       </div>
     </div>
   </div>
