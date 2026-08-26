@@ -53,7 +53,7 @@ Ultimately, MB8 will establish an enduring international research infrastructure
 
 <div>
   <div class="container" style="width:90%; margin:0 auto;" align="center">
-    <img src="/assets/img/mb8-map.png">
+    <img src="/assets/img/mb8-map.png"> 
   </div>
 </div>
 
