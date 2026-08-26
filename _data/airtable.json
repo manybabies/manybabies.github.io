@@ -11,7 +11,9 @@
     "status": "Check CONNECT site",
     "website": "connect-btss.github.io/",
     "leads": [],
-    "logoPath": "/assets/img/connect_logo.png"
+    "logoPath": "/assets/img/connect_logo.png",
+    "slack": null,
+    "color": null
   },
   {
     "id": "recEXIQyAEgJcqhCW",
@@ -62,7 +64,9 @@
       }
     ],
     "logoPath": "/assets/img/mbah-logo.png",
-    "listservSub": "https://groups.google.com/g/InfantLooksAtHome"
+    "listservSub": "https://groups.google.com/g/InfantLooksAtHome",
+    "slack": null,
+    "color": "#F3AD00"
   },
   {
     "id": "recknyuxweQNDGinI",
@@ -100,7 +104,8 @@
     "logoPath": "/assets/img/mbah-spinoff.png",
     "contact": "mbah1@manybabies.org\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mbah1-list",
-    "slack": "**_[#mbah1-lwl-general](https://manybabies.slack.com/archives/C0BBXD0L0F3)_**\n"
+    "slack": "**_[#mbah1-lwl-general](https://manybabies.slack.com/archives/C0BBXD0L0F3)_**",
+    "color": "#F3AD00"
   },
   {
     "id": "recd6S0C8x4BQyQ4G",
@@ -113,7 +118,9 @@
     "status": "Design",
     "website": "manybabies.org/MB-AtHome",
     "leads": [],
-    "logoPath": "/assets/img/mbah-spinoff.png"
+    "logoPath": "/assets/img/mbah-spinoff.png",
+    "slack": null,
+    "color": "#F3AD00"
   },
   {
     "id": "recSTZTL277eUdZPp",
@@ -144,7 +151,9 @@
     ],
     "logoPath": "/assets/img/mbdemo-logo.png",
     "contact": "leher.singh.nus@gmail.com\n",
-    "listservSub": "https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics"
+    "listservSub": "https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics",
+    "slack": null,
+    "color": "#FDE269"
   },
   {
     "id": "recjaanaxFOMIY3sf",
@@ -175,7 +184,9 @@
     ],
     "logoPath": "/assets/img/mb1-logo.png",
     "contact": "M\\_Soderstrom@umanitoba.ca\n",
-    "listservSub": "https://mailman.stanford.edu/mailman/listinfo/manybabies1"
+    "listservSub": "https://mailman.stanford.edu/mailman/listinfo/manybabies1",
+    "slack": null,
+    "color": "#9986A5"
   },
   {
     "id": "reccTsj33msyHzp7T",
@@ -234,7 +245,8 @@
     "logoPath": "/assets/img/mb1-spinoff.png",
     "contact": "mcfrank@stanford.edu\n",
     "listservSub": "https://mailman.stanford.edu/mailman/listinfo/manybabies-africa",
-    "slack": "**_[#mb1a-general](https://manybabies.slack.com/archives/C0425R5RJ72)_**\n"
+    "slack": "**_[#mb1a-general](https://manybabies.slack.com/archives/C0425R5RJ72)_**",
+    "color": "#9986A5"
   },
   {
     "id": "recQuad8F2DWIkPpY",
@@ -256,7 +268,9 @@
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
-    "contact": "K.Byers@concordia.ca\n"
+    "contact": "K.Byers@concordia.ca\n",
+    "slack": null,
+    "color": "#9986A5"
   },
   {
     "id": "recAe3xQsp28sDKpA",
@@ -278,7 +292,9 @@
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
-    "contact": "K.Byers@concordia.ca\n"
+    "contact": "K.Byers@concordia.ca\n",
+    "slack": null,
+    "color": "#9986A5"
   },
   {
     "id": "recvYMeOAUryptskc",
@@ -301,7 +317,9 @@
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
     "contact": "M\\_Soderstrom@umanitoba.ca\n",
-    "listservSub": "https://groups.google.com/u/1/g/mb1-cdi-follow-up"
+    "listservSub": "https://groups.google.com/u/1/g/mb1-cdi-follow-up",
+    "slack": null,
+    "color": "#9986A5"
   },
   {
     "id": "recmz56jpWuQqm8eW",
@@ -338,7 +356,8 @@
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb1n-list",
-    "slack": "**_[#mb1n-general](https://manybabies.slack.com/archives/C046L3JJ06N)_**\n"
+    "slack": "**_[#mb1n-general](https://manybabies.slack.com/archives/C046L3JJ06N)_**",
+    "color": "#9986A5"
   },
   {
     "id": "recUqcSLkl3Al1NnT",
@@ -360,7 +379,9 @@
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
-    "contact": "melanie.schreiner@psych.uni-goettingen.de\n"
+    "contact": "melanie.schreiner@psych.uni-goettingen.de\n",
+    "slack": null,
+    "color": "#9986A5"
   },
   {
     "id": "recSC9tDMb88OGQ0t",
@@ -402,7 +423,9 @@
         ]
       }
     ],
-    "logoPath": "/assets/img/mb1-analysis.png"
+    "logoPath": "/assets/img/mb1-analysis.png",
+    "slack": null,
+    "color": "#9986A5"
   },
   {
     "id": "reciiskNTf2e5tPGW",
@@ -423,7 +446,9 @@
         ]
       }
     ],
-    "logoPath": "/assets/img/mb1-analysis.png"
+    "logoPath": "/assets/img/mb1-analysis.png",
+    "slack": null,
+    "color": "#9986A5"
   },
   {
     "id": "rect0zt1fH8lZ41nA",
@@ -469,7 +494,8 @@
     "logoPath": "/assets/img/mb2-logo.png",
     "contact": "manybabies2@gmail.com\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb2-list",
-    "slack": "**_[#mb2-general](https://manybabies.slack.com/archives/C03U90GNJ03)_**\n**_[#mb2-analysis](https://manybabies.slack.com/archives/C04454VLG0J)_**\n"
+    "slack": "**_[#mb2-general](https://manybabies.slack.com/archives/C03U90GNJ03)_**\n**_[#mb2-analysis](https://manybabies.slack.com/archives/C04454VLG0J)_**",
+    "color": "#036C9A"
   },
   {
     "id": "recOwYzTM7ZFtRcwH",
@@ -506,7 +532,9 @@
     ],
     "logoPath": "/assets/img/mb2-spinoff.png",
     "contact": "Shuting.Li@psy.lmu.de\n",
-    "listservSub": "https://groups.google.com/a/manybabies.org/g/manytrackers-list"
+    "listservSub": "https://groups.google.com/a/manybabies.org/g/manytrackers-list",
+    "slack": null,
+    "color": "036C9A"
   },
   {
     "id": "recC68M8cOo3dlHzp",
@@ -542,7 +570,9 @@
       }
     ],
     "logoPath": "/assets/img/mb2-spinoff.png",
-    "listservSub": "https://lists.lrz.de/mailman/listinfo/online_mb2"
+    "listservSub": "https://lists.lrz.de/mailman/listinfo/online_mb2",
+    "slack": null,
+    "color": "036C9A"
   },
   {
     "id": "recqEwFPrFXwknTTF",
@@ -572,7 +602,8 @@
     ],
     "logoPath": "/assets/img/mb2-spinoff.png",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb2p-list",
-    "slack": "**_[#mb2p-pupillometry](https://manybabies.slack.com/archives/C05ENMB4K34)_**\n"
+    "slack": "**_[#mb2p-pupillometry](https://manybabies.slack.com/archives/C05ENMB4K34)_**",
+    "color": "036C9A"
   },
   {
     "id": "recHdZXhYbB2GfXbk",
@@ -618,7 +649,8 @@
     "logoPath": "/assets/img/mb3-logo.png",
     "contact": "i.visser@uva.nl\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb3-list",
-    "slack": "**_[#mb3-general](https://manybabies.slack.com/archives/C03TUGG2CNB)_**\n**_[#mb3-analysis](https://manybabies.slack.com/archives/C044J48TZDX)_**\n"
+    "slack": "**_[#mb3-general](https://manybabies.slack.com/archives/C03TUGG2CNB)_**\n**_[#mb3-analysis](https://manybabies.slack.com/archives/C044J48TZDX)_**",
+    "color": "#00A18A"
   },
   {
     "id": "recsp4314Kzm6cjGV",
@@ -643,7 +675,8 @@
     "logoPath": "/assets/img/mb3n-logo.png",
     "contact": "judit.gervain@parisdescartes.fr\n",
     "listservSub": "https://groups.google.com/g/mb3nirs",
-    "slack": "**[MB3-NIRS workspace](https://join.slack.com/t/mb3nirs/shared_invite/zt-1opm3wjvb-Hk5cO2ZDciUhWyuJfeunQQ)**\n"
+    "slack": "**[MB3-NIRS workspace](https://join.slack.com/t/mb3nirs/shared_invite/zt-1opm3wjvb-Hk5cO2ZDciUhWyuJfeunQQ)**",
+    "color": "#00A18A"
   },
   {
     "id": "recXetBIy5suiUK5t",
@@ -665,7 +698,9 @@
       }
     ],
     "logoPath": "/assets/img/mb3-spinoff.png",
-    "listservSub": "https://groups.google.com/g/mb3l"
+    "listservSub": "https://groups.google.com/g/mb3l",
+    "slack": null,
+    "color": "#00A18A"
   },
   {
     "id": "rec0Hswo8T9WGP4jt",
@@ -688,7 +723,8 @@
     ],
     "logoPath": "/assets/img/mb3-spinoff.png",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb3p-list",
-    "slack": "**_[#mb3p-pupillometry](https://manybabies.slack.com/archives/C087ZL52TGA)_**\n"
+    "slack": "**_[#mb3p-pupillometry](https://manybabies.slack.com/archives/C087ZL52TGA)_**",
+    "color": "#00A18A"
   },
   {
     "id": "reck2oIwbge2U2D5H",
@@ -717,7 +753,9 @@
       }
     ],
     "logoPath": "/assets/img/mb3-spinoff.png",
-    "listservSub": "https://groups.google.com/g/mb3t"
+    "listservSub": "https://groups.google.com/g/mb3t",
+    "slack": null,
+    "color": "#00A18A"
   },
   {
     "id": "recQfWfFrz6Qb4laY",
@@ -756,7 +794,8 @@
     "logoPath": "/assets/img/mb4-logo.png",
     "contact": "- francis.yuen@psych.ubc.ca\n- klucca@asu.edu\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb4-list",
-    "slack": "**_[#mb4-general](https://manybabies.slack.com/archives/C03UBKXCGTW)_**\n"
+    "slack": "**_[#mb4-general](https://manybabies.slack.com/archives/C03UBKXCGTW)_**",
+    "color": "#FA8400"
   },
   {
     "id": "recObQ5VJROvXYIKK",
@@ -784,7 +823,9 @@
         ]
       }
     ],
-    "logoPath": "/assets/img/mb4-spinoff.png"
+    "logoPath": "/assets/img/mb4-spinoff.png",
+    "slack": null,
+    "color": "#FA8400"
   },
   {
     "id": "rec0FNRFdGesoiFRu",
@@ -814,7 +855,9 @@
     ],
     "logoPath": "/assets/img/mb4-spinoff.png",
     "contact": "- yiyiwang@uchicago.edu\n- klucca@asu.edu\n",
-    "listservSub": "https://groups.google.com/a/manybabies.org/g/mb4i-list"
+    "listservSub": "https://groups.google.com/a/manybabies.org/g/mb4i-list",
+    "slack": null,
+    "color": "#FA8400"
   },
   {
     "id": "reccAENstvLoMPEyw",
@@ -842,7 +885,9 @@
         ]
       }
     ],
-    "logoPath": "/assets/img/mb4-spinoff.png"
+    "logoPath": "/assets/img/mb4-spinoff.png",
+    "slack": null,
+    "color": "#FA8400"
   },
   {
     "id": "rec1DxudHmk3wKdLY",
@@ -881,7 +926,8 @@
     "logoPath": "/assets/img/mb5-logo.png",
     "contact": "mb5@manybabies.org\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb5-list",
-    "slack": "**_[#mb5-general](https://manybabies.slack.com/archives/C03U2J2GZ2A)_**\n**_[#mb5-analysis](https://manybabies.slack.com/archives/C06EEFTLWR2)_**\n**_[#mb5-open-documentation](https://manybabies.slack.com/archives/C06E3MBKFM5)_**\n**_[#mb5-stimuli](https://manybabies.slack.com/archives/C06EEFAB0A0)_**\n**_[#mb5-experiment-programming](https://manybabies.slack.com/archives/C06F0RHN6QY)_**\n**_[#mb5-data-collection](https://manybabies.slack.com/archives/C0AUKJ27YQG)_**\n"
+    "slack": "**_[#mb5-general](https://manybabies.slack.com/archives/C03U2J2GZ2A)_**\n**_[#mb5-analysis](https://manybabies.slack.com/archives/C06EEFTLWR2)_**\n**_[#mb5-open-documentation](https://manybabies.slack.com/archives/C06E3MBKFM5)_**\n**_[#mb5-stimuli](https://manybabies.slack.com/archives/C06EEFAB0A0)_**\n**_[#mb5-experiment-programming](https://manybabies.slack.com/archives/C06F0RHN6QY)_**\n**_[#mb5-data-collection](https://manybabies.slack.com/archives/C0AUKJ27YQG)_**",
+    "color": "#B0437F"
   },
   {
     "id": "recPtVzMKfjssBM09",
@@ -904,7 +950,8 @@
     ],
     "logoPath": "/assets/img/mb5-spinoff.png",
     "contact": "mzettersten@ucsd.edu\n",
-    "slack": "**_[#mb5-meta](https://manybabies.slack.com/archives/C06EQMB3EAD)_**\n"
+    "slack": "**_[#mb5-meta](https://manybabies.slack.com/archives/C06EQMB3EAD)_**",
+    "color": "#B0437F"
   },
   {
     "id": "recnrjs0S2cVNhPau",
@@ -927,7 +974,8 @@
     ],
     "logoPath": "/assets/img/mb5-spinoff.png",
     "contact": "jkosie@asu.edu\n",
-    "slack": "**_[#mb5n-naturalistic](https://manybabies.slack.com/archives/C08KDPGJ55M)_**\n"
+    "slack": "**_[#mb5n-naturalistic](https://manybabies.slack.com/archives/C08KDPGJ55M)_**",
+    "color": "#B0437F"
   },
   {
     "id": "recQ4AoeIIpDlNdJz",
@@ -940,7 +988,9 @@
     "status": "Preparing for data collection",
     "leads": [],
     "logoPath": "/assets/img/mb5-spinoff.png",
-    "contact": "mb5@manybabies.org\n"
+    "contact": "mb5@manybabies.org\n",
+    "slack": null,
+    "color": "#B0437F"
   },
   {
     "id": "recLIUCZUIdEddWr8",
@@ -1000,7 +1050,8 @@
     "logoPath": "/assets/img/mb6-logo.png",
     "contact": "mb6@manybabies.org\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb6-list",
-    "slack": "**_[#mb6-general](https://manybabies.slack.com/archives/C04101K8V7H)_**\n"
+    "slack": "**_[#mb6-general](https://manybabies.slack.com/archives/C04101K8V7H)_**",
+    "color": "#ABDFDE"
   },
   {
     "id": "reckeOosOFeQ5kwI7",
@@ -1060,7 +1111,8 @@
     "logoPath": "/assets/img/mb7-logo.png",
     "contact": "mb7@manybabies.org\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb7-list",
-    "slack": "**_[#mb7-general](https://manybabies.slack.com/archives/C0A1J1RT25P)_**\n**_[#mb7-writing](https://manybabies.slack.com/archives/C0AEGB60XGS)_**\n**_[#mb7-design](https://manybabies.slack.com/archives/C0AECUMB2Q5)_**\n"
+    "slack": "**_[#mb7-general](https://manybabies.slack.com/archives/C0A1J1RT25P)_**\n**_[#mb7-writing](https://manybabies.slack.com/archives/C0AEGB60XGS)_**\n**_[#mb7-design](https://manybabies.slack.com/archives/C0AECUMB2Q5)_**",
+    "color": "#FDE269"
   },
   {
     "id": "recpFvKh922MxcTOL",
@@ -1106,7 +1158,8 @@
     "logoPath": "/assets/img/mb8-logo.png",
     "contact": "mb8@manybabies.org\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb8-list",
-    "slack": "**_[#mb8-general](https://manybabies.slack.com/archives/C0ABH7W9D2L)_**\n"
+    "slack": "**_[#mb8-general](https://manybabies.slack.com/archives/C0ABH7W9D2L)_**",
+    "color": "#F3AD00"
   },
   {
     "id": "rechdhxdAZ4MaeRZd",
@@ -1131,7 +1184,8 @@
     "logoPath": "/assets/img/mb9-logo.png",
     "contact": "mb9@manybabies.org\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb9-list",
-    "slack": "**_[#mb9-general](https://manybabies.slack.com/archives/C0BFLFJPE4T)_**\n"
+    "slack": "**_[#mb9-general](https://manybabies.slack.com/archives/C0BFLFJPE4T)_**",
+    "color": "#0CC0DF"
   },
   {
     "id": "recYCAyY3jOcQlvt1",
@@ -1145,7 +1199,9 @@
     "status": "Check ManyManys site",
     "website": "manymanys.github.io/MM1/",
     "leads": [],
-    "logoPath": "/assets/img/manymanys_logo.png"
+    "logoPath": "/assets/img/manymanys_logo.png",
+    "slack": null,
+    "color": null
   },
   {
     "id": "recT4oZicG8sVJm89",
@@ -1158,6 +1214,7 @@
     "logoPath": "/assets/img/avatar-icon-2022.png",
     "contact": "contact@manybabies.org\n",
     "listservSub": "https://mailman.stanford.edu/mailman/listinfo/manybabies",
-    "slack": "**[MB Slack workspace](https://join.slack.com/t/manybabies/shared_invite/zt-3hv85sl5d-JWzJYourJw8kCttK46l~kw)**\n**_[#general](https://manybabies.slack.com/archives/C4QDCQ4D6)_**\n**_[#random](https://manybabies.slack.com/archives/C4RR4JADV)_**\n**_[#recruitment](https://manybabies.slack.com/archives/C05DKDZHXL3)_**\n"
+    "slack": "**[MB Slack workspace](https://join.slack.com/t/manybabies/shared_invite/zt-3hv85sl5d-JWzJYourJw8kCttK46l~kw)**\n**_[#general](https://manybabies.slack.com/archives/C4QDCQ4D6)_**\n**_[#random](https://manybabies.slack.com/archives/C4RR4JADV)_**\n**_[#recruitment](https://manybabies.slack.com/archives/C05DKDZHXL3)_**",
+    "color": null
   }
 ]
