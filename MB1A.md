@@ -1,35 +1,43 @@
 ---
 layout: page
 title: MB1-Africa
+project_id: MB1-Africa
 subtitle: Infant-Directed Speech Preference in African Infants
 ---
+
+{% assign current_project = site.data.airtable | where: "project", page.project_id | first %}
 
 ***
 
 <div class="container">
-  <div class="row justify-content-around">
-    <div class="col-lg-4" align="center">
-      <br>
-      <img src="/assets/img/mb1-logo.png" width="150">
-    </div>
-    <div class="col-lg-8" align="left">
-      <h2>Project Overview</h2>
-      <ul>
-        <li><i>Status:</i> <b>{{ site.data.global.status.mb1a }}</b></li>
-        <li><i><a href="https://osf.io/fqp4b" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at</i> <b>Developmental Science</b></li>
-      </ul>
-    </div>
-  </div>
-</div>
+  <div class="box-gray" style="box-shadow: -10px 10px {{current_project.color}};">
+    <div class="row justify-content-around">
+      <div class="col-lg-4" align="center">
+        <br>
+        <img src="{{ current_project.logoPath}}" width="150">
+      </div>
+      <div class="col-lg-8" align="left">
+        <h2 style="color:{{current_project.color}};">Project Overview</h2>
+        <ul>
+          <li><i>Status:</i> <code>{{ current_project.status}}</code></li>
+          <li><i>8 participating labs collected data in 8 countries</i></li>
+          <li><i>260 infants tested</i></li>
+          <li><i>38 authors on</i> <a href="https://doi.org/10.1111/desc.70242" target="_blank"><b>Developmental Science</b></a> <i>publication</i></li>
+        </ul>
+      </div> <!-- div class col8 -->
+    </div> <!-- row -->
+  </div> <!-- box -->
+</div> <!-- container -->
 
+***
 
 <div class="flourish-embed" data-src="visualisation/2488103" style="float: right;" data-url="https://flo.uri.sh/visualisation/2488103/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-Infants show a preference for infant-directed speech (IDS) over adult-directed speech (ADS). This preference has been linked to infants’ language processing and word learning in experimental settings, and also correlates with later language outcomes. Recently, the cross-cultural consistency of infants’ IDS preference was confirmed by one of our other ManyBabies projects (<a href="{{site.baseurl}}/MB1/"><b>MB1</b></a>). However, data from this study were primarily from North American and European countries. ManyBabies1-Africa addresses this issue via a large-scale, multisite study of African infants of ages 3-15 months. We investigate whether this understudied population shows a preference for IDS over ADS, and if so, whether the magnitude of their preference differs from estimates from other populations. The project is currently in progress. Please contact the leaders for more information.
+Infants show a preference for infant-directed speech (IDS) over adult-directed speech (ADS). This preference has been linked to infants’ language processing and word learning in experimental settings, and also correlates with later language outcomes. Recently, the cross-cultural consistency of infants’ IDS preference was confirmed by one of our other ManyBabies projects (<a href="{{site.baseurl}}/MB1/"><b>MB1</b></a>). However, data from this study were primarily from North American and European countries. MB1-Africa addresses this issue via a large-scale, multi-site study of African infants between the ages of 3-15 months. We investigate whether this understudied population shows a preference for IDS over ADS, and if so, whether the magnitude of their preference differs from estimates from other populations. The project is currently in progress. Please contact the leaders for more information.
 
 
 ***
-### Links  
+## Links  
 * **Materials, Protocols, and Documentation**: [MB1A-OSF](https://osf.io/jgr79/).  
 * **Data and code**: [MB1-Africa-GitHub](https://github.com/manybabies/mb1-africa)
 * **Listserv**: [join here](https://mailman.stanford.edu/mailman/listinfo/manybabies-africa)
@@ -38,7 +46,7 @@ Infants show a preference for infant-directed speech (IDS) over adult-directed s
 
 
 ***
-### Project Leads
+## Project Leads
 * [**Alex Carstensen**](http://abcarstensen.com), *Arizona State University, United States* [[email]](mailto:abcarstensen@asu.edu)
 * [**George Kachergis**](http://www.kachergis.com), *Stanford University, United States* [[email]](mailto:kachergis@stanford.edu)
 * [**Angeline Tsui**](https://angelinetsui.github.io/), *Stanford University, United States* [[email]](mailto:angelinetsui@gmail.com)
@@ -47,7 +55,7 @@ Infants show a preference for infant-directed speech (IDS) over adult-directed s
 
 
 ***
-### MB1-Africa Contributors
+## MB1-Africa Contributors
 
 We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [**MB Sign-Up Form**]({{site.baseurl}}/get_involved/). Please note that access to infants/an infant lab is **NOT** a prerequisite.
 
@@ -57,15 +65,30 @@ We encourage everyone who is interested in the project to contact the Project Le
 
 
 ***
-### Publication
+## Publication
 
-<h4>Stage 2 Registered Report</h4>
-<p style="padding-left: 25px; text-indent: -25px">Tsui, A., Carstensen, A., Kachergis, G., Cao, A., Abubakar, A., Goshu, M. A., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Dami, E. B., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Duah, R. A., Herrmann, E., Jang, C., Kizito, S., Lamba, T., … Frank, M. C. (2026). <i>Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa</i>. PsyArXiv. <a href=" https://doi.org/10.31234/osf.io/dc93n_v1" target="_blank"> https://doi.org/10.31234/osf.io/dc93n_v1</a></p>
-
-> To cite, use (Tsui et al., 2026)
-
-
-<h4>Stage 1 Registered Report</h4>
-<p style="padding-left: 25px; text-indent: -25px">Tsui, A. S. M., Carstensen, A., Kachergis, G., Abubakar, A., Asnake, M., Barry, O., Basnight-Brown, D., Bentu, D., Bergmann, C., Binan Dami, E., Boll-Avetisyan, N., de Jongh, M., Diop, Y., Herrmann, E., Jang, C., Kizito, S., Lamba, T., Maliwichi-Senganimalunje, L., Marangu, J., Mathur, M., Mbagaya, C. V., Mekonnen Mengistie, D., Milton, C., Mushimiyimana, F., Ndhambi, M., Ngina, I., Njoroge, E., Odhiambo Oburu, P., Okyere Omane, P., Singh, A., Ssemata, A. S., Unyuzumutima, J., Zeidler, H., Lew-Williams, C., Frank, M. C. (accepted pending data collection). <b>Exploring variation in infants’ preference for infant-directed speech: Evidence from a multi-site study in Africa</b>. <i>Developmental Science</i>. OSF. <a href="https://osf.io/fqp4b" target="_blank">https://osf.io/fqp4b</a></p>
-
-> To cite, use (Tsui et al., accepted pending data collection)
+{% assign pubs = site.data.publications | where: "project", page.project_id %}
+{% for pub in pubs %} <!--- loop over pubs for specified project -->
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-2" align="center">
+        <a href="https://{{pub.website }}"><img src="{{ pub.logoPath }}" alt="{{ pub.project}} logo" width="70" style="margin-top:4px;"></a>        
+      </div>
+      <div class="col-sm-10">
+        {{ pub.authorsCondensed }} ({{ pub.year }}). <b>{{pub.title}}</b>. <i>{{pub.journal}}</i>, <i>{{pub.issue}}</i>({{ pub.issue }}), {{ pub.pages }}. <a href="{{ pub.journalLink }}" target="_blank">{{ pub.journalLink}}</a>
+        <details>
+          <summary><code>View full author list</code></summary> <!--- expandable author list with orcids -->
+          <div style="margin-left: 2em;">
+            {% for author in pub.authors %}
+              {% if author.orcid %}
+                {{ author.name }} <a href="{{ author.orcid }}"><img src="/assets/img/orcid.png" height="15"></a> 
+              {% else %}
+                {{ author.name }}
+              {% endif %}{% unless forloop.last %}<br> {% endunless %}
+            {% endfor %}
+          </div>
+        </details>
+      </div>
+    </div>
+  </div>  
+{% endfor %}
