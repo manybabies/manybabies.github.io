@@ -37,23 +37,25 @@ subtitle: page for testing stuff out
 -->
 
 {% assign pubs = site.data.publications | where: "project", "MB-Demographics" %}
-{% for pub in pubs %} <!--- loop over main projects -->
+{% for pub in pubs %} <!--- loop over pubs for specified project -->
   <div class="container">
     <div class="row">
       <div class="col-sm-2" align="center">
         <a href="https://{{pub.website }}"><img src="{{ pub.logoPath }}" alt="{{ pub.project}} logo" width="70" style="margin-top:4px;"></a>        
       </div>
       <div class="col-sm-10">
-        {{ pub.authorsCondensed }} ({{ pub.year }}). {{pub.title}}. <i>{{pub.journal}}, {{pub.issue}}</i>({{ pub.issue }}), {{ pub.pages }}. <a href="{{ pub.journalLink }}" target="_blank">{{ pub.journalLink}}</a>
+        {{ pub.authorsCondensed }} ({{ pub.year }}). <b>{{pub.title}}</b>. <i>{{pub.journal}}, {{pub.issue}}</i>({{ pub.issue }}), {{ pub.pages }}. <a href="{{ pub.journalLink }}" target="_blank">{{ pub.journalLink}}</a>
         <details>
-          <summary><code>View full author list</code></summary>
-          {% for author in pub.authors %}
-            {% if author.orcid %}
-              {{ author.name }} <a href="{{ author.orcid }}"><img src="/assets/img/orcid.png" height="15"></a> 
-            {% else %}
-              {{ author.name }}
-            {% endif %}{% unless forloop.last %}<br> {% endunless %}
-          {% endfor %}
+          <summary><code>View full author list</code></summary> <!--- expandable author list with orcids -->
+          <div style="margin-left: 2em;">
+            {% for author in pub.authors %}
+              {% if author.orcid %}
+                {{ author.name }} <a href="{{ author.orcid }}"><img src="/assets/img/orcid.png" height="15"></a> 
+              {% else %}
+                {{ author.name }}
+              {% endif %}{% unless forloop.last %}<br> {% endunless %}
+            {% endfor %}
+          </div>
         </details>
       </div>
     </div>

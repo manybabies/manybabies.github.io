@@ -135,11 +135,11 @@ async function main() {
     return {
       id: r.id,
       project: projectRecords,
-      title: f.Title || null,
+      title: f.Title ? f.Title.trim() : null,
       authors: authorNames,
       authorsCondensed: f['Authors condensed'],
       year: f.Year || null,
-      journal: f.Journal || null,
+      journal: f.Journal ? f.Journal.trim() : null,
       volume: f.Volume || null,
       issue: f.Issue || null, 
       pages: f.Pages || null,
