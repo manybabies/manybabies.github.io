@@ -1,11 +1,10 @@
 ---
 layout: page
 title: MB1
-project_id: MB1
 subtitle: Infant-Directed Speech Preference
 ---
 
-{% assign current_project = site.data.airtable | where: "project", page.project_id | first %}
+{% assign current_project = site.data.airtable | where: "project", page.title | first %}
 
 ***
 
@@ -113,23 +112,3 @@ subtitle: Infant-Directed Speech Preference
     <li><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="20"> <b><a href="https://{{item.website }}">{{item.project}}</a>: {{ item.description }} </b></li>
   {% endfor %}
 </ul>
-
-
-  {% assign secondary = site.data.airtable | where: "type", "Secondary analysis" | where: "mainProject", main.project %}
-  <div class="container">
-    {% for item in secondary %} <!--- loop over sec.analysis projects -->
-      <div class="row">
-        <div class="col-sm-1">  
-        </div>
-        <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="40" align="right" style="margin-top:27px;"></a>
-        </div>
-        <div class="col-sm-9">
-          <hr style="margin-top:0.8em; margin-bottom:0.3em;">
-          <h4 style="margin-top:0.5em;margin-bottom:0.1em;"><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
-          <b>Status:</b> <code>{{ item.status }}</code><br>
-        </div>
-      </div> 
-    {% endfor %}
-  </div>
-  <hr>

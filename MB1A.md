@@ -1,11 +1,10 @@
 ---
 layout: page
 title: MB1-Africa
-project_id: MB1-Africa
 subtitle: Infant-Directed Speech Preference in African Infants
 ---
 
-{% assign current_project = site.data.airtable | where: "project", page.project_id | first %}
+{% assign current_project = site.data.airtable | where: "project", page.title | first %}
 
 ***
 
