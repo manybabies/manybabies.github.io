@@ -1126,3 +1126,12 @@ pre {
     display: inline-block;
   }
 }
+
+.box-gray {
+  background-color: #EAEAEA;
+  color: #000000;
+  padding:25px;
+  box-shadow: -10px 10px #9986A5;
+  font-family:'Open Sans', sans-serif;
+  border-radius: 10px; /* rounded corners */
+}  

@@ -93,7 +93,8 @@ async function main() {
       logoPath: f['Logo Path'] || null,
       contact: f['Project Contact'],
       listservSub: f['Listserv Subscribe'],
-      slack: f.Slack
+      slack: f.Slack ? f.Slack.trim() : null,
+      color: f.Color ? f.Color.trim() : null
     };
   });
   
