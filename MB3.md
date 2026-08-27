@@ -19,7 +19,7 @@ subtitle: Rule Learning
         <h2 style="color:{{ current_project.color }};">Project Overview</h2>
         <ul>
           <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
-        <li><i><a href="https://osf.io/preprints/psyarxiv/ghrdt_v2" target="_blank">Stage 2 Registered Report</a> accepted for publication at</i> <b>Developmental Science</b></li>
+          <li><i><a href="https://osf.io/preprints/psyarxiv/ghrdt_v2" target="_blank">Stage 2 Registered Report</a> accepted for publication at</i> <b>Developmental Science</b></li>
         </ul>
       </div>
     </div>
