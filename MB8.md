@@ -4,23 +4,29 @@ title: MB8
 subtitle: Screen Use
 ---
 
+{% assign current_project = site.data.airtable | where: "project", page.title | first %}
+
 ***
 
 <div class="container">
-  <div class="row justify-content-around">
-    <div class="col-lg-4" align="center">
-      <br>
-      <img src="/assets/img/mb8-logo.png" width="150">
-    </div>
-    <div class="col-lg-8" align="left">
-      <h2>Project Overview</h2>
-      <ul>
-        <li><i>Status:</i> <b>{{ site.data.global.status.mb8 }}</b></li>
-        <li><i>Subscribe to the <a href="{{ site.data.global.listserv.mb8 }}" target="_blank"><b>MB8 listserv</b></a> and/or <a href="mailto:{{ site.data.global.contact.mb8 }}"><b>email us</b></a> to get involved!</i></li>
-      </ul>
+  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }};">
+    <div class="row justify-content-around">
+      <div class="col-lg-4" align="center">
+        <br>
+        <img src="{{ current_project.logoPath }}" width="150">
+      </div>
+      <div class="col-lg-8" align="left">
+        <h2 style="color:{{ current_project.color }};">Project Overview</h2>
+        <ul>
+          <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
+          <li><i>Subscribe to the <a href="{{ site.data.global.listserv.mb8 }}" target="_blank"><b>MB8 listserv</b></a> and/or <a href="mailto:{{ site.data.global.contact.mb8 }}"><b>email us</b></a> to get involved!</i></li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
+
+***
 
 <ul>
   <li><h3>Missed the launch events? View the <a href="https://drive.google.com/file/d/1MpXhiy4F3SVQG4-woO7j-7AUu3Qva-_9/view?usp=sharing" target="_blank">recording</a> and <a href="https://docs.google.com/presentation/d/1rR_bGjyWZ0UOvftkOBEFCU4ZYrrdlDAg/edit?pli=1" target="_blank">slides</a></h3></li>
@@ -59,13 +65,13 @@ Ultimately, MB8 will establish an enduring international research infrastructure
 
 
 ***
-### Links
+## Links
 * <h4><a href="https://smu.az1.qualtrics.com/jfe/form/SV_d5a87KG6gnkJ5mS" target="_blank">MB8 Collaboration Agreement</a></h4>
 * **Listserv**: [subscribe here]({{ site.data.global.listserv.mb8 }}) *(click on "for access, try joining the group")*
 
 
 *** 
-### Project Leads
+## Project Leads
 * **General Contact: [{{ site.data.global.contact.mb8 }}](mailto:{{ site.data.global.contact.mb8 }})**
 * [**Nevena Dimitrova**](https://orcid.org/0000-0002-3433-096X), *University of Applied Sciences and Arts of Western Switzerland, Faculty of Social Work (HETSL \| HES-SO), Switzerland* [[email]](mailto:nevena.dimitrova@hetsl.ch)
 * [**Rachel Barr**](https://orcid.org/0000-0002-5855-9718), *Georgetown University, United States* [[email]](mailto:rfb5@georgetown.edu)
@@ -74,7 +80,7 @@ Ultimately, MB8 will establish an enduring international research infrastructure
 
 
 ***
-### MB8 Contributors
+## MB8 Contributors
 
 We encourage everyone who is interested in the project to subscribe to the MB8 listserv and email the Project Leads ([{{ site.data.global.contact.mb8 }}](mailto:{{ site.data.global.contact.mb8 }})) to indicate your interest. Please note that access to infants/an infant lab is **NOT** a prerequisite.
 

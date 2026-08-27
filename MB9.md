@@ -4,23 +4,29 @@ title: MB9
 subtitle: Perceptual Specialization
 ---
 
+{% assign current_project = site.data.airtable | where: "project", page.title | first %}
+
 ***
 
 <div class="container">
-  <div class="row justify-content-around">
-    <div class="col-lg-4" align="center">
-      <br>
-      <img src="/assets/img/mb9-logo.png" width="150">
-    </div>
-    <div class="col-lg-8" align="left">
-      <h2>Project Overview</h2>
-      <ul>
-        <li><i>Status:</i> <b>{{ site.data.global.status.mb9 }}</b></li>
-        <li><i>Subscribe to the <a href="{{ site.data.global.listserv.mb9 }}" target="_blank"><b>MB9 listserv</b></a> and/or <a href="mailto:{{ site.data.global.contact.mb9 }}"><b>email us</b></a> to get involved!</i></li>
-      </ul>
+  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }};">
+    <div class="row justify-content-around">
+      <div class="col-lg-4" align="center">
+        <br>
+        <img src="{{ current_project.logoPath }}" width="150">
+      </div>
+      <div class="col-lg-8" align="left">
+        <h2 style="color:{{ current_project.color }};">Project Overview</h2>
+        <ul>
+          <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
+          <li><i>Subscribe to the <a href="{{ site.data.global.listserv.mb9 }}" target="_blank"><b>MB9 listserv</b></a> and/or <a href="mailto:{{ site.data.global.contact.mb9 }}"><b>email us</b></a> to get involved!</i></li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
+
+***
 
 <h3>If you are interested in contributing to MB9, please fill out this short <a href="https://docs.google.com/forms/d/e/1FAIpQLSdMQrExnzwueePJ1e7LYrj724TB19Qr39biCYauHxp1hnhgNg/viewform" target="_blank">interest form</a>!</h3>
 
@@ -30,7 +36,7 @@ subtitle: Perceptual Specialization
 
 ***
 ### Links
-* <b><a href="https://docs.google.com/document/d/1UPKZLpH-pyW2SY7rydJ1E1KjKN3Mx5LmhsxSxL7FojI/edit?usp=sharing" target="_blank">MB9 Collaboration Agreement</a></b>
+* <b><a href="https://docs.google.com/document/d/1UPKZLpH-pyW2SY7rydJ1E1KjKN3Mx5LmhsxSxL7FojI/edit?usp=sharing" target="_blank">MB9 COLLABORATION AGREEMENT</a></b>
 * **Listserv**: [subscribe here]({{ site.data.global.listserv.mb9 }}) *(click on "for access, try joining the group")*
 * **Slack**: <a href="{{ site.data.global.link.slack-invite }}" target="_blank">MB workspace</a> (*join the **#mb9-general** channel*)
 
