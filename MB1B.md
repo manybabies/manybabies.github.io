@@ -9,16 +9,16 @@ subtitle: Infant-directed Speech Preference in Bilingual Infants
 ***
 
 <div class="container">
-  <div class="box-gray" style="box-shadow: -10px 10px {{current_project.color}};">
+  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }};">
     <div class="row justify-content-around">
       <div class="col-lg-4" align="center">
         <br>
-        <img src="{{ current_project.logoPath}}" width="150">
+        <img src="{{ current_project.logoPath }}" width="150">
       </div>
       <div class="col-lg-8" align="left">
-        <h2 style="color:{{current_project.color}};">Project Overview</h2>
+        <h2 style="color:{{ current_project.color }};">Project Overview</h2>
         <ul>
-          <li><i>Status:</i> <code>{{ current_project.status}}</code></li>
+          <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
           <li><i>17 participating labs collected data in 7 countries</i></li>
           <li><i>333 bilingual infants tested (in addition to 384 monolingual infants from MB1 sample)</i></li>
           <li><i>38 authors on</i> <a href="https://doi.org/10.1177/2515245920974622" target="_blank"><b>AMPPS</b></a> <i>publication</i></li>

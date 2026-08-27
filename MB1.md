@@ -9,16 +9,16 @@ subtitle: Infant-Directed Speech Preference
 ***
 
 <div class="container">
-  <div class="box-gray" style="box-shadow: -10px 10px {{current_project.color}};">
+  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }};">
     <div class="row justify-content-around">
       <div class="col-lg-4" align="center">
         <br>
-        <img src="{{ current_project.logoPath}}" width="150">
+        <img src="{{ current_project.logoPath }}" width="150">
       </div>
       <div class="col-lg-8" align="left">
-        <h2 style="color:{{current_project.color}};">Project Overview</h2>
+        <h2 style="color:{{ current_project.color }};">Project Overview</h2>
         <ul>
-          <li><i>Status:</i> <code>{{ current_project.status}}</code></li>
+          <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
           <li><i>69 participating labs collected data in 16 countries</i></li>
           <li><i>2,329 babies tested</i></li>
           <li><i>149 authors on</i> <a href="https://doi.org/10.1177/2515245919900809" target="_blank"><b>AMPPS</b></a> <i>publication</i></li>
@@ -108,7 +108,7 @@ subtitle: Infant-Directed Speech Preference
     <li><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="20"> <b><a href="https://{{spinoff.website }}">{{spinoff.project}}</a>: {{ spinoff.description }} </b></li>
   {% endfor %}
   {% assign secondary = site.data.airtable | where: "type", "Secondary analysis" | where: "mainProject", page.title %}
-  {% for item in secondary %} <!--- loop over spinoff projects -->
+  {% for item in secondary %} <!--- loop over secondary projects -->
     <li><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="20"> <b><a href="https://{{item.website }}">{{item.project}}</a>: {{ item.description }} </b></li>
   {% endfor %}
 </ul>
