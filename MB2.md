@@ -9,16 +9,16 @@ subtitle: Theory of Mind in Infancy
 ***
 
 <div class="container">
-  <div class="box-gray" style="box-shadow: -10px 10px {{current_project.color}};">
+  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }};">
     <div class="row justify-content-around">
       <div class="col-lg-4" align="center">
         <br>
-        <img src="{{ current_project.logoPath}}" width="150">
+        <img src="{{ current_project.logoPath }}" width="150">
       </div>
       <div class="col-lg-8" align="left">
-        <h2 style="color:{{current_project.color}};">Project Overview</h2>
+        <h2 style="color:{{ current_project.color }};">Project Overview</h2>
         <ul>
-          <li><i>Status:</i> <code>{{ current_project.status}}</code></li>
+          <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
           <li><i><a href="https://doi.org/10.31234/osf.io/x4jbm" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at</i> <b>Child Development</b></li>
         </ul>
       </div>
@@ -128,7 +128,6 @@ Following the anticipatory looking studies, we hope to continue the project with
   </div>  
 {% endfor %}
 
-
 ***
 ## Funding
 * MB2 is supported by a grant from [Deutsche Forschungsgemeinschaft](https://www.dfg.de/en/index.jsp)
@@ -143,7 +142,7 @@ Following the anticipatory looking studies, we hope to continue the project with
     <li><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="20"> <b><a href="https://{{spinoff.website }}">{{spinoff.project}}</a>: {{ spinoff.description }} </b></li>
   {% endfor %}
   {% assign secondary = site.data.airtable | where: "type", "Secondary analysis" | where: "mainProject", page.title %}
-  {% for item in secondary %} <!--- loop over spinoff projects -->
+  {% for item in secondary %} <!--- loop over secondary projects -->
     <li><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="20"> <b><a href="https://{{item.website }}">{{item.project}}</a>: {{ item.description }} </b></li>
   {% endfor %}
 </ul>

@@ -4,31 +4,36 @@ title: MB3
 subtitle: Rule Learning
 ---
 
+{% assign current_project = site.data.airtable | where: "project", page.title | first %}
+
 ***
 
 <div class="container">
-  <div class="row justify-content-around">
-    <div class="col-lg-4" align="center">
-      <br>
-      <img src="/assets/img/mb3-logo.png" width="150">
-    </div>
-    <div class="col-lg-8" align="left">
-      <h2>Project Overview</h2>
-      <ul>
-        <li><i>Status:</i> <b>{{ site.data.global.status.mb3 }}</b></li>
-        <li><i><a href="https://osf.io/preprints/psyarxiv/ghrdt_v2" target="_blank">Stage 2 Registered Report</a> under review at</i> <b>Developmental Science</b></li>
-      </ul>
+  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }};">
+    <div class="row justify-content-around">
+      <div class="col-lg-4" align="center">
+        <br>
+        <img src="{{ current_project.logoPath }}" width="150">
+      </div>
+      <div class="col-lg-8" align="left">
+        <h2 style="color:{{ current_project.color }};">Project Overview</h2>
+        <ul>
+          <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
+        <li><i><a href="https://osf.io/preprints/psyarxiv/ghrdt_v2" target="_blank">Stage 2 Registered Report</a> accepted for publication at</i> <b>Developmental Science</b></li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
 
+***
 
 <img style="float: right;" src="/assets/img/BLL1_300px.jpg">
 In this ongoing project we investigate an ability that lies at the heart of cognition: to learn and to apply rules. We ask whether infants (from 5 to 12 months-old) can learn abstract algebraic rules over patterned syllable sequences and generalize those rules to novel syllable sequences. Despite the large research effort on the topic, questions remain about the robustness of the core finding, as many studies failed to find significant learning effects. We believe that a multi-lab approach with a large and diverse sample of infants has the potential to uncover whether and to what extent this core cognitive ability is available in young infants and how it varies across age and different developmental circumstances.
 
 
 ***
-### Links
+## Links
 * **Materials, Protocols, and Documentation**: <a href="https://osf.io/kqu9v/" target="_blank">MB3-OSF</a>, <a href="https://docs.google.com/document/d/1b-ZaJpbVzvN_fUApXlZkZiT9jxGUYRhHbAC1qOucufo/edit?usp=sharing" target="_blank">MB3 Lab Manual</a>, <a href="https://docs.google.com/document/d/e/2PACX-1vQyE0mPU3fKkRTd8OoP6P3iNNsaCvNdUvE2yXqGr4wC_hkRqJmZuu4s-Adgfh781NfmD4pI_8DgpgzA/pub" target="_blank">MB3 Collaboration Agreement</a>
 * **Data and code**: <a href="https://github.com/manybabies/mb3-rules" target="_blank">MB3-GitHub</a>
 * **Listserv**: <a href="https://groups.google.com/a/manybabies.org/g/mb3-list" target="_blank">join here</a> *(click on “for access, try joining the group”)*
@@ -36,7 +41,7 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 
 
 ***
-### Leads
+## Leads
 * [**Ingmar Visser**](https://www.uva.nl/profiel/v/i/i.visser/i.visser.html?cb), *University of Amsterdam, Netherlands* [[email]](mailto:i.visser@uva.nl) 
 * [**Claartje Levelt**](https://www.universiteitleiden.nl/en/staffmembers/claartje-levelt#tab-1), *Leiden University, Netherlands* [[email]](mailto:c.c.levelt@hum.leidenuniv.nl) 
 * [**Melanie Soderstrom**](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada* [[email]](mailto:M_Soderstrom@umanitoba.ca)
@@ -44,7 +49,7 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 
 
 ***
-### MB3 Contributors
+## MB3 Contributors
 
 > NOTE: Default table ordering is by contributor's last name. You can filter, group, and/or sort entries by any field.
 
@@ -52,22 +57,44 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 
 
 ***
-### Publications
-<h4>Stage 2 Registered Report</h4>
-<p style="padding-left: 25px; text-indent: -25px">Visser, I., Geambașu, A., Kachergis, G., Oliveira, C. M., Rocha-Hidalgo, J., Zettersten, M., Ahamat, T. M., Alessandroni, N., Althaus, N., Arunachalam, S., Aussems, S., Axelsson, E., Aydin, Z., Baumgartner, H. A., Bergmann, C., Bettoni, R., Black, A., Bulf, H., Byers-Heinlein, K., … Levelt, C. (2026). <i>ManyBabies 3: A multi-lab study of infant algebraic rule learning</i>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/ghrdt_v2" target="_blank">https://doi.org/10.31234/osf.io/ghrdt_v2</a></p>
+## Publication
 
-> To cite, use (Visser et al., 2026)
-
-<h4>Stage 1 Registered Report</h4>
-<p style="padding-left: 25px; text-indent: -25px">Visser, I., Geambasu, A., Baumgartner, H. A., Bergmann, C., Byers-Heinlein, K., Carstensen, A., Doyle, F. L., Gervain, J., Hannon, E. E., Havron, N., Johnson, S. P., Kachergis, G., Kline Struhl, M., Kosie, J., Lew-Williams, C., Mayor, J., Moreau, D., Mueller, J., Raijmakers, M. E. J., … Levelt, C. C. (accepted pending data collection). <i>ManyBabies 3: A multi-lab study of infant algebraic rule learning</i>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/aex7v" target="_blank">https://doi.org/10.31234/osf.io/aex7v</a></p>
-
-> To cite, use (Visser et al., accepted pending data collection)
-
-
+{% assign pubs = site.data.publications | where: "project", page.title %}
+{% for pub in pubs %} <!--- loop over pubs for specified project -->
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-2" align="center">
+        <a href="https://{{pub.website }}"><img src="{{ pub.logoPath }}" alt="{{ pub.project}} logo" width="70" style="margin-top:4px;"></a>        
+      </div>
+      <div class="col-sm-10">
+        {{ pub.authorsCondensed }} ({{ pub.year }}). <b>{{pub.title}}</b>. <i>{{pub.journal}}</i>, <i>{{pub.volume}}</i>({{ pub.issue }}), {{ pub.pages }}. <a href="{{ pub.journalLink }}" target="_blank">{{ pub.journalLink}}</a>
+        <details>
+          <summary><code>View full author list</code></summary> <!--- expandable author list with orcids -->
+          <div style="margin-left: 2em;">
+            {% for author in pub.authors %}
+              {% if author.orcid %}
+                {{ author.name }} <a href="{{ author.orcid }}"><img src="/assets/img/orcid.png" height="15"></a> 
+              {% else %}
+                {{ author.name }}
+              {% endif %}{% unless forloop.last %}<br> {% endunless %}
+            {% endfor %}
+          </div>
+        </details>
+      </div>
+    </div>
+  </div>  
+{% endfor %}
 
 ***
 ## Spin-off Projects
-* [**MB3N: Rule Learning using NIRS**]({{site.baseurl}}/MB3N/)
-* [**MB3L: Longitudinal Language Follow-up**]({{site.baseurl}}/MB3L/)
-* [**MB3P: Pupil Dilation**]({{site.baseurl}}/MB3P/)
-* [**MB3T: Test-Retest Follow-up**]({{site.baseurl}}/MB3T/)
+
+<ul>
+  {% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", page.title %}
+  {% for spinoff in spinoffs %} <!--- loop over spinoff projects -->
+    <li><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="20"> <b><a href="https://{{spinoff.website }}">{{spinoff.project}}</a>: {{ spinoff.description }} </b></li>
+  {% endfor %}
+  {% assign secondary = site.data.airtable | where: "type", "Secondary analysis" | where: "mainProject", page.title %}
+  {% for item in secondary %} <!--- loop over secondary projects -->
+    <li><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="20"> <b><a href="https://{{item.website }}">{{item.project}}</a>: {{ item.description }} </b></li>
+  {% endfor %}
+</ul>
