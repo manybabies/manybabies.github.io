@@ -16,7 +16,7 @@ subtitle: Curiosity
         <img src="{{ current_project.logoPath }}" width="150">
       </div>
       <div class="col-lg-8" align="left">
-        <h2 style="color:{{ current_project.color }};">Project Overview</h2>
+        <h2 style="color:{{ current_project.color }}; text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff;">Project Overview</h2>
         <ul>
           <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
           <li><i>Subscribe to the <a href="https://groups.google.com/a/manybabies.org/g/mb7-list" target="_blank"><b>MB7 listserv</b></a> and/or <a href="mailto:{{ site.data.global.contact.mb7 }}"><b>email us</b></a> to get involved!</i></li>
@@ -25,6 +25,8 @@ subtitle: Curiosity
     </div>
   </div>
 </div>
+
+***
 
 <h3>If you are interested in the project, please fill out this quick <a href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSd8rAEoCqg5VCCwi-BH-0F2hc83tTOgTaB4ul8nv0ZDoEmUTQ/viewform?usp=send_form" target="_blank">SURVEY</a></h3>
 

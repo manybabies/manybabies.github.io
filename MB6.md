@@ -16,7 +16,7 @@ subtitle: Neonatal and Early Imitation
         <img src="{{ current_project.logoPath }}" width="150">
       </div>
       <div class="col-lg-8" align="left">
-        <h2 style="color:{{ current_project.color }};">Project Overview</h2>
+        <h2 style="color:{{ current_project.color }}; text-shadow: 0 0 5px #ffffff, 0 0 10px #ffffff;">Project Overview</h2>
         <ul>
           <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
           <li><i>Subscribe to the <a href="https://groups.google.com/a/manybabies.org/g/mb6-list" target="_blank"><b>MB6 listserv</b></a> to get involved!</i></li>
