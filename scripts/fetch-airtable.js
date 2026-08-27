@@ -67,8 +67,7 @@ async function main() {
     personById[r.id] = {
       name: f.Name || f['Full Name'] || 'Unknown',
       orcid: f['🟢 ORCiD'] || null,
-      institution: f['🏫 Primary Affiliation'] || null,
-      email: f.Email || null, 
+      institution: f['🏫 Primary Affiliation'] || null
       // add any other fields you want available
     };
   });
