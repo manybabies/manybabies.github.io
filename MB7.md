@@ -4,20 +4,24 @@ title: MB7
 subtitle: Curiosity
 ---
 
+{% assign current_project = site.data.airtable | where: "project", page.title | first %}
+
 ***
 
 <div class="container">
-  <div class="row justify-content-around">
-    <div class="col-lg-4" align="center">
-      <br>
-      <img src="/assets/img/mb7-logo.png" width="150">
-    </div>
-    <div class="col-lg-8" align="left">
-      <h2>Project Overview</h2>
-      <ul>
-        <li><i>Status:</i> <b>{{ site.data.global.status.mb7 }}</b></li>
-        <li><i>Subscribe to the <a href="https://groups.google.com/a/manybabies.org/g/mb7-list" target="_blank"><b>MB7 listserv</b></a> and/or <a href="mailto:{{ site.data.global.contact.mb7 }}"><b>email us</b></a> to get involved!</i></li>
-      </ul>
+  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }};">
+    <div class="row justify-content-around">
+      <div class="col-lg-4" align="center">
+        <br>
+        <img src="{{ current_project.logoPath }}" width="150">
+      </div>
+      <div class="col-lg-8" align="left">
+        <h2 style="color:{{ current_project.color }};">Project Overview</h2>
+        <ul>
+          <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
+          <li><i>Subscribe to the <a href="https://groups.google.com/a/manybabies.org/g/mb7-list" target="_blank"><b>MB7 listserv</b></a> and/or <a href="mailto:{{ site.data.global.contact.mb7 }}"><b>email us</b></a> to get involved!</i></li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
@@ -28,14 +32,14 @@ subtitle: Curiosity
 <p>We aim to develop a paradigm to tease apart the role of these factors in triggering curiosity and information seeking (quantified by measures such as choice, sampling rates, switch behaviors, looking time, decision latency, etc.; compare <a href="https://doi.org/10.1016/j.cognition.2024.105976" target="_blank">Altmann et al., 2025</a>). To maximize participation and the meaningfulness of the collected data, we will consider offering several methodological approaches (e.g., eye tracking, touchscreen, table top) that can be selected or combined, and consider the feasibility of testing both the new paradigm and an established paradigm central to the discussions around curiosity in infancy (e.g., <a href="https://doi.org/10.1371/journal.pone.0036399" target="_blank">Kidd et al., 2012</a>; <a href="https://doi.org/10.1126/sciadv.abb5053" target="_blank">Poli et al., 2020</a>).</p>
 
 ***
-### Links
+## Links
 * **Documentation**: <a href="https://docs.google.com/document/d/1wbe1z53WD5MPvP4_z73JGq33egsx4Jqi/edit?usp=sharing&rtpof=true&sd=true" target="_blank">MB7 Collaboration Agreement</a>
 * **Listserv**: [subscribe here]({{ site.data.global.listserv.mb7 }}) *(click on "for access, try joining the group")*
 * **Slack**: <a href="{{ site.data.global.link.slack-invite }}" target="_blank">MB workspace</a> (*join the **#mb7-general** channel*)
 
 
 *** 
-### Project Leads
+## Project Leads
 * **General Contact: [{{ site.data.global.contact.mb7 }}](mailto:{{ site.data.global.contact.mb7 }})**
 * [**Elena Altmann**](https://www.psych.uni-goettingen.de/en/lang/team/elenaaltmann), *University of Göttingen, Germany* [[email]](mailto:elena.altmann@uni-goettingen.de)
 * [**Nivedita Mani**](https://www.psych.uni-goettingen.de/en/lang/team/mani-nivedita/mani-nivedita), *University of Göttingen, Germany* [[email]](mailto:Nivedita.Mani@psych.uni-goettingen.de)
@@ -46,7 +50,7 @@ subtitle: Curiosity
 
 
 ***
-### MB7 Contributors
+## MB7 Contributors
 
 We encourage everyone who is interested in the project to subscribe to the MB7 listserv and/or email the Project Leads ([{{ site.data.global.contact.mb7 }}](mailto:{{ site.data.global.contact.mb7 }})) to indicate your interest. Please note that access to infants/an infant lab is **NOT** a prerequisite.
 
