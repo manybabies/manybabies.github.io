@@ -72,7 +72,7 @@ subtitle: Infant-Directed Speech Preference
 ***
 ## Publications
 
-{% assign pubs = site.data.publications | where: "project", page.project_id %}
+{% assign pubs = site.data.publications | where: "project", page.title %}
 {% for pub in pubs %} <!--- loop over pubs for specified project -->
   <div class="container">
     <div class="row">
@@ -103,11 +103,11 @@ subtitle: Infant-Directed Speech Preference
 ## Spin-off Projects & Secondary Analyses
 
 <ul>
-  {% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", page.project_id %}
+  {% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", page.title %}
   {% for spinoff in spinoffs %} <!--- loop over spinoff projects -->
     <li><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="20"> <b><a href="https://{{spinoff.website }}">{{spinoff.project}}</a>: {{ spinoff.description }} </b></li>
   {% endfor %}
-  {% assign secondary = site.data.airtable | where: "type", "Secondary analysis" | where: "mainProject", page.project_id %}
+  {% assign secondary = site.data.airtable | where: "type", "Secondary analysis" | where: "mainProject", page.title %}
   {% for item in secondary %} <!--- loop over spinoff projects -->
     <li><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="20"> <b><a href="https://{{item.website }}">{{item.project}}</a>: {{ item.description }} </b></li>
   {% endfor %}
