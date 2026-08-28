@@ -43,15 +43,19 @@ Infants show a preference for infant-directed speech (IDS) over adult-directed s
 * **Slack**: [MB workspace](https://join.slack.com/t/manybabies/shared_invite/zt-1frvx4ulh-b7ge7X6DY8Yl4HgBW1xBXQ) (*join the **#mb1africa-general** channel*)
 * **MB1**: [main project page]({{site.baseurl}}/MB1/)
 
-
 ***
 ## Project Leads
-* [**Alex Carstensen**](http://abcarstensen.com), *Arizona State University, United States* [[email]](mailto:abcarstensen@asu.edu)
-* [**George Kachergis**](http://www.kachergis.com), *Stanford University, United States* [[email]](mailto:kachergis@stanford.edu)
-* [**Angeline Tsui**](https://angelinetsui.github.io/), *Stanford University, United States* [[email]](mailto:angelinetsui@gmail.com)
-* [**Casey Lew-Williams**](https://psych.princeton.edu/person/casey-lew-williams), *Princeton University, United States* [[email]](mailto:caseylw@princeton.edu)
-* [**Michael Frank**]( https://web.stanford.edu/~mcfrank/), *Stanford University, United States* [[email]](mailto:mcfrank@stanford.edu)
-
+<ul>
+  {% for lead in current_project.leads %}
+    <li>
+      {% if lead.orcid %}
+        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
+      {% else %}
+        {{ lead.name }}, <i>{{ lead.institution }}</i>
+      {% endif %}{% unless forloop.last %}<br> {% endunless %}
+    </li>
+  {% endfor %}
+</ul>
 
 ***
 ## MB1-Africa Contributors

@@ -28,7 +28,7 @@ subtitle: Longitudinal Vocabulary Follow-up
   </div>
 </div>
 
-
+***
 In this project we explored whether early preference for Infant Directed Speech (IDS) is linked to later vocabulary size. For instance, does preference for IDS predictx infants' vocabulary? Does the relation between IDS preference and vocabulary size change over development? And are there any systematic differences in the strength of this relationship across language communities? 
 
 Infants’ preference for IDS was tested as part of the [**MB1**]({{site.baseurl}}/MB1) project, and follow-up CDI data was collected from a subsample of this dataset at 18 and 24 months of age.
@@ -46,8 +46,17 @@ A total of 341 (18 months) and 327 (24 months) infants were tested across 21 lab
 
 ***
 ## Project Lead
-* [**Melanie Soderstrom**](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada* [[email]](mailto:m_soderstrom@umanitoba.ca)
-
+<ul>
+  {% for lead in current_project.leads %}
+    <li>
+      {% if lead.orcid %}
+        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
+      {% else %}
+        {{ lead.name }}, <i>{{ lead.institution }}</i>
+      {% endif %}{% unless forloop.last %}<br> {% endunless %}
+    </li>
+  {% endfor %}
+</ul>
 
 ***
 ## Contributors
