@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MB-ManyTrackers
-subtitle: 
+subtitle: Evaluating Eye-Tracking Consistency and Accuracy and Its Impact on Key Dependent Variables across Different Systems in the ManyBabies2 Project
 ---
 
 ***
