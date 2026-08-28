@@ -10,7 +10,7 @@ subtitle: page for testing stuff out
 
 {% for lead in current_project.leads %}
   {% if lead.orcid %}
-    {{ lead.name }}, {{ lead.institution }} <a href="{{ lead.orcid }}"><img src="/assets/img/orcid.png" height="15"></a> 
+    {{ lead.name }}, {{ lead.institution }} <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> 
   {% else %}
     {{ lead.name }}
   {% endif %}{% unless forloop.last %}<br> {% endunless %}
