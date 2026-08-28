@@ -87,7 +87,8 @@ async function main() {
       orcid: f['🟢 ORCiD'] || null,
       institution: institutionNames[0] || null, // just take primary institution
       // Only attach email if this person is a project lead
-      email: leadIdSet.has(r.id) ? (f.Email || null) : null
+      email: leadIdSet.has(r.id) ? (f.Email || null) : null,
+      site: leadIDSet.has(r.id) ? (f.Website || null) : null
       // add any other fields you want available
     };
   });
