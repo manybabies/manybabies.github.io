@@ -4,22 +4,26 @@ title: MB1L
 subtitle: Longitudinal Vocabulary Follow-up
 ---
 
+{% assign current_project = site.data.airtable | where: "project", page.title | first %}
+
 ***
 
 <div class="container">
-  <div class="row justify-content-around">
-    <div class="col-lg-4" align="center">
-      <br>
-      <img src="/assets/img/mb1-logo.png" width="150">
-    </div>
-    <div class="col-lg-8" align="left">
-      <h2>Project Overview</h2>
-      <ul>
-        <li><i>Status:</i> <b>{{ site.data.global.status.mb1l }}</b></li>
-        <li><i>21 participating labs collected data in 14 countries</i></li>
-        <li><i>467 babies tested and 668 CDIs collected</i></li>
-        <li><i>45 authors on</i> <b>Journal of Child Language</b> <i>article</i></li>
-      </ul>
+  <div class="box-gray" style="box-shadow: -10px 10px {{current_project.color}};">
+    <div class="row justify-content-around">
+      <div class="col-lg-4" align="center">
+        <br>
+        <img src="{{ current_project.logoPath}}" width="150">
+      </div>
+      <div class="col-lg-8" align="left">
+        <h2 style="color:{{current_project.color}};">Project Overview</h2>
+        <ul>
+          <li><i>Status:</i> <code>{{ current_project.status}}</code></li>
+          <li><i>21 participating labs collected data in 14 countries</i></li>
+          <li><i>467 babies tested and 668 CDIs collected</i></li>
+          <li><i>45 authors on</i> <b>Journal of Child Language</b> <i>article</i></li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
@@ -33,7 +37,7 @@ A total of 341 (18 months) and 327 (24 months) infants were tested across 21 lab
 
 
 ***
-### Links
+## Links
 * **Materials, Protocols, and Documentation**: [MB1L-OSF](https://osf.io/2qamd/).
 * **Data and code**: to be released.
 * **Listserv**: [join here](https://groups.google.com/u/1/g/mb1-cdi-follow-up).
@@ -41,21 +45,41 @@ A total of 341 (18 months) and 327 (24 months) infants were tested across 21 lab
 
 
 ***
-### Project Lead
+## Project Lead
 * [**Melanie Soderstrom**](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada* [[email]](mailto:m_soderstrom@umanitoba.ca)
 
 
 ***
-### Contributors
+## Contributors
 > NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrVSj85N0OkDVT6k?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ***
-### Publication
+## Publication
 
-<h4>Stage 1 Registered Report</h4>
-<p style="padding-left: 25px; text-indent: -25px"><i>Soderstrom, M.</i>, Werker, J. F., Tsui, A., Skarabela, B., Seidl, A., Searle, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Noble, C., Nave, K., Mayor, J., Martin, A., Lew-Williams, C., Ko, E., Kartushina, N., Kammermeier, M., Jessop, A., Hay, J. F., Hannon, E. E., Hamlin, J. K., Gonzalez-Gomez, N., Gonzalez-Barrero, A. M., Gampe, A., Fritzsche, T., Frank, M. C., Floccia, C., Durrant, S., Delle Luche, C., Davies, C., Cashon, C., Byers-Heinlein, K., Black, A. K., Bergmann, C., Anderson, L. (Stage 1 Registered Report, In Principle Acceptance). <b>Testing the Relationship Between Preferences for Infant-Directed Speech and Vocabulary Development: A Multi-Lab Study</b>. <i>Journal of Child Language</i>. [<a href="https://drive.google.com/file/d/1r-UxWPriMn7AY5xhg6hnpNj_drTHt6In/view?usp=sharing" target="_blank">Manuscript</a>]</p>
-
-<h4>Stage 2 Registered Report</h4>
-<p style="padding-left: 25px; text-indent: -25px"><i>Soderstrom, M.</i>, Rocha-Hidalgo, J., Muñoz, L. E., Bochynska, A., Werker, J. F., Skarabela, B., Seidl, A., Ryjova, Y., Rennels, J. L., Potter, C., Paulus, M., Ota, M., Olesen, N. M., Nave, K., Mayor, J., Martin, A., Machon, L. C., Lew-Williams, C., Ko, E., Kim, H., Kartushina, N., ... Tsui, A. S. M.(2024). <b>Testing the relationship between preferences for infant-directed speech and vocabulary development: A multi-lab study</b>. <i>Journal of Child Language</i>, 1–26. <a href="https://doi.org/10.1017/S0305000924000254" target="_blank">https://doi.org/10.1017/S0305000924000254</a></p>
+{% assign pubs = site.data.publications | where: "project", page.title %}
+{% for pub in pubs %} <!--- loop over pubs for specified project -->
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-2" align="center">
+        <a href="https://{{pub.website }}"><img src="{{ pub.logoPath }}" alt="{{ pub.project}} logo" width="70" style="margin-top:4px;"></a>        
+      </div>
+      <div class="col-sm-10">
+        {{ pub.authorsCondensed }} ({{ pub.year }}). <b>{{pub.title}}</b>. <i>{{pub.journal}}</i>, <i>{{pub.volume}}</i>({{ pub.issue }}), {{ pub.pages }}. <a href="{{ pub.journalLink }}" target="_blank">{{ pub.journalLink}}</a>
+        <details>
+          <summary><code>View full author list</code></summary> <!--- expandable author list with orcids -->
+          <div style="margin-left: 2em;">
+            {% for author in pub.authors %}
+              {% if author.orcid %}
+                {{ author.name }} <a href="{{ author.orcid }}"><img src="/assets/img/orcid.png" height="15"></a> 
+              {% else %}
+                {{ author.name }}
+              {% endif %}{% unless forloop.last %}<br> {% endunless %}
+            {% endfor %}
+          </div>
+        </details>
+      </div>
+    </div>
+  </div>  
+{% endfor %}
