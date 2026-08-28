@@ -4,24 +4,28 @@ title: MB2P
 subtitle: Measuring Pupil Dilation in Response to Expected and Unexpected Events
 ---
 
+{% assign current_project = site.data.airtable | where: "project", page.title | first %}
+
 ***
 
 <div class="container">
-  <div class="row justify-content-around">
-    <div class="col-lg-4" align="center">
-      <br>
-      <img src="/assets/img/mb2-logo.png" width="150">
-    </div>
-    <div class="col-lg-8" align="left">
-      <h2>Project Overview</h2>
-      <ul>
-        <li><i>Status:</i> <b>{{ site.data.global.status.mb2p }}</b></li>
-      </ul>
+  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }};">
+    <div class="row justify-content-around">
+      <div class="col-lg-4" align="center">
+        <br>
+        <img src="{{ current_project.logoPath }}" width="150">
+      </div>
+      <div class="col-lg-8" align="left">
+        <h2 style="color:{{ current_project.color }};">Project Overview</h2>
+        <ul>
+          <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
 
-
+***
 ## A violation-of-expectation paradigm building on the main MB2 study
 
 <p>The main dependent variable of the <a href="{{site.baseurl}}/MB2/"><b>MB2</b></a> study is children’s anticipatory looking behavior, i.e., how much they anticipate the protagonist to behave in ways congruent to their previously established goals. Crucially, and as part of the experimental design, children never actually see the final outcome of the protagonist’s initiated behavior (in the test trials). In this spin-off to the main MB2 study, we are interested in children’s responses to seeing a goal-congruent vs. a goal-incongruent outcome. We ask whether children are surprised if the protagonist (the bear) responds in a way that is incongruent with their previously established goal (to follow the mouse). To measure surprise, we capture changes in children’s pupil dilation in response to both outcomes. To this end, we have added a final scene at the end of the study, i.e., after the final video was presented, which shows the chaser (the bear) exiting the tube either on the side where the chasee (the mouse) is currently hiding or on opposite side. In addition to capturing changes in pupil dilation, we are also capturing children’s looking time in response to the congruent and incongruent events. </p>
@@ -45,7 +49,7 @@ subtitle: Measuring Pupil Dilation in Response to Expected and Unexpected Events
 
 
 ***
-### Links
+## Links
 * **Listserv**: [join here](https://groups.google.com/a/manybabies.org/g/mb2p-list)
 * **Materials, Protocols, and Documentation**: [MB2 lab manual](https://docs.google.com/document/d/1xAw_EbmvRl1Rj3iAVASazyb4HPxoECfvKaf_7zfFi0o/edit?usp=sharing)
 * **Slack**: <a href="{{ site.data.global.link.slack-invite }}" target="_blank">MB workspace</a> (*join the #mb2p-pupillometry channel*)
@@ -53,13 +57,22 @@ subtitle: Measuring Pupil Dilation in Response to Expected and Unexpected Events
 
 
 ***
-### Leads
-* [**Robert Hepach**](https://www.psy.ox.ac.uk/people/robert-hepach), *University of Oxford, United Kingdom* [[email]](mailto:robert.hepach@psy.ox.ac.uk)
-* [**Hannes Rakoczy**](https://www.psych.uni-goettingen.de/en/development/team/rakoczy-hannes), *University of Göttingen, Germany* [[email]](mailto:hrakocz@uni-goettingen.de)
+## Leads
+<ul>
+  {% for lead in current_project.leads %}
+    <li>
+      {% if lead.orcid %}
+        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
+      {% else %}
+        {{ lead.name }}, <i>{{ lead.institution }}</i>
+      {% endif %}{% unless forloop.last %}<br> {% endunless %}
+    </li>
+  {% endfor %}
+</ul>
 
 
 ***
-### MB2P Contributors
+## MB2P Contributors
 
 We encourage everyone who is interested in the project to contact Project Lead [Robert Hepach](mailto:robert.hepach@psy.ox.ac.uk). Please note that access to infants/an infant lab is **NOT** a prerequisite.
 
