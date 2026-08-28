@@ -172,14 +172,14 @@
         "orcid": "https://orcid.org/0000-0002-7551-4378",
         "institution": "Stanford University",
         "email": "mcfrank@stanford.edu",
-        "site": "http://langcog.stanford.edu/"
+        "site": "https://web.stanford.edu/~mcfrank/"
       },
       {
         "name": "Melanie Soderstrom",
         "orcid": "https://orcid.org/0000-0003-3212-5775",
         "institution": "University of Manitoba",
         "email": "M_Soderstrom@umanitoba.ca",
-        "site": "https://webapps-dist.umanitoba.ca/psychology/bio/index.php?page=1&bioid=45"
+        "site": "https://umanitoba.ca/arts/melanie-soderstrom"
       }
     ],
     "logoPath": "/assets/img/mb1-logo.png",
@@ -225,14 +225,14 @@
         "orcid": "https://orcid.org/0000-0003-4153-4167",
         "institution": "Stanford University",
         "email": "george.kachergis@gmail.com",
-        "site": "https://langcog.stanford.edu/people.html"
+        "site": "http://www.kachergis.com"
       },
       {
         "name": "Michael C. Frank",
         "orcid": "https://orcid.org/0000-0002-7551-4378",
         "institution": "Stanford University",
         "email": "mcfrank@stanford.edu",
-        "site": "http://langcog.stanford.edu/"
+        "site": "https://web.stanford.edu/~mcfrank/"
       },
       {
         "name": "Maya B. Mathur",
@@ -312,7 +312,7 @@
         "orcid": "https://orcid.org/0000-0003-3212-5775",
         "institution": "University of Manitoba",
         "email": "M_Soderstrom@umanitoba.ca",
-        "site": "https://webapps-dist.umanitoba.ca/psychology/bio/index.php?page=1&bioid=45"
+        "site": "https://umanitoba.ca/arts/melanie-soderstrom"
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
@@ -351,7 +351,7 @@
         "orcid": "https://orcid.org/0000-0003-3212-5775",
         "institution": "University of Manitoba",
         "email": "M_Soderstrom@umanitoba.ca",
-        "site": "https://webapps-dist.umanitoba.ca/psychology/bio/index.php?page=1&bioid=45"
+        "site": "https://umanitoba.ca/arts/melanie-soderstrom"
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
@@ -488,7 +488,7 @@
         "orcid": "https://orcid.org/0000-0002-7551-4378",
         "institution": "Stanford University",
         "email": "mcfrank@stanford.edu",
-        "site": "http://langcog.stanford.edu/"
+        "site": "https://web.stanford.edu/~mcfrank/"
       }
     ],
     "logoPath": "/assets/img/mb2-logo.png",
@@ -643,7 +643,7 @@
         "orcid": "https://orcid.org/0000-0003-3212-5775",
         "institution": "University of Manitoba",
         "email": "M_Soderstrom@umanitoba.ca",
-        "site": "https://webapps-dist.umanitoba.ca/psychology/bio/index.php?page=1&bioid=45"
+        "site": "https://umanitoba.ca/arts/melanie-soderstrom"
       }
     ],
     "logoPath": "/assets/img/mb3-logo.png",
