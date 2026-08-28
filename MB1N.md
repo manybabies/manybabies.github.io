@@ -4,19 +4,23 @@ title: MB1N
 subtitle: Native Languages Follow-up
 ---
 
+{% assign current_project = site.data.airtable | where: "project", page.title | first %}
+
 ***
 
 <div class="container">
-  <div class="row justify-content-around">
-    <div class="col-lg-4" align="center">
-      <br>
-      <img src="/assets/img/MB1_logo.png" width="150">
-    </div>
-    <div class="col-lg-8" align="left">
-      <h2>Project Overview</h2>
-      <ul>
-        <li><i>Status:</i> <b>{{ site.data.global.status.mb1n }}</b></li>
-      </ul>
+  <div class="box-gray" style="box-shadow: -10px 10px {{current_project.color}};">
+    <div class="row justify-content-around">
+      <div class="col-lg-4" align="center">
+        <br>
+        <img src="{{ current_project.logoPath}}" width="150">
+      </div>
+      <div class="col-lg-8" align="left">
+        <h2 style="color:{{current_project.color}};">Project Overview</h2>
+        <ul>
+          <li><i>Status:</i> <code>{{ current_project.status}}</code></li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
@@ -27,20 +31,29 @@ All infants from <a href="{{site.baseurl}}/MB1/"><b>MB1</b></a>, regardless of t
 
 
 ***
-### Project Leads
-* [**Natalia Kartushina**](https://www.sv.uio.no/psi/english/people/aca/natalkar/), *University of Oslo, Norway* [[email]](mailto:natalia.kartushina@psykologi.uio.no)
-* [**Virginie Durier**](https://ethos.univ-rennes1.fr/interlocuteurs/virginie-durier), *Université de Rennes 1 - CNRS, France* [[email]](mailto:virginie.durier@univ-rennes1.fr)
+## Project Leads
+<ul>
+  {% for lead in current_project.leads %}
+    <li>
+      {% if lead.orcid %}
+        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
+      {% else %}
+        {{ lead.name }}, <i>{{ lead.institution }}</i>
+      {% endif %}{% unless forloop.last %}<br> {% endunless %}
+    </li>
+  {% endfor %}
+</ul>
 
 
 ***
-### Links
+## Links
 * **Materials, Protocols, and Documentation**: [MB1N-OSF](https://osf.io/9j87t/).
 * **Preregistration**: [OSF](https://osf.io/gwdc9/)
 * **Listserv**: [join here](https://groups.google.com/a/manybabies.org/g/mb1n-list).
 
 
 ***
-### MB1N Contributors
+## MB1N Contributors
 
 We encourage everyone who is interested in the project to contact the Project Leads (see above). Please note that access to infants/an infant lab is **NOT** a prerequisite.
 
