@@ -72,7 +72,7 @@ async function main() {
   peopleRecords.forEach(r => {
     const f = r.fields;
     
-    const institutionIds = f.['🏫 Primary Affiliation'] || [];
+    const institutionIds = f['🏫 Primary Affiliation'] || [];
     const institutionNames = institutionIds.map(id => institutionById[id] || id);
 
     personById[r.id] = {
