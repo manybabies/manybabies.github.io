@@ -4,41 +4,52 @@ title: MB3L
 subtitle: Longitudinal Language Follow-up
 ---
 
+{% assign current_project = site.data.airtable | where: "project", page.title | first %}
+
 ***
 
 <div class="container">
-  <div class="row justify-content-around">
-    <div class="col-lg-4" align="center">
-      <br>
-      <img src="/assets/img/MB3_logo.png" width="150">
-    </div>
-    <div class="col-lg-8" align="left">
-      <h2>Project Overview</h2>
-      <ul>
-        <li><i>Status:</i> <b>{{ site.data.global.status.mb3l }}</b></li>
-      </ul>
+  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }};">
+    <div class="row justify-content-around">
+      <div class="col-lg-4" align="center">
+        <br>
+        <img src="{{ current_project.logoPath }}" width="150">
+      </div>
+      <div class="col-lg-8" align="left">
+        <h2 style="color:{{ current_project.color }};">Project Overview</h2>
+        <ul>
+          <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
 
+***
 
 The MB3L follow-up project will investigate the relationship between infants’ rule learning abilities and their later developing language acquisition skills in a longitudinal design. Therefore, participating labs will assess language abilities at 24 to 30 months of age using the CDI. We are for example interested in the extent to which rule learning abilities predict later grammar skills, whether this relationship changes with age, and if certain characteristics of the first language the infants are exposed to (e.g., like complexity) lead to any systematic differences in the strength of this relationship.
 
-
 ***
-### Links
+## Links
 * **Preregistration**: <a href="https://osf.io/hfqkc" target="_blank">Link</a>
 * **MB3**: [main project page]({{site.baseurl}}/MB3/)
 
 ***
-### Leads
-* [**Anna Exner**](https://dev.imp10.ruhr-uni-bochum.de/epsy/personen/exner.html.en), *Ruhr University Bochum, Germany* [[email]](mailto:anna.exner@posteo.de) 
-* [**Roberta Bettoni**](https://en.unimib.it/roberta-bettoni), *University of Milano-Bicocca, Italy*, [[email]](mailto:roberta.bettoni@unimib.it)
-* [**Ingmar Visser**](https://www.uva.nl/profiel/v/i/i.visser/i.visser.html?cb), *University of Amsterdam, Netherlands* [[email]](mailto:i.visser@uva.nl)
-
+## Leads
+<ul>
+  {% for lead in current_project.leads %}
+    <li>
+      {% if lead.orcid %}
+        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
+      {% else %}
+        {{ lead.name }}, <i>{{ lead.institution }}</i>
+      {% endif %}{% unless forloop.last %}<br> {% endunless %}
+    </li>
+  {% endfor %}
+</ul>
 
 *** 
-### MB3L Contributors
+## MB3L Contributors
 
 We encourage everyone who is interested in the project to contact Project Lead [Anna Exner](mailto:anna.exner@posteo.de). Please note that access to infants/an infant lab is **NOT** a prerequisite.
 
