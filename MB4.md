@@ -42,7 +42,6 @@ subtitle: Social Evaluation
   </div>
 </div>
 
-
 ***
 ## Links
 * **Project website**: [check it out](https://sites.google.com/view/manybabies4/home)
@@ -52,13 +51,19 @@ subtitle: Social Evaluation
 * **Listserv**: [join here](https://groups.google.com/a/manybabies.org/g/mb4-list)
 * **Slack**: [MB workspace]({{ site.data.global.link.slack-invite }}) (*join the #mb4-general channel*)
 
-
 ***
 ## Project Leads
-* [**Kelsey Lucca**](https://isearch.asu.edu/profile/3521043), *Arizona State University, United States* [[email]](mailto:kelsey.lucca@asu.edu)
-* [**Francis Yuen**](https://cic.psych.ubc.ca/), *University of British Columbia, Canada* [[email]](mailto:francis.yuen@psych.ubc.ca)
-* [**Kiley Hamlin**](https://psych.ubc.ca/profile/kiley-hamlin/), *University of British Columbia, Canada* [[email]](mailto:kiley.hamlin@psych.ubc.ca)
-
+<ul>
+  {% for lead in current_project.leads %}
+    <li>
+      {% if lead.orcid %}
+        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
+      {% else %}
+        {{ lead.name }}, <i>{{ lead.institution }}</i>
+      {% endif %}{% unless forloop.last %}<br> {% endunless %}
+    </li>
+  {% endfor %}
+</ul>
 
 ***
 ## MB4 Contributors
