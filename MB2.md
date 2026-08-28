@@ -85,11 +85,17 @@ Following the anticipatory looking studies, we hope to continue the project with
 
 ***
 ## Project Leads
-* [**Tobias Schuwerk**](https://www.en.cas.uni-muenchen.de/rir/junior_rir/previous_junior_rir/schuhwerk_tobias/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:Tobias.Schuwerk@psy.lmu.de)
-* [**Dora Kampis**](https://psychology.ku.dk/staff/academic_staff/?pure=en%2Fpersons%2Fdora-kampis(94aa17eb-739f-486e-a280-4a76aa4d38a7).html), *University of Copenhagen, Denmark* [[email]](mailto:dk@psy.ku.dk)
-* [**Hannes Rakoczy**](https://www.psych.uni-goettingen.de/en/development/team/rakoczy-hannes), *University of Göttingen, Germany* [[email]](mailto:hrakocz@uni-goettingen.de)
-* [**Michael Frank**](https://web.stanford.edu/~mcfrank/), *Stanford University, United States* [[email]](mcfrank@stanford.edu)
-
+<ul>
+  {% for lead in current_project.leads %}
+    <li>
+      {% if lead.orcid %}
+        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
+      {% else %}
+        {{ lead.name }}, <i>{{ lead.institution }}</i>
+      {% endif %}{% unless forloop.last %}<br> {% endunless %}
+    </li>
+  {% endfor %}
+</ul>
 
 ***
 ## MB2 Contributors

@@ -4,23 +4,27 @@ title: MB4I
 subtitle: Individual differences in infants’ social evaluations across cultures
 ---
 
+{% assign current_project = site.data.airtable | where: "project", page.title | first %}
+
 ***
 
 <div class="container">
-  <div class="row justify-content-around">
-    <div class="col-lg-4" align="center">
-      <br>
-      <img src="/assets/img/mb4-logo.png" width="150">
-    </div>
-    <div class="col-lg-8" align="left">
-      <h2>Project Overview</h2>
-      <ul>
-        <li><i>Status:</i> <b>{{ site.data.global.status.mb4i }}</b></li>
+  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }};">
+    <div class="row justify-content-around">
+      <div class="col-lg-4" align="center">
+        <br>
+        <img src="{{ current_project.logoPath }}" width="150">
+      </div>
+      <div class="col-lg-8" align="left">
+        <h2 style="color:{{ current_project.color }};">Project Overview</h2>
+        <ul>
+          <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
       </ul>
     </div>
   </div>
 </div>
 
+***
 
 <p>The goal of this spin-off project of <a href="{{site.baseurl}}/MB4/" target="_blank"><b>MB4</b></a> is to examine individual differences in infants' early social evaluations across diverse cultural contexts. Specifically, this project aims to test the relation between infants' preferences for prosocial characters ("helpers") over antisocial characters ("hinderers") and (1) caregiver prosocial characteristics, beliefs, expectations, and socialization practices; (2) the infants' cultural context; (3) infants' everyday prosocial behaviors. We take a multi-method approach, combining experimental, observational, and survey-based measures in a large sample of infants from labs across the world.</p>
 
@@ -28,25 +32,31 @@ subtitle: Individual differences in infants’ social evaluations across culture
 
 <p>The <b>surveys</b> include: Parental justice sensitivity survey; Infant Prosocial Behaviour Parent Interview (asks about parents beliefs and expectations surrounding prosocial development); Parental reflectivity scale; Individualism/ collectivism scale; and demographic surveys. The <b>JBR task</b> is a 10 minute, semi-structured observational task in which caregivers are given a 9-page wordless picture book: 3 pages depict prosocial interactions; 3 pages depict antisocial interactions; and 3 pages depict neutral events. Parent language and behavior is then transcribed and coded (e.g. moral-relevant talk).</p>
 
-
 ***
-### Links
+## Links
 * **Documentation and protocols**: [MB4I-OSF](https://osf.io/qy2zr/)
 * **Listserv**: [join](https://groups.google.com/a/manybabies.org/g/mb4i-list)
 * **Preregistration**: [OSF](https://doi.org/10.17605/OSF.IO/RAQ4X)
 * **BCCCD 2023 Poster**: [link](https://osf.io/jp532)
 * **MB4**: [main project page]({{site.baseurl}}/MB4/)
 
+***
+## Leads
+<ul>
+  {% for lead in current_project.leads %}
+    <li>
+      {% if lead.orcid %}
+        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
+      {% else %}
+        {{ lead.name }}, <i>{{ lead.institution }}</i>
+      {% endif %}{% unless forloop.last %}<br> {% endunless %}
+    </li>
+  {% endfor %}
+</ul>
+
 
 ***
-### Leads
-* [**Yiyi Wang**](https://yiyiwang.webador.com/), *University of Chicago, United States* [[email]](mailto:yiyiwang@uchicago.edu)
-* [**Hilal Şen**](https://www.unak.is/english/moya/ugla/staff/hilal-sen), *University of Akureyri, Iceland & MEF University, Turkey* [[email]](mailto:hilal@unak.is)
-* [**Kelsey Lucca**](https://isearch.asu.edu/profile/3521043), *Arizona State University, United States* [[email]](mailto:kelsey.lucca@asu.edu)
-
-
-***
-### MB4I Contributors
+## MB4I Contributors
 
 We encourage everyone who is interested in the project to contact the Project Leads (see above). Please note that access to infants/an infant lab is **NOT** a prerequisite.
 
@@ -55,7 +65,6 @@ We encourage everyone who is interested in the project to contact the Project Le
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrcO1IcNtJkwri01?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 > Project contributors can update/add info to the contributor list/MB Dashboard using <a href="{{ site.data.global.link.dashboard-form }}" target="_blank"><b>this form</b></a> 
-
 
 ***
 ### Funding Acknowledgement

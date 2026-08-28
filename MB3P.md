@@ -4,19 +4,23 @@ title: MB3P
 subtitle: Measuring Pupil Dilation with Rule Learning
 ---
 
+{% assign current_project = site.data.airtable | where: "project", page.title | first %}
+
 ***
 
 <div class="container">
-  <div class="row justify-content-around">
-    <div class="col-lg-4" align="center">
-      <br>
-      <img src="/assets/img/mb3-logo.png" width="150">
-    </div>
-    <div class="col-lg-8" align="left">
-      <h2>Project Overview</h2>
-      <ul>
-        <li><i>Status:</i> <b>{{ site.data.global.status.mb3p }}</b></li>
-      </ul>
+  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }};">
+    <div class="row justify-content-around">
+      <div class="col-lg-4" align="center">
+        <br>
+        <img src="{{ current_project.logoPath }}" width="150">
+      </div>
+      <div class="col-lg-8" align="left">
+        <h2 style="color:{{ current_project.color }};">Project Overview</h2>
+        <ul>
+          <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
@@ -27,25 +31,28 @@ subtitle: Measuring Pupil Dilation with Rule Learning
 <p>Description to come!</p>
 
 
-
-
-
 ***
-### Links
+## Links
 * **Listserv**: [join here](https://groups.google.com/a/manybabies.org/g/mb3p-list)
 * **Materials, Protocols, and Documentation**: <a href="https://docs.google.com/document/d/1b-ZaJpbVzvN_fUApXlZkZiT9jxGUYRhHbAC1qOucufo/edit?usp=sharing" target="_blank">MB3 lab manual</a>
 * **MB3**: [main project page]({{site.baseurl}}/MB3/)
 
+***
+## Leads
+<ul>
+  {% for lead in current_project.leads %}
+    <li>
+      {% if lead.orcid %}
+        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
+      {% else %}
+        {{ lead.name }}, <i>{{ lead.institution }}</i>
+      {% endif %}{% unless forloop.last %}<br> {% endunless %}
+    </li>
+  {% endfor %}
+</ul>
 
 ***
-### Leads
-* [**Ingmar Visser**](https://www.uva.nl/profiel/v/i/i.visser/i.visser.html?cb), *University of Amsterdam, Netherlands* [[email]](mailto:i.visser@uva.nl) 
-* [**Samuel Forbes**](https://www.durham.ac.uk/staff/samuel-forbes/), *Durham University, UK* [[email]](mailto:samuel.forbes@durham.ac.uk)
-* [**Sylvain Sirois**](https://oraprdnt.uqtr.uquebec.ca/portail/gscw031?owa_no_site=314), *Université du Québec à Trois-Rivières, Canada* [[email]](mailto:sylvain.sirois@uqtr.ca)
-
-
-***
-### MB3P Contributors
+## MB3P Contributors
 
 We encourage everyone who is interested in the project to contact a Project Lead and/or subscribe to the MB3P listserv *(see above)*. Please note that access to infants/an infant lab is **NOT** a prerequisite.
 
