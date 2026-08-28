@@ -37,7 +37,6 @@ subtitle: Measuring Pupil Dilation with Rule Learning
 * **Materials, Protocols, and Documentation**: <a href="https://docs.google.com/document/d/1b-ZaJpbVzvN_fUApXlZkZiT9jxGUYRhHbAC1qOucufo/edit?usp=sharing" target="_blank">MB3 lab manual</a>
 * **MB3**: [main project page]({{site.baseurl}}/MB3/)
 
-
 ***
 ## Leads
 <ul>
@@ -51,7 +50,6 @@ subtitle: Measuring Pupil Dilation with Rule Learning
     </li>
   {% endfor %}
 </ul>
-
 
 ***
 ## MB3P Contributors

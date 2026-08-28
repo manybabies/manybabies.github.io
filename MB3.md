@@ -41,12 +41,18 @@ In this ongoing project we investigate an ability that lies at the heart of cogn
 
 
 ***
-## Leads
-* [**Ingmar Visser**](https://www.uva.nl/profiel/v/i/i.visser/i.visser.html?cb), *University of Amsterdam, Netherlands* [[email]](mailto:i.visser@uva.nl) 
-* [**Claartje Levelt**](https://www.universiteitleiden.nl/en/staffmembers/claartje-levelt#tab-1), *Leiden University, Netherlands* [[email]](mailto:c.c.levelt@hum.leidenuniv.nl) 
-* [**Melanie Soderstrom**](https://home.cc.umanitoba.ca/~soderstr/), *University of Manitoba, Canada* [[email]](mailto:M_Soderstrom@umanitoba.ca)
-* [**Andreea Geambasu**](https://www.universiteitleiden.nl/en/staffmembers/andreea-geambasu#tab-1), *Leiden University, Netherlands* [[email]](mailto:a.geambasu@hum.leidenuniv.nl)
-
+## Project Leads
+<ul>
+  {% for lead in current_project.leads %}
+    <li>
+      {% if lead.orcid %}
+        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
+      {% else %}
+        {{ lead.name }}, <i>{{ lead.institution }}</i>
+      {% endif %}{% unless forloop.last %}<br> {% endunless %}
+    </li>
+  {% endfor %}
+</ul>
 
 ***
 ## MB3 Contributors
