@@ -1,0 +1,57 @@
+---
+layout: page
+title: MB1-Meta
+subtitle: Comparison of the ManyBabies 1 results to meta-analytic data
+---
+
+{% assign current_project = site.data.airtable | where: "project", page.title | first %}
+
+***
+
+<div class="container">
+  <div class="box-gray" style="box-shadow: -10px 10px {{current_project.color}};">
+    <div class="row justify-content-around">
+      <div class="col-lg-4" align="center">
+        <br>
+        <img src="{{ current_project.logoPath}}" width="150">
+      </div>
+      <div class="col-lg-8" align="left">
+        <h2 style="color:{{current_project.color}};">Project Overview</h2>
+        <ul>
+          <li><i>Status:</i> <code>{{ current_project.status}}</code></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+***
+
+Meta-analyses are often considered to be the most reliable source of information when it comes to deciding whether a phenomenon is real, and how strong the effect is. However, large-scale collaborations, such as ManyBabies, often yield different results than published meta-analyses. To better understand how the two ways to collect and analyze large datasets are related (or not), we update the meta-analysis on infant-directed speech preference and subject it to a joint analysis.
+
+***
+
+## Project Leads
+<ul>
+  {% for lead in current_project.leads %}
+    <li>
+      {% if lead.orcid %}
+        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
+      {% else %}
+        {{ lead.name }}, <i>{{ lead.institution }}</i>
+      {% endif %}{% unless forloop.last %}<br> {% endunless %}
+    </li>
+  {% endfor %}
+</ul>
+
+***
+## Links
+* **Data, Code**: [OSF](https://osf.io/amj7u/)
+* **MetaLab**: [link](https://langcog.github.io/metalab/dataset/idspref/)
+* **Preprint**: [PsyArXiv](https://doi.org/10.31234/osf.io/etqs7)
+<br>
+
+***
+## Contributors
+
+> list coming soon!
