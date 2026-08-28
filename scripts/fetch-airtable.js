@@ -65,7 +65,7 @@ async function main() {
   // Adjust "Name" below to whatever the actual field is called in your People table
   const institutionById = {};
   institutionRecords.forEach(r => {
-    institutionById[r.id] = r.fields.Name || r.fields['Institution Name'] || 'Unknown';
+    institutionById[r.id] = r.fields.Name || r.fields['Institution'] || 'Unknown';
   });
 
   const personById = {};
