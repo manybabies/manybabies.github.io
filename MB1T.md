@@ -45,5 +45,29 @@ In this project we investigate the test-retest reliability of the preferences me
 
 ***
 ### Publication
-<p style="padding-left: 25px; text-indent: -25px">Schreiner, M. S., Zettersten, M., Bergmann, C., Frank, M. C., Fritzsche, T., Gonzalez-Gomez, N., Hamlin, K., Kartushina, N., Kellier, D. J., Mani, N., Mayor, J., Saffran, J., Shukla, M., Silverstein, P., Soderstrom, M., & Lippold, M. (2024). <b>Limited evidence of test-retest reliability in infant-directed speech preference in a large preregistered infant experiment</b>. <i>Developmental Science</i>, e13551. <a href="https://doi.org/10.1111/desc.13551" target="_blank">https://doi.org/10.1111/desc.13551</a> [<a href="https://doi.org/10.31234/osf.io/uwche" target="_blank">PsyArXiv preprint</a>]</p>
+{% assign pubs = site.data.publications | where: "project", page.title %}
+{% for pub in pubs %} <!--- loop over pubs for specified project -->
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-2" align="center">
+        <a href="https://{{pub.website }}"><img src="{{ pub.logoPath }}" alt="{{ pub.project}} logo" width="70" style="margin-top:4px;"></a>        
+      </div>
+      <div class="col-sm-10">
+        {{ pub.authorsCondensed }} ({{ pub.year }}). <b>{{pub.title}}</b>. <i>{{pub.journal}}</i>, <i>{{pub.issue}}</i>({{ pub.issue }}), {{ pub.pages }}. <a href="{{ pub.journalLink }}" target="_blank">{{ pub.journalLink}}</a>
+        <details>
+          <summary><code>View full author list</code></summary> <!--- expandable author list with orcids -->
+          <div style="margin-left: 2em;">
+            {% for author in pub.authors %}
+              {% if author.orcid %}
+                {{ author.name }} <a href="{{ author.orcid }}"><img src="/assets/img/orcid.png" height="15"></a> 
+              {% else %}
+                {{ author.name }}
+              {% endif %}{% unless forloop.last %}<br> {% endunless %}
+            {% endfor %}
+          </div>
+        </details>
+      </div>
+    </div>
+  </div>  
+{% endfor %}
 
