@@ -5,6 +5,7 @@ const BASE_ID = process.env.AIRTABLE_BASE_ID;
 const TABLE = process.env.AIRTABLE_TABLE_NAME; // e.g., "Projects"
 const PEOPLE_TABLE = process.env.AIRTABLE_PEOPLE_TABLE; // e.g. "People"
 const PUBLICATION_TABLE = process.env.AIRTABLE_PUBLICATION_TABLE;   // ← new
+const INSTITUTION_TABLE = process.env.AIRTABLE_INSTITUTION_TABLE;
 const TOKEN = process.env.AIRTABLE_TOKEN;
 
 function getJSON(apiPath) {
@@ -56,18 +57,28 @@ async function main() {
   const [projectRecords, peopleRecords, publicationRecords] = await Promise.all([
     getAllRecords(TABLE),
     getAllRecords(PEOPLE_TABLE),
-    getAllRecords(PUBLICATION_TABLE)
+    getAllRecords(PUBLICATION_TABLE),
+    getAllRecords(INSTITUTION_TABLE)
   ]);
 
   // Build a lookup: record ID -> display name
   // Adjust "Name" below to whatever the actual field is called in your People table
+  const institutionById = {};
+  institutionRecords.forEach(r => {
+    institutionById[r.id] = r.fields.Name || r.fields['Institution Name'] || 'Unknown';
+  });
+
   const personById = {};
   peopleRecords.forEach(r => {
     const f = r.fields;
+    
+    const institutionIds = f.['🏫 Primary Affiliation'] || [];
+    const institutionNames = institutionIds.map(id => institutionById[id] || id);
+
     personById[r.id] = {
       name: f.Name || f['Full Name'] || 'Unknown',
       orcid: f['🟢 ORCiD'] || null,
-      institution: f['🏫 Primary Affiliation'] || null
+      institution: institutionNames[0] || null // just take primary institution
       // add any other fields you want available
     };
   });
