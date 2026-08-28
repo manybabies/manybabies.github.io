@@ -39,17 +39,20 @@ subtitle: Curiosity
 * **Listserv**: [subscribe here]({{ site.data.global.listserv.mb7 }}) *(click on "for access, try joining the group")*
 * **Slack**: <a href="{{ site.data.global.link.slack-invite }}" target="_blank">MB workspace</a> (*join the **#mb7-general** channel*)
 
-
 *** 
 ## Project Leads
 * **General Contact: [{{ site.data.global.contact.mb7 }}](mailto:{{ site.data.global.contact.mb7 }})**
-* [**Elena Altmann**](https://www.psych.uni-goettingen.de/en/lang/team/elenaaltmann), *University of Göttingen, Germany* [[email]](mailto:elena.altmann@uni-goettingen.de)
-* [**Nivedita Mani**](https://www.psych.uni-goettingen.de/en/lang/team/mani-nivedita/mani-nivedita), *University of Göttingen, Germany* [[email]](mailto:Nivedita.Mani@psych.uni-goettingen.de)
-* [**Laura Lewis**](https://psych.ucsb.edu/people/faculty/laura-simone-lewis), *University of California, Santa Barbara, United States* [[email]](mailto:lauralewis@ucsb.edu)
-* [**Hanna Schleihauf**](https://www.uu.nl/staff/HSchleihauf), *Utrecht University, The Netherlands* [[email]](mailto:h.schleihauf@uu.nl)
-* [**Gert Westermann**](https://www.lancaster.ac.uk/lira/people/gert-westermann), *Lancaster University, United Kingdom* [[email]](mailto:g.westermann@lancaster.ac.uk)
-* [**Martin Zettersten**](https://cogsci.ucsd.edu/people/faculty/martin-zettersten.html), *University of California, San Diego, United States* [[email]](mailto:mzettersten@ucsd.edu)
-
+<ul>
+  {% for lead in current_project.leads %}
+    <li>
+      {% if lead.orcid %}
+        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
+      {% else %}
+        {{ lead.name }}, <i>{{ lead.institution }}</i>
+      {% endif %}{% unless forloop.last %}<br> {% endunless %}
+    </li>
+  {% endfor %}
+</ul>
 
 ***
 ## MB7 Contributors

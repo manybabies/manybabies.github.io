@@ -4,23 +4,28 @@ title: MB4P
 subtitle: Postural responses during social evaluation
 ---
 
+{% assign current_project = site.data.airtable | where: "project", page.title | first %}
+
 ***
 
 <div class="container">
-  <div class="row justify-content-around">
-    <div class="col-lg-4" align="center">
-      <br>
-      <img src="/assets/img/mb4-logo.png" width="150">
-    </div>
-    <div class="col-lg-8" align="left">
-      <h2>Project Overview</h2>
-      <ul>
-        <li><i>Status:</i> <b>{{ site.data.global.status.mb4p }}</b></li>
-      </ul>
+  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }};">
+    <div class="row justify-content-around">
+      <div class="col-lg-4" align="center">
+        <br>
+        <img src="{{ current_project.logoPath }}" width="150">
+      </div>
+      <div class="col-lg-8" align="left">
+        <h2 style="color:{{ current_project.color }};">Project Overview</h2>
+        <ul>
+          <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
 
+***
 
 <p>This project seeks to explore the relationship between infants’ postural responses and their subsequent behaviour (e.g. choice of helper/hinderer) in the main MB4 study. </p>
 
@@ -37,13 +42,21 @@ subtitle: Postural responses during social evaluation
 -->
 
 ***
-### Leads
-* [**Marlene Försterling**](https://www.psy.ox.ac.uk/people/marlene-forsterling), *University of Oxford, United Kingdom* [[email]](mailto:marlene.forsterling@kellogg.ox.ac.uk)
-* [**Robert Hepach**](https://www.psy.ox.ac.uk/people/robert-hepach), *University of Oxford, United Kingdom* [[email]](mailto:robert.hepach@psy.ox.ac.uk)
-
+## Project Leads
+<ul>
+  {% for lead in current_project.leads %}
+    <li>
+      {% if lead.orcid %}
+        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
+      {% else %}
+        {{ lead.name }}, <i>{{ lead.institution }}</i>
+      {% endif %}{% unless forloop.last %}<br> {% endunless %}
+    </li>
+  {% endfor %}
+</ul>
 
 ***
-### MB4P Contributors
+## MB4P Contributors
 
 We encourage everyone who is interested in the project to contact the Project Leads (see above). Please note that access to infants/an infant lab is **NOT** a prerequisite.
 

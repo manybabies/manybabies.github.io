@@ -35,25 +35,28 @@ subtitle: Perceptual Specialization
 <p>We aim to replicate and extend previous face perception studies by investigating the extent to which perceptual specialization for familiar-race faces develops similarly in Multiracial/Multiethnic contexts and Monoracial/Monoethnic contexts. Multiracial individuals represent one of the fastest-growing demographic groups (e.g. U.S. Census Bureau, 2021), which means that an increasing number of infants are developing within Multiracial families and diverse communities. Characterizing perceptual development in these contexts is essential for building a representative account of early face processing. The primary task will measure behavioral looking time (e.g., Visual Paired Comparison, Habituation), with dwell time towards novel relative to familiar exemplar as the primary dependent variable. To maximize participation and meaningfulness of data collection, we aim to offer a task compatible across multiple recording platforms as well as scalable amounts of data collected from each participant. Additional contribution opportunities to this study include face dataset development, demographic and experience questionnaires, data analysis, and manuscript writing. Developing spin-off projects such as testing including perceptual specialization for languages or using other methods such as EEG/ERP or fNIRS are also welcome.</p>
 
 ***
-### Links
+## Links
 * <b><a href="https://docs.google.com/document/d/1UPKZLpH-pyW2SY7rydJ1E1KjKN3Mx5LmhsxSxL7FojI/edit?usp=sharing" target="_blank">MB9 COLLABORATION AGREEMENT</a></b>
 * **Listserv**: [subscribe here]({{ site.data.global.listserv.mb9 }}) *(click on "for access, try joining the group")*
 * **Slack**: <a href="{{ site.data.global.link.slack-invite }}" target="_blank">MB workspace</a> (*join the **#mb9-general** channel*)
 
-
 *** 
-### Project Leads
+## Project Leads
 * **General Contact: [{{ site.data.global.contact.mb9 }}](mailto:{{ site.data.global.contact.mb9 }})**
-* [**Charisse Pickron**](https://icd.umn.edu/charisse-pickron), *University of Minnesota, United States* [[email]](mailto:cpickron@umn.edu)
-* [**Ricarda Brieke**](https://profiles.ucl.ac.uk/65876-ricarda-brieke), *University College London, United Kingdom* [[email]](mailto:r.brieke@ucl.ac.uk)
-* [**Maggie Guy**](https://www.loyolacrcd.org/cogdevlab-ourteam), *Loyola University Chicago* [[email]](mailto:mguy5@luc.edu)
-* [**Shannon Klotz**](https://psychology.ucdavis.edu/people/shannon-klotz), *University of California, Davis, United States* [[email]](mailto:smklotz@ucdavis.edu)
-* [**Meg Moulson**](https://www.torontomu.ca/psychology/about-us/our-people/faculty/margaret-moulson/), *Toronto Metropolitan University, Canada* [[email]](mailto:mmoulson@torontomu.ca)
-* [**Lidia Scifo**](https://lumsa.it/it/docenti/lidia-scifo), *LUMSA University, Italy* [[email]](mailto:l.scifo@lumsa.it)
-
+<ul>
+  {% for lead in current_project.leads %}
+    <li>
+      {% if lead.orcid %}
+        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
+      {% else %}
+        {{ lead.name }}, <i>{{ lead.institution }}</i>
+      {% endif %}{% unless forloop.last %}<br> {% endunless %}
+    </li>
+  {% endfor %}
+</ul>
 
 ***
-### MB9 Contributors
+## MB9 Contributors
 
 We encourage everyone who is interested in the project to subscribe to the MB9 listserv and/or email the Project Leads ([{{ site.data.global.contact.mb9 }}](mailto:{{ site.data.global.contact.mb9 }})) to indicate your interest. Please note that access to infants/an infant lab is **NOT** a prerequisite.
 

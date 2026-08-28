@@ -63,21 +63,25 @@ Ultimately, MB8 will establish an enduring international research infrastructure
   </div>
 </div>
 
-
 ***
 ## Links
 * <h4><a href="https://smu.az1.qualtrics.com/jfe/form/SV_d5a87KG6gnkJ5mS" target="_blank">MB8 Collaboration Agreement</a></h4>
 * **Listserv**: [subscribe here]({{ site.data.global.listserv.mb8 }}) *(click on "for access, try joining the group")*
 
-
 *** 
 ## Project Leads
 * **General Contact: [{{ site.data.global.contact.mb8 }}](mailto:{{ site.data.global.contact.mb8 }})**
-* [**Nevena Dimitrova**](https://orcid.org/0000-0002-3433-096X), *University of Applied Sciences and Arts of Western Switzerland, Faculty of Social Work (HETSL \| HES-SO), Switzerland* [[email]](mailto:nevena.dimitrova@hetsl.ch)
-* [**Rachel Barr**](https://orcid.org/0000-0002-5855-9718), *Georgetown University, United States* [[email]](mailto:rfb5@georgetown.edu)
-* [**Sarah C. Kucker**](https://orcid.org/0000-0003-2210-3599), *Southern Methodist University, United States* [[email]](mailto:skucker@smu.edu)
-* [**Joscelin Rocha-Hidalgo**](https://orcid.org/0000-0003-3572-5848), *Pennsylvania State University, United States* [[email]](mailto:jfr5989@psu.edu)
-
+<ul>
+  {% for lead in current_project.leads %}
+    <li>
+      {% if lead.orcid %}
+        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
+      {% else %}
+        {{ lead.name }}, <i>{{ lead.institution }}</i>
+      {% endif %}{% unless forloop.last %}<br> {% endunless %}
+    </li>
+  {% endfor %}
+</ul>
 
 ***
 ## MB8 Contributors
