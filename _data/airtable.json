@@ -30,27 +30,32 @@
       {
         "name": "Sho Tsuji",
         "orcid": "https://orcid.org/0000-0001-9580-4500",
-        "institution": "Ecole Normale Supérieure"
+        "institution": "Ecole Normale Supérieure",
+        "email": "tsujish@gmail.com"
       },
       {
         "name": "Lorijn Zaadnoordijk",
         "orcid": "https://orcid.org/0000-0002-7484-6995",
-        "institution": "Trinity College Dublin"
+        "institution": "Trinity College Dublin",
+        "email": "l.zaadnoordijk@tcd.ie"
       },
       {
         "name": "Katie Von Holzen",
         "orcid": "https://orcid.org/0000-0001-7636-2209 ",
-        "institution": "Georg-August-Universität Göttingen"
+        "institution": "Georg-August-Universität Göttingen",
+        "email": "katie.m.vonholzen@gmail.com"
       },
       {
         "name": "Rhodri Cusack",
         "orcid": "https://orcid.org/0000-0002-5234-7415",
-        "institution": "Trinity College Dublin"
+        "institution": "Trinity College Dublin",
+        "email": "cusackrh@tcd.ie"
       },
       {
         "name": "Helen Buckler",
         "orcid": "https://orcid.org/0000-0002-9039-0406",
-        "institution": "University of Nottingham"
+        "institution": "University of Nottingham",
+        "email": "Helen.Buckler@nottingham.ac.uk"
       }
     ],
     "logoPath": "/assets/img/mbah-logo.png",
@@ -72,17 +77,20 @@
       {
         "name": "Eon-Suk Ko",
         "orcid": "https://orcid.org/0000-0003-3963-4492",
-        "institution": "Chosun University"
+        "institution": "Chosun University",
+        "email": "chosun.cds@gmail.com, eonsuk@gmail.com"
       },
       {
         "name": "Rajalakshmi Madhavan",
         "orcid": null,
-        "institution": "Chosun University"
+        "institution": "Chosun University",
+        "email": "satarai.rajalakshmi@gmail.com"
       },
       {
         "name": "Katie Von Holzen",
         "orcid": "https://orcid.org/0000-0001-7636-2209 ",
-        "institution": "Georg-August-Universität Göttingen"
+        "institution": "Georg-August-Universität Göttingen",
+        "email": "katie.m.vonholzen@gmail.com"
       }
     ],
     "logoPath": "/assets/img/mbah-spinoff.png",
@@ -121,12 +129,14 @@
       {
         "name": "Leher Singh",
         "orcid": "https://orcid.org/0000-0001-9423-4956",
-        "institution": "University of Maryland"
+        "institution": "University of Maryland",
+        "email": "leher.singh.nus@gmail.com"
       },
       {
         "name": "Mihaela D. Barokova",
         "orcid": "https://orcid.org/0000-0002-4643-9452 ",
-        "institution": "New Bulgarian University"
+        "institution": "New Bulgarian University",
+        "email": "mihaela.barokova@gmail.com"
       }
     ],
     "logoPath": "/assets/img/mbdemo-logo.png",
@@ -150,12 +160,14 @@
       {
         "name": "Michael C. Frank",
         "orcid": "https://orcid.org/0000-0002-7551-4378",
-        "institution": "Stanford University"
+        "institution": "Stanford University",
+        "email": "mcfrank@stanford.edu"
       },
       {
         "name": "Melanie Soderstrom",
         "orcid": "https://orcid.org/0000-0003-3212-5775",
-        "institution": "University of Manitoba"
+        "institution": "University of Manitoba",
+        "email": "M_Soderstrom@umanitoba.ca"
       }
     ],
     "logoPath": "/assets/img/mb1-logo.png",
@@ -178,32 +190,38 @@
       {
         "name": "Angeline Sin Mei Tsui",
         "orcid": "https://orcid.org/0000-0003-0333-7234",
-        "institution": "Stanford University"
+        "institution": "Stanford University",
+        "email": "angelinetsui@gmail.com"
       },
       {
         "name": "Alexandra Carstensen",
         "orcid": "https://orcid.org/0000-0003-0582-9152",
-        "institution": "Arizona State University"
+        "institution": "Arizona State University",
+        "email": "abcarstensen@asu.edu"
       },
       {
         "name": "Casey Lew-Williams",
         "orcid": "https://orcid.org/0000-0002-8781-4458",
-        "institution": "Princeton University"
+        "institution": "Princeton University",
+        "email": "caseylw@princeton.edu"
       },
       {
         "name": "George Kachergis",
         "orcid": "https://orcid.org/0000-0003-4153-4167",
-        "institution": "Stanford University"
+        "institution": "Stanford University",
+        "email": "george.kachergis@gmail.com"
       },
       {
         "name": "Michael C. Frank",
         "orcid": "https://orcid.org/0000-0002-7551-4378",
-        "institution": "Stanford University"
+        "institution": "Stanford University",
+        "email": "mcfrank@stanford.edu"
       },
       {
         "name": "Maya B. Mathur",
         "orcid": "https://orcid.org/0000-0001-6698-2607",
-        "institution": "Stanford University"
+        "institution": "Stanford University",
+        "email": "mmathur@stanford.edu"
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
@@ -226,7 +244,8 @@
       {
         "name": "Krista Byers-Heinlein",
         "orcid": "https://orcid.org/0000-0002-7040-2510",
-        "institution": "Concordia University"
+        "institution": "Concordia University",
+        "email": "K.Byers@concordia.ca"
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
@@ -248,7 +267,8 @@
       {
         "name": "Krista Byers-Heinlein",
         "orcid": "https://orcid.org/0000-0002-7040-2510",
-        "institution": "Concordia University"
+        "institution": "Concordia University",
+        "email": "K.Byers@concordia.ca"
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
@@ -270,7 +290,8 @@
       {
         "name": "Melanie Soderstrom",
         "orcid": "https://orcid.org/0000-0003-3212-5775",
-        "institution": "University of Manitoba"
+        "institution": "University of Manitoba",
+        "email": "M_Soderstrom@umanitoba.ca"
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
@@ -293,17 +314,20 @@
       {
         "name": "Natalia Kartushina",
         "orcid": "https://orcid.org/0000-0003-4650-5832",
-        "institution": "University of Oslo"
+        "institution": "University of Oslo",
+        "email": "natalkar@uio.no"
       },
       {
         "name": "Virginie Durier",
         "orcid": "https://orcid.org/0000-0002-7323-8779",
-        "institution": "Université de Rennes 1"
+        "institution": "Université de Rennes 1",
+        "email": "virginie.durier@univ-rennes1.fr"
       },
       {
         "name": "Melanie Soderstrom",
         "orcid": "https://orcid.org/0000-0003-3212-5775",
-        "institution": "University of Manitoba"
+        "institution": "University of Manitoba",
+        "email": "M_Soderstrom@umanitoba.ca"
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
@@ -325,7 +349,8 @@
       {
         "name": "Melanie S. Schreiner",
         "orcid": "https://orcid.org/0000-0002-1530-8839",
-        "institution": "Georg-August-Universität Göttingen"
+        "institution": "Georg-August-Universität Göttingen",
+        "email": "melanie.schreiner@psych.uni-goettingen.de"
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
@@ -347,22 +372,26 @@
       {
         "name": "Christina Bergmann",
         "orcid": "https://orcid.org/0000-0003-2656-9070",
-        "institution": "University of Applied Sciences, Osnabrück"
+        "institution": "University of Applied Sciences, Osnabrück",
+        "email": "chbergma@gmail.com"
       },
       {
         "name": "Martin Zettersten",
         "orcid": "https://orcid.org/0000-0002-0444-7059",
-        "institution": "University of California, San Diego"
+        "institution": "University of California, San Diego",
+        "email": "mzettersten@ucsd.edu"
       },
       {
         "name": "Christopher M. M. Cox",
         "orcid": "https://orcid.org/0000-0003-4076-581X",
-        "institution": "Aarhus University"
+        "institution": "Aarhus University",
+        "email": "chris.mm.cox@gmail.com"
       },
       {
         "name": "Maya B. Mathur",
         "orcid": "https://orcid.org/0000-0001-6698-2607",
-        "institution": "Stanford University"
+        "institution": "Stanford University",
+        "email": "mmathur@stanford.edu"
       }
     ],
     "logoPath": "/assets/img/mb1-analysis.png",
@@ -383,7 +412,8 @@
       {
         "name": "Melissa Kline Struhl",
         "orcid": "https://orcid.org/0000-0003-2217-9331",
-        "institution": "Massachusetts Institute of Technology"
+        "institution": "Massachusetts Institute of Technology",
+        "email": "mekline@mit.edu"
       }
     ],
     "logoPath": "/assets/img/mb1-analysis.png",
@@ -405,22 +435,26 @@
       {
         "name": "Tobias Schuwerk",
         "orcid": "https://orcid.org/0000-0003-3720-7120",
-        "institution": "Ludwig-Maximilians-Universität München"
+        "institution": "Ludwig-Maximilians-Universität München",
+        "email": "tobias.schuwerk@psy.lmu.de"
       },
       {
         "name": "Dora Kampis",
         "orcid": "https://orcid.org/0000-0003-1678-3874",
-        "institution": "University of Copenhagen"
+        "institution": "University of Copenhagen",
+        "email": "dorka.kampis@gmail.com"
       },
       {
         "name": "Hannes Rakoczy",
         "orcid": "https://orcid.org/0000-0003-3296-0551",
-        "institution": "Georg-August-Universität Göttingen"
+        "institution": "Georg-August-Universität Göttingen",
+        "email": "hannes.rakoczy@psych.uni-goettingen.de"
       },
       {
         "name": "Michael C. Frank",
         "orcid": "https://orcid.org/0000-0002-7551-4378",
-        "institution": "Stanford University"
+        "institution": "Stanford University",
+        "email": "mcfrank@stanford.edu"
       }
     ],
     "logoPath": "/assets/img/mb2-logo.png",
@@ -443,17 +477,20 @@
       {
         "name": "Shuting Li",
         "orcid": null,
-        "institution": "Ludwig-Maximilians-Universität München"
+        "institution": "Ludwig-Maximilians-Universität München",
+        "email": "Shuting.Li@psy.lmu.de"
       },
       {
         "name": "Tobias Schuwerk",
         "orcid": "https://orcid.org/0000-0003-3720-7120",
-        "institution": "Ludwig-Maximilians-Universität München"
+        "institution": "Ludwig-Maximilians-Universität München",
+        "email": "tobias.schuwerk@psy.lmu.de"
       },
       {
         "name": "Lucie Zimmer",
         "orcid": "https://orcid.org/0000-0002-5766-2991",
-        "institution": "Ludwig-Maximilians-Universität München"
+        "institution": "Ludwig-Maximilians-Universität München",
+        "email": "lucie.zimmer@psy.lmu.de"
       }
     ],
     "logoPath": "/assets/img/mb2-spinoff.png",
@@ -476,17 +513,20 @@
       {
         "name": "Tobias Schuwerk",
         "orcid": "https://orcid.org/0000-0003-3720-7120",
-        "institution": "Ludwig-Maximilians-Universität München"
+        "institution": "Ludwig-Maximilians-Universität München",
+        "email": "tobias.schuwerk@psy.lmu.de"
       },
       {
         "name": "Adrian Steffan",
         "orcid": "https://orcid.org/0000-0001-8380-6488",
-        "institution": "Ludwig-Maximilians-Universität München"
+        "institution": "Ludwig-Maximilians-Universität München",
+        "email": "adrian.steffan@hotmail.de"
       },
       {
         "name": "Lucie Zimmer",
         "orcid": "https://orcid.org/0000-0002-5766-2991",
-        "institution": "Ludwig-Maximilians-Universität München"
+        "institution": "Ludwig-Maximilians-Universität München",
+        "email": "lucie.zimmer@psy.lmu.de"
       }
     ],
     "logoPath": "/assets/img/mb2-spinoff.png",
@@ -508,12 +548,14 @@
       {
         "name": "Robert Hepach",
         "orcid": "https://orcid.org/0000-0003-4780-6549",
-        "institution": "University of Oxford"
+        "institution": "University of Oxford",
+        "email": "robert.hepach@psy.ox.ac.uk"
       },
       {
         "name": "Hannes Rakoczy",
         "orcid": "https://orcid.org/0000-0003-3296-0551",
-        "institution": "Georg-August-Universität Göttingen"
+        "institution": "Georg-August-Universität Göttingen",
+        "email": "hannes.rakoczy@psych.uni-goettingen.de"
       }
     ],
     "logoPath": "/assets/img/mb2-spinoff.png",
@@ -536,22 +578,26 @@
       {
         "name": "Ingmar Visser",
         "orcid": "https://orcid.org/0000-0003-3855-2778",
-        "institution": "University of Amsterdam"
+        "institution": "University of Amsterdam",
+        "email": "i.visser@uva.nl"
       },
       {
         "name": "Claartje Levelt",
         "orcid": "https://orcid.org/0000-0003-2916-0326",
-        "institution": "Leiden University"
+        "institution": "Leiden University",
+        "email": "c.c.levelt@hum.leidenuniv.nl"
       },
       {
         "name": "Andreea Geambașu",
         "orcid": "https://orcid.org/0000-0002-5883-9875",
-        "institution": "Leiden University"
+        "institution": "Leiden University",
+        "email": "ageambasu@gmail.com"
       },
       {
         "name": "Melanie Soderstrom",
         "orcid": "https://orcid.org/0000-0003-3212-5775",
-        "institution": "University of Manitoba"
+        "institution": "University of Manitoba",
+        "email": "M_Soderstrom@umanitoba.ca"
       }
     ],
     "logoPath": "/assets/img/mb3-logo.png",
@@ -575,7 +621,8 @@
       {
         "name": "Judit Gervain",
         "orcid": "https://orcid.org/0000-0002-2125-6369",
-        "institution": "Università degli Studi di Padova"
+        "institution": "Università degli Studi di Padova",
+        "email": "judit.gervain@parisdescartes.fr; judit.gervain@unipd.it"
       }
     ],
     "logoPath": "/assets/img/mb3n-logo.png",
@@ -598,7 +645,8 @@
       {
         "name": "Anna Exner",
         "orcid": "https://orcid.org/0000-0002-0741-9045",
-        "institution": "Ruhr University Bochum"
+        "institution": "Ruhr University Bochum",
+        "email": "anna.exner@posteo.de"
       }
     ],
     "logoPath": "/assets/img/mb3-spinoff.png",
@@ -620,7 +668,8 @@
       {
         "name": "Ingmar Visser",
         "orcid": "https://orcid.org/0000-0003-3855-2778",
-        "institution": "University of Amsterdam"
+        "institution": "University of Amsterdam",
+        "email": "i.visser@uva.nl"
       }
     ],
     "logoPath": "/assets/img/mb3-spinoff.png",
@@ -642,12 +691,14 @@
       {
         "name": "Anna Exner",
         "orcid": "https://orcid.org/0000-0002-0741-9045",
-        "institution": "Ruhr University Bochum"
+        "institution": "Ruhr University Bochum",
+        "email": "anna.exner@posteo.de"
       },
       {
         "name": "Ingmar Visser",
         "orcid": "https://orcid.org/0000-0003-3855-2778",
-        "institution": "University of Amsterdam"
+        "institution": "University of Amsterdam",
+        "email": "i.visser@uva.nl"
       }
     ],
     "logoPath": "/assets/img/mb3-spinoff.png",
@@ -670,17 +721,20 @@
       {
         "name": "Kelsey Lucca",
         "orcid": "https://orcid.org/0000-0002-0581-2257",
-        "institution": "Arizona State University"
+        "institution": "Arizona State University",
+        "email": "klucca@asu.edu"
       },
       {
         "name": "Francis L. Yuen",
         "orcid": "https://orcid.org/0000-0001-7570-123X",
-        "institution": "University of British Columbia"
+        "institution": "University of British Columbia",
+        "email": "francis.yuen@psych.ubc.ca"
       },
       {
         "name": "J. Kiley Hamlin",
         "orcid": "https://orcid.org/0000-0001-6173-9878",
-        "institution": "University of British Columbia"
+        "institution": "University of British Columbia",
+        "email": "kiley.hamlin@psych.ubc.ca"
       }
     ],
     "logoPath": "/assets/img/mb4-logo.png",
@@ -703,12 +757,14 @@
       {
         "name": "Francis L. Yuen",
         "orcid": "https://orcid.org/0000-0001-7570-123X",
-        "institution": "University of British Columbia"
+        "institution": "University of British Columbia",
+        "email": "francis.yuen@psych.ubc.ca"
       },
       {
         "name": "Kelsey Lucca",
         "orcid": "https://orcid.org/0000-0002-0581-2257",
-        "institution": "Arizona State University"
+        "institution": "Arizona State University",
+        "email": "klucca@asu.edu"
       }
     ],
     "logoPath": "/assets/img/mb4-spinoff.png",
@@ -729,12 +785,14 @@
       {
         "name": "Yiyi Wang",
         "orcid": "https://orcid.org/0000-0003-1060-0862",
-        "institution": "University of Chicago"
+        "institution": "University of Chicago",
+        "email": "yiyiwang@uchicago.edu"
       },
       {
         "name": "Kelsey Lucca",
         "orcid": "https://orcid.org/0000-0002-0581-2257",
-        "institution": "Arizona State University"
+        "institution": "Arizona State University",
+        "email": "klucca@asu.edu"
       }
     ],
     "logoPath": "/assets/img/mb4-spinoff.png",
@@ -757,12 +815,14 @@
       {
         "name": "Marlene Försterling",
         "orcid": null,
-        "institution": "University of Oxford"
+        "institution": "University of Oxford",
+        "email": null
       },
       {
         "name": "Robert Hepach",
         "orcid": "https://orcid.org/0000-0003-4780-6549",
-        "institution": "University of Oxford"
+        "institution": "University of Oxford",
+        "email": "robert.hepach@psy.ox.ac.uk"
       }
     ],
     "logoPath": "/assets/img/mb4-spinoff.png",
@@ -784,17 +844,20 @@
       {
         "name": "Jessica E. Kosie",
         "orcid": "https://orcid.org/0000-0002-2390-0963",
-        "institution": "Arizona State University"
+        "institution": "Arizona State University",
+        "email": "jkosie@asu.edu"
       },
       {
         "name": "Martin Zettersten",
         "orcid": "https://orcid.org/0000-0002-0444-7059",
-        "institution": "University of California, San Diego"
+        "institution": "University of California, San Diego",
+        "email": "mzettersten@ucsd.edu"
       },
       {
         "name": "Casey Lew-Williams",
         "orcid": "https://orcid.org/0000-0002-8781-4458",
-        "institution": "Princeton University"
+        "institution": "Princeton University",
+        "email": "caseylw@princeton.edu"
       }
     ],
     "logoPath": "/assets/img/mb5-logo.png",
@@ -817,7 +880,8 @@
       {
         "name": "Martin Zettersten",
         "orcid": "https://orcid.org/0000-0002-0444-7059",
-        "institution": "University of California, San Diego"
+        "institution": "University of California, San Diego",
+        "email": "mzettersten@ucsd.edu"
       }
     ],
     "logoPath": "/assets/img/mb5-spinoff.png",
@@ -839,7 +903,8 @@
       {
         "name": "Brianna T. M. McMillan",
         "orcid": "https://orcid.org/0000-0002-7585-4911",
-        "institution": "Smith College"
+        "institution": "Smith College",
+        "email": "bmcmillan@smith.edu"
       }
     ],
     "logoPath": "/assets/img/mb5-spinoff.png",
@@ -877,32 +942,38 @@
       {
         "name": "Sumeet Farwaha",
         "orcid": null,
-        "institution": "University of Queensland"
+        "institution": "University of Queensland",
+        "email": "s.farwaha@uq.edu.au"
       },
       {
         "name": "Virginia Slaughter",
         "orcid": "https://orcid.org/0000-0001-9315-1497",
-        "institution": "University of Queensland"
+        "institution": "University of Queensland",
+        "email": "vps@psy.uq.edu.au"
       },
       {
         "name": "Andrew N. Meltzoff",
         "orcid": "https://orcid.org/0000-0001-8683-0547",
-        "institution": "University of Washington"
+        "institution": "University of Washington",
+        "email": "meltzoff@uw.edu"
       },
       {
         "name": "Elizabeth A. Simpson",
         "orcid": "https://orcid.org/0000-0003-2715-2533",
-        "institution": "University of Miami"
+        "institution": "University of Miami",
+        "email": "simpsone@miami.edu"
       },
       {
         "name": "Mark Nielsen",
         "orcid": "https://orcid.org/0000-0002-0402-8372",
-        "institution": "University of Queensland"
+        "institution": "University of Queensland",
+        "email": "m.nielsen@psy.uq.edu.au"
       },
       {
         "name": "Rechele Brooks",
         "orcid": "https://orcid.org/0000-0002-3798-3448",
-        "institution": "University of Washington"
+        "institution": "University of Washington",
+        "email": "recheleb@uw.edu"
       }
     ],
     "logoPath": "/assets/img/mb6-logo.png",
@@ -926,32 +997,38 @@
       {
         "name": "Elena C. Altmann",
         "orcid": "https://orcid.org/0000-0002-8602-9845",
-        "institution": "Georg-August-Universität Göttingen"
+        "institution": "Georg-August-Universität Göttingen",
+        "email": "elena.altmann@uni-goettingen.de"
       },
       {
         "name": "Nivedita Mani",
         "orcid": "https://orcid.org/0000-0002-9843-4629",
-        "institution": "Georg-August-Universität Göttingen"
+        "institution": "Georg-August-Universität Göttingen",
+        "email": "nmani@gwdg.de "
       },
       {
         "name": "Gert Westermann",
         "orcid": "https://orcid.org/0000-0003-2803-1872",
-        "institution": "Lancaster University"
+        "institution": "Lancaster University",
+        "email": "g.westermann@lancaster.ac.uk"
       },
       {
         "name": "Laura Lewis",
         "orcid": null,
-        "institution": "University of California, Santa Barbara"
+        "institution": "University of California, Santa Barbara",
+        "email": "lauralewis@ucsb.edu"
       },
       {
         "name": "Hanna Schleihauf",
         "orcid": "https://orcid.org/0000-0003-4344-9070",
-        "institution": "Utrecht University"
+        "institution": "Utrecht University",
+        "email": "h.schleihauf@uu.nl"
       },
       {
         "name": "Martin Zettersten",
         "orcid": "https://orcid.org/0000-0002-0444-7059",
-        "institution": "University of California, San Diego"
+        "institution": "University of California, San Diego",
+        "email": "mzettersten@ucsd.edu"
       }
     ],
     "logoPath": "/assets/img/mb7-logo.png",
@@ -975,22 +1052,26 @@
       {
         "name": "Nevena Dimitrova",
         "orcid": "https://orcid.org/0000-0002-3433-096X",
-        "institution": "University of Applied Sciences and Arts of Western Switzerland"
+        "institution": "University of Applied Sciences and Arts of Western Switzerland",
+        "email": "nevena.dimitrova@hetsl.ch"
       },
       {
         "name": "Rachel Barr",
         "orcid": "https://orcid.org/0000-0002-5855-9718",
-        "institution": "Georgetown University"
+        "institution": "Georgetown University",
+        "email": "rfb5@georgetown.edu"
       },
       {
         "name": "Sarah C. Kucker",
         "orcid": "https://orcid.org/0000-0003-2210-3599",
-        "institution": "Southern Methodist University"
+        "institution": "Southern Methodist University",
+        "email": "skucker@smu.edu"
       },
       {
         "name": "Joscelin Rocha-Hidalgo",
         "orcid": "https://orcid.org/0000-0003-3572-5848",
-        "institution": "The Pennsylvania State University"
+        "institution": "The Pennsylvania State University",
+        "email": "jfr5989@psu.edu"
       }
     ],
     "logoPath": "/assets/img/mb8-logo.png",
@@ -1014,7 +1095,8 @@
       {
         "name": "Charisse B. Pickron",
         "orcid": "https://orcid.org/0000-0001-7905-0593",
-        "institution": "University of Minnesota"
+        "institution": "University of Minnesota",
+        "email": "cpickron@umn.edu"
       }
     ],
     "logoPath": "/assets/img/mb9-logo.png",
