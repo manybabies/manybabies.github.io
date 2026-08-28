@@ -74,14 +74,12 @@ For adults, we will now move on to probe whether their spontaneous action antici
 
 Following the anticipatory looking studies, we hope to continue the project with other measures such as Violation of Expectation, and interactive tasks.
 
-
 ***
 ## Links
 * **Materials, Protocols, and Documentation**: <a href="https://osf.io/jmuvd/" target="_blank">MB2-OSF</a>, <a href="https://docs.google.com/document/d/1xAw_EbmvRl1Rj3iAVASazyb4HPxoECfvKaf_7zfFi0o/edit?usp=sharing" target="_blank">MB2 Lab Manual</a>, <a href="https://docs.google.com/document/d/e/2PACX-1vTnk1Gl6yjtOTCcuEo01B-dEphM4cv852jymrMekurJ0A2TEYU87otWClkMsyCq_vS959vbyEm7xrs7/pub" target="_blank">MB2 Collaboration Agreement</a>
 * **Data and code**: <a href="https://github.com/manybabies/mb2-analysis" target="_blank">MB2-GitHub</a>
 * **Listserv**: <a href="https://groups.google.com/a/manybabies.org/g/mb2-list" target="_blank">join here</a> *(click on “for access, try joining the group”)*
 * **Slack**: <a href="{{ site.data.global.link.slack-invite }}" target="_blank">MB workspace</a> (*join the #mb2-general channel*)
-
 
 ***
 ## Project Leads
@@ -103,7 +101,6 @@ Following the anticipatory looking studies, we hope to continue the project with
 > NOTE: Default table ordering is by author order in the Stage 2 manuscript. You can filter, group, and/or sort entries by any field.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shreuAIHoALQreq3G?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
 
 ***
 ## Publication

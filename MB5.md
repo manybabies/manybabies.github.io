@@ -54,14 +54,19 @@ subtitle: The Hunter & Ames Model of Infant Looking Preference
 * **Listserv**: <a href="https://groups.google.com/a/manybabies.org/g/mb5-list" target="_blank">join here</a> *(click on “for access, try joining the group”)*
 * **Slack group**: <a href="{{ site.data.global.link.slack-invite }}" target="_blank">MB workspace</a> (*join the #mb5-general channel*)
 
-
 ***
 ## Project Leads
-* **General Contact: [{{ site.data.global.contact.mb5 }}](mailto:{{ site.data.global.contact.mb5 }})**
-* [**Jessica Kosie**](https://jkosie.github.io/), *Arizona State University, United States* [[email]](mailto:jkosie@asu.edu)
-* [**Martin Zettersten**](https://mzettersten.github.io/), *University of California, San Diego, United States* [[email]](mailto:mzettersten@ucsd.edu)
-* [**Casey Lew-Williams**](https://psych.princeton.edu/person/casey-lew-williams), *Princeton University, United States* [[email]](mailto:caseylw@princeton.edu)
-
+<ul>
+  {% for lead in current_project.leads %}
+    <li>
+      {% if lead.orcid %}
+        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
+      {% else %}
+        {{ lead.name }}, <i>{{ lead.institution }}</i>
+      {% endif %}{% unless forloop.last %}<br> {% endunless %}
+    </li>
+  {% endfor %}
+</ul>
 
 ***
 ## MB5 Contributors

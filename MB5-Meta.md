@@ -4,43 +4,52 @@ title: MB5-Meta
 subtitle: A systematic review of infant looking time preferences for novel vs. familiar visual stimuli
 ---
 
+{% assign current_project = site.data.airtable | where: "project", page.title | first %}
+
 ***
 
 <div class="container">
-  <div class="row justify-content-around">
-    <div class="col-lg-4" align="center">
-      <br>
-      <img src="/assets/img/mb5-logo.png" width="150">
-    </div>
-    <div class="col-lg-8" align="left">
-      <h2>Project Overview</h2>
-      <ul>
-        <li><i>Status:</i> <b>{{ site.data.global.status.mb5meta }}</b></li>
-      </ul>
+  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }};">
+    <div class="row justify-content-around">
+      <div class="col-lg-4" align="center">
+        <br>
+        <img src="{{ current_project.logoPath }}" width="150">
+      </div>
+      <div class="col-lg-8" align="left">
+        <h2 style="color:{{ current_project.color }};">Project Overview</h2>
+        <ul>
+          <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
 
+***
 
 <p>The main goal of the current meta-analysis is to evaluate the degree to which predictions stemming from models of infant novelty preference are reflected in infant visual processing. This will facilitate two main research goals. The first is to characterize the overall strength and prevalence of novelty and familiarity effects in studies measuring infants’ visual preference for familiar and novel stimuli. The second is to use the meta-analytic sample to assess the reliability of effects of familiarization time, task difficulty, and infant age on novelty and familiarity effects in such studies. Beyond addressing these research questions, this meta-analysis will also create benchmarks for future studies and make it easier for researchers to interpret and contextualize their effects within the broader infant literature.</p>
 
-
-
 ***
-### Links
+## Links
 * **Materials, Protocols, and Documentation**: <a href="https://osf.io/63zpu/" target="_blank">MB5-Meta OSF project</a>, <a href="https://osf.io/25rxu" target="_blank">Preregistration</a>
 * **Slack channel**: <a href="{{ site.data.global.link.slack-invite }}" target="_blank">MB workspace</a> (*join the #mb5-meta channel*)
 
+***
+## Project Leads
+<ul>
+  {% for lead in current_project.leads %}
+    <li>
+      {% if lead.orcid %}
+        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
+      {% else %}
+        {{ lead.name }}, <i>{{ lead.institution }}</i>
+      {% endif %}{% unless forloop.last %}<br> {% endunless %}
+    </li>
+  {% endfor %}
+</ul>
 
 ***
-### Leads
-* [**Anjie Cao**](https://anjiecao.github.io/), *Stanford University, United States* [[email]](mailto:anjiecao@stanford.edu)
-* [**Katie Von Holzen**](https://kvonholzen.github.io), *TU Braunschweig, Germany* [[email]](mailto:katie.m.vonholzen@gmail.com)
-* [**Martin Zettersten**](https://mzettersten.github.io/), *University of California, San Diego, United States* [[email]](mailto:mzettersten@ucsd.edu)
-
-
-***
-### MB5-Meta Contributors
+## MB5-Meta Contributors
 
 We encourage everyone who is interested in the project to contact the Project Leads (see above) or fill out the [**MB Sign-Up Form**]({{site.baseurl}}/get_involved/). Please note that access to infants/infant lab is **NOT** a prerequisite.
 
@@ -53,14 +62,10 @@ We encourage everyone who is interested in the project to contact the Project Le
 
 <!--
 ***
-### Publication
+## Publication
 
-<h4>Stage 1 Registered Report (preprint)</h4>
-<p style="padding-left: 25px; text-indent: -25px"><i>Kosie, J. E.*</i>, <i>Zettersten, M.*</i>, Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H. A., Bazhydai, M., Belia, M., Benavides, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., … Lew-Williams, C. (2024, March 1). <b>ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time</b>. PsyArXiv. <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">https://doi.org/10.31234/osf.io/ck3vd</a> <i>(*co-first authors)</i></p>
-
-> To cite, use (Kosie & Zettersten et al., accepted pending data collection)
 -->
 
 ***
-### Funding
+## Funding
 * MB5 is supported by an <a href="https://award.einsteinfoundation.de/award-winners-finalists/recipients-2021/manybabies5" target="_blank">Early Career Award</a> from the <a href="https://www.einsteinfoundation.de/index.php?id=1&L=1" target="_blank">Einstein Foundation Berlin</a>
