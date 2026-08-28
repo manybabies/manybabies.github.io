@@ -54,7 +54,7 @@ function splitTopic(topic) {
 }
 
 async function main() {
-  const [projectRecords, peopleRecords, publicationRecords] = await Promise.all([
+  const [projectRecords, peopleRecords, publicationRecords, institutionRecords] = await Promise.all([
     getAllRecords(TABLE),
     getAllRecords(PEOPLE_TABLE),
     getAllRecords(PUBLICATION_TABLE),
@@ -142,11 +142,11 @@ async function main() {
     const authorIds = f.Authors || [];  // adjust to your actual field name once confirmed
     const authorNames = authorIds.map(id => personById[id] || id);
     const projectIds = f.Project || [];  // adjust to your actual field name once confirmed
-    const projectRecords = projectIds.map(id => projectById[id] || { name: id, orcid: null, institution: null });
+    const projectNames = projectIds.map(id => projectById[id] || id);
   
     return {
       id: r.id,
-      project: projectRecords,
+      project: projectNames,
       title: f.Title ? f.Title.trim() : null,
       authors: authorNames,
       authorsCondensed: f['Authors condensed'],
