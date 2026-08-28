@@ -67,6 +67,13 @@ async function main() {
   institutionRecords.forEach(r => {
     institutionById[r.id] = r.fields.Name || r.fields['Institution'] || 'Unknown';
   });
+  
+  // Collect every person ID that appears as a Project Lead, across all projects
+  const leadIdSet = new Set();
+  projectRecords.forEach(r => {
+    const leadIds = r.fields['Project Leads'] || [];
+    leadIds.forEach(id => leadIdSet.add(id));
+  });
 
   const personById = {};
   peopleRecords.forEach(r => {
@@ -78,7 +85,9 @@ async function main() {
     personById[r.id] = {
       name: f.Name || f['Full Name'] || 'Unknown',
       orcid: f['🟢 ORCiD'] || null,
-      institution: institutionNames[0] || null // just take primary institution
+      institution: institutionNames[0] || null, // just take primary institution
+      // Only attach email if this person is a project lead
+      email: leadIdSet.has(r.id) ? (f.Email || null) : null
       // add any other fields you want available
     };
   });
