@@ -84,14 +84,14 @@
         "orcid": "https://orcid.org/0000-0003-3963-4492",
         "institution": "Chosun University",
         "email": "chosun.cds@gmail.com, eonsuk@gmail.com",
-        "site": "https://www.chosunbabylab.com/"
+        "site": "https://sites.google.com/site/eonsuk/home"
       },
       {
         "name": "Rajalakshmi Madhavan",
         "orcid": null,
         "institution": "Chosun University",
         "email": "satarai.rajalakshmi@gmail.com",
-        "site": null
+        "site": "https://rajimadhavan.github.io/"
       },
       {
         "name": "Katie Von Holzen",
@@ -225,7 +225,7 @@
         "orcid": "https://orcid.org/0000-0002-8781-4458",
         "institution": "Princeton University",
         "email": "caseylw@princeton.edu",
-        "site": "http://babylab.princeton.edu/"
+        "site": "https://psych.princeton.edu/person/casey-lew-williams"
       },
       {
         "name": "George Kachergis",
@@ -246,7 +246,7 @@
         "orcid": "https://orcid.org/0000-0001-6698-2607",
         "institution": "Stanford University",
         "email": "mmathur@stanford.edu",
-        "site": null
+        "site": "https://www.mayamathur.com/"
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
@@ -406,7 +406,7 @@
         "orcid": "https://orcid.org/0000-0003-2217-9331",
         "institution": "Massachusetts Institute of Technology",
         "email": "mekline@mit.edu",
-        "site": null
+        "site": "https://www.melissaklinestruhl.com/"
       }
     ],
     "logoPath": "/assets/img/mb1-analysis.png",
@@ -450,7 +450,7 @@
         "orcid": "https://orcid.org/0000-0001-6698-2607",
         "institution": "Stanford University",
         "email": "mmathur@stanford.edu",
-        "site": null
+        "site": "https://www.mayamathur.com/"
       }
     ],
     "logoPath": "/assets/img/mb1-analysis.png",
@@ -520,7 +520,7 @@
         "orcid": null,
         "institution": "Ludwig-Maximilians-Universität München",
         "email": "Shuting.Li@psy.lmu.de",
-        "site": null
+        "site": "https://www.researchgate.net/profile/Shuting-Li-3"
       },
       {
         "name": "Tobias Schuwerk",
@@ -534,7 +534,7 @@
         "orcid": "https://orcid.org/0000-0002-5766-2991",
         "institution": "Ludwig-Maximilians-Universität München",
         "email": "lucie.zimmer@psy.lmu.de",
-        "site": null
+        "site": "https://www.psy.lmu.de/pbi/personen/wiss_mitarbeiter/lucie_zimmer/index.html"
       }
     ],
     "logoPath": "/assets/img/mb2-spinoff.png",
@@ -573,7 +573,7 @@
         "orcid": "https://orcid.org/0000-0002-5766-2991",
         "institution": "Ludwig-Maximilians-Universität München",
         "email": "lucie.zimmer@psy.lmu.de",
-        "site": null
+        "site": "https://www.psy.lmu.de/pbi/personen/wiss_mitarbeiter/lucie_zimmer/index.html"
       }
     ],
     "logoPath": "/assets/img/mb2-spinoff.png",
@@ -597,7 +597,7 @@
         "orcid": "https://orcid.org/0000-0003-4780-6549",
         "institution": "University of Oxford",
         "email": "robert.hepach@psy.ox.ac.uk",
-        "site": null
+        "site": "https://www.psy.ox.ac.uk/people/robert-hepach"
       },
       {
         "name": "Hannes Rakoczy",
@@ -708,7 +708,7 @@
         "orcid": "https://orcid.org/0000-0001-7866-565X",
         "institution": "Università degli Studi di Milano-Bicocca",
         "email": "roberta.bettoni@unimib.it",
-        "site": null
+        "site": "https://en.unimib.it/roberta-bettoni"
       },
       {
         "name": "Ingmar Visser",
@@ -869,7 +869,7 @@
         "orcid": "https://orcid.org/0000-0003-4854-4608",
         "institution": "Stanford University",
         "email": "mira.nencheva@gmail.com",
-        "site": null
+        "site": "https://miranencheva.com/"
       },
       {
         "name": "Francis L. Yuen",
@@ -938,14 +938,14 @@
         "orcid": null,
         "institution": "University of Oxford",
         "email": null,
-        "site": null
+        "site": "https://www.psy.ox.ac.uk/people/marlene-forsterling"
       },
       {
         "name": "Robert Hepach",
         "orcid": "https://orcid.org/0000-0003-4780-6549",
         "institution": "University of Oxford",
         "email": "robert.hepach@psy.ox.ac.uk",
-        "site": null
+        "site": "https://www.psy.ox.ac.uk/people/robert-hepach"
       }
     ],
     "logoPath": "/assets/img/mb4-spinoff.png",
@@ -983,7 +983,7 @@
         "orcid": "https://orcid.org/0000-0002-8781-4458",
         "institution": "Princeton University",
         "email": "caseylw@princeton.edu",
-        "site": "http://babylab.princeton.edu/"
+        "site": "https://psych.princeton.edu/person/casey-lew-williams"
       }
     ],
     "logoPath": "/assets/img/mb5-logo.png",
@@ -1060,7 +1060,7 @@
         "orcid": null,
         "institution": "University of Manitoba",
         "email": "fekrazas@myumanitoba.ca",
-        "site": null
+        "site": "https://babylanguagelab.org/lab-staff/"
       },
       {
         "name": "Melanie Soderstrom",
@@ -1107,14 +1107,14 @@
         "orcid": null,
         "institution": "University of Queensland",
         "email": "s.farwaha@uq.edu.au",
-        "site": null
+        "site": "https://ecdc.psychology.uq.edu.au/profile/320/sumeet-farwaha"
       },
       {
         "name": "Virginia Slaughter",
         "orcid": "https://orcid.org/0000-0001-9315-1497",
         "institution": "University of Queensland",
         "email": "vps@psy.uq.edu.au",
-        "site": null
+        "site": "https://psychology.uq.edu.au/profile/2215/virginia-slaughter"
       },
       {
         "name": "Andrew N. Meltzoff",
@@ -1128,14 +1128,14 @@
         "orcid": "https://orcid.org/0000-0003-2715-2533",
         "institution": "University of Miami",
         "email": "simpsone@miami.edu",
-        "site": "https://scl.psy.miami.edu/index.html"
+        "site": "https://people.miami.edu/profile/exs796@miami.edu"
       },
       {
         "name": "Mark Nielsen",
         "orcid": "https://orcid.org/0000-0002-0402-8372",
         "institution": "University of Queensland",
         "email": "m.nielsen@psy.uq.edu.au",
-        "site": null
+        "site": "https://psychology.uq.edu.au/profile/2458/mark-nielsen"
       },
       {
         "name": "Rechele Brooks",
@@ -1229,7 +1229,7 @@
         "orcid": "https://orcid.org/0000-0002-3433-096X",
         "institution": "University of Applied Sciences and Arts of Western Switzerland",
         "email": "nevena.dimitrova@hetsl.ch",
-        "site": null
+        "site": "https://orcid.org/0000-0002-3433-096X"
       },
       {
         "name": "Rachel Barr",
@@ -1243,7 +1243,7 @@
         "orcid": "https://orcid.org/0000-0003-2210-3599",
         "institution": "Southern Methodist University",
         "email": "skucker@smu.edu",
-        "site": null
+        "site": "https://orcid.org/0000-0003-2210-3599"
       },
       {
         "name": "Joscelin Rocha-Hidalgo",
@@ -1283,28 +1283,28 @@
         "orcid": "https://orcid.org/0000-0001-6441-9845",
         "institution": "University College London",
         "email": "r.brieke@ucl.ac.uk",
-        "site": null
+        "site": "https://profiles.ucl.ac.uk/65876-ricarda-brieke"
       },
       {
         "name": "Maggie Guy",
         "orcid": null,
         "institution": "Loyola University Chicago",
         "email": "mguy5@luc.edu",
-        "site": null
+        "site": "https://www.loyolacrcd.org/cogdevlab-ourteam"
       },
       {
         "name": "Shannon M. Klotz",
         "orcid": "https://orcid.org/0000-0002-0730-3392",
         "institution": "University of California, Davis",
         "email": "smklotz@ucdavis.edu",
-        "site": null
+        "site": "https://psychology.ucdavis.edu/people/shannon-klotz"
       },
       {
         "name": "Margaret (Meg) C. Moulson",
         "orcid": "https://orcid.org/0000-0003-2147-3520",
         "institution": "Toronto Metropolitan University",
         "email": "mmoulson@torontomu.ca",
-        "site": null
+        "site": "https://www.torontomu.ca/psychology/about-us/our-people/faculty/margaret-moulson/"
       },
       {
         "name": "Lidia Scifo",
