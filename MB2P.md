@@ -45,8 +45,6 @@ subtitle: Measuring Pupil Dilation in Response to Expected and Unexpected Events
     </div>
   </div>
 </section>
-<br>
-
 
 ***
 ## Links
@@ -69,7 +67,6 @@ subtitle: Measuring Pupil Dilation in Response to Expected and Unexpected Events
     </li>
   {% endfor %}
 </ul>
-
 
 ***
 ## MB2P Contributors
