@@ -101,7 +101,7 @@
         "site": "https://kvonholzen.github.io/index.html"
       }
     ],
-    "logoPath": "/assets/img/mbah-spinoff.png",
+    "logoPath": "/assets/img/mbah-logo.png",
     "contact": "mbah1@manybabies.org\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mbah1-list",
     "slack": "**_[#mbah1-lwl-general](https://manybabies.slack.com/archives/C0BBXD0L0F3)_**",
@@ -118,7 +118,7 @@
     "status": "Design",
     "website": "manybabies.org/MB-AtHome",
     "leads": [],
-    "logoPath": "/assets/img/mbah-spinoff.png",
+    "logoPath": "/assets/img/mbah-logo.png",
     "slack": null,
     "color": "#F3AD00"
   },
@@ -541,7 +541,7 @@
     "contact": "Shuting.Li@psy.lmu.de\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/manytrackers-list",
     "slack": null,
-    "color": "036C9A"
+    "color": "#036C9A"
   },
   {
     "id": "recC68M8cOo3dlHzp",
@@ -579,7 +579,7 @@
     "logoPath": "/assets/img/mb2-spinoff.png",
     "listservSub": "https://lists.lrz.de/mailman/listinfo/online_mb2",
     "slack": null,
-    "color": "036C9A"
+    "color": "#036C9A"
   },
   {
     "id": "recqEwFPrFXwknTTF",
@@ -610,7 +610,7 @@
     "logoPath": "/assets/img/mb2-spinoff.png",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb2p-list",
     "slack": "**_[#mb2p-pupillometry](https://manybabies.slack.com/archives/C05ENMB4K34)_**",
-    "color": "036C9A"
+    "color": "#036C9A"
   },
   {
     "id": "recHdZXhYbB2GfXbk",
