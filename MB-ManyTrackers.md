@@ -34,8 +34,6 @@ subtitle: Evaluating Eye-Tracking Consistency and Accuracy and Its Impact on Key
 - How do key data quality indicators (e.g., precision, accuracy, temporal delay) vary across eye-tracking systems?
 - To what extent and how does variation in eye-tracking data quality influence the robustness and reliability of key dependent variables?
 
-<br>
-
 ***
 ## Links
 * **Listserv**: [join here](https://groups.google.com/a/manybabies.org/g/manytrackers-list)
