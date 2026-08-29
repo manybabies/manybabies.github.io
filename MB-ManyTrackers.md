@@ -4,19 +4,23 @@ title: MB-ManyTrackers
 subtitle: Evaluating Eye-Tracking Consistency and Accuracy and Its Impact on Key Dependent Variables across Different Systems in the ManyBabies2 Project
 ---
 
+{% assign current_project = site.data.airtable | where: "project", page.title | first %}
+
 ***
 
 <div class="container">
-  <div class="row justify-content-around">
-    <div class="col-lg-4" align="center">
-      <br>
-      <img src="/assets/img/mb2-logo.png" width="150">
-    </div>
-    <div class="col-lg-8" align="left">
-      <h2>Project Overview</h2>
-      <ul>
-        <li><i>Status:</i> <b>{{ site.data.global.status.mt }}</b></li>
-      </ul>
+  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }};">
+    <div class="row justify-content-around">
+      <div class="col-lg-4" align="center">
+        <br>
+        <img src="{{ current_project.logoPath }}" width="150">
+      </div>
+      <div class="col-lg-8" align="left">
+        <h2 style="color:{{ current_project.color }}; text-shadow: 0px 0px 7px #7F7F7F;">Project Overview</h2>
+        <ul>
+          <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
