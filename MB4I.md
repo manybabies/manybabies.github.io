@@ -19,7 +19,8 @@ subtitle: Individual differences in infants’ social evaluations across culture
         <h2 style="color:{{ current_project.color }};">Project Overview</h2>
         <ul>
           <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
-      </ul>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
@@ -48,7 +49,7 @@ subtitle: Individual differences in infants’ social evaluations across culture
       {% if lead.orcid %}
         <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
       {% else %}
-        {{ lead.name }}, <i>{{ lead.institution }}</i>
+        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> 
       {% endif %}{% unless forloop.last %}<br> {% endunless %}
     </li>
   {% endfor %}
