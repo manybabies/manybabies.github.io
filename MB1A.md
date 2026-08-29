@@ -70,7 +70,7 @@ We encourage everyone who is interested in the project to contact the Project Le
 ***
 ## Publication
 
-{% assign pubs = site.data.publications | where: "project", page.project_id %}
+{% assign pubs = site.data.publications | where: "project", page.title %}
 {% for pub in pubs %} <!--- loop over pubs for specified project -->
   <div class="container">
     <div class="row">
