@@ -58,6 +58,7 @@ Meta-analyses are often considered to be the most reliable source of information
 
 ***
 ## Publication
+
 {% assign pubs = site.data.publications | where: "project", page.title %}
 {% for pub in pubs %} <!--- loop over pubs for specified project -->
   <div class="container">
