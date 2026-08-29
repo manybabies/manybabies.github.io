@@ -691,8 +691,8 @@
         "name": "Laura Franchin",
         "orcid": "https://orcid.org/0000-0001-8777-8752",
         "institution": "University of Trento",
-        "email": null,
-        "site": null
+        "email": "laura.franchin@unitn.it",
+        "site": "https://webapps.unitn.it/du/en/Persona/PER0169770/Didattica"
       },
       {
         "name": "Jessica E. Kosie",
@@ -879,15 +879,15 @@
         "name": "Samuel H. Forbes",
         "orcid": "https://orcid.org/0000-0003-1022-4676",
         "institution": "Durham University",
-        "email": null,
-        "site": null
+        "email": "samuel.forbes@durham.ac.uk",
+        "site": "https://www.durham.ac.uk/staff/samuel-forbes/"
       },
       {
         "name": "Laura Franchin",
         "orcid": "https://orcid.org/0000-0001-8777-8752",
         "institution": "University of Trento",
-        "email": null,
-        "site": null
+        "email": "laura.franchin@unitn.it",
+        "site": "https://webapps.unitn.it/du/en/Persona/PER0169770/Didattica"
       },
       {
         "name": "Michael C. Frank",
@@ -1169,8 +1169,8 @@
         "name": "Laura Franchin",
         "orcid": "https://orcid.org/0000-0001-8777-8752",
         "institution": "University of Trento",
-        "email": null,
-        "site": null
+        "email": "laura.franchin@unitn.it",
+        "site": "https://webapps.unitn.it/du/en/Persona/PER0169770/Didattica"
       },
       {
         "name": "Jessica E. Kosie",
@@ -1825,8 +1825,8 @@
         "name": "Anjie Cao",
         "orcid": "https://orcid.org/0000-0002-7191-6548",
         "institution": "Stanford University",
-        "email": null,
-        "site": null
+        "email": "anjiecao@stanford.edu",
+        "site": "https://anjiecao.github.io/"
       },
       {
         "name": "Amina Abubakar",
@@ -2314,8 +2314,8 @@
         "name": "Samuel H. Forbes",
         "orcid": "https://orcid.org/0000-0003-1022-4676",
         "institution": "Durham University",
-        "email": null,
-        "site": null
+        "email": "samuel.forbes@durham.ac.uk",
+        "site": "https://www.durham.ac.uk/staff/samuel-forbes/"
       },
       {
         "name": "Michael C. Frank",
@@ -2578,7 +2578,7 @@
       "/assets/img/mb1-analysis.png"
     ],
     "website": [
-      "manybabies.org/MB1SA"
+      "manybabies.org/MB1-Meta"
     ],
     "fullCitation": "Zettersten, M.\\*, Cox, C. M. M.\\*, Bergmann, C.\\*, Tsui, A. S. M., Soderstrom, M., Mayor, J., Lundwall, R. A., Lewis, M., Kosie, J. E., Kartushina, N., Fusaroli, R., Frank, M. C., Byers-Heinlein, K., Black, A. K., & Mathur, M. B. (2024). Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis. _Open Mind: Discoveries in Cognitive Science, 8,_ 439–461. <https://doi.org/10.1162/opmi_a_00134>\n"
   },
@@ -2614,8 +2614,8 @@
         "name": "Cátia M. Oliveira",
         "orcid": "https://orcid.org/0000-0002-2976-3330",
         "institution": "Cardiff University",
-        "email": null,
-        "site": null
+        "email": "ferreiradeoliveirac@cardiff.ac.uk",
+        "site": "https://www.york.ac.uk/psychology/research/facilities/slam/"
       },
       {
         "name": "Joscelin Rocha-Hidalgo",
@@ -2698,7 +2698,7 @@
         "name": "Roberta Bettoni",
         "orcid": "https://orcid.org/0000-0001-7866-565X",
         "institution": "Università degli Studi di Milano-Bicocca",
-        "email": null,
+        "email": "roberta.bettoni@unimib.it",
         "site": null
       },
       {
@@ -2803,15 +2803,15 @@
         "name": "Samuel H. Forbes",
         "orcid": "https://orcid.org/0000-0003-1022-4676",
         "institution": "Durham University",
-        "email": null,
-        "site": null
+        "email": "samuel.forbes@durham.ac.uk",
+        "site": "https://www.durham.ac.uk/staff/samuel-forbes/"
       },
       {
         "name": "Laura Franchin",
         "orcid": "https://orcid.org/0000-0001-8777-8752",
         "institution": "University of Trento",
-        "email": null,
-        "site": null
+        "email": "laura.franchin@unitn.it",
+        "site": "https://webapps.unitn.it/du/en/Persona/PER0169770/Didattica"
       },
       {
         "name": "Alessandra Geraci",
@@ -3048,7 +3048,7 @@
         "name": "Sylvain Sirois",
         "orcid": "https://orcid.org/0000-0002-2004-4583",
         "institution": "Université du Québec à Trois-Rivières",
-        "email": null,
+        "email": "sylvain.sirois@uqtr.ca",
         "site": null
       },
       {
@@ -3263,8 +3263,8 @@
         "name": "Laura Franchin",
         "orcid": "https://orcid.org/0000-0001-8777-8752",
         "institution": "University of Trento",
-        "email": null,
-        "site": null
+        "email": "laura.franchin@unitn.it",
+        "site": "https://webapps.unitn.it/du/en/Persona/PER0169770/Didattica"
       },
       {
         "name": "Isa Blomberg",
@@ -3403,7 +3403,7 @@
         "name": "Sylvain Sirois",
         "orcid": "https://orcid.org/0000-0002-2004-4583",
         "institution": "Université du Québec à Trois-Rivières",
-        "email": null,
+        "email": "sylvain.sirois@uqtr.ca",
         "site": null
       },
       {
@@ -3483,7 +3483,7 @@
         "name": "Roberta Bettoni",
         "orcid": "https://orcid.org/0000-0001-7866-565X",
         "institution": "Università degli Studi di Milano-Bicocca",
-        "email": null,
+        "email": "roberta.bettoni@unimib.it",
         "site": null
       },
       {
@@ -3504,8 +3504,8 @@
         "name": "Cátia M. Oliveira",
         "orcid": "https://orcid.org/0000-0002-2976-3330",
         "institution": "Cardiff University",
-        "email": null,
-        "site": null
+        "email": "ferreiradeoliveirac@cardiff.ac.uk",
+        "site": "https://www.york.ac.uk/psychology/research/facilities/slam/"
       },
       {
         "name": "Abbie Thompson",
@@ -3548,7 +3548,7 @@
   {
     "id": "recr7zt1Kt5Oj6tRS",
     "project": [
-      "MB1SA-Demo"
+      "MB1-Demo"
     ],
     "title": "The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes.",
     "authors": [
@@ -3572,7 +3572,7 @@
       "/assets/img/mb1-analysis.png"
     ],
     "website": [
-      "manybabies.org/MB1SA"
+      "manybabies.org/MB1-Demo"
     ],
     "fullCitation": "Kline Struhl, M. (2018). The effect of ‘Lab Factors’ on fussout rates/latencies and infant-level and laboratory-level effect sizes. <https://osf.io/puxbg>\n"
   },
@@ -4981,15 +4981,15 @@
         "name": "Samuel H. Forbes",
         "orcid": "https://orcid.org/0000-0003-1022-4676",
         "institution": "Durham University",
-        "email": null,
-        "site": null
+        "email": "samuel.forbes@durham.ac.uk",
+        "site": "https://www.durham.ac.uk/staff/samuel-forbes/"
       },
       {
         "name": "Laura Franchin",
         "orcid": "https://orcid.org/0000-0001-8777-8752",
         "institution": "University of Trento",
-        "email": null,
-        "site": null
+        "email": "laura.franchin@unitn.it",
+        "site": "https://webapps.unitn.it/du/en/Persona/PER0169770/Didattica"
       },
       {
         "name": "Michael C. Frank",
@@ -5170,7 +5170,7 @@
         "name": "Mira L. Nencheva",
         "orcid": "https://orcid.org/0000-0003-4854-4608",
         "institution": "Stanford University",
-        "email": null,
+        "email": "mira.nencheva@gmail.com",
         "site": null
       },
       {
@@ -5296,8 +5296,8 @@
         "name": "Hilal H. Şen",
         "orcid": "https://orcid.org/0000-0002-9877-5108",
         "institution": "University of Akureyri",
-        "email": null,
-        "site": null
+        "email": "hilal@unak.is",
+        "site": "https://www.unak.is/english/moya/ugla/staff/hilal-sen"
       },
       {
         "name": "Munna R. Shainy",

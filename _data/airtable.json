@@ -147,6 +147,13 @@
         "institution": "New Bulgarian University",
         "email": "mihaela.barokova@gmail.com",
         "site": "https://barokova.com/"
+      },
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": "Stanford University",
+        "email": "mcfrank@stanford.edu",
+        "site": "https://web.stanford.edu/~mcfrank/"
       }
     ],
     "logoPath": "/assets/img/mbdemo-logo.png",
@@ -384,6 +391,29 @@
     "color": "#9986A5"
   },
   {
+    "id": "reciiskNTf2e5tPGW",
+    "project": "MB1-Demo",
+    "mainProject": "MB1",
+    "title": "**MB1SA-Demo:**",
+    "description": "Analysis of supplemental demographic variables",
+    "type": "Secondary analysis",
+    "category": "Empirical",
+    "status": "On hold",
+    "website": "manybabies.org/MB1-Demo",
+    "leads": [
+      {
+        "name": "Melissa Kline Struhl",
+        "orcid": "https://orcid.org/0000-0003-2217-9331",
+        "institution": "Massachusetts Institute of Technology",
+        "email": "mekline@mit.edu",
+        "site": null
+      }
+    ],
+    "logoPath": "/assets/img/mb1-analysis.png",
+    "slack": null,
+    "color": "#9986A5"
+  },
+  {
     "id": "recSC9tDMb88OGQ0t",
     "project": "MB1-Meta",
     "mainProject": "MB1",
@@ -392,15 +422,8 @@
     "type": "Secondary analysis",
     "category": "Empirical",
     "status": "Complete",
-    "website": "manybabies.org/MB1SA",
+    "website": "manybabies.org/MB1-Meta",
     "leads": [
-      {
-        "name": "Christina Bergmann",
-        "orcid": "https://orcid.org/0000-0003-2656-9070",
-        "institution": "University of Applied Sciences, Osnabrück",
-        "email": "chbergma@gmail.com",
-        "site": "https://www.babyandchild.nl/en"
-      },
       {
         "name": "Martin Zettersten",
         "orcid": "https://orcid.org/0000-0002-0444-7059",
@@ -416,33 +439,17 @@
         "site": "https://chriscox.netlify.app/"
       },
       {
+        "name": "Christina Bergmann",
+        "orcid": "https://orcid.org/0000-0003-2656-9070",
+        "institution": "University of Applied Sciences, Osnabrück",
+        "email": "chbergma@gmail.com",
+        "site": "https://www.babyandchild.nl/en"
+      },
+      {
         "name": "Maya B. Mathur",
         "orcid": "https://orcid.org/0000-0001-6698-2607",
         "institution": "Stanford University",
         "email": "mmathur@stanford.edu",
-        "site": null
-      }
-    ],
-    "logoPath": "/assets/img/mb1-analysis.png",
-    "slack": null,
-    "color": "#9986A5"
-  },
-  {
-    "id": "reciiskNTf2e5tPGW",
-    "project": "MB1SA-Demo",
-    "mainProject": "MB1",
-    "title": "**MB1SA-Demo:**",
-    "description": "Analysis of supplemental demographic variables",
-    "type": "Secondary analysis",
-    "category": "Empirical",
-    "status": "On hold",
-    "website": "manybabies.org/MB1SA",
-    "leads": [
-      {
-        "name": "Melissa Kline Struhl",
-        "orcid": "https://orcid.org/0000-0003-2217-9331",
-        "institution": "Massachusetts Institute of Technology",
-        "email": "mekline@mit.edu",
         "site": null
       }
     ],
@@ -695,6 +702,20 @@
         "institution": "Ruhr University Bochum",
         "email": "anna.exner@posteo.de",
         "site": "https://dev.imp10.ruhr-uni-bochum.de/epsy/personen/exner.html.en"
+      },
+      {
+        "name": "Roberta Bettoni",
+        "orcid": "https://orcid.org/0000-0001-7866-565X",
+        "institution": "Università degli Studi di Milano-Bicocca",
+        "email": "roberta.bettoni@unimib.it",
+        "site": null
+      },
+      {
+        "name": "Ingmar Visser",
+        "orcid": "https://orcid.org/0000-0003-3855-2778",
+        "institution": "University of Amsterdam",
+        "email": "i.visser@uva.nl",
+        "site": "https://www.uva.nl/profiel/v/i/i.visser/i.visser.html?cb"
       }
     ],
     "logoPath": "/assets/img/mb3-spinoff.png",
@@ -719,6 +740,20 @@
         "institution": "University of Amsterdam",
         "email": "i.visser@uva.nl",
         "site": "https://www.uva.nl/profiel/v/i/i.visser/i.visser.html?cb"
+      },
+      {
+        "name": "Samuel H. Forbes",
+        "orcid": "https://orcid.org/0000-0003-1022-4676",
+        "institution": "Durham University",
+        "email": "samuel.forbes@durham.ac.uk",
+        "site": "https://www.durham.ac.uk/staff/samuel-forbes/"
+      },
+      {
+        "name": "Sylvain Sirois",
+        "orcid": "https://orcid.org/0000-0002-2004-4583",
+        "institution": "Université du Québec à Trois-Rivières",
+        "email": "sylvain.sirois@uqtr.ca",
+        "site": null
       }
     ],
     "logoPath": "/assets/img/mb3-spinoff.png",
@@ -738,18 +773,18 @@
     "website": "manybabies.org/MB3T",
     "leads": [
       {
-        "name": "Anna Exner",
-        "orcid": "https://orcid.org/0000-0002-0741-9045",
-        "institution": "Ruhr University Bochum",
-        "email": "anna.exner@posteo.de",
-        "site": "https://dev.imp10.ruhr-uni-bochum.de/epsy/personen/exner.html.en"
-      },
-      {
         "name": "Ingmar Visser",
         "orcid": "https://orcid.org/0000-0003-3855-2778",
         "institution": "University of Amsterdam",
         "email": "i.visser@uva.nl",
         "site": "https://www.uva.nl/profiel/v/i/i.visser/i.visser.html?cb"
+      },
+      {
+        "name": "Cátia M. Oliveira",
+        "orcid": "https://orcid.org/0000-0002-2976-3330",
+        "institution": "Cardiff University",
+        "email": "ferreiradeoliveirac@cardiff.ac.uk",
+        "site": "https://www.york.ac.uk/psychology/research/facilities/slam/"
       }
     ],
     "logoPath": "/assets/img/mb3-spinoff.png",
@@ -792,7 +827,7 @@
       }
     ],
     "logoPath": "/assets/img/mb4-logo.png",
-    "contact": "- francis.yuen@psych.ubc.ca\n- klucca@asu.edu\n",
+    "contact": "\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb4-list",
     "slack": "**_[#mb4-general](https://manybabies.slack.com/archives/C03UBKXCGTW)_**",
     "color": "#FA8400"
@@ -809,10 +844,17 @@
     "website": "manybabies.org/MB4E",
     "leads": [
       {
-        "name": "Francis L. Yuen",
-        "orcid": "https://orcid.org/0000-0001-7570-123X",
+        "name": "Laura Franchin",
+        "orcid": "https://orcid.org/0000-0001-8777-8752",
+        "institution": "University of Trento",
+        "email": "laura.franchin@unitn.it",
+        "site": "https://webapps.unitn.it/du/en/Persona/PER0169770/Didattica"
+      },
+      {
+        "name": "J. Kiley Hamlin",
+        "orcid": "https://orcid.org/0000-0001-6173-9878",
         "institution": "University of British Columbia",
-        "email": "francis.yuen@psych.ubc.ca",
+        "email": "kiley.hamlin@psych.ubc.ca",
         "site": "https://cic.psych.ubc.ca/"
       },
       {
@@ -821,6 +863,20 @@
         "institution": "Arizona State University",
         "email": "klucca@asu.edu",
         "site": "https://www.emergingmindslab.org/"
+      },
+      {
+        "name": "Mira L. Nencheva",
+        "orcid": "https://orcid.org/0000-0003-4854-4608",
+        "institution": "Stanford University",
+        "email": "mira.nencheva@gmail.com",
+        "site": null
+      },
+      {
+        "name": "Francis L. Yuen",
+        "orcid": "https://orcid.org/0000-0001-7570-123X",
+        "institution": "University of British Columbia",
+        "email": "francis.yuen@psych.ubc.ca",
+        "site": "https://cic.psych.ubc.ca/"
       }
     ],
     "logoPath": "/assets/img/mb4-spinoff.png",
@@ -846,6 +902,13 @@
         "site": "https://yiyiwang.webador.com/"
       },
       {
+        "name": "Hilal H. Şen",
+        "orcid": "https://orcid.org/0000-0002-9877-5108",
+        "institution": "University of Akureyri",
+        "email": "hilal@unak.is",
+        "site": "https://www.unak.is/english/moya/ugla/staff/hilal-sen"
+      },
+      {
         "name": "Kelsey Lucca",
         "orcid": "https://orcid.org/0000-0002-0581-2257",
         "institution": "Arizona State University",
@@ -854,7 +917,7 @@
       }
     ],
     "logoPath": "/assets/img/mb4-spinoff.png",
-    "contact": "- yiyiwang@uchicago.edu\n- klucca@asu.edu\n",
+    "contact": "\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb4i-list",
     "slack": null,
     "color": "#FA8400"
@@ -941,6 +1004,20 @@
     "website": "manybabies.org/MB5meta",
     "leads": [
       {
+        "name": "Anjie Cao",
+        "orcid": "https://orcid.org/0000-0002-7191-6548",
+        "institution": "Stanford University",
+        "email": "anjiecao@stanford.edu",
+        "site": "https://anjiecao.github.io/"
+      },
+      {
+        "name": "Katie Von Holzen",
+        "orcid": "https://orcid.org/0000-0001-7636-2209 ",
+        "institution": "Georg-August-Universität Göttingen",
+        "email": "katie.m.vonholzen@gmail.com",
+        "site": "https://kvonholzen.github.io/index.html"
+      },
+      {
         "name": "Martin Zettersten",
         "orcid": "https://orcid.org/0000-0002-0444-7059",
         "institution": "University of California, San Diego",
@@ -965,11 +1042,32 @@
     "website": "manybabies.org/MB5N",
     "leads": [
       {
+        "name": "Jessica E. Kosie",
+        "orcid": "https://orcid.org/0000-0002-2390-0963",
+        "institution": "Arizona State University",
+        "email": "jkosie@asu.edu",
+        "site": "https://jkosie.github.io/"
+      },
+      {
         "name": "Brianna T. M. McMillan",
         "orcid": "https://orcid.org/0000-0002-7585-4911",
         "institution": "Smith College",
         "email": "bmcmillan@smith.edu",
         "site": "smith.edu/academics/faculty/brianna-mcmillan"
+      },
+      {
+        "name": "Sana Fekrazad",
+        "orcid": null,
+        "institution": "University of Manitoba",
+        "email": "fekrazas@myumanitoba.ca",
+        "site": null
+      },
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": "University of Manitoba",
+        "email": "M_Soderstrom@umanitoba.ca",
+        "site": "https://umanitoba.ca/arts/melanie-soderstrom"
       }
     ],
     "logoPath": "/assets/img/mb5-spinoff.png",
@@ -1179,6 +1277,41 @@
         "institution": "University of Minnesota",
         "email": "cpickron@umn.edu",
         "site": "https://icd.umn.edu/charisse-pickron"
+      },
+      {
+        "name": "Ricarda Brieke",
+        "orcid": "https://orcid.org/0000-0001-6441-9845",
+        "institution": "University College London",
+        "email": "r.brieke@ucl.ac.uk",
+        "site": null
+      },
+      {
+        "name": "Maggie Guy",
+        "orcid": null,
+        "institution": "Loyola University Chicago",
+        "email": "mguy5@luc.edu",
+        "site": null
+      },
+      {
+        "name": "Shannon M. Klotz",
+        "orcid": "https://orcid.org/0000-0002-0730-3392",
+        "institution": "University of California, Davis",
+        "email": "smklotz@ucdavis.edu",
+        "site": null
+      },
+      {
+        "name": "Margaret (Meg) C. Moulson",
+        "orcid": "https://orcid.org/0000-0003-2147-3520",
+        "institution": "Toronto Metropolitan University",
+        "email": "mmoulson@torontomu.ca",
+        "site": null
+      },
+      {
+        "name": "Lidia Scifo",
+        "orcid": "https://orcid.org/0000-0002-0876-668X",
+        "institution": "LUMSA (Libera Università degli Studi Maria Ss. Assunta di Roma)",
+        "email": "l.scifo@lumsa.it",
+        "site": "https://lumsa.it/it/docenti/lidia-scifo"
       }
     ],
     "logoPath": "/assets/img/mb9-logo.png",
