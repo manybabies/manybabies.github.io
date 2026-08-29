@@ -80,18 +80,18 @@
     "website": "manybabies.org/MBAH1",
     "leads": [
       {
-        "name": "Eon-Suk Ko",
-        "orcid": "https://orcid.org/0000-0003-3963-4492",
-        "institution": "Chosun University",
-        "email": "chosun.cds@gmail.com, eonsuk@gmail.com",
-        "site": "https://sites.google.com/site/eonsuk/home"
-      },
-      {
         "name": "Rajalakshmi Madhavan",
         "orcid": null,
         "institution": "Chosun University",
         "email": "satarai.rajalakshmi@gmail.com",
         "site": "https://rajimadhavan.github.io/"
+      },
+      {
+        "name": "Eon-Suk Ko",
+        "orcid": "https://orcid.org/0000-0003-3963-4492",
+        "institution": "Chosun University",
+        "email": "chosun.cds@gmail.com, eonsuk@gmail.com",
+        "site": "https://sites.google.com/site/eonsuk/home"
       },
       {
         "name": "Katie Von Holzen",
