@@ -62,5 +62,5 @@ We encourage everyone who is interested in the project to subscribe to the lists
 
 > <a href="{{ site.data.global.link.dashboard-form }}" target="_blank"><b>Update/add yourself to the contributor list/MB Dashboard</b></a>
 
-<!-- ### Publication -->
+<!-- ### Publication --> 
 
