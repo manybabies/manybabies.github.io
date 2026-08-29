@@ -16,7 +16,7 @@ subtitle: Evaluating Eye-Tracking Consistency and Accuracy and Its Impact on Key
         <img src="{{ current_project.logoPath }}" width="150">
       </div>
       <div class="col-lg-8" align="left">
-        <h2 style="color:{{ current_project.color }}; text-shadow: 0px 0px 7px #7F7F7F;">Project Overview</h2>
+        <h2 style="color:{{ current_project.color }};">Project Overview</h2>
         <ul>
           <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
         </ul>
