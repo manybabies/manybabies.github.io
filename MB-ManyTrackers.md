@@ -4,19 +4,23 @@ title: MB-ManyTrackers
 subtitle: Evaluating Eye-Tracking Consistency and Accuracy and Its Impact on Key Dependent Variables across Different Systems in the ManyBabies2 Project
 ---
 
+{% assign current_project = site.data.airtable | where: "project", page.title | first %}
+
 ***
 
 <div class="container">
-  <div class="row justify-content-around">
-    <div class="col-lg-4" align="center">
-      <br>
-      <img src="/assets/img/mb2-logo.png" width="150">
-    </div>
-    <div class="col-lg-8" align="left">
-      <h2>Project Overview</h2>
-      <ul>
-        <li><i>Status:</i> <b>{{ site.data.global.status.mt }}</b></li>
-      </ul>
+  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }};">
+    <div class="row justify-content-around">
+      <div class="col-lg-4" align="center">
+        <br>
+        <img src="{{ current_project.logoPath }}" width="150">
+      </div>
+      <div class="col-lg-8" align="left">
+        <h2 style="color:{{ current_project.color }}; text-shadow: 0px 0px 7px #7F7F7F;">Project Overview</h2>
+        <ul>
+          <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
@@ -33,19 +37,26 @@ subtitle: Evaluating Eye-Tracking Consistency and Accuracy and Its Impact on Key
 <br>
 
 ***
-### Links
+## Links
 * **Listserv**: [join here](https://groups.google.com/a/manybabies.org/g/manytrackers-list)
 * **MB2**: [main project page]({{site.baseurl}}/MB2/)
 
+***
+## Leads
+<ul>
+  {% for lead in current_project.leads %}
+    <li>
+      {% if lead.orcid %}
+        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
+      {% else %}
+        {{ lead.name }}, <i>{{ lead.institution }}</i>
+      {% endif %}{% unless forloop.last %}<br> {% endunless %}
+    </li>
+  {% endfor %}
+</ul>
 
 ***
-### Leads
-* [**Shuting Li**](https://www.researchgate.net/profile/Shuting-Li-3), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:Shuting.Li@psy.lmu.de)
-* [**Tobias Schuwerk**](https://www.en.cas.uni-muenchen.de/rir/junior_rir/previous_junior_rir/schuhwerk_tobias/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:Tobias.Schuwerk@psy.lmu.de)
-* [**Lucie Zimmer**](https://www.psy.lmu.de/pbi/personen/wiss_mitarbeiter/lucie_zimmer/index.html), *Ludwig Maximilian University of Munich, Germany* [[email]](mailto:lucie.zimmer@psy.lmu.de)
-
-***
-### MB-ManyTrackers Contributors
+## MB-ManyTrackers Contributors
 
 We encourage everyone who is interested in the project to contact Project Lead [Shuting Li](mailto:Shuting.Li@psy.lmu.de). Please note that access to infants/an infant lab is **NOT** a prerequisite.
 
