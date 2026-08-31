@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Journals adopting recommendations of MB-Demographics!  
-thumbnail-img: /assets/img/MBDemo_logo.png
+thumbnail-img: /assets/img/mbdemo-logo.png
 tags: [MB, MB-Demo, news]
 ---
 
