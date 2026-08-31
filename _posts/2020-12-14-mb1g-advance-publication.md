@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MB1G - Gaze Following paper published at Infancy
-thumbnail-img: /assets/img/MB1_logo.png
+thumbnail-img: /assets/img/mb1-spinoff.png
 tags: [paper, publications, MB1G]
 ---
 
