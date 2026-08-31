@@ -17,10 +17,10 @@ subtitle: The Hunter & Ames Model of Infant Looking Preference
       </div>
       <div class="col-lg-8" align="left">
         <h2 style="color:{{ current_project.color }};">Project Overview</h2>
+        <h4>Status: <code>{{ current_project.status }}</code></h4>
         <ul>
-          <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
-          <li><i><a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at</i> <b>Nature Human Behaviour</b></li>
-          <li><i>Labs interested in collecting data for MB5 should fill out the</i> <b><a href="https://airtable.com/appRoqMKzcK3NsXt4/pag99dsjlXiM24ZnB/form" target="_blank">MB5 Lab Sign-Up Form</a></b></li>
+          <li><b>Contact: <a href="mailto:{{ current_project.contact }}">{{ current_project.contact }}</a></b></li>
+          <li><a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at <i>Nature Human Behaviour</i></li>
         </ul>
       </div>
     </div>
@@ -56,6 +56,7 @@ subtitle: The Hunter & Ames Model of Infant Looking Preference
 
 ***
 ## Project Leads
+* **General Contact: [{{ current_project.contact }}](mailto:{{ current_project.contact }})**
 <ul>
   {% for lead in current_project.leads %}
     <li>
