@@ -9,17 +9,17 @@ subtitle: The Hunter & Ames Model of Infant Looking Preference
 ***
 
 <div class="container">
-  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }};">
+  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }}; width:90%; margin:0 auto;">
     <div class="row justify-content-around">
       <div class="col-lg-4" align="center">
         <br>
-        <img src="{{ current_project.logoPath }}" width="150">
+        <img src="{{ current_project.logoPath }}" width="150" style="margin-bottom:20px;">
       </div>
       <div class="col-lg-8" align="left">
-        <h2 style="color:{{ current_project.color }};">Project Overview</h2>
-        <h4>Status: <code>{{ current_project.status }}</code></h4>
+        <h2 style="color:{{ current_project.color }}; margin-top:20px;">Project Overview</h2>
+        <img src="/assets/img/status.png" width="20px"> <b>Status: <code>{{ current_project.status }}</code></b><br>
+        <img src="/assets/img/email.png" width="20px"> <b>Contact: <a href="mailto:{{ current_project.contact }}"><code>{{ current_project.contact }}</code></a></b>
         <ul>
-          <li><b>Contact: <a href="mailto:{{ current_project.contact }}">{{ current_project.contact }}</a></b></li>
           <li><a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at <i>Nature Human Behaviour</i></li>
         </ul>
       </div>
