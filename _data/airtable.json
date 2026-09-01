@@ -10,6 +10,7 @@
     "category": "Affiliated",
     "status": "Check CONNECT site",
     "website": "connect-btss.github.io/",
+    "paper": null,
     "leads": [],
     "logoPath": "/assets/img/connect_logo.png",
     "slack": null,
@@ -26,6 +27,7 @@
     "category": "Methodological",
     "status": "Data collection",
     "website": "manybabies.org/MB-AtHome",
+    "paper": null,
     "leads": [
       {
         "name": "Sho Tsuji",
@@ -78,6 +80,7 @@
     "category": "Methodological",
     "status": "Preparing for data collection",
     "website": "manybabies.org/MBAH1",
+    "paper": null,
     "leads": [
       {
         "name": "Rajalakshmi Madhavan",
@@ -117,6 +120,7 @@
     "category": "Methodological",
     "status": "Design",
     "website": "manybabies.org/MB-AtHome",
+    "paper": null,
     "leads": [],
     "logoPath": "/assets/img/mbah-logo.png",
     "slack": null,
@@ -131,8 +135,9 @@
     "tagline": "Creating unified demographic forms for ManyBabies projects, with standardized constructs and templates",
     "type": "Main",
     "category": "Methodological",
-    "status": "Complete",
+    "status": "COMPLETE",
     "website": "manybabies.org/MB-Demographics",
+    "paper": null,
     "leads": [
       {
         "name": "Leher Singh",
@@ -171,8 +176,9 @@
     "tagline": "Do infants prefer infant-directed speech? Do age, method, and native language background matter?",
     "type": "Main",
     "category": "Empirical",
-    "status": "Complete",
+    "status": "COMPLETE",
     "website": "manybabies.org/MB1",
+    "paper": null,
     "leads": [
       {
         "name": "Michael C. Frank",
@@ -203,8 +209,9 @@
     "description": "Infant-Directed Speech Preference in African Infants",
     "type": "Spin-off",
     "category": "Empirical",
-    "status": "Complete",
+    "status": "COMPLETE",
     "website": "manybabies.org/MB1A",
+    "paper": null,
     "leads": [
       {
         "name": "Angeline Sin Mei Tsui",
@@ -263,8 +270,9 @@
     "description": "Infant-Directed Speech Preference in Bilingual Infants",
     "type": "Spin-off",
     "category": "Empirical",
-    "status": "Complete",
+    "status": "COMPLETE",
     "website": "manybabies.org/MB1B",
+    "paper": null,
     "leads": [
       {
         "name": "Krista Byers-Heinlein",
@@ -287,8 +295,9 @@
     "description": "Gaze Following in Monolingual and Bilingual Infants",
     "type": "Spin-off",
     "category": "Empirical",
-    "status": "Complete",
+    "status": "COMPLETE",
     "website": "manybabies.org/MB1G",
+    "paper": null,
     "leads": [
       {
         "name": "Krista Byers-Heinlein",
@@ -311,8 +320,9 @@
     "description": "Longitudinal Vocabulary Follow-up",
     "type": "Spin-off",
     "category": "Empirical",
-    "status": "Complete",
+    "status": "COMPLETE",
     "website": "manybabies.org/MB1L",
+    "paper": null,
     "leads": [
       {
         "name": "Melanie Soderstrom",
@@ -338,6 +348,7 @@
     "category": "Empirical",
     "status": "Analysis",
     "website": "manybabies.org/MB1N",
+    "paper": null,
     "leads": [
       {
         "name": "Natalia Kartushina",
@@ -374,8 +385,9 @@
     "description": "Test-Retest Follow-up",
     "type": "Spin-off",
     "category": "Empirical",
-    "status": "Complete",
+    "status": "COMPLETE",
     "website": "manybabies.org/MB1T",
+    "paper": null,
     "leads": [
       {
         "name": "Melanie S. Schreiner",
@@ -400,6 +412,7 @@
     "category": "Empirical",
     "status": "On hold",
     "website": "manybabies.org/MB1-Demo",
+    "paper": null,
     "leads": [
       {
         "name": "Melissa Kline Struhl",
@@ -421,8 +434,9 @@
     "description": "Comparison to meta-analytic data",
     "type": "Secondary analysis",
     "category": "Empirical",
-    "status": "Complete",
+    "status": "COMPLETE",
     "website": "manybabies.org/MB1-Meta",
+    "paper": null,
     "leads": [
       {
         "name": "Martin Zettersten",
@@ -468,6 +482,7 @@
     "category": "Empirical",
     "status": "Under review (Stage 2)",
     "website": "manybabies.org/MB2",
+    "paper": null,
     "leads": [
       {
         "name": "Tobias Schuwerk",
@@ -514,6 +529,7 @@
     "category": "Empirical",
     "status": "Analysis",
     "website": "manybabies.org/MB-ManyTrackers/",
+    "paper": null,
     "leads": [
       {
         "name": "Shuting Li",
@@ -551,8 +567,9 @@
     "description": "Web-based Eye Tracking for Infant Studies",
     "type": "Spin-off",
     "category": "Empirical",
-    "status": "Complete",
+    "status": "COMPLETE",
     "website": "manybabies.org/MB-ManyWebcams",
+    "paper": null,
     "leads": [
       {
         "name": "Tobias Schuwerk",
@@ -591,6 +608,7 @@
     "category": "Empirical",
     "status": "Analysis",
     "website": "manybabies.org/MB2P",
+    "paper": null,
     "leads": [
       {
         "name": "Robert Hepach",
@@ -621,8 +639,9 @@
     "tagline": "Do infants learn and generalize identity-based rules from speech stimuli?",
     "type": "Main",
     "category": "Empirical",
-    "status": "Complete",
+    "status": "COMPLETE",
     "website": "manybabies.org/MB3",
+    "paper": null,
     "leads": [
       {
         "name": "Ingmar Visser",
@@ -670,6 +689,7 @@
     "category": "Empirical",
     "status": "Design",
     "website": "manybabies.org/MB3N",
+    "paper": null,
     "leads": [
       {
         "name": "Judit Gervain",
@@ -695,6 +715,7 @@
     "category": "Empirical",
     "status": "Analysis",
     "website": "manybabies.org/MB3L",
+    "paper": null,
     "leads": [
       {
         "name": "Anna Exner",
@@ -733,6 +754,7 @@
     "category": "Empirical",
     "status": "Analysis",
     "website": "manybabies.org/MB3P",
+    "paper": null,
     "leads": [
       {
         "name": "Ingmar Visser",
@@ -771,6 +793,7 @@
     "category": "Empirical",
     "status": "Analysis",
     "website": "manybabies.org/MB3T",
+    "paper": null,
     "leads": [
       {
         "name": "Ingmar Visser",
@@ -801,8 +824,9 @@
     "tagline": "Do infants prefer agents who are seen to help over those who are seen to hinder?",
     "type": "Main",
     "category": "Empirical",
-    "status": "Complete",
+    "status": "COMPLETE",
     "website": "manybabies.org/MB4",
+    "paper": null,
     "leads": [
       {
         "name": "Kelsey Lucca",
@@ -842,6 +866,7 @@
     "category": "Empirical",
     "status": "Analysis",
     "website": "manybabies.org/MB4E",
+    "paper": null,
     "leads": [
       {
         "name": "Laura Franchin",
@@ -893,6 +918,7 @@
     "category": "Empirical",
     "status": "Analysis",
     "website": "manybabies.org/MB4I",
+    "paper": null,
     "leads": [
       {
         "name": "Yiyi Wang",
@@ -932,6 +958,7 @@
     "category": "Empirical",
     "status": "Analysis",
     "website": "manybabies.org/MB4P",
+    "paper": null,
     "leads": [
       {
         "name": "Marlene Försterling",
@@ -963,6 +990,7 @@
     "category": "Empirical",
     "status": "Data collection",
     "website": "manybabies.org/MB5",
+    "paper": "<a href=\"https://doi.org/10.31234/osf.io/ck3vd\\_v1\" target=\"\\_blank\">Stage 1 Registered Report</a> given 'In Principle Acceptance' at <i>Nature Human Behaviour</i>\n",
     "leads": [
       {
         "name": "Jessica E. Kosie",
@@ -1002,6 +1030,7 @@
     "category": "Empirical",
     "status": "Data collection",
     "website": "manybabies.org/MB5-meta",
+    "paper": null,
     "leads": [
       {
         "name": "Anjie Cao",
@@ -1040,6 +1069,7 @@
     "category": "Empirical",
     "status": "Design",
     "website": "manybabies.org/MB5N",
+    "paper": null,
     "leads": [
       {
         "name": "Jessica E. Kosie",
@@ -1084,6 +1114,7 @@
     "type": "Spin-off",
     "category": "Empirical",
     "status": "Preparing for data collection",
+    "paper": null,
     "leads": [],
     "logoPath": "/assets/img/mb5-spinoff.png",
     "contact": "mb5@manybabies.org\n",
@@ -1101,6 +1132,7 @@
     "category": "Empirical",
     "status": "Under review (Stage 1)",
     "website": "manybabies.org/MB6",
+    "paper": null,
     "leads": [
       {
         "name": "Sumeet Farwaha",
@@ -1162,6 +1194,7 @@
     "category": "Empirical",
     "status": "Design",
     "website": "manybabies.org/MB7",
+    "paper": null,
     "leads": [
       {
         "name": "Elena C. Altmann",
@@ -1223,6 +1256,7 @@
     "category": "Empirical",
     "status": "Design",
     "website": "manybabies.org/MB8",
+    "paper": null,
     "leads": [
       {
         "name": "Nevena Dimitrova",
@@ -1270,6 +1304,7 @@
     "category": "Empirical",
     "status": "Design",
     "website": "manybabies.org/MB9",
+    "paper": null,
     "leads": [
       {
         "name": "Charisse B. Pickron",
@@ -1331,6 +1366,7 @@
     "category": "Affiliated",
     "status": "Check ManyManys site",
     "website": "manymanys.github.io/MM1/",
+    "paper": null,
     "leads": [],
     "logoPath": "/assets/img/manymanys_logo.png",
     "slack": null,
@@ -1343,6 +1379,7 @@
     "description": "",
     "type": "Network",
     "website": "manybabies.org",
+    "paper": null,
     "leads": [],
     "logoPath": "/assets/img/avatar-icon-2022.png",
     "contact": "contact@manybabies.org\n",
