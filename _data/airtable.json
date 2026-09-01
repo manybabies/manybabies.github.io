@@ -10,6 +10,8 @@
     "category": "Affiliated",
     "status": "Check CONNECT site",
     "website": "connect-btss.github.io/",
+    "labs": null,
+    "nTested": null,
     "paper": null,
     "leads": [],
     "logoPath": "/assets/img/connect_logo.png",
@@ -27,6 +29,8 @@
     "category": "Methodological",
     "status": "Data collection",
     "website": "manybabies.org/MB-AtHome",
+    "labs": 9,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -80,6 +84,8 @@
     "category": "Methodological",
     "status": "Preparing for data collection",
     "website": "manybabies.org/MBAH1",
+    "labs": null,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -120,6 +126,8 @@
     "category": "Methodological",
     "status": "Design",
     "website": "manybabies.org/MB-AtHome",
+    "labs": null,
+    "nTested": null,
     "paper": null,
     "leads": [],
     "logoPath": "/assets/img/mbah-logo.png",
@@ -137,6 +145,8 @@
     "category": "Methodological",
     "status": "COMPLETE",
     "website": "manybabies.org/MB-Demographics",
+    "labs": null,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -178,6 +188,8 @@
     "category": "Empirical",
     "status": "COMPLETE",
     "website": "manybabies.org/MB1",
+    "labs": 69,
+    "nTested": 2329,
     "paper": null,
     "leads": [
       {
@@ -211,6 +223,8 @@
     "category": "Empirical",
     "status": "COMPLETE",
     "website": "manybabies.org/MB1A",
+    "labs": 12,
+    "nTested": 260,
     "paper": null,
     "leads": [
       {
@@ -272,6 +286,8 @@
     "category": "Empirical",
     "status": "COMPLETE",
     "website": "manybabies.org/MB1B",
+    "labs": 16,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -297,6 +313,8 @@
     "category": "Empirical",
     "status": "COMPLETE",
     "website": "manybabies.org/MB1G",
+    "labs": 11,
+    "nTested": 322,
     "paper": null,
     "leads": [
       {
@@ -322,6 +340,8 @@
     "category": "Empirical",
     "status": "COMPLETE",
     "website": "manybabies.org/MB1L",
+    "labs": 21,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -348,6 +368,8 @@
     "category": "Empirical",
     "status": "Analysis",
     "website": "manybabies.org/MB1N",
+    "labs": 8,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -387,6 +409,8 @@
     "category": "Empirical",
     "status": "COMPLETE",
     "website": "manybabies.org/MB1T",
+    "labs": 5,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -412,6 +436,8 @@
     "category": "Empirical",
     "status": "On hold",
     "website": "manybabies.org/MB1-Demo",
+    "labs": null,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -436,6 +462,8 @@
     "category": "Empirical",
     "status": "COMPLETE",
     "website": "manybabies.org/MB1-Meta",
+    "labs": null,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -482,6 +510,8 @@
     "category": "Empirical",
     "status": "Under review (Stage 2)",
     "website": "manybabies.org/MB2",
+    "labs": 44,
+    "nTested": 521,
     "paper": "<a href=\"https://doi.org/10.31234/osf.io/x4jbm\" target=\"\\_blank\"><b>Stage 1 Registered Report</b></a> given 'In Principle Acceptance' at <i>Child Development</i>\n",
     "leads": [
       {
@@ -529,6 +559,8 @@
     "category": "Empirical",
     "status": "Analysis",
     "website": "manybabies.org/MB-ManyTrackers/",
+    "labs": null,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -569,6 +601,8 @@
     "category": "Empirical",
     "status": "COMPLETE",
     "website": "manybabies.org/MB-ManyWebcams",
+    "labs": 15,
+    "nTested": 125,
     "paper": null,
     "leads": [
       {
@@ -608,6 +642,8 @@
     "category": "Empirical",
     "status": "Analysis",
     "website": "manybabies.org/MB2P",
+    "labs": null,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -641,7 +677,9 @@
     "category": "Empirical",
     "status": "COMPLETE",
     "website": "manybabies.org/MB3",
-    "paper": "<a href=\"https://osf.io/preprints/psyarxiv/ghrdt\\_v3\" target=\"\\_blank\"><b>Stage 1 Registered Report</b></a> given 'In Principle Acceptance' at <i>Developmental Science</i>\n",
+    "labs": 43,
+    "nTested": 839,
+    "paper": "<a href=\"https://osf.io/preprints/psyarxiv/ghrdt\\_v3\" target=\"\\_blank\"><b>Stage 2 Registered Report</b></a> 'in press' at <i>Developmental Science</i>\n",
     "leads": [
       {
         "name": "Ingmar Visser",
@@ -689,6 +727,8 @@
     "category": "Empirical",
     "status": "Design",
     "website": "manybabies.org/MB3N",
+    "labs": 21,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -715,6 +755,8 @@
     "category": "Empirical",
     "status": "Analysis",
     "website": "manybabies.org/MB3L",
+    "labs": 4,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -754,6 +796,8 @@
     "category": "Empirical",
     "status": "Analysis",
     "website": "manybabies.org/MB3P",
+    "labs": 2,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -793,6 +837,8 @@
     "category": "Empirical",
     "status": "Analysis",
     "website": "manybabies.org/MB3T",
+    "labs": 2,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -826,6 +872,8 @@
     "category": "Empirical",
     "status": "COMPLETE",
     "website": "manybabies.org/MB4",
+    "labs": 37,
+    "nTested": 1018,
     "paper": null,
     "leads": [
       {
@@ -866,6 +914,8 @@
     "category": "Empirical",
     "status": "Analysis",
     "website": "manybabies.org/MB4E",
+    "labs": null,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -918,6 +968,8 @@
     "category": "Empirical",
     "status": "Analysis",
     "website": "manybabies.org/MB4I",
+    "labs": 4,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -958,6 +1010,8 @@
     "category": "Empirical",
     "status": "Analysis",
     "website": "manybabies.org/MB4P",
+    "labs": null,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -990,6 +1044,8 @@
     "category": "Empirical",
     "status": "Data collection",
     "website": "manybabies.org/MB5",
+    "labs": 181,
+    "nTested": null,
     "paper": "<a href=\"https://doi.org/10.31234/osf.io/ck3vd\\_v1\" target=\"\\_blank\"><b>Stage 1 Registered Report</b></a> given 'In Principle Acceptance' at <i>Nature Human Behaviour</i>\n",
     "leads": [
       {
@@ -1030,6 +1086,8 @@
     "category": "Empirical",
     "status": "Data collection",
     "website": "manybabies.org/MB5-meta",
+    "labs": null,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -1069,6 +1127,8 @@
     "category": "Empirical",
     "status": "Design",
     "website": "manybabies.org/MB5N",
+    "labs": 44,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -1114,6 +1174,8 @@
     "type": "Spin-off",
     "category": "Empirical",
     "status": "Preparing for data collection",
+    "labs": 2,
+    "nTested": null,
     "paper": null,
     "leads": [],
     "logoPath": "/assets/img/mb5-spinoff.png",
@@ -1132,6 +1194,8 @@
     "category": "Empirical",
     "status": "Under review (Stage 1)",
     "website": "manybabies.org/MB6",
+    "labs": 8,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -1194,6 +1258,8 @@
     "category": "Empirical",
     "status": "Design",
     "website": "manybabies.org/MB7",
+    "labs": 8,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -1256,6 +1322,8 @@
     "category": "Empirical",
     "status": "Design",
     "website": "manybabies.org/MB8",
+    "labs": 7,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -1304,6 +1372,8 @@
     "category": "Empirical",
     "status": "Design",
     "website": "manybabies.org/MB9",
+    "labs": 2,
+    "nTested": null,
     "paper": null,
     "leads": [
       {
@@ -1366,6 +1436,8 @@
     "category": "Affiliated",
     "status": "Check ManyManys site",
     "website": "manymanys.github.io/MM1/",
+    "labs": null,
+    "nTested": null,
     "paper": null,
     "leads": [],
     "logoPath": "/assets/img/manymanys_logo.png",
@@ -1379,6 +1451,8 @@
     "description": "",
     "type": "Network",
     "website": "manybabies.org",
+    "labs": null,
+    "nTested": null,
     "paper": null,
     "leads": [],
     "logoPath": "/assets/img/avatar-icon-2022.png",
