@@ -1134,7 +1134,7 @@ pre {
   font-family:'Open Sans', sans-serif;
   border-radius: 10px; /* rounded corners */; 
   width: 90%; 
-  margin: 0 auto;
+  margin: 1em auto 1.75em;
 }  
 
 p.header {
