@@ -110,6 +110,7 @@ async function main() {
       category: f.Category,
       status: f.Status,
       website: f.Website,
+      paper: f['Paper (website)'] || null,
       leads: leadNames,
       logoPath: f['Logo Path'] || null,
       contact: f['Project Contact'],

@@ -17,11 +17,9 @@ subtitle: The Hunter & Ames Model of Infant Looking Preference
       </div>
       <div class="col-lg-8" align="left">
         <h2 style="color:{{ current_project.color }}; margin-top:20px;">Project Overview</h2>
-        <img src="/assets/img/status.png" width="20px"> <b>Status: <code>{{ current_project.status }}</code></b><br>
-        <img src="/assets/img/email.png" width="20px"> <b>Contact: <a href="mailto:{{ current_project.contact }}"><code>{{ current_project.contact }}</code></a></b>
-        <ul>
-          <li><a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank">Stage 1 Registered Report</a> given 'In Principle Acceptance' at <i>Nature Human Behaviour</i></li>
-        </ul>
+        <p class="header"><img src="/assets/img/status.png" width="20px"> <b>Status: <code>{{ current_project.status }}</code></b></p>
+        <p class="header"><img src="/assets/img/email.png" width="20px"> <b>Contact: <a href="mailto:{{ current_project.contact }}"><code>{{ current_project.contact }}</code></a></b></p>
+        <p class="header"><img src="/assets/img/paper.png" width="20px"> <a href="https://doi.org/10.31234/osf.io/ck3vd" target="_blank"><b>Stage 1 Registered Report</b></a> given 'In Principle Acceptance' at <i>Nature Human Behaviour</i></p>
       </div>
     </div>
   </div>
