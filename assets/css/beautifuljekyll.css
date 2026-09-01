@@ -1130,7 +1130,10 @@ pre {
 .box-gray {
   background-color: #EAEAEA;
   color: #000000;
-  padding:25px;
+  padding:20px;
   font-family:'Open Sans', sans-serif;
-  border-radius: 10px; /* rounded corners */
+  border-radius: 10px; /* rounded corners */; 
+  width: 90%; 
+  margin: 0 auto;
 }  
+

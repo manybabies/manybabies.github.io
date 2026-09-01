@@ -13,7 +13,7 @@ subtitle: Standard demographics for MB projects
     <div class="row justify-content-around">
       <div class="col-lg-4" align="center">
         <br>
-        <img src="{{ current_project.logoPath }}" width="150">
+        <img src="{{ current_project.logoPath }}" width="150" style="margin-bottom:20px;">
       </div>
       <div class="col-lg-8" align="left">
         <h2 style="color:{{ current_project.color }}; text-shadow: 0px 0px 7px #7F7F7F;">Project Overview</h2>

@@ -13,7 +13,7 @@ subtitle: Exploring Links Between Infants’ Social Evaluations, Facial Expressi
     <div class="row justify-content-around">
       <div class="col-lg-4" align="center">
         <br>
-        <img src="{{ current_project.logoPath }}" width="150">
+        <img src="{{ current_project.logoPath }}" width="150" style="margin-bottom:20px;">
       </div>
       <div class="col-lg-8" align="left">
         <h2 style="color:{{ current_project.color }};">Project Overview</h2>
