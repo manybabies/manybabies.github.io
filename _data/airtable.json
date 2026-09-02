@@ -395,6 +395,7 @@
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
+    "contact": "virginie.durier@univ-rennes1.fr\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb1n-list",
     "slack": "**_[#mb1n-general](https://manybabies.slack.com/archives/C046L3JJ06N)_**",
     "color": "#9986A5"
@@ -449,6 +450,7 @@
       }
     ],
     "logoPath": "/assets/img/mb1-analysis.png",
+    "contact": "mekline@mit.edu\n",
     "slack": null,
     "color": "#9986A5"
   },
@@ -496,6 +498,7 @@
       }
     ],
     "logoPath": "/assets/img/mb1-analysis.png",
+    "contact": "mzettersten@ucsd.edu\n",
     "slack": null,
     "color": "#9986A5"
   },
@@ -628,6 +631,7 @@
       }
     ],
     "logoPath": "/assets/img/mb2-spinoff.png",
+    "contact": "tobias.schuwerk@psy.lmu.de\n",
     "listservSub": "https://lists.lrz.de/mailman/listinfo/online_mb2",
     "slack": null,
     "color": "#036C9A"
@@ -662,6 +666,7 @@
       }
     ],
     "logoPath": "/assets/img/mb2-spinoff.png",
+    "contact": "robert.hepach@psy.ox.ac.uk\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb2p-list",
     "slack": "**_[#mb2p-pupillometry](https://manybabies.slack.com/archives/C05ENMB4K34)_**",
     "color": "#036C9A"
@@ -679,7 +684,7 @@
     "website": "manybabies.org/MB3",
     "labs": 43,
     "nTested": 839,
-    "paper": "<a href=\"https://osf.io/preprints/psyarxiv/ghrdt\\_v3\" target=\"\\_blank\"><b>Stage 2 Registered Report</b></a> 'in press' at <i>Developmental Science</i>\n",
+    "paper": "<a href=\"https://osf.io/preprints/psyarxiv/ghrdt\\_v3\" target=\"\\_blank\"><b>Stage 2 Registered Report</b></a> 'In Press' at <i>Developmental Science</i>\n",
     "leads": [
       {
         "name": "Ingmar Visser",
@@ -782,6 +787,7 @@
       }
     ],
     "logoPath": "/assets/img/mb3-spinoff.png",
+    "contact": "i.visser@uva.nl\n",
     "listservSub": "https://groups.google.com/g/mb3l",
     "slack": null,
     "color": "#00A18A"
@@ -823,6 +829,7 @@
       }
     ],
     "logoPath": "/assets/img/mb3-spinoff.png",
+    "contact": "i.visser@uva.nl\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb3p-list",
     "slack": "**_[#mb3p-pupillometry](https://manybabies.slack.com/archives/C087ZL52TGA)_**",
     "color": "#00A18A"
@@ -857,6 +864,7 @@
       }
     ],
     "logoPath": "/assets/img/mb3-spinoff.png",
+    "contact": "i.visser@uva.nl\n",
     "listservSub": "https://groups.google.com/g/mb3t",
     "slack": null,
     "color": "#00A18A"
@@ -874,7 +882,7 @@
     "website": "manybabies.org/MB4",
     "labs": 37,
     "nTested": 1018,
-    "paper": null,
+    "paper": "<b>94 authors</b> from <b>21 countries</b> on <i><a href=\"https://doi.org/10.1111/desc.13581\" target=\"\\_blank\">Developmental Science</a></i> publication\n",
     "leads": [
       {
         "name": "Kelsey Lucca",
@@ -899,7 +907,7 @@
       }
     ],
     "logoPath": "/assets/img/mb4-logo.png",
-    "contact": "\n",
+    "contact": "klucca@asu.edu\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb4-list",
     "slack": "**_[#mb4-general](https://manybabies.slack.com/archives/C03UBKXCGTW)_**",
     "color": "#FA8400"
