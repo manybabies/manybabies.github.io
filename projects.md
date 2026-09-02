@@ -12,7 +12,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
       </div>
       <div class="col-sm-10">
         <h4>Main Projects</h4>
-        <i>Test a question about infant development of key theoretical or methodological interest. Numbered sequentially (e.g., MB1, MB2)</i>
+        <i>Address a question about infant development of key theoretical or methodological interest; main empirical projects are numbered sequentially (e.g., MB1, MB2)</i>
         <br>
       </div>
     </div>
@@ -23,7 +23,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
       </div>
       <div class="col-sm-10">
         <h4>Spin-off Projects</h4>
-        <i>Build on the methods or data from the main projects; e.g., extending the study to a different population of infants (e.g., bilinguals; MB1B) or follow-up data collection (e.g., longitudinal correlation with CDIs; MB1L). Identified with a letter following the main project abbreviation</i>
+        <i>Build on the methods or data from the main projects, e.g., extending the study to a different population of infants (e.g., bilinguals; MB1B) or follow-up data collection (e.g., longitudinal correlation with CDIs; MB1L); identified with a letter following the main project abbreviation</i>
       </div>
     </div>
     <div class="row">
@@ -33,7 +33,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
       </div>
       <div class="col-sm-10">
         <h4>Secondary Analyses</h4>
-        <i>Conducted on publicly-available ManyBabies data. In some cases, may include additional data not collected as part of MB (e.g., if an individual lab investigates relationships between their lab’s MB data and other data collected by their lab)</i>
+        <i>Conducted on publicly-available ManyBabies data; in some cases, may include additional data not collected as part of MB (e.g., if an individual lab investigates relationships between their lab’s MB data and other data collected by their lab)</i>
       </div>
     </div>
   </div>
@@ -53,7 +53,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
           <a href="https://{{main.website }}"><img src="{{ main.logoPath }}" alt="{{ main.project}} logo" width="70" style="margin-top:4px;"></a>
         </div>
         <div class="col-sm-10">
-          <h3 style="margin-top:0em;"><a href=" https://{{main.website }}">{{ main.project }}:</a> {{ main.description }}</h3>
+          <h3 style="margin-top:0em;"><a href=" https://{{main.website }}">{{ main.project }}</a>: {{ main.description }}</h3>
           <i>{{ main.tagline }}</i><br>
           <b>Status:</b> <code>{{ main.status }}</code><br>
         </div>
@@ -70,7 +70,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         </div>
         <div class="col-sm-9">
           <hr style="margin-top:0.8em; margin-bottom:0.3em;">
-          <h4 style="margin-top:0.5em; margin-bottom:0.1em;"><a href=" https://{{spinoff.website }}">{{ spinoff.project }}:</a> {{ spinoff.description }}</h4>
+          <h4 style="margin-top:0.5em; margin-bottom:0.1em;"><a href=" https://{{spinoff.website }}">{{ spinoff.project }}</a>: {{ spinoff.description }}</h4>
           <b>Status:</b> <code>{{ spinoff.status }}</code><br>
         </div>
       </div> 
@@ -87,7 +87,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         </div>
         <div class="col-sm-9">
           <hr style="margin-top:0.8em; margin-bottom:0.3em;">
-          <h4 style="margin-top:0.5em;margin-bottom:0.1em;"><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
+          <h4 style="margin-top:0.5em;margin-bottom:0.1em;"><a href=" https://{{item.website }}">{{ item.project }}</a>: {{ item.description }}</h4>
           <b>Status:</b> <code>{{ item.status }}</code><br>
         </div>
       </div> 
@@ -106,7 +106,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
           <a href="https://{{main.website }}"><img src="{{ main.logoPath }}" alt="{{ main.project}} logo" width="70" style="margin-top:4px;"></a>
         </div>
         <div class="col-sm-10">
-          <h3 style="margin-top:0.1em;"><a href=" https://{{main.website }}">{{ main.project }}:</a> {{ main.description }}</h3>
+          <h3 style="margin-top:0.1em;"><a href=" https://{{main.website }}">{{ main.project }}</a>: {{ main.description }}</h3>
           <i>{{ main.tagline }}</i><br>
           <b>Status:</b> <code>{{ main.status }}</code><br>
         </div>
@@ -123,7 +123,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         </div>
         <div class="col-sm-9">
           <hr style="margin-top:0.8em; margin-bottom:0.3em;">
-          <h4 style="margin-top:0.5em; margin-bottom:0.1em;"><a href=" https://{{spinoff.website }}">{{ spinoff.project }}:</a> {{ spinoff.description }}</h4>
+          <h4 style="margin-top:0.5em; margin-bottom:0.1em;"><a href=" https://{{spinoff.website }}">{{ spinoff.project }}</a>: {{ spinoff.description }}</h4>
           <b>Status:</b> <code>{{ spinoff.status }}</code><br>
         </div>
       </div> 
@@ -140,7 +140,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         </div>
         <div class="col-sm-9">
           <hr style="margin-top:0.8em; margin-bottom:0.3em;">
-          <h4 style="margin-top:0.5em; margin-bottom:0.1em;"><a href=" https://{{item.website }}">{{ item.project }}:</a> {{ item.description }}</h4>
+          <h4 style="margin-top:0.5em; margin-bottom:0.1em;"><a href=" https://{{item.website }}">{{ item.project }}</a>: {{ item.description }}</h4>
           <b>Status:</b> <code>{{ item.status }}</code  ><br>
         </div>
       </div> 
@@ -159,7 +159,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
           <a href="https://{{affiliate.website }}" target="_blank"><img src="{{ affiliate.logoPath }}" alt="{{ affiliate.project}} logo" width="70" style="margin-top:4px;"></a>
         </div>
         <div class="col-sm-10">
-          <h3 style="margin-top:0.1em;"><a href=" https://{{affiliate.website }}" target="_blank">{{ affiliate.project }}:</a> {{ affiliate.description }}</h3>
+          <h3 style="margin-top:0.1em;"><a href=" https://{{affiliate.website }}" target="_blank">{{ affiliate.project }}</a>: {{ affiliate.description }}</h3>
           <i>{{ affiliate.tagline }}</i><br>
           <b>Go to the <a href="https://{{ affiliate.website }}" target="_blank">{{ affiliate.project }} website</a> for more info</b><br> 
         </div>
