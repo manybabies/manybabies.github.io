@@ -1127,7 +1127,7 @@ pre {
   }
 }
 
-.box-gray {
+.box-overview {
   background-color: #EAEAEA;
   color: #000000;
   padding:20px;
@@ -1137,8 +1137,13 @@ pre {
   margin: 1em auto 1.75em;
 }  
 
-p.header {
+p.overview {
   padding-left: 25px; 
   text-indent: -25px;
   margin: .7rem 0;
+}
+
+.overview-icon {
+  width: 20px;
+  margin-bottom:3px;
 }
