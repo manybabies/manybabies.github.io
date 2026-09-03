@@ -16,7 +16,7 @@
     "paper": null,
     "leads": [],
     "logoPath": "/assets/img/connect_logo.png",
-    "contact": null,
+    "contact": "<a href=\"mailto:\"></a>",
     "slack": null,
     "color": null
   },
@@ -73,7 +73,7 @@
       }
     ],
     "logoPath": "/assets/img/mbah-logo.png",
-    "contact": "<a href=\"mailto:tsujish@gmail.com\">Sho Tsuji</a>\n",
+    "contact": "<a href=\"mailto:tsujish@gmail.com\">Sho Tsuji</a>",
     "listservSub": "https://groups.google.com/g/InfantLooksAtHome",
     "slack": null,
     "color": "#F3AD00"
@@ -116,7 +116,7 @@
       }
     ],
     "logoPath": "/assets/img/mbah-logo.png",
-    "contact": "<a href=\"mailto:mbah1@manybabies.org\">mbah1@manybabies.org</a>\n",
+    "contact": "<a href=\"mailto:mbah1@manybabies.org\">mbah1@manybabies.org</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mbah1-list",
     "slack": "**_[#mbah1-lwl-general](https://manybabies.slack.com/archives/C0BBXD0L0F3)_**",
     "color": "#F3AD00"
@@ -137,7 +137,7 @@
     "paper": null,
     "leads": [],
     "logoPath": "/assets/img/mbah-logo.png",
-    "contact": "<a href=\"mailto:tsujish@gmail.com\">Sho Tsuji</a>\n",
+    "contact": "<a href=\"mailto:tsujish@gmail.com\">Sho Tsuji</a>",
     "slack": null,
     "color": "#F3AD00"
   },
@@ -180,7 +180,7 @@
       }
     ],
     "logoPath": "/assets/img/mbdemo-logo.png",
-    "contact": "<a href=\"mailto:leher.singh.nus@gmail.com\">Leher Singh</a>\n",
+    "contact": "<a href=\"mailto:leher.singh.nus@gmail.com\">Leher Singh</a>",
     "listservSub": "https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics",
     "slack": null,
     "color": "#FDE269"
@@ -217,7 +217,7 @@
       }
     ],
     "logoPath": "/assets/img/mb1-logo.png",
-    "contact": "<a href=\"mailto:contact@manybabies.org\">contact@manybabies.org</a>\n",
+    "contact": "<a href=\"mailto:contact@manybabies.org\">contact@manybabies.org</a>",
     "listservSub": "https://mailman.stanford.edu/mailman/listinfo/manybabies1",
     "slack": null,
     "color": "#9986A5"
@@ -281,7 +281,7 @@
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
-    "contact": "<a href=\"mailto:jmcfrank@stanford.edu\">Mike Frank</a>\n",
+    "contact": "<a href=\"mailto:mcfrank@stanford.edu\">Michael C. Frank</a>",
     "listservSub": "https://mailman.stanford.edu/mailman/listinfo/manybabies-africa",
     "slack": "**_[#mb1a-general](https://manybabies.slack.com/archives/C0425R5RJ72)_**",
     "color": "#9986A5"
@@ -310,7 +310,7 @@
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
-    "contact": "<a href=\"mailto:K.Byers@concordia.ca\">Krista Byers-Heinlein</a>\n",
+    "contact": "<a href=\"mailto:K.Byers@concordia.ca\">Krista Byers-Heinlein</a>",
     "slack": null,
     "color": "#9986A5"
   },
@@ -338,7 +338,7 @@
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
-    "contact": "<a href=\"mailto:K.Byers@concordia.ca\">Krista Byers-Heinlein</a>\n",
+    "contact": "<a href=\"mailto:K.Byers@concordia.ca\">Krista Byers-Heinlein</a>",
     "slack": null,
     "color": "#9986A5"
   },
@@ -366,7 +366,7 @@
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
-    "contact": "<a href=\"mailto:M\\_Soderstrom@umanitoba.ca\">Melanie Soderstrom</a>\n\n",
+    "contact": "<a href=\"mailto:M_Soderstrom@umanitoba.ca\">Melanie Soderstrom</a>",
     "listservSub": "https://groups.google.com/u/1/g/mb1-cdi-follow-up",
     "slack": null,
     "color": "#9986A5"
@@ -409,7 +409,7 @@
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
-    "contact": "<a href=\"mailto:virginie.durier@univ-rennes1.fr\">Virginie Durier</a>\n",
+    "contact": "<a href=\"mailto:virginie.durier@univ-rennes1.fr\">Virginie Durier</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb1n-list",
     "slack": "**_[#mb1n-general](https://manybabies.slack.com/archives/C046L3JJ06N)_**",
     "color": "#9986A5"
@@ -438,7 +438,7 @@
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
-    "contact": "<a href=\"mailto:melanie.schreiner@psych.uni-goettingen.de\">Melanie Schreiner</a>\n",
+    "contact": "<a href=\"mailto:melanie.schreiner@psych.uni-goettingen.de\">Melanie S. Schreiner</a>",
     "slack": null,
     "color": "#9986A5"
   },
@@ -466,7 +466,7 @@
       }
     ],
     "logoPath": "/assets/img/mb1-analysis.png",
-    "contact": "<a href=\"mailto:mekline@mit.edu\">Melissa Kline Struhl</a>\n",
+    "contact": "<a href=\"mailto:mekline@mit.edu\">Melissa Kline Struhl</a>",
     "slack": null,
     "color": "#9986A5"
   },
@@ -515,7 +515,7 @@
       }
     ],
     "logoPath": "/assets/img/mb1-analysis.png",
-    "contact": "<a href=\"mailto:mzettersten@ucsd.edu\">Martin Zettersten</a>\n",
+    "contact": "<a href=\"mailto:mzettersten@ucsd.edu\">Martin Zettersten</a>",
     "slack": null,
     "color": "#9986A5"
   },
@@ -565,7 +565,7 @@
       }
     ],
     "logoPath": "/assets/img/mb2-logo.png",
-    "contact": "<a href=\"mailto:jmanybabies2@gmail.com\">manybabies2@gmail.com</a>\n",
+    "contact": "<a href=\"mailto:manybabies2@gmail.com\">manybabies2@gmail.com</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb2-list",
     "slack": "**_[#mb2-general](https://manybabies.slack.com/archives/C03U90GNJ03)_**\n**_[#mb2-analysis](https://manybabies.slack.com/archives/C04454VLG0J)_**",
     "color": "#036C9A"
@@ -608,7 +608,7 @@
       }
     ],
     "logoPath": "/assets/img/mb2-spinoff.png",
-    "contact": "<a href=\"mailto:jShuting.Li@psy.lmu.de\">Shuting Li</a>\n",
+    "contact": "<a href=\"mailto:Shuting.Li@psy.lmu.de\">Shuting Li</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/manytrackers-list",
     "slack": null,
     "color": "#036C9A"
@@ -651,7 +651,7 @@
       }
     ],
     "logoPath": "/assets/img/mb2-spinoff.png",
-    "contact": "<a href=\"mailto:jtobias.schuwerk@psy.lmu.de\">Tobi Schuwerk</a>\n",
+    "contact": "<a href=\"mailto:tobias.schuwerk@psy.lmu.de\">Tobias Schuwerk</a>",
     "listservSub": "https://lists.lrz.de/mailman/listinfo/online_mb2",
     "slack": null,
     "color": "#036C9A"
@@ -687,7 +687,7 @@
       }
     ],
     "logoPath": "/assets/img/mb2-spinoff.png",
-    "contact": "<a href=\"mailto:jrobert.hepach@psy.ox.ac.uk\">Robert Hepach</a>\n",
+    "contact": "<a href=\"mailto:robert.hepach@psy.ox.ac.uk\">Robert Hepach</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb2p-list",
     "slack": "**_[#mb2p-pupillometry](https://manybabies.slack.com/archives/C05ENMB4K34)_**",
     "color": "#036C9A"
@@ -738,7 +738,7 @@
       }
     ],
     "logoPath": "/assets/img/mb3-logo.png",
-    "contact": "<a href=\"mailto:i.visser@uva.nl\">Ingmar Visser</a>\n",
+    "contact": "<a href=\"mailto:i.visser@uva.nl\">Ingmar Visser</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb3-list",
     "slack": "**_[#mb3-general](https://manybabies.slack.com/archives/C03TUGG2CNB)_**\n**_[#mb3-analysis](https://manybabies.slack.com/archives/C044J48TZDX)_**",
     "color": "#00A18A"
@@ -768,7 +768,7 @@
       }
     ],
     "logoPath": "/assets/img/mb3n-logo.png",
-    "contact": "<a href=\"mailto:judit.gervain@parisdescartes.fr\">Judit Gervain</a>\n",
+    "contact": "<a href=\"mailto:judit.gervain@parisdescartes.fr; judit.gervain@unipd.it\">Judit Gervain</a>",
     "listservSub": "https://groups.google.com/g/mb3nirs",
     "slack": "**[MB3-NIRS workspace](https://join.slack.com/t/mb3nirs/shared_invite/zt-1opm3wjvb-Hk5cO2ZDciUhWyuJfeunQQ)**",
     "color": "#00A18A"
@@ -811,7 +811,7 @@
       }
     ],
     "logoPath": "/assets/img/mb3-spinoff.png",
-    "contact": "<a href=\"mailto:i.visser@uva.nl\">Ingmar Visser</a>\n",
+    "contact": "<a href=\"mailto:i.visser@uva.nl\">Ingmar Visser</a>",
     "listservSub": "https://groups.google.com/g/mb3l",
     "slack": null,
     "color": "#00A18A"
@@ -854,7 +854,7 @@
       }
     ],
     "logoPath": "/assets/img/mb3-spinoff.png",
-    "contact": "<a href=\"mailto:i.visser@uva.nl\">Ingmar Visser</a>\n",
+    "contact": "<a href=\"mailto:i.visser@uva.nl\">Ingmar Visser</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb3p-list",
     "slack": "**_[#mb3p-pupillometry](https://manybabies.slack.com/archives/C087ZL52TGA)_**",
     "color": "#00A18A"
@@ -890,7 +890,7 @@
       }
     ],
     "logoPath": "/assets/img/mb3-spinoff.png",
-    "contact": "<a href=\"mailto:i.visser@uva.nl\">Ingmar Visser</a>\n",
+    "contact": "<a href=\"mailto:i.visser@uva.nl\">Ingmar Visser</a>",
     "listservSub": "https://groups.google.com/g/mb3t",
     "slack": null,
     "color": "#00A18A"
@@ -934,7 +934,7 @@
       }
     ],
     "logoPath": "/assets/img/mb4-logo.png",
-    "contact": "<a href=\"mailto:klucca@asu.edu\">Kelsey Lucca</a>\n",
+    "contact": "<a href=\"mailto:klucca@asu.edu\">Kelsey Lucca</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb4-list",
     "slack": "**_[#mb4-general](https://manybabies.slack.com/archives/C03UBKXCGTW)_**",
     "color": "#FA8400"
@@ -991,7 +991,7 @@
       }
     ],
     "logoPath": "/assets/img/mb4-spinoff.png",
-    "contact": "<a href=\"mailto:klucca@asu.edu\">Kelsey Lucca</a>\n",
+    "contact": "<a href=\"mailto:klucca@asu.edu\">Kelsey Lucca</a>",
     "slack": null,
     "color": "#FA8400"
   },
@@ -1033,7 +1033,7 @@
       }
     ],
     "logoPath": "/assets/img/mb4-spinoff.png",
-    "contact": "<a href=\"mailto:yiyiwang@uchicago.edu\">Yiyi Wang</a>\n",
+    "contact": "<a href=\"mailto:yiyiwang@uchicago.edu\">Yiyi Wang</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb4i-list",
     "slack": null,
     "color": "#FA8400"
@@ -1069,7 +1069,7 @@
       }
     ],
     "logoPath": "/assets/img/mb4-spinoff.png",
-    "contact": "<a href=\"mailto:jrobert.hepach@psy.ox.ac.uk\">Robert Hepach</a>\n",
+    "contact": "<a href=\"mailto:robert.hepach@psy.ox.ac.uk\">Robert Hepach</a>",
     "slack": null,
     "color": "#FA8400"
   },
@@ -1112,7 +1112,7 @@
       }
     ],
     "logoPath": "/assets/img/mb5-logo.png",
-    "contact": "<a href=\"mailto:mb5@manybabies.org\">mb5@manybabies.org</a>\n",
+    "contact": "<a href=\"mailto:mb5@manybabies.org\">mb5@manybabies.org</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb5-list",
     "slack": "**_[#mb5-general](https://manybabies.slack.com/archives/C03U2J2GZ2A)_**\n**_[#mb5-analysis](https://manybabies.slack.com/archives/C06EEFTLWR2)_**\n**_[#mb5-open-documentation](https://manybabies.slack.com/archives/C06E3MBKFM5)_**\n**_[#mb5-stimuli](https://manybabies.slack.com/archives/C06EEFAB0A0)_**\n**_[#mb5-experiment-programming](https://manybabies.slack.com/archives/C06F0RHN6QY)_**\n**_[#mb5-data-collection](https://manybabies.slack.com/archives/C0AUKJ27YQG)_**",
     "color": "#B0437F"
@@ -1155,7 +1155,7 @@
       }
     ],
     "logoPath": "/assets/img/mb5-spinoff.png",
-    "contact": "<a href=\"mailto:mzettersten@ucsd.edu\">Martin Zettersten</a>\n",
+    "contact": "<a href=\"mailto:mzettersten@ucsd.edu\">Martin Zettersten</a>",
     "slack": "**_[#mb5-meta](https://manybabies.slack.com/archives/C06EQMB3EAD)_**",
     "color": "#B0437F"
   },
@@ -1204,7 +1204,7 @@
       }
     ],
     "logoPath": "/assets/img/mb5-spinoff.png",
-    "contact": "<a href=\"mailto:jkosie@asu.edu\">Jessica Kosie</a>\n",
+    "contact": "<a href=\"mailto:jkosie@asu.edu\">Jessica E. Kosie</a>",
     "slack": "**_[#mb5n-naturalistic](https://manybabies.slack.com/archives/C08KDPGJ55M)_**",
     "color": "#B0437F"
   },
@@ -1223,7 +1223,7 @@
     "paper": null,
     "leads": [],
     "logoPath": "/assets/img/mb5-spinoff.png",
-    "contact": "<a href=\"[mailto:mb5@manybabies.org](mailto:mb9@manybabies.org)\">mb5@manybabies.org</a>\n",
+    "contact": "<a href=\"mailto:mb5@manybabies.org\">mb5@manybabies.org</a>",
     "slack": null,
     "color": "#B0437F"
   },
@@ -1287,7 +1287,7 @@
       }
     ],
     "logoPath": "/assets/img/mb6-logo.png",
-    "contact": "<a href=\"[mailto:mb6@manybabies.org](mailto:mb9@manybabies.org)\">mb6@manybabies.org</a>\n",
+    "contact": "<a href=\"mailto:mb6@manybabies.org\">mb6@manybabies.org</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb6-list",
     "slack": "**_[#mb6-general](https://manybabies.slack.com/archives/C04101K8V7H)_**",
     "color": "#ABDFDE"
@@ -1352,7 +1352,7 @@
       }
     ],
     "logoPath": "/assets/img/mb7-logo.png",
-    "contact": "<a href=\"[mailto:mb7@manybabies.org](mailto:mb9@manybabies.org)\">mb7@manybabies.org</a>\n",
+    "contact": "<a href=\"mailto:mb7@manybabies.org\">mb7@manybabies.org</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb7-list",
     "slack": "**_[#mb7-general](https://manybabies.slack.com/archives/C0A1J1RT25P)_**\n**_[#mb7-writing](https://manybabies.slack.com/archives/C0AEGB60XGS)_**\n**_[#mb7-design](https://manybabies.slack.com/archives/C0AECUMB2Q5)_**",
     "color": "#FDE269"
@@ -1403,7 +1403,7 @@
       }
     ],
     "logoPath": "/assets/img/mb8-logo.png",
-    "contact": "<a href=\"[mailto:mb8@manybabies.org](mailto:mb9@manybabies.org)\">mb8@manybabies.org</a>\n",
+    "contact": "<a href=\"mailto:mb8@manybabies.org\">mb8@manybabies.org</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb8-list",
     "slack": "**_[#mb8-general](https://manybabies.slack.com/archives/C0ABH7W9D2L)_**",
     "color": "#F3AD00"
@@ -1468,7 +1468,7 @@
       }
     ],
     "logoPath": "/assets/img/mb9-logo.png",
-    "contact": "<a href=\"mailto:mb9@manybabies.org\">mb9@manybabies.org</a>\n",
+    "contact": "<a href=\"mailto:mb9@manybabies.org\">mb9@manybabies.org</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb9-list",
     "slack": "**_[#mb9-general](https://manybabies.slack.com/archives/C0BFLFJPE4T)_**",
     "color": "#0CC0DF"
@@ -1490,7 +1490,7 @@
     "paper": null,
     "leads": [],
     "logoPath": "/assets/img/manymanys_logo.png",
-    "contact": null,
+    "contact": "<a href=\"mailto:\"></a>",
     "slack": null,
     "color": null
   },
@@ -1507,7 +1507,7 @@
     "paper": null,
     "leads": [],
     "logoPath": "/assets/img/avatar-icon-2022.png",
-    "contact": "<a href=\"mailto:contact@manybabies.org\">contact@manybabies.org</a>\n",
+    "contact": "<a href=\"mailto:\"></a>",
     "listservSub": "https://mailman.stanford.edu/mailman/listinfo/manybabies",
     "slack": "**[MB Slack workspace](https://join.slack.com/t/manybabies/shared_invite/zt-3hv85sl5d-JWzJYourJw8kCttK46l~kw)**\n**_[#general](https://manybabies.slack.com/archives/C4QDCQ4D6)_**\n**_[#random](https://manybabies.slack.com/archives/C4RR4JADV)_**\n**_[#recruitment](https://manybabies.slack.com/archives/C05DKDZHXL3)_**",
     "color": null
