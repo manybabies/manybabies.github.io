@@ -12,6 +12,7 @@
     "website": "connect-btss.github.io/",
     "labs": null,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [],
     "logoPath": "/assets/img/connect_logo.png",
@@ -32,6 +33,7 @@
     "website": "manybabies.org/MB-AtHome",
     "labs": 9,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [
       {
@@ -88,6 +90,7 @@
     "website": "manybabies.org/MBAH1",
     "labs": null,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [
       {
@@ -130,6 +133,7 @@
     "website": "manybabies.org/MB-AtHome",
     "labs": null,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [],
     "logoPath": "/assets/img/mbah-logo.png",
@@ -150,6 +154,7 @@
     "website": "manybabies.org/MB-Demographics",
     "labs": null,
     "nTested": null,
+    "datapage": null,
     "paper": "<b>24 authors</b> from <b>8 countries</b> on <i><b><a href=\"https://doi.org/10.1037/dev0001623\" target=\"\\_blank\">Developmental Psychology</a></b></i> publication\n",
     "leads": [
       {
@@ -193,6 +198,7 @@
     "website": "manybabies.org/MB1",
     "labs": 69,
     "nTested": 2329,
+    "datapage": "https://manybabies.org/mb1-datapage/",
     "paper": "<b>149 authors</b> from <b>21 countries</b> on <i><b><a href=\"https://doi.org/10.1177/2515245919900809\" target=\"\\_blank\">AMPPS</a></b></i> publication\n",
     "leads": [
       {
@@ -228,6 +234,7 @@
     "website": "manybabies.org/MB1A",
     "labs": 12,
     "nTested": 260,
+    "datapage": null,
     "paper": "<b>38 authors</b> from <b>13 countries</b> on <i><b><a href=\"https://doi.org/10.1111/desc.70242\" target=\"\\_blank\">Developmental Science</a></b></i> publication\n",
     "leads": [
       {
@@ -291,6 +298,7 @@
     "website": "manybabies.org/MB1B",
     "labs": 16,
     "nTested": null,
+    "datapage": null,
     "paper": "<b>38 authors</b> from <b>11 countries</b> on <i><b><a href=\"https://doi.org/10.1177/2515245920974622\" target=\"\\_blank\">AMPPS</a></b></i> publication\n",
     "leads": [
       {
@@ -318,6 +326,7 @@
     "website": "manybabies.org/MB1G",
     "labs": 11,
     "nTested": 322,
+    "datapage": null,
     "paper": "<b>27 authors</b> from <b>11 countries</b> on <i><b><a href=\"https://doi.org/10.1111/infa.12360\" target=\"\\_blank\">Infancy</a></b></i> publication\n",
     "leads": [
       {
@@ -345,6 +354,7 @@
     "website": "manybabies.org/MB1L",
     "labs": 21,
     "nTested": null,
+    "datapage": null,
     "paper": "<b>42 authors</b> from <b>9 countries</b> on <i><b><a href=\"https://doi.org/10.1017/S0305000924000254\" target=\"\\_blank\">Journal of Child Language</a></b></i> publication\n",
     "leads": [
       {
@@ -373,6 +383,7 @@
     "website": "manybabies.org/MB1N",
     "labs": 8,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [
       {
@@ -415,6 +426,7 @@
     "website": "manybabies.org/MB1T",
     "labs": 5,
     "nTested": null,
+    "datapage": null,
     "paper": "<b>16 authors</b> from <b>6 countries</b> on <i><b><a href=\"https://doi.org/10.1111/desc.13551\" target=\"\\_blank\">Developmental Science</a></b></i> publication\n",
     "leads": [
       {
@@ -442,6 +454,7 @@
     "website": "manybabies.org/MB1-Demo",
     "labs": null,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [
       {
@@ -469,6 +482,7 @@
     "website": "manybabies.org/MB1-Meta",
     "labs": null,
     "nTested": null,
+    "datapage": null,
     "paper": "<b>15 authors</b> from <b>5 countries</b> on <i><b><a href=\"https://doi.org/10.1162/opmi\\_a\\_00134\" target=\"\\_blank\">Open Mind</a></b></i> publication\n",
     "leads": [
       {
@@ -518,6 +532,7 @@
     "website": "manybabies.org/MB2",
     "labs": 44,
     "nTested": 521,
+    "datapage": null,
     "paper": "<a href=\"https://doi.org/10.31234/osf.io/x4jbm\" target=\"\\_blank\"><b>Stage 1 Registered Report</b></a> given 'In Principle Acceptance' at <i>Child Development</i>\n",
     "leads": [
       {
@@ -567,6 +582,7 @@
     "website": "manybabies.org/MB-ManyTrackers/",
     "labs": null,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [
       {
@@ -609,6 +625,7 @@
     "website": "manybabies.org/MB-ManyWebcams",
     "labs": 15,
     "nTested": 125,
+    "datapage": null,
     "paper": "<b>33 authors</b> from <b>11 countries</b> on <i><b><a href=\"https://doi.org/10.1111/infa.12564\" target=\"\\_blank\">Infancy</a></b></i> publication\n",
     "leads": [
       {
@@ -651,6 +668,7 @@
     "website": "manybabies.org/MB2P",
     "labs": null,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [
       {
@@ -687,6 +705,7 @@
     "website": "manybabies.org/MB3",
     "labs": 43,
     "nTested": 839,
+    "datapage": null,
     "paper": "<a href=\"https://osf.io/preprints/psyarxiv/ghrdt\\_v3\" target=\"\\_blank\"><b>Stage 2 Registered Report</b></a> 'In Press' at <i>Developmental Science</i>\n",
     "leads": [
       {
@@ -737,6 +756,7 @@
     "website": "manybabies.org/MB3N",
     "labs": 21,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [
       {
@@ -765,6 +785,7 @@
     "website": "manybabies.org/MB3L",
     "labs": 4,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [
       {
@@ -807,6 +828,7 @@
     "website": "manybabies.org/MB3P",
     "labs": 2,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [
       {
@@ -849,6 +871,7 @@
     "website": "manybabies.org/MB3T",
     "labs": 2,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [
       {
@@ -885,6 +908,7 @@
     "website": "manybabies.org/MB4",
     "labs": 37,
     "nTested": 1018,
+    "datapage": null,
     "paper": "<b>94 authors</b> from <b>21 countries</b> on <i><b><a href=\"https://doi.org/10.1111/desc.13581\" target=\"\\_blank\">Developmental Science</a></b></i> publication\n",
     "leads": [
       {
@@ -927,6 +951,7 @@
     "website": "manybabies.org/MB4E",
     "labs": null,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [
       {
@@ -982,6 +1007,7 @@
     "website": "manybabies.org/MB4I",
     "labs": 4,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [
       {
@@ -1024,6 +1050,7 @@
     "website": "manybabies.org/MB4P",
     "labs": null,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [
       {
@@ -1059,6 +1086,7 @@
     "website": "manybabies.org/MB5",
     "labs": 181,
     "nTested": null,
+    "datapage": null,
     "paper": "<a href=\"https://doi.org/10.31234/osf.io/ck3vd\\_v1\" target=\"\\_blank\"><b>Stage 1 Registered Report</b></a> given 'In Principle Acceptance' at <i>Nature Human Behaviour</i>\n",
     "leads": [
       {
@@ -1101,6 +1129,7 @@
     "website": "manybabies.org/MB5-meta",
     "labs": null,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [
       {
@@ -1142,6 +1171,7 @@
     "website": "manybabies.org/MB5N",
     "labs": 44,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [
       {
@@ -1189,6 +1219,7 @@
     "status": "Preparing for data collection",
     "labs": 2,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [],
     "logoPath": "/assets/img/mb5-spinoff.png",
@@ -1209,6 +1240,7 @@
     "website": "manybabies.org/MB6",
     "labs": 8,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [
       {
@@ -1273,6 +1305,7 @@
     "website": "manybabies.org/MB7",
     "labs": 8,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [
       {
@@ -1337,6 +1370,7 @@
     "website": "manybabies.org/MB8",
     "labs": 7,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [
       {
@@ -1387,6 +1421,7 @@
     "website": "manybabies.org/MB9",
     "labs": 2,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [
       {
@@ -1451,6 +1486,7 @@
     "website": "manymanys.github.io/MM1/",
     "labs": null,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [],
     "logoPath": "/assets/img/manymanys_logo.png",
@@ -1467,6 +1503,7 @@
     "website": "manybabies.org",
     "labs": null,
     "nTested": null,
+    "datapage": null,
     "paper": null,
     "leads": [],
     "logoPath": "/assets/img/avatar-icon-2022.png",
