@@ -279,6 +279,8 @@
     "volume": 4,
     "issue": "1",
     "pages": "1-30",
+    "nAuthors": 38,
+    "nCountries": 11,
     "journalLink": "https://doi.org/10.1177/2515245920974622",
     "preprintLink": "https://doi.org/10.31234/osf.io/sqh9d",
     "logoPath": [
@@ -429,6 +431,8 @@
     "volume": 22,
     "issue": "4",
     "pages": "421-435",
+    "nAuthors": 18,
+    "nCountries": 7,
     "journalLink": "https://doi.org/10.1111/infa.12182",
     "preprintLink": "https://doi.org/10.31234/osf.io/27b43",
     "logoPath": [
@@ -642,6 +646,8 @@
     "volume": 26,
     "issue": "1",
     "pages": "4-38",
+    "nAuthors": 27,
+    "nCountries": 11,
     "journalLink": "https://doi.org/10.1111/infa.12360",
     "preprintLink": "https://doi.org/10.31234/osf.io/sgfhv",
     "logoPath": [
@@ -764,6 +770,8 @@
     "volume": 26,
     "issue": "3",
     "pages": "354–373",
+    "nAuthors": 14,
+    "nCountries": 7,
     "journalLink": "https://doi.org/10.1080/15248372.2024.2431106",
     "preprintLink": "https://doi.org/10.31234/osf.io/cz3bv",
     "logoPath": [
@@ -823,6 +831,8 @@
     "volume": 12,
     "issue": null,
     "pages": "703234",
+    "nAuthors": 5,
+    "nCountries": 4,
     "journalLink": "https://doi.org/10.3389/fpsyg.2021.703234",
     "preprintLink": null,
     "logoPath": [
@@ -1043,6 +1053,8 @@
     "volume": 45,
     "issue": null,
     "pages": "e35",
+    "nAuthors": 28,
+    "nCountries": 10,
     "journalLink": "https://doi.org/10.1017/S0140525X21000455",
     "preprintLink": "https://doi.org/10.31234/osf.io/8vwbf",
     "logoPath": [
@@ -1235,6 +1247,8 @@
     "volume": 60,
     "issue": "2",
     "pages": "211–227",
+    "nAuthors": 24,
+    "nCountries": 8,
     "journalLink": "https://doi.org/10.1037/dev0001623",
     "preprintLink": "https://doi.org/10.31234/osf.io/agt3d",
     "logoPath": [
@@ -1371,6 +1385,8 @@
     "volume": 27,
     "issue": "6",
     "pages": "e13551",
+    "nAuthors": 16,
+    "nCountries": 6,
     "journalLink": "https://doi.org/10.1111/desc.13551",
     "preprintLink": "https://doi.org/10.31234/osf.io/uwche",
     "logoPath": [
@@ -1465,6 +1481,8 @@
     "volume": 10,
     "issue": "6",
     "pages": "230235",
+    "nAuthors": 10,
+    "nCountries": 2,
     "journalLink": "https://doi.org/10.1098/rsos.230235",
     "preprintLink": "https://doi.org/10.31234/osf.io/j7mt4",
     "logoPath": [
@@ -1783,6 +1801,8 @@
     "volume": 52,
     "issue": "5",
     "pages": "984-1009",
+    "nAuthors": 42,
+    "nCountries": 9,
     "journalLink": "https://doi.org/10.1017/S0305000924000254",
     "preprintLink": "https://docs.google.com/document/d/1CbLIEsJkQUctAW8a0VgW59hNMHGwyzSXkhWSFzlQYFE/edit?usp=sharing",
     "logoPath": [
@@ -2073,6 +2093,8 @@
     "volume": 29,
     "issue": "5",
     "pages": "e70242",
+    "nAuthors": 38,
+    "nCountries": 13,
     "journalLink": "https://doi.org/10.1111/desc.70242",
     "preprintLink": "https://doi.org/10.31234/osf.io/dc93n_v1",
     "logoPath": [
@@ -2202,6 +2224,8 @@
     "volume": 61,
     "issue": "4",
     "pages": "349–363",
+    "nAuthors": 15,
+    "nCountries": 6,
     "journalLink": "https://doi.org/10.1037/cap0000216",
     "preprintLink": "https://doi.org/10.31234/osf.io/s98ab",
     "logoPath": [
@@ -2443,6 +2467,8 @@
     "volume": null,
     "issue": null,
     "pages": null,
+    "nAuthors": 31,
+    "nCountries": 11,
     "journalLink": null,
     "preprintLink": "https://doi.org/10.31234/osf.io/fe7pj_v1",
     "logoPath": [
@@ -2572,6 +2598,8 @@
     "volume": 8,
     "issue": null,
     "pages": "439–461",
+    "nAuthors": 15,
+    "nCountries": 5,
     "journalLink": "https://doi.org/10.1162/opmi_a_00134",
     "preprintLink": "https://doi.org/10.31234/osf.io/etqs7",
     "logoPath": [
@@ -3177,6 +3205,8 @@
     "volume": null,
     "issue": null,
     "pages": null,
+    "nAuthors": 83,
+    "nCountries": 16,
     "journalLink": null,
     "preprintLink": "https://osf.io/preprints/psyarxiv/ghrdt_v3",
     "logoPath": [
@@ -3747,6 +3777,8 @@
     "volume": null,
     "issue": null,
     "pages": null,
+    "nAuthors": 78,
+    "nCountries": 19,
     "journalLink": null,
     "preprintLink": "https://doi.org/10.31234/osf.io/ck3vd_v1",
     "logoPath": [
@@ -4002,6 +4034,8 @@
     "volume": 29,
     "issue": "1",
     "pages": "31-55",
+    "nAuthors": 33,
+    "nCountries": 11,
     "journalLink": "https://doi.org/10.1111/infa.12564",
     "preprintLink": "https://doi.org/10.31234/osf.io/7924h",
     "logoPath": [
@@ -4082,6 +4116,8 @@
     "volume": null,
     "issue": null,
     "pages": null,
+    "nAuthors": 8,
+    "nCountries": 6,
     "journalLink": null,
     "preprintLink": "https://osf.io/hfqkc",
     "logoPath": [
@@ -4113,6 +4149,8 @@
     "volume": null,
     "issue": null,
     "pages": null,
+    "nAuthors": 1,
+    "nCountries": 1,
     "journalLink": null,
     "preprintLink": "https://osf.io/puxbg",
     "logoPath": [
@@ -4256,6 +4294,8 @@
     "volume": 4,
     "issue": "1",
     "pages": "92",
+    "nAuthors": 17,
+    "nCountries": 6,
     "journalLink": "https://doi.org/10.1038/s44271-026-00477-w",
     "preprintLink": "https://doi.org/10.31234/osf.io/y59sn_v1",
     "logoPath": [
@@ -4665,6 +4705,8 @@
     "volume": null,
     "issue": null,
     "pages": null,
+    "nAuthors": 55,
+    "nCountries": 10,
     "journalLink": null,
     "preprintLink": "https://doi.org/10.31234/osf.io/x4jbm",
     "logoPath": [
@@ -5732,6 +5774,8 @@
     "volume": 3,
     "issue": "1",
     "pages": "24-52",
+    "nAuthors": 149,
+    "nCountries": 21,
     "journalLink": "https://doi.org/10.1177/2515245919900809",
     "preprintLink": "https://doi.org/10.31234/osf.io/s98ab",
     "logoPath": [
@@ -6414,6 +6458,8 @@
     "volume": 28,
     "issue": "1",
     "pages": "e13581",
+    "nAuthors": 94,
+    "nCountries": 21,
     "journalLink": "https://doi.org/10.1111/desc.13581",
     "preprintLink": "https://doi.org/10.31234/osf.io/qhxkm",
     "logoPath": [
