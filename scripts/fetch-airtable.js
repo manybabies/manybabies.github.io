@@ -168,6 +168,8 @@ async function main() {
       volume: f.Volume || null,
       issue: f.Issue || null, 
       pages: f.Pages || null,
+      nAuthors: f['N authors'] || null,
+      nCountries: f['N countries'] || null,
       journalLink: f['Journal DOI'] || null,
       preprintLink: f['Preprint DOI'] || null,
       logoPath: f['Logo Path'] || null,
