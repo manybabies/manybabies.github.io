@@ -882,7 +882,7 @@
     "website": "manybabies.org/MB4",
     "labs": 37,
     "nTested": 1018,
-    "paper": "<b>94 authors</b> from <b>21 countries</b> on <i><a href=\"https://doi.org/10.1111/desc.13581\" target=\"\\_blank\">Developmental Science</a></i> publication\n",
+    "paper": "<b>94 authors</b> from <b>21 countries</b> on <i><b><a href=\"https://doi.org/10.1111/desc.13581\" target=\"\\_blank\">Developmental Science</a></b></i> publication\n",
     "leads": [
       {
         "name": "Kelsey Lucca",
