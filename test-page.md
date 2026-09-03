@@ -23,7 +23,7 @@ subtitle: page for testing stuff out
         {% endif %}
         {% for pub in pubs %} <!--- loop over pubs for specified project -->
           <p class="overview"><img src="/assets/img/paper.png" class="overview-icon"> {{ pub.nAuthors }} authors from {{ pub.nCountries }} countries on <i>{{pub.journal}}</i> publication</p>
-        {% endif %}
+        {% endfor %}
       </div>
     </div>
   </div>
