@@ -115,7 +115,7 @@ async function main() {
       paper: f['Paper (website)'] || null,
       leads: leadNames,
       logoPath: f['Logo Path'] || null,
-      contact: f['Project Contact'],
+      contact: f['Project Contact'] || null,
       listservSub: f['Listserv Subscribe'],
       slack: f.Slack ? f.Slack.trim() : null,
       color: f.Color ? f.Color.trim() : null

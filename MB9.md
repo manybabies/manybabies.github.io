@@ -5,22 +5,29 @@ subtitle: Perceptual Specialization
 ---
 
 {% assign current_project = site.data.airtable | where: "project", page.title | first %}
+{% assign pubs = site.data.publications | where: "project", page.title %}
 
-***
 
 <div class="container">
-  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }};">
+  <div class="box-overview" style="box-shadow: -10px 10px {{ current_project.color }};">
     <div class="row justify-content-around">
       <div class="col-lg-4" align="center">
         <br>
         <img src="{{ current_project.logoPath }}" width="150" style="margin-bottom:20px;">
       </div>
-      <div class="col-lg-8" align="left">
-        <h2 style="color:{{ current_project.color }};">Project Overview</h2>
-        <ul>
-          <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
-          <li><i>Subscribe to the <a href="{{ site.data.global.listserv.mb9 }}" target="_blank"><b>MB9 listserv</b></a> and/or <a href="mailto:{{ site.data.global.contact.mb9 }}"><b>email us</b></a> to get involved!</i></li>
-        </ul>
+      <div class="col-lg-8" align="left" style="margin-top:10px;">
+        <p class="overview"><img src="/assets/img/status.png" class="overview-icon"> <b>Status: <code>{{ current_project.status }}</code></b></p>
+        <p class="overview"><img src="/assets/img/email.png" class="overview-icon"> <b>Contact: <a href="mailto:{{ current_project.contact }}"><code>{{ current_project.contact }}</code></a></b></p>
+        {% if current_project.nTested %}
+          <p class="overview"><img src="/assets/img/people.png" class="overview-icon"> <b>{{ current_project.nTested }} babies</b> tested by <b>{{current_project.labs }} labs</b></p>
+        {% endif %}
+        {% for pub in pubs %} <!--- loop over pubs for specified project -->
+          {% if pub.journalLink %}
+            <p class="overview"><img src="/assets/img/paper.png" class="overview-icon"> <b>{{ pub.nAuthors }} authors</b> from <b>{{ pub.nCountries }} countries</b> on <i><b><a href="{{ pub.journalLink }} " target="_blank">{{ pub.journal }}</a></b></i> publication</p>
+          {% else %}
+            <p class="overview"><img src="/assets/img/paper.png" class="overview-icon"> <b>{{ pub.nAuthors }} authors</b> from <b>{{ pub.nCountries }} countries</b> on <i><b><a href="{{ pub.preprintLink }} " target="_blank">{{ pub.journal }}</a></b></i> preprint</p>
+          {% endif %}
+        {% endfor %}
       </div>
     </div>
   </div>
