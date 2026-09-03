@@ -115,6 +115,7 @@ async function main() {
       datapage: f.Datapage || null,
       paper: f['Paper (website)'] || null,
       leads: leadNames,
+      contributors: f['Contributor table'] || null,
       logoPath: f['Logo Path'] || null,
       contact: f['Project Contact'] || null,
       listservSub: f['Listserv Subscribe'],
@@ -177,6 +178,8 @@ async function main() {
       website: f.Website,
       fullCitation: f['Full Citation']};
   });
+  
+  publications.sort((a, b) => b.year - a.year);
 
   fs.writeFileSync('_data/publications.json', JSON.stringify(publications, null, 2));
   console.log(`Wrote ${publications.length} records to _data/publications.json`);

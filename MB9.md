@@ -17,17 +17,23 @@ subtitle: Perceptual Specialization
       </div>
       <div class="col-lg-8" align="left" style="margin-top:10px;">
         <p class="overview"><img src="/assets/img/status.png" class="overview-icon"> <b>Status: <code>{{ current_project.status }}</code></b></p>
-        <p class="overview"><img src="/assets/img/email.png" class="overview-icon"> <b>Contact: <a href="mailto:{{ current_project.contact }}"><code>{{ current_project.contact }}</code></a></b></p>
-        {% if current_project.nTested %}
+        <p class="overview"><img src="/assets/img/email.png" class="overview-icon"> <b>Contact: <code>{{ current_project.contact }}</code></b></p>
+        {% if current_project.listservSub %}
+         <p class="overview"><img src="/assets/img/email.png" class="overview-icon"> <b>Listserv: <code><a href="{{ current_project.listservSub }}" target="_blank">Subscribe</a></code></b></p>
+        {% endif %}
+        {% if current_project.nTested %} <!--- if data collection complete -->
           <p class="overview"><img src="/assets/img/people.png" class="overview-icon"> <b>{{ current_project.nTested }} babies</b> tested by <b>{{current_project.labs }} labs</b></p>
         {% endif %}
         {% for pub in pubs %} <!--- loop over pubs for specified project -->
-          {% if pub.journalLink %}
+          {% if pub.journalLink %} <!--- journal pubs -->
             <p class="overview"><img src="/assets/img/paper.png" class="overview-icon"> <b>{{ pub.nAuthors }} authors</b> from <b>{{ pub.nCountries }} countries</b> on <i><b><a href="{{ pub.journalLink }} " target="_blank">{{ pub.journal }}</a></b></i> publication</p>
-          {% else %}
+          {% else %} <!--- preprints -->
             <p class="overview"><img src="/assets/img/paper.png" class="overview-icon"> <b>{{ pub.nAuthors }} authors</b> from <b>{{ pub.nCountries }} countries</b> on <i><b><a href="{{ pub.preprintLink }} " target="_blank">{{ pub.journal }}</a></b></i> preprint</p>
           {% endif %}
         {% endfor %}
+        {% if current_project.datapage %} <!--- if project has datapage -->
+          <p class="overview"><img src="/assets/img/data.png" class="overview-icon"> <a href="{{ current_project.datapage }}" target="_blank"><b>Explore the MB1 datapage</b></a></p>
+        {% endif %}
       </div>
     </div>
   </div>
