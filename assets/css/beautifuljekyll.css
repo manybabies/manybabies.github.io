@@ -1133,11 +1133,12 @@ pre {
   padding:20px;
   font-family:'Open Sans', sans-serif;
   border-radius: 10px; /* rounded corners */; 
-  width: 90%; 
+  width: 95%; 
   margin: 1em auto 1.75em;
 }  
 
 p.overview {
+  font-size: 1.2rem;
   padding-left: 25px; 
   text-indent: -25px;
   margin: .7rem 0;
