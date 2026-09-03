@@ -1139,12 +1139,12 @@ pre {
 
 p.overview {
   font-size: 1.2rem;
-  padding-left: 25px; 
-  text-indent: -25px;
+  padding-left: 30px; 
+  text-indent: -30px;
   margin: .7rem 0;
 }
 
 .overview-icon {
-  width: 20px;
+  width: 25px;
   margin-bottom:3px;
 }
