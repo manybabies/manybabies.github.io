@@ -208,7 +208,7 @@
       }
     ],
     "logoPath": "/assets/img/mb1-logo.png",
-    "contact": "M\\_Soderstrom@umanitoba.ca\n",
+    "contact": "contact@manybabies.org\n",
     "listservSub": "https://mailman.stanford.edu/mailman/listinfo/manybabies1",
     "slack": null,
     "color": "#9986A5"
@@ -299,7 +299,7 @@
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
-    "contact": "K.Byers@concordia.ca\n",
+    "contact": "<a href=\"mailto:K.Byers@concordia.ca\">Krista Byers-Heinlein</a>\n",
     "slack": null,
     "color": "#9986A5"
   },
@@ -326,7 +326,7 @@
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
-    "contact": "K.Byers@concordia.ca\n",
+    "contact": "<a href=\"mailto:K.Byers@concordia.ca\">Krista Byers-Heinlein</a>\n",
     "slack": null,
     "color": "#9986A5"
   },
@@ -353,7 +353,7 @@
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
-    "contact": "M\\_Soderstrom@umanitoba.ca\n",
+    "contact": "<a href=\"mailto:M\\_Soderstrom@umanitoba.ca\">Melanie Soderstrom</a>\n\n",
     "listservSub": "https://groups.google.com/u/1/g/mb1-cdi-follow-up",
     "slack": null,
     "color": "#9986A5"
@@ -395,7 +395,7 @@
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
-    "contact": "virginie.durier@univ-rennes1.fr\n",
+    "contact": "<a href=\"mailto:virginie.durier@univ-rennes1.fr\">Virginie Durier</a>\n",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb1n-list",
     "slack": "**_[#mb1n-general](https://manybabies.slack.com/archives/C046L3JJ06N)_**",
     "color": "#9986A5"
@@ -423,7 +423,7 @@
       }
     ],
     "logoPath": "/assets/img/mb1-spinoff.png",
-    "contact": "melanie.schreiner@psych.uni-goettingen.de\n",
+    "contact": "<a href=\"mailto:melanie.schreiner@psych.uni-goettingen.de\">Melanie Schreiner</a>\n",
     "slack": null,
     "color": "#9986A5"
   },
@@ -450,7 +450,7 @@
       }
     ],
     "logoPath": "/assets/img/mb1-analysis.png",
-    "contact": "mekline@mit.edu\n",
+    "contact": "<a href=\"mailto:mekline@mit.edu\">Melissa Kline Struhl</a>\n",
     "slack": null,
     "color": "#9986A5"
   },
@@ -498,7 +498,7 @@
       }
     ],
     "logoPath": "/assets/img/mb1-analysis.png",
-    "contact": "mzettersten@ucsd.edu\n",
+    "contact": "<a href=\"mailto:mzettersten@ucsd.edu\">Martin Zettersten</a>\n",
     "slack": null,
     "color": "#9986A5"
   },
