@@ -112,6 +112,7 @@ async function main() {
       website: f.Website,
       labs: f.Labs || null,
       nTested: f['N tested'] || null, 
+      datapage: f.Datapage || null,
       paper: f['Paper (website)'] || null,
       leads: leadNames,
       logoPath: f['Logo Path'] || null,
