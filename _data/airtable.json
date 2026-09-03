@@ -15,6 +15,7 @@
     "datapage": null,
     "paper": null,
     "leads": [],
+    "contributors": null,
     "logoPath": "/assets/img/connect_logo.png",
     "contact": "<a href=\"mailto:\"></a>",
     "slack": null,
@@ -72,6 +73,7 @@
         "site": "https://www.nottingham.ac.uk/research/groups/cral/research-groups/nplll/notts-psych-and-lang-learning.aspx"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mbah-logo.png",
     "contact": "<a href=\"mailto:tsujish@gmail.com\">Sho Tsuji</a>",
     "listservSub": "https://groups.google.com/g/InfantLooksAtHome",
@@ -115,6 +117,7 @@
         "site": "https://kvonholzen.github.io/index.html"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mbah-logo.png",
     "contact": "<a href=\"mailto:mbah1@manybabies.org\">mbah1@manybabies.org</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mbah1-list",
@@ -136,6 +139,7 @@
     "datapage": null,
     "paper": null,
     "leads": [],
+    "contributors": null,
     "logoPath": "/assets/img/mbah-logo.png",
     "contact": "<a href=\"mailto:tsujish@gmail.com\">Sho Tsuji</a>",
     "slack": null,
@@ -179,6 +183,7 @@
         "site": "https://web.stanford.edu/~mcfrank/"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mbdemo-logo.png",
     "contact": "<a href=\"mailto:leher.singh.nus@gmail.com\">Leher Singh</a>",
     "listservSub": "https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics",
@@ -216,6 +221,7 @@
         "site": "https://umanitoba.ca/arts/melanie-soderstrom"
       }
     ],
+    "contributors": "https://airtable.com/embed/appRoqMKzcK3NsXt4/shrzAXtyn7qNfHIYe?backgroundColor=blueDusty&viewControls=on",
     "logoPath": "/assets/img/mb1-logo.png",
     "contact": "<a href=\"mailto:contact@manybabies.org\">contact@manybabies.org</a>",
     "listservSub": "https://mailman.stanford.edu/mailman/listinfo/manybabies1",
@@ -280,6 +286,7 @@
         "site": "https://www.mayamathur.com/"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb1-spinoff.png",
     "contact": "<a href=\"mailto:mcfrank@stanford.edu\">Michael C. Frank</a>",
     "listservSub": "https://mailman.stanford.edu/mailman/listinfo/manybabies-africa",
@@ -309,6 +316,7 @@
         "site": "https://infantresearch.ca/"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb1-spinoff.png",
     "contact": "<a href=\"mailto:K.Byers@concordia.ca\">Krista Byers-Heinlein</a>",
     "slack": null,
@@ -337,6 +345,7 @@
         "site": "https://infantresearch.ca/"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb1-spinoff.png",
     "contact": "<a href=\"mailto:K.Byers@concordia.ca\">Krista Byers-Heinlein</a>",
     "slack": null,
@@ -365,6 +374,7 @@
         "site": "https://umanitoba.ca/arts/melanie-soderstrom"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb1-spinoff.png",
     "contact": "<a href=\"mailto:M_Soderstrom@umanitoba.ca\">Melanie Soderstrom</a>",
     "listservSub": "https://groups.google.com/u/1/g/mb1-cdi-follow-up",
@@ -408,6 +418,7 @@
         "site": "https://umanitoba.ca/arts/melanie-soderstrom"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb1-spinoff.png",
     "contact": "<a href=\"mailto:virginie.durier@univ-rennes1.fr\">Virginie Durier</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb1n-list",
@@ -437,6 +448,7 @@
         "site": "https://www.psych.uni-goettingen.de/en/lang/team/schreiner-melanie"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb1-spinoff.png",
     "contact": "<a href=\"mailto:melanie.schreiner@psych.uni-goettingen.de\">Melanie S. Schreiner</a>",
     "slack": null,
@@ -465,6 +477,7 @@
         "site": "https://www.melissaklinestruhl.com/"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb1-analysis.png",
     "contact": "<a href=\"mailto:mekline@mit.edu\">Melissa Kline Struhl</a>",
     "slack": null,
@@ -514,6 +527,7 @@
         "site": "https://www.mayamathur.com/"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb1-analysis.png",
     "contact": "<a href=\"mailto:mzettersten@ucsd.edu\">Martin Zettersten</a>",
     "slack": null,
@@ -564,6 +578,7 @@
         "site": "https://web.stanford.edu/~mcfrank/"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb2-logo.png",
     "contact": "<a href=\"mailto:manybabies2@gmail.com\">manybabies2@gmail.com</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb2-list",
@@ -607,6 +622,7 @@
         "site": "https://www.psy.lmu.de/pbi/personen/wiss_mitarbeiter/lucie_zimmer/index.html"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb2-spinoff.png",
     "contact": "<a href=\"mailto:Shuting.Li@psy.lmu.de\">Shuting Li</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/manytrackers-list",
@@ -650,6 +666,7 @@
         "site": "https://www.psy.lmu.de/pbi/personen/wiss_mitarbeiter/lucie_zimmer/index.html"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb2-spinoff.png",
     "contact": "<a href=\"mailto:tobias.schuwerk@psy.lmu.de\">Tobias Schuwerk</a>",
     "listservSub": "https://lists.lrz.de/mailman/listinfo/online_mb2",
@@ -686,6 +703,7 @@
         "site": "https://www.psych.uni-goettingen.de/en/development/team/rakoczy-hannes"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb2-spinoff.png",
     "contact": "<a href=\"mailto:robert.hepach@psy.ox.ac.uk\">Robert Hepach</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb2p-list",
@@ -737,6 +755,7 @@
         "site": "https://umanitoba.ca/arts/melanie-soderstrom"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb3-logo.png",
     "contact": "<a href=\"mailto:i.visser@uva.nl\">Ingmar Visser</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb3-list",
@@ -767,6 +786,7 @@
         "site": "https://baby.biomedicale.parisdescartes.fr/fr/people"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb3n-logo.png",
     "contact": "<a href=\"mailto:judit.gervain@parisdescartes.fr; judit.gervain@unipd.it\">Judit Gervain</a>",
     "listservSub": "https://groups.google.com/g/mb3nirs",
@@ -810,6 +830,7 @@
         "site": "https://www.uva.nl/profiel/v/i/i.visser/i.visser.html?cb"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb3-spinoff.png",
     "contact": "<a href=\"mailto:i.visser@uva.nl\">Ingmar Visser</a>",
     "listservSub": "https://groups.google.com/g/mb3l",
@@ -853,6 +874,7 @@
         "site": null
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb3-spinoff.png",
     "contact": "<a href=\"mailto:i.visser@uva.nl\">Ingmar Visser</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb3p-list",
@@ -889,6 +911,7 @@
         "site": "https://www.york.ac.uk/psychology/research/facilities/slam/"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb3-spinoff.png",
     "contact": "<a href=\"mailto:i.visser@uva.nl\">Ingmar Visser</a>",
     "listservSub": "https://groups.google.com/g/mb3t",
@@ -933,6 +956,7 @@
         "site": "https://cic.psych.ubc.ca/"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb4-logo.png",
     "contact": "<a href=\"mailto:klucca@asu.edu\">Kelsey Lucca</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb4-list",
@@ -990,6 +1014,7 @@
         "site": "https://cic.psych.ubc.ca/"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb4-spinoff.png",
     "contact": "<a href=\"mailto:klucca@asu.edu\">Kelsey Lucca</a>",
     "slack": null,
@@ -1032,6 +1057,7 @@
         "site": "https://www.emergingmindslab.org/"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb4-spinoff.png",
     "contact": "<a href=\"mailto:yiyiwang@uchicago.edu\">Yiyi Wang</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb4i-list",
@@ -1068,6 +1094,7 @@
         "site": "https://www.psy.ox.ac.uk/people/robert-hepach"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb4-spinoff.png",
     "contact": "<a href=\"mailto:robert.hepach@psy.ox.ac.uk\">Robert Hepach</a>",
     "slack": null,
@@ -1111,6 +1138,7 @@
         "site": "https://psych.princeton.edu/person/casey-lew-williams"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb5-logo.png",
     "contact": "<a href=\"mailto:mb5@manybabies.org\">mb5@manybabies.org</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb5-list",
@@ -1154,6 +1182,7 @@
         "site": "https://mzettersten.github.io/"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb5-spinoff.png",
     "contact": "<a href=\"mailto:mzettersten@ucsd.edu\">Martin Zettersten</a>",
     "slack": "**_[#mb5-meta](https://manybabies.slack.com/archives/C06EQMB3EAD)_**",
@@ -1203,6 +1232,7 @@
         "site": "https://umanitoba.ca/arts/melanie-soderstrom"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb5-spinoff.png",
     "contact": "<a href=\"mailto:jkosie@asu.edu\">Jessica E. Kosie</a>",
     "slack": "**_[#mb5n-naturalistic](https://manybabies.slack.com/archives/C08KDPGJ55M)_**",
@@ -1222,6 +1252,7 @@
     "datapage": null,
     "paper": null,
     "leads": [],
+    "contributors": null,
     "logoPath": "/assets/img/mb5-spinoff.png",
     "contact": "<a href=\"mailto:mb5@manybabies.org\">mb5@manybabies.org</a>",
     "slack": null,
@@ -1286,6 +1317,7 @@
         "site": "https://ilabs.uw.edu/i-labs-rechele-brooks-phd/"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb6-logo.png",
     "contact": "<a href=\"mailto:mb6@manybabies.org\">mb6@manybabies.org</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb6-list",
@@ -1351,6 +1383,7 @@
         "site": "https://mzettersten.github.io/"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb7-logo.png",
     "contact": "<a href=\"mailto:mb7@manybabies.org\">mb7@manybabies.org</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb7-list",
@@ -1402,6 +1435,7 @@
         "site": "https://orcid.org/0000-0003-3572-5848"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb8-logo.png",
     "contact": "<a href=\"mailto:mb8@manybabies.org\">mb8@manybabies.org</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb8-list",
@@ -1467,6 +1501,7 @@
         "site": "https://lumsa.it/it/docenti/lidia-scifo"
       }
     ],
+    "contributors": null,
     "logoPath": "/assets/img/mb9-logo.png",
     "contact": "<a href=\"mailto:mb9@manybabies.org\">mb9@manybabies.org</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb9-list",
@@ -1489,6 +1524,7 @@
     "datapage": null,
     "paper": null,
     "leads": [],
+    "contributors": null,
     "logoPath": "/assets/img/manymanys_logo.png",
     "contact": "<a href=\"mailto:\"></a>",
     "slack": null,
@@ -1506,6 +1542,7 @@
     "datapage": null,
     "paper": null,
     "leads": [],
+    "contributors": null,
     "logoPath": "/assets/img/avatar-icon-2022.png",
     "contact": "<a href=\"mailto:\"></a>",
     "listservSub": "https://mailman.stanford.edu/mailman/listinfo/manybabies",
