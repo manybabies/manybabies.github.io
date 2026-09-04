@@ -62,23 +62,6 @@ layout: page
     </li>
   {% endfor %}
   </ul>
-
-  <!-- Spin-offs and Secondary Analyses -->
-  {% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", page.title %}
-  {% if spinoffs.size > 0 %}
-    <hr>
-    <h2>Spin-off Projects</h2>
-    {% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", page.title %}
-    <ul>
-    {% for spinoff in spinoffs %} <!--- loop over spinoff projects -->
-      <li><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="20"> <b><a href="https://{{spinoff.website }}">{{spinoff.project}}</a>:</b> <i>{{ spinoff.description }}</i> </li>
-    {% endfor %}
-    {% assign secondary = site.data.airtable | where: "type", "Secondary analysis" | where: "mainProject", page.title %}
-    {% for item in secondary %} <!--- loop over secondary projects -->
-      <li><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="20"> <b><a href="https://{{item.website }}">{{item.project}}</a>:</b> <i>{{ item.description }}</i></li>
-    {% endfor %}
-    </ul>
-  {% endif %}
   
   <hr>
   
@@ -122,4 +105,22 @@ layout: page
       </div>  
     {% endfor %}
   {% endif %}
+  
+  <!-- Spin-offs and Secondary Analyses -->
+  {% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", page.title %}
+  {% if spinoffs.size > 0 %}
+    <hr>
+    <h2>Spin-off Projects</h2>
+    {% assign spinoffs = site.data.airtable | where: "type", "Spin-off" | where: "mainProject", page.title %}
+    <ul>
+    {% for spinoff in spinoffs %} <!--- loop over spinoff projects -->
+      <li><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="20"> <b><a href="https://{{spinoff.website }}">{{spinoff.project}}</a>:</b> <i>{{ spinoff.description }}</i> </li>
+    {% endfor %}
+    {% assign secondary = site.data.airtable | where: "type", "Secondary analysis" | where: "mainProject", page.title %}
+    {% for item in secondary %} <!--- loop over secondary projects -->
+      <li><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="20"> <b><a href="https://{{item.website }}">{{item.project}}</a>:</b> <i>{{ item.description }}</i></li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+  
 </div>   <!-- End div "container"" -->
