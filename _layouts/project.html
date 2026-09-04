@@ -18,6 +18,9 @@ layout: page
         {% if current_project.agreement %}
           <p class="overview"><img src="/assets/img/agreement.png" class="overview-icon"> <b><a href="{{ current_project.agreement }}" target="_blank">{{ page.title }} Collaboration Agreement</a></b></p>
         {% endif %}
+        {% if current_project.manual %}
+          <p class="overview"><img src="/assets/img/manual.png" class="overview-icon"> <b><a href="{{ current_project.manual }}" target="_blank">{{ page.title }} Lab Manual</a></b></p>
+        {% endif %}
         <p class="overview"><img src="/assets/img/email.png" class="overview-icon"> <b>Contact: <code>{{ current_project.contact }}</code></b></p>
         {% if current_project.listservSub %}
          <p class="overview"><img src="/assets/img/email.png" class="overview-icon"> <b>Listserv: <code><a href="{{ current_project.listservSub }}" target="_blank">Subscribe</a></code></b></p>
