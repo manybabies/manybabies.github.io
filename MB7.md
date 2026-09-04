@@ -1,32 +1,8 @@
 ---
-layout: page
+layout: project
 title: MB7
 subtitle: Curiosity
 ---
-
-{% assign current_project = site.data.airtable | where: "project", page.title | first %}
-
-***
-
-<div class="container">
-  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }};">
-    <div class="row justify-content-around">
-      <div class="col-lg-4" align="center">
-        <br>
-        <img src="{{ current_project.logoPath }}" width="150" style="margin-bottom:20px;">
-      </div>
-      <div class="col-lg-8" align="left">
-        <h2 style="color:{{ current_project.color }}; text-shadow: 0px 0px 7px #7F7F7F;">Project Overview</h2>
-        <ul>
-          <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
-          <li><i>Subscribe to the <a href="https://groups.google.com/a/manybabies.org/g/mb7-list" target="_blank"><b>MB7 listserv</b></a> and/or <a href="mailto:{{ site.data.global.contact.mb7 }}"><b>email us</b></a> to get involved!</i></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-
-***
 
 <h3>If you are interested in the project, please fill out this quick <a href="https://docs.google.com/forms/u/1/d/e/1FAIpQLSd8rAEoCqg5VCCwi-BH-0F2hc83tTOgTaB4ul8nv0ZDoEmUTQ/viewform?usp=send_form" target="_blank">SURVEY</a></h3>
 
@@ -35,32 +11,4 @@ subtitle: Curiosity
 
 ***
 ## Links
-* **Documentation**: <a href="https://docs.google.com/document/d/1wbe1z53WD5MPvP4_z73JGq33egsx4Jqi/edit?usp=sharing&rtpof=true&sd=true" target="_blank">MB7 Collaboration Agreement</a>
-* **Listserv**: [subscribe here]({{ site.data.global.listserv.mb7 }}) *(click on "for access, try joining the group")*
 * **Slack**: <a href="{{ site.data.global.link.slack-invite }}" target="_blank">MB workspace</a> (*join the **#mb7-general** channel*)
-
-*** 
-## Project Leads
-* **General Contact: [{{ site.data.global.contact.mb7 }}](mailto:{{ site.data.global.contact.mb7 }})**
-<ul>
-  {% for lead in current_project.leads %}
-    <li>
-      {% if lead.orcid %}
-        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
-      {% else %}
-        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="mailto:{{ lead.email }}">[email]</a>
-      {% endif %}{% unless forloop.last %}<br> {% endunless %}
-    </li>
-  {% endfor %}
-</ul>
-
-***
-## MB7 Contributors
-
-We encourage everyone who is interested in the project to subscribe to the MB7 listserv and/or email the Project Leads ([{{ site.data.global.contact.mb7 }}](mailto:{{ site.data.global.contact.mb7 }})) to indicate your interest. Please note that access to infants/an infant lab is **NOT** a prerequisite.
-
-> NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field.
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrnl4LqP9x6qApSp?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
-> Project contributors can update/add info to the contributor list/MB Dashboard using <a href="{{ site.data.global.link.dashboard-form }}" target="_blank"><b>this form</b></a> 
