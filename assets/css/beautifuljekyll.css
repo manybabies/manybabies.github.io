@@ -1151,3 +1151,20 @@ p.overview {
   width: 25px;
   margin-bottom:3px;
 }
+
+.intro-header .page-heading .page-subheading {
+  font-size: 3rem;   /* your new size, page-specific */
+  line-height: 1.1;
+  display: block;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  margin: 0.625rem 0 0;
+}
+.intro-header .post-heading .post-subheading {
+  font-size: 1.6875rem;   /* unchanged, keeps original size for posts */
+  line-height: 1.1;
+  display: block;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  margin: 0.625rem 0 0;
+}
