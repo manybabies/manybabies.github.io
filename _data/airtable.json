@@ -570,9 +570,9 @@
     "tagline": "Do infants show anticipatory looking that reflects the false belief of another agent?",
     "type": "Main",
     "category": "Empirical",
-    "status": "Under review (Stage 2)",
+    "status": "MB2.1: under review (Stage 2); MB2.2 and MB2.3: design",
     "website": "manybabies.org/MB2",
-    "agreement": null,
+    "agreement": "https://docs.google.com/document/d/e/2PACX-1vTnk1Gl6yjtOTCcuEo01B-dEphM4cv852jymrMekurJ0A2TEYU87otWClkMsyCq_vS959vbyEm7xrs7/pub",
     "manual": "https://docs.google.com/document/d/1xAw_EbmvRl1Rj3iAVASazyb4HPxoECfvKaf_7zfFi0o/edit?usp=sharing",
     "labs": 44,
     "nTested": 521,
@@ -608,7 +608,7 @@
         "site": "https://web.stanford.edu/~mcfrank/"
       }
     ],
-    "contributors": null,
+    "contributors": "https://airtable.com/embed/appRoqMKzcK3NsXt4/shreuAIHoALQreq3G?viewControls=on",
     "logoPath": "/assets/img/mb2-logo.png",
     "contact": "<a href=\"mailto:manybabies2@gmail.com\">manybabies2@gmail.com</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb2-list",
