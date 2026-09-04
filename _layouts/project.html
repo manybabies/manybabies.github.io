@@ -15,6 +15,9 @@ layout: page
       </div>
       <div class="col-lg-8" align="left" style="margin-top:10px;">
         <p class="overview"><img src="/assets/img/status.png" class="overview-icon"> <b>Status: <code>{{ current_project.status }}</code></b></p>
+        {% if current_project.agreement %}
+          <p class="overview"><img src="/assets/img/agreement.png" class="overview-icon"> <b><a href="{{ current_project.agreement }}" target="_blank">{{ page.title }} Collaboration Agreement</a></b></p>
+        {% endif %}
         <p class="overview"><img src="/assets/img/email.png" class="overview-icon"> <b>Contact: <code>{{ current_project.contact }}</code></b></p>
         {% if current_project.listservSub %}
          <p class="overview"><img src="/assets/img/email.png" class="overview-icon"> <b>Listserv: <code><a href="{{ current_project.listservSub }}" target="_blank">Subscribe</a></code></b></p>
@@ -30,7 +33,7 @@ layout: page
           {% endif %}
         {% endfor %}
         {% if current_project.datapage %} <!--- if project has datapage -->
-          <p class="overview"><img src="/assets/img/data.png" class="overview-icon"> <b>Explore the <a href="{{ current_project.datapage }}" target="_blank">{{ current_project.title }} datapage</a></b></p>
+          <p class="overview"><img src="/assets/img/data.png" class="overview-icon"> <b>Explore the <a href="{{ current_project.datapage }}" target="_blank">{{ page.title }} datapage</a></b></p>
         {% endif %}
       </div>
     </div>
@@ -49,7 +52,7 @@ layout: page
   {% for lead in current_project.leads %}
     <li>
       {% if lead.orcid %}
-        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
+        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="20" style="margin-bottom:3px;"></a> <a href="mailto:{{ lead.email }}">[email]</a>
       {% else %}
         <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="mailto:{{ lead.email }}">[email]</a>
       {% endif %}{% unless forloop.last %}<br> {% endunless %}
@@ -84,7 +87,7 @@ layout: page
   {% else %}
     <blockquote>Contributor list coming soon!</blockquote>
   {% endif %}
-  <blockquote>Project contributors can update/add info to the MB Dashboard using <a href="{{ site.data.global.link.dashboard-form }}" target="_blank"><b>this form</b></a></blockquote> 
+  <blockquote>Project contributors can update/add info to the <a href="{{site.baseurl}}/dashboard/" target="_blank"><b>MB Dashboard</b></a> using <a href="{{ site.data.global.link.dashboard-form }}" target="_blank"><b>this form</b></a></blockquote> 
   
   <!-- Publications -->
   {% assign pubs = site.data.publications | where: "project", page.title %}
@@ -95,7 +98,7 @@ layout: page
       <div class="container">
         <div class="row">
           <div class="col-sm-2" align="center">
-            <a href="https://{{pub.website }}"><img src="{{ pub.logoPath }}" alt="{{ pub.project}} logo" width="70" style="margin-top:4px;"></a>
+            <a href="https://{{ pub.website }}"><img src="{{ pub.logoPath }}" alt="{{ pub.project}} logo" width="70" style="margin-top:4px;"></a>
           </div>
           <div class="col-sm-10">
             {{ pub.authorsCondensed }} ({{ pub.year }}). <b>{{pub.title}}</b>. <i>{{pub.journal}}</i>, <i>{{pub.issue}}</i>({{ pub.issue }}), {{ pub.pages }}. <a href="{{ pub.journalLink }}" target="_blank">{{ pub.journalLink}}</a>
@@ -104,7 +107,7 @@ layout: page
               <div style="margin-left: 2em;">
                 {% for author in pub.authors %}
                   {% if author.orcid %}
-                    {{ author.name }} <a href="{{ author.orcid }}"><img src="/assets/img/orcid.png" height="15"></a> 
+                    {{ author.name }} <a href="{{ author.orcid }}"><img src="/assets/img/orcid.png" height="20" style="margin-bottom:3px;"></a> 
                   {% else %}
                     {{ author.name }}
                   {% endif %}{% unless forloop.last %}<br> {% endunless %}
