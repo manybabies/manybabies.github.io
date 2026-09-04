@@ -757,7 +757,7 @@
     "category": "Empirical",
     "status": "COMPLETE",
     "website": "manybabies.org/MB3",
-    "agreement": null,
+    "agreement": "https://docs.google.com/document/d/e/2PACX-1vQyE0mPU3fKkRTd8OoP6P3iNNsaCvNdUvE2yXqGr4wC_hkRqJmZuu4s-Adgfh781NfmD4pI_8DgpgzA/pub",
     "manual": "https://docs.google.com/document/d/1b-ZaJpbVzvN_fUApXlZkZiT9jxGUYRhHbAC1qOucufo/edit?tab=t.0",
     "labs": 43,
     "nTested": 839,
@@ -793,7 +793,7 @@
         "site": "https://umanitoba.ca/arts/melanie-soderstrom"
       }
     ],
-    "contributors": null,
+    "contributors": "https://airtable.com/embed/appRoqMKzcK3NsXt4/shr6IWs4XnRyp0DAu?viewControls=on",
     "logoPath": "/assets/img/mb3-logo.png",
     "contact": "<a href=\"mailto:i.visser@uva.nl\">Ingmar Visser</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb3-list",
