@@ -165,7 +165,7 @@
     "status": "COMPLETE",
     "website": "manybabies.org/MB-Demographics",
     "agreement": null,
-    "manual": "N/A",
+    "manual": null,
     "labs": null,
     "nTested": null,
     "datapage": null,
@@ -193,7 +193,7 @@
         "site": "https://web.stanford.edu/~mcfrank/"
       }
     ],
-    "contributors": null,
+    "contributors": "https://airtable.com/embed/appRoqMKzcK3NsXt4/shrm0mXHFQb47ODDP?backgroundColor=blueDusty&viewControls=on",
     "logoPath": "/assets/img/mbdemo-logo.png",
     "contact": "<a href=\"mailto:leher.singh.nus@gmail.com\">Leher Singh</a>",
     "listservSub": "https://mailman.stanford.edu/mailman/listinfo/manybabies-demographics",
