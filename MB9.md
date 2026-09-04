@@ -1,52 +1,15 @@
 ---
-layout: page
+layout: project
 title: MB9
 subtitle: Perceptual Specialization
 ---
-
-{% assign current_project = site.data.airtable | where: "project", page.title | first %}
-{% assign pubs = site.data.publications | where: "project", page.title %}
-
-
-<div class="container">
-  <div class="box-overview" style="box-shadow: -10px 10px {{ current_project.color }};">
-    <div class="row justify-content-around">
-      <div class="col-lg-4" align="center">
-        <br>
-        <img src="{{ current_project.logoPath }}" width="150" style="margin-bottom:20px;">
-      </div>
-      <div class="col-lg-8" align="left" style="margin-top:10px;">
-        <p class="overview"><img src="/assets/img/status.png" class="overview-icon"> <b>Status: <code>{{ current_project.status }}</code></b></p>
-        <p class="overview"><img src="/assets/img/email.png" class="overview-icon"> <b>Contact: <code>{{ current_project.contact }}</code></b></p>
-        {% if current_project.listservSub %}
-         <p class="overview"><img src="/assets/img/email.png" class="overview-icon"> <b>Listserv: <code><a href="{{ current_project.listservSub }}" target="_blank">Subscribe</a></code></b></p>
-        {% endif %}
-        {% if current_project.nTested %} <!--- if data collection complete -->
-          <p class="overview"><img src="/assets/img/people.png" class="overview-icon"> <b>{{ current_project.nTested }} babies</b> tested by <b>{{current_project.labs }} labs</b></p>
-        {% endif %}
-        {% for pub in pubs %} <!--- loop over pubs for specified project -->
-          {% if pub.journalLink %} <!--- journal pubs -->
-            <p class="overview"><img src="/assets/img/paper.png" class="overview-icon"> <b>{{ pub.nAuthors }} authors</b> from <b>{{ pub.nCountries }} countries</b> on <i><b><a href="{{ pub.journalLink }} " target="_blank">{{ pub.journal }}</a></b></i> publication</p>
-          {% else %} <!--- preprints -->
-            <p class="overview"><img src="/assets/img/paper.png" class="overview-icon"> <b>{{ pub.nAuthors }} authors</b> from <b>{{ pub.nCountries }} countries</b> on <i><b><a href="{{ pub.preprintLink }} " target="_blank">{{ pub.journal }}</a></b></i> preprint</p>
-          {% endif %}
-        {% endfor %}
-        {% if current_project.datapage %} <!--- if project has datapage -->
-          <p class="overview"><img src="/assets/img/data.png" class="overview-icon"> <a href="{{ current_project.datapage }}" target="_blank"><b>Explore the MB1 datapage</b></a></p>
-        {% endif %}
-      </div>
-    </div>
-  </div>
-</div>
-
-***
 
 <ul>
   <li><h3>Missed the info sessions? View the <a href="https://drive.google.com/file/d/1qH4p6-XqxQTrnUKgGSnweyimC3gOgaYd/view?usp=sharing" target="_blank">recording</a> and <a href="https://drive.google.com/file/d/1OwDpabnnQaURPbk_XvfDj3iR3X8zU03Z/view?usp=sharing" target="_blank">slides</a></h3></li>
   <li><h3>If you are interested in contributing to MB9, please fill out this short <a href="https://docs.google.com/forms/d/e/1FAIpQLSdMQrExnzwueePJ1e7LYrj724TB19Qr39biCYauHxp1hnhgNg/viewform" target="_blank">interest form</a>!</h3></li>
 </ul>
 
-
+<hr>
 
 <p>Perceptual specialization is the process by which an individual builds expertise for differentiating among stimuli most familiar to them and demonstrates reduced capability for differentiating stimuli of unfamiliar categories (e.g., unfamiliar-race faces, non-native languages). Infants raised within racially homogenous (i.e., Monoracial) contexts narrow or fine-tune their perceptual sensitivities for familiar-race faces between 3 and 12 months of age (e.g., <a href="https://doi.org/10.1111/j.1467-9280.2006.01679.x" target="_blank">Bar-Haim et al., 2006</a>; <a href="https://doi.org/10.1080/15250000709336871" target="_blank">Kelly et al., 2007</a>); this finding is often described as the “own-race bias” or “other-race effect.” However, prior studies indicate that Multiracial infants and infants raised in racially diverse contexts likely develop distinct face perception strategies relative to Monoracial infants raised in racially homogenous contexts (e.g., <a href="https://doi.org/10.1002/dev.21527" target="_blank">Ellis et al., 2017</a>; <a href="https://doi.org/10.1111/j.1467-7687.2012.01170.x" target="_blank">Gaither et al., 2012</a>; <a href="https://doi.org/10.1002/dev.21783" target="_blank">Tham et al., 2019</a>). Current developmental neuroscience frameworks propose that perceptual narrowing reflects experience-dependent tuning of neural systems for face processing, with ethnically diverse exposure modulating the emergence of own-race perceptual specialization in infancy (<a href="https://doi.org/10.1016/j.jecp.2024.105889" target="_blank">Xiao et al., 2024</a>; <a href="https://doi.org/10.1016/j.cobeha.2020.05.005" target="_blank">Pascalis et al., 2020</a>; <a href="https://doi.org/10.1111/bjop.12582" target="_blank">Damon et al., 2023</a>).</p> 
 
@@ -54,33 +17,4 @@ subtitle: Perceptual Specialization
 
 ***
 ## Links
-* <b><a href="https://docs.google.com/document/d/1UPKZLpH-pyW2SY7rydJ1E1KjKN3Mx5LmhsxSxL7FojI/edit?usp=sharing" target="_blank">MB9 COLLABORATION AGREEMENT</a></b>
-* **Listserv**: [subscribe here]({{ site.data.global.listserv.mb9 }}) *(click on "for access, try joining the group")*
 * **Slack**: <a href="{{ site.data.global.link.slack-invite }}" target="_blank">MB workspace</a> (*join the **#mb9-general** channel*)
-
-*** 
-## Project Leads
-* **General Contact: [{{ site.data.global.contact.mb9 }}](mailto:{{ site.data.global.contact.mb9 }})**
-<ul>
-  {% for lead in current_project.leads %}
-    <li>
-      {% if lead.orcid %}
-        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
-      {% else %}
-        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="mailto:{{ lead.email }}">[email]</a>
-      {% endif %}{% unless forloop.last %}<br> {% endunless %}
-    </li>
-  {% endfor %}
-</ul>
-
-***
-## MB9 Contributors
-
-We encourage everyone who is interested in the project to subscribe to the MB9 listserv and/or email the Project Leads ([{{ site.data.global.contact.mb9 }}](mailto:{{ site.data.global.contact.mb9 }})) to indicate your interest. Please note that access to infants/an infant lab is **NOT** a prerequisite.
-
-> NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field.
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrSaTZYMaTXgjKJx?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
-> Project contributors can update/add info to the MB Dashboard using <a href="{{ site.data.global.link.dashboard-form }}" target="_blank"><b>this form</b></a> 
-
