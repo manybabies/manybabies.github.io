@@ -1331,7 +1331,7 @@
     "category": "Empirical",
     "status": "Under review (Stage 1)",
     "website": "manybabies.org/MB6",
-    "agreement": null,
+    "agreement": "https://docs.google.com/document/d/1-elw5r6U9yfv_lTmwbYTfa9ldMlNdPfrYTxqQ95daBs/edit?usp=sharing",
     "manual": null,
     "labs": 8,
     "nTested": null,
@@ -1381,7 +1381,7 @@
         "site": "https://ilabs.uw.edu/i-labs-rechele-brooks-phd/"
       }
     ],
-    "contributors": null,
+    "contributors": "https://airtable.com/embed/appRoqMKzcK3NsXt4/shrlM3zLzNYw3ZvYL?backgroundColor=blueDusty&viewControls=on",
     "logoPath": "/assets/img/mb6-logo.png",
     "contact": "<a href=\"mailto:mb6@manybabies.org\">mb6@manybabies.org</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb6-list",
