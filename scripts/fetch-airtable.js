@@ -110,6 +110,7 @@ async function main() {
       category: f.Category,
       status: f.Status,
       website: f.Website,
+      agreement: f['Collaboration Agreement'] || null,
       labs: f.Labs || null,
       nTested: f['N tested'] || null, 
       datapage: f.Datapage || null,
