@@ -124,4 +124,10 @@ layout: page
     </ul>
   {% endif %}
   
+  <!-- If spin-off, link to main project page -->
+  {% if current_project.project != current_project.mainProject %}
+    <hr>
+    <h2>Go to <a href="{{ site.baseurl }}/{{ current_project.mainProject }}/">{{ current_project.mainProject }}</a> main project page</h2> 
+  {% endif %}
+  
 </div>   <!-- End div "container"" -->
