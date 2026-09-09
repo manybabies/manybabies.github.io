@@ -252,7 +252,7 @@
     "website": "manybabies.org/MB1A",
     "agreement": null,
     "manual": null,
-    "labs": 9,
+    "labs": 8,
     "nTested": 260,
     "datapage": null,
     "paper": "<b>38 authors</b> from <b>13 countries</b> on <i><b><a href=\"https://doi.org/10.1111/desc.70242\" target=\"\\_blank\">Developmental Science</a></b></i> publication\n",
@@ -300,7 +300,7 @@
         "site": "https://www.mayamathur.com/"
       }
     ],
-    "contributors": null,
+    "contributors": "https://airtable.com/embed/appRoqMKzcK3NsXt4/shr4PCGtQxZjd2SUm?backgroundColor=blueDusty&viewControls=on",
     "logoPath": "/assets/img/mb1-spinoff.png",
     "contact": "<a href=\"mailto:mcfrank@stanford.edu\">Michael C. Frank</a>",
     "listservSub": "https://mailman.stanford.edu/mailman/listinfo/manybabies-africa",
@@ -332,9 +332,10 @@
         "site": "https://infantresearch.ca/"
       }
     ],
-    "contributors": null,
+    "contributors": "https://airtable.com/embed/appRoqMKzcK3NsXt4/shrPpO5NIi9yLdp87?backgroundColor=blueDusty&viewControls=on",
     "logoPath": "/assets/img/mb1-spinoff.png",
     "contact": "<a href=\"mailto:K.Byers@concordia.ca\">Krista Byers-Heinlein</a>",
+    "listservSub": "https://groups.google.com/forum/#!forum/manybabies-bilingual",
     "slack": null,
     "color": "#9986A5"
   },
@@ -363,7 +364,7 @@
         "site": "https://infantresearch.ca/"
       }
     ],
-    "contributors": null,
+    "contributors": "https://airtable.com/embed/appRoqMKzcK3NsXt4/shrXqhLQPBDJYLANb?backgroundColor=blueDusty&viewControls=on",
     "logoPath": "/assets/img/mb1-spinoff.png",
     "contact": "<a href=\"mailto:K.Byers@concordia.ca\">Krista Byers-Heinlein</a>",
     "slack": null,
@@ -394,7 +395,7 @@
         "site": "https://umanitoba.ca/arts/melanie-soderstrom"
       }
     ],
-    "contributors": null,
+    "contributors": "https://airtable.com/embed/appRoqMKzcK3NsXt4/shrVSj85N0OkDVT6k?backgroundColor=blueDusty&viewControls=on",
     "logoPath": "/assets/img/mb1-spinoff.png",
     "contact": "<a href=\"mailto:M_Soderstrom@umanitoba.ca\">Melanie Soderstrom</a>",
     "listservSub": "https://groups.google.com/u/1/g/mb1-cdi-follow-up",
@@ -440,7 +441,7 @@
         "site": "https://umanitoba.ca/arts/melanie-soderstrom"
       }
     ],
-    "contributors": null,
+    "contributors": "https://airtable.com/embed/appRoqMKzcK3NsXt4/shrCUqVH6J8DtzAIl?backgroundColor=blueDusty&viewControls=on",
     "logoPath": "/assets/img/mb1-spinoff.png",
     "contact": "<a href=\"mailto:virginie.durier@univ-rennes1.fr\">Virginie Durier</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mb1n-list",
@@ -472,7 +473,7 @@
         "site": "https://www.psych.uni-goettingen.de/en/lang/team/schreiner-melanie"
       }
     ],
-    "contributors": null,
+    "contributors": "https://airtable.com/embed/appRoqMKzcK3NsXt4/shrBPOIieR7z8PCiW?backgroundColor=blueDusty&viewControls=on",
     "logoPath": "/assets/img/mb1-spinoff.png",
     "contact": "<a href=\"mailto:melanie.schreiner@psych.uni-goettingen.de\">Melanie S. Schreiner</a>",
     "slack": null,
@@ -1477,7 +1478,7 @@
       {
         "name": "Nevena Dimitrova",
         "orcid": "https://orcid.org/0000-0002-3433-096X",
-        "institution": "University of Applied Sciences and Arts of Western Switzerland",
+        "institution": "University of Applied Sciences and Arts of Western Switzerland (HETSL | HES-SO)",
         "email": "nevena.dimitrova@hetsl.ch",
         "site": "https://orcid.org/0000-0002-3433-096X"
       },
