@@ -1168,3 +1168,13 @@ p.overview {
   font-weight: 300;
   margin: 0.625rem 0 0;
 }
+
+.subheading-style {
+  font-size: 1.6875rem;   /* unchanged, keeps original size for posts */
+  line-height: 1.1;
+  display: block;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  margin: 0.625rem 0px 50px;
+  text-align: center;
+}

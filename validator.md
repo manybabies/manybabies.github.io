@@ -2,6 +2,8 @@
 layout: page
 ---
 
+<p class="subheading-style">A tool to validate data dictionary compliance</p>
+
 <style>
 .container-md {
   max-width: 1500px;
