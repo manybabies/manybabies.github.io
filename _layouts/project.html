@@ -68,7 +68,7 @@ layout: page
   <!-- Contributor Table -->
   <h2>{{ page.title }} Contributors</h2>
   {% if current_project.contributors %}
-    <blockquote>NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field.</blockquote>
+    <blockquote>NOTE: Default table ordering is by contributor's first name or by publication author order. You can filter, group, and/or sort entries by any field.</blockquote>
     <iframe class="airtable-embed" src="{{ current_project.contributors }}" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
   {% else %}
     <blockquote>Contributor list coming soon!</blockquote>
