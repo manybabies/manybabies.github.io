@@ -1,31 +1,8 @@
 ---
-layout: page
+layout: project
 title: MB4I
 subtitle: Individual differences in infants’ social evaluations across cultures
 ---
-
-{% assign current_project = site.data.airtable | where: "project", page.title | first %}
-
-***
-
-<div class="container">
-  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }};">
-    <div class="row justify-content-around">
-      <div class="col-lg-4" align="center">
-        <br>
-        <img src="{{ current_project.logoPath }}" width="150" style="margin-bottom:20px;">
-      </div>
-      <div class="col-lg-8" align="left">
-        <h2 style="color:{{ current_project.color }};">Project Overview</h2>
-        <ul>
-          <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-
-***
 
 <p>The goal of this spin-off project of <a href="{{site.baseurl}}/MB4/" target="_blank"><b>MB4</b></a> is to examine individual differences in infants' early social evaluations across diverse cultural contexts. Specifically, this project aims to test the relation between infants' preferences for prosocial characters ("helpers") over antisocial characters ("hinderers") and (1) caregiver prosocial characteristics, beliefs, expectations, and socialization practices; (2) the infants' cultural context; (3) infants' everyday prosocial behaviors. We take a multi-method approach, combining experimental, observational, and survey-based measures in a large sample of infants from labs across the world.</p>
 
@@ -36,37 +13,5 @@ subtitle: Individual differences in infants’ social evaluations across culture
 ***
 ## Links
 * **Documentation and protocols**: [MB4I-OSF](https://osf.io/qy2zr/)
-* **Listserv**: [join](https://groups.google.com/a/manybabies.org/g/mb4i-list)
 * **Preregistration**: [OSF](https://doi.org/10.17605/OSF.IO/RAQ4X)
 * **BCCCD 2023 Poster**: [link](https://osf.io/jp532)
-* **MB4**: [main project page]({{site.baseurl}}/MB4/)
-
-***
-## Leads
-<ul>
-  {% for lead in current_project.leads %}
-    <li>
-      {% if lead.orcid %}
-        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
-      {% else %}
-        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="mailto:{{ lead.email }}">[email]</a>
-      {% endif %}{% unless forloop.last %}<br> {% endunless %}
-    </li>
-  {% endfor %}
-</ul>
-
-
-***
-## MB4I Contributors
-
-We encourage everyone who is interested in the project to contact the Project Leads (see above). Please note that access to infants/an infant lab is **NOT** a prerequisite.
-
-> NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field.
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrcO1IcNtJkwri01?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
-> Project contributors can update/add info to the contributor list/MB Dashboard using <a href="{{ site.data.global.link.dashboard-form }}" target="_blank"><b>this form</b></a> 
-
-***
-### Funding Acknowledgement
-* MB4I is supported by a grant from [Kindness.org](kindness.org)
