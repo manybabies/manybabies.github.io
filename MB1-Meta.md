@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: MB1-Meta
 subtitle: Comparison of the ManyBabies 1 results to meta-analytic data
 ---
