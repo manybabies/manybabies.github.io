@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: MB3P
 subtitle: Measuring Pupil Dilation with Rule Learning
 ---

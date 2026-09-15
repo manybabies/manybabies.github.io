@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: MB3T
 subtitle: Test-Retest Follow-up
 ---

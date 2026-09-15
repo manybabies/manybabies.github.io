@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: project
 title: MB4E
 subtitle: Exploring Links Between Infants’ Social Evaluations, Facial Expressions, and Posture
 ---
