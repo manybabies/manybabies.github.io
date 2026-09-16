@@ -1121,17 +1121,24 @@
         "institution": "University of Manitoba",
         "email": "M_Soderstrom@umanitoba.ca",
         "site": "https://umanitoba.ca/arts/melanie-soderstrom"
+      },
+      {
+        "name": "Claartje Levelt",
+        "orcid": "https://orcid.org/0000-0003-2916-0326",
+        "institution": "Leiden University",
+        "email": "c.c.levelt@hum.leidenuniv.nl",
+        "site": "https://www.universiteitleiden.nl/en/staffmembers/claartje-levelt#tab-1"
       }
     ],
     "authorsCondensed": "Visser, I., Geambașu, A., Kachergis, G., Oliveira, C. M., Rocha-Hidalgo, J., Zettersten, M., Ahamat, T. M., Alessandroni, N., Althaus, N., Arunachalam, S., Aussems, S., Axelsson, E., Aydin, Z., Baumgartner, H. A., Bergmann, C., Bettoni, R., Black, A., Bulf, H., Byers-Heinlein, K., … Levelt, C.",
     "year": "2026",
     "journal": "Developmental Science",
-    "volume": null,
-    "issue": null,
-    "pages": null,
-    "nAuthors": 83,
+    "volume": 29,
+    "issue": "6",
+    "pages": "e70259",
+    "nAuthors": 84,
     "nCountries": 16,
-    "journalLink": null,
+    "journalLink": "https://doi.org/10.1111/desc.70259",
     "preprintLink": "https://osf.io/preprints/psyarxiv/ghrdt_v3",
     "logoPath": [
       "/assets/img/mb3-logo.png"
@@ -1139,7 +1146,7 @@
     "website": [
       "manybabies.org/MB3"
     ],
-    "fullCitation": "Visser, I., Geambașu, A., Kachergis, G., Oliveira, C. M., Rocha-Hidalgo, J., Zettersten, M., Ahamat, T. M., Alessandroni, N., Althaus, N., Arunachalam, S., Aussems, S., Axelsson, E., Aydin, Z., Baumgartner, H. A., Bergmann, C., Bettoni, R., Black, A., Bulf, H., Byers-Heinlein, K., … Levelt, C. (2026). ManyBabies 3: A Multi-Lab Study of Infant Algebraic Rule Learning (Ghrdt\\_v2). PsyArXiv. [https://osf.io/preprints/psyarxiv/ghrdt\\_v3/](https://osf.io/preprints/psyarxiv/ghrdt_v2/)\n"
+    "fullCitation": "Visser, I., Geambasu, A., Kachergis, G., Oliveira, C. M., Rocha-Hidalgo, J., Zettersten, M., Ahamat, T., Alessandroni, N., Althaus, N., Arunachalam, S., Aussems, S., Axelsson, E. L., Aydin, Z., Baumgartner, H. A., Bergmann, C., Bettoni, R., Black, A. K., Bulf, H., Byers-Heinlein, K., … Levelt, C. C. (2026). ManyBabies 3: A Multi-Lab Study of Infant Algebraic Rule Learning. Developmental Science, 29(6), e70259. <https://doi.org/10.1111/desc.70259>\n"
   },
   {
     "id": "recsVkn9JQxmQ90ET",
