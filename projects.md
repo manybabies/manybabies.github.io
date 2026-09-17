@@ -8,10 +8,10 @@ The broader goals of **ManyBabies** come together through collaborative projects
   <div class="container">
     <div class="row">
       <div class="col-sm-2 col-xs-6" align="center">
-        <img src="/assets/img/mainprojects.png" alt="spin-off pinwheel icon" width="75" height="75">
+        <img src="/assets/img/mainprojects.png" alt="spin-off pinwheel icon" width="75" height="75" style="margin-top:10px;">
       </div>
       <div class="col-sm-10">
-        <h4>Main Projects</h4>
+        <h4 style="margin-top:0px;">Main Projects</h4>
         <i>Address a question about infant development of key theoretical or methodological interest; main empirical projects are numbered sequentially (e.g., MB1, MB2)</i>
         <br>
       </div>
