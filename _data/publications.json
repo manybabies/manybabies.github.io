@@ -2132,7 +2132,7 @@
       {
         "name": "Diana C. Lopera-Perez",
         "orcid": "https://orcid.org/0000-0002-2489-2512",
-        "institution": "Boston University",
+        "institution": "Universidad del Norte",
         "email": null,
         "site": null
       },
@@ -2284,7 +2284,7 @@
     "issue": "2",
     "pages": "211–227",
     "nAuthors": 24,
-    "nCountries": 8,
+    "nCountries": 9,
     "journalLink": "https://doi.org/10.1037/dev0001623",
     "preprintLink": "https://doi.org/10.31234/osf.io/agt3d",
     "logoPath": [
@@ -5624,7 +5624,7 @@
       },
       {
         "name": "Lauren H. Howard",
-        "orcid": null,
+        "orcid": "https://orcid.org/0000-0003-3182-2595",
         "institution": "Franklin & Marshall College",
         "email": null,
         "site": null
