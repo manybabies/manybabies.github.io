@@ -4,18 +4,33 @@ title: Events
 ---
 
 
->More events coming soon!
-
-<!--
 >Upcoming
 
+<!--
 ### <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagerditmfV8arjEV/form" target="_blank">REGISTER NOW</a>
 
 ##### <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NTBrbzJ1YW1waTNqNnA3YWJzcnIyZ210cGwgY185OGE5YzRmYTA3YmVhNjNiYmMzZmUxYzg4NjU4NzhlMDE4MTQ3MTU1ZDA2ZjcyNTVmYTY2OGM5MjZjNTZlYjYxQGc&amp;tmsrc=c_98a9c4fa07bea63bbc3fe1c8865878e018147155d06f7255fa668c926c56eb61%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 -->
+#### TBA, 2026 
+### What is GitHub? A Brief Introduction
+#### A [BTSCON](https://bigteamscienceconference.github.io) pre-conference workshop
+
+In this 45-minute webinar, we will introduce GitHub as a resource for sharing project files and building research portfolios. This webinar is ideal for those who have heard of GitHub, but have never used it before. We will cover navigating and creating repositories, downloading files, creating a research portfolio, and releases.
+
+> More details coming soon!
 
 <br>
 
+***
+
+#### October 6-8, 2026 
+### 2026 Big Team Science Conference
+
+<a href="https://bigteamscienceconference.github.io" target="_blank"><img src="https://bigteamscienceconference.github.io/assets/img/BTSCon2026_logo.png" alt="2026 Big Team Science Conference, hosted virtually October 6-8" width="500"></a>
+
+#### [REGISTER NOW](https://bigteamscienceconference.github.io/registration) *(all fees are optional!)*
+
+<br>
 
 ***
 
