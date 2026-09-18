@@ -20,7 +20,7 @@ Ultimately, MB8 will establish an enduring international research infrastructure
   <div class="container" style="width:90%; margin:0 auto;">
     <div class="row">
       <div class="col-sm-12" align=left>
-        <h4>Project timeline and status <i>(updated mid-2026)</i></h4>
+        <h4 style="margin-top:10px;">Project timeline and status <i>(updated mid-2026)</i></h4>
       </div>
     </div>
     <div class="row">
