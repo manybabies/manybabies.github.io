@@ -13,4 +13,4 @@ subtitle: A systematic review of infant looking time preferences for novel vs. f
 
 ***
 ## Funding
-* MB5 is supported by an <a href="https://award.einsteinfoundation.de/award-winners-finalists/recipients-2021/manybabies5" target="_blank">Early Career Award</a> from the <a href="https://www.einsteinfoundation.de/index.php?id=1&L=1" target="_blank">Einstein Foundation Berlin</a>
+* MB5 is supported by an <a href="https://award.einsteinfoundation.de/award-winners-finalists/recipients-2021/manybabies5" target="_blank">Early Career Award</a> from the <a href="https://www.einsteinfoundation.de/index.php?id=1&L=1" target="_blank">Einstein Foundation Berlin</a> 
