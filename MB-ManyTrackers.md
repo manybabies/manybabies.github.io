@@ -1,34 +1,11 @@
 ---
-layout: page
+layout: project
 title: MB-ManyTrackers
 subtitle: Evaluating Eye-Tracking Consistency and Accuracy and Its Impact on Key Dependent Variables across Different Systems in the ManyBabies2 Project
 ---
 
-{% assign current_project = site.data.airtable | where: "project", page.title | first %}
-
-***
-
-<div class="container">
-  <div class="box-gray" style="box-shadow: -10px 10px {{ current_project.color }};">
-    <div class="row justify-content-around">
-      <div class="col-lg-4" align="center">
-        <br>
-        <img src="{{ current_project.logoPath }}" width="150" style="margin-bottom:20px;">
-      </div>
-      <div class="col-lg-8" align="left">
-        <h2 style="color:{{ current_project.color }};">Project Overview</h2>
-        <ul>
-          <li><i>Status:</i> <code>{{ current_project.status }}</code></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-
-***
-
 <p>The goal of this initiative is to examine how variability in eye-tracking data quality across hardware systems, labs, and participants might affect the robustness and interpretability of key dependent measures such as anticipatory looks and differential looking scores. We will use existing eye-tracking data from our first <a href="{{site.baseurl}}/MB2/">MB2</a> registered report.</p>
- 
+
 <p>The final data set includes 521 toddlers and 703 adults across 37 labs using a range of eye-tracker systems (Tobii, EyeLink, SMI). This offers a unique opportunity to address crucial methodological questions:</p>
 
 - How do key data quality indicators (e.g., precision, accuracy, temporal delay) vary across eye-tracking systems?
@@ -36,28 +13,4 @@ subtitle: Evaluating Eye-Tracking Consistency and Accuracy and Its Impact on Key
 
 ***
 ## Links
-* **Listserv**: [join here](https://groups.google.com/a/manybabies.org/g/manytrackers-list)
-* **MB2**: [main project page]({{site.baseurl}}/MB2/)
-
-***
-## Leads
-<ul>
-  {% for lead in current_project.leads %}
-    <li>
-      {% if lead.orcid %}
-        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="{{ lead.orcid }}" target="_blank"><img src="/assets/img/orcid.png" height="15"></a> <a href="mailto:{{ lead.email }}">[email]</a>
-      {% else %}
-        <b><a href="{{ lead.site }}" target="_blank">{{ lead.name }}</a></b>, <i>{{ lead.institution }}</i> <a href="mailto:{{ lead.email }}">[email]</a>
-      {% endif %}{% unless forloop.last %}<br> {% endunless %}
-    </li>
-  {% endfor %}
-</ul>
-
-***
-## MB-ManyTrackers Contributors
-
-We encourage everyone who is interested in the project to contact Project Lead [Shuting Li](mailto:Shuting.Li@psy.lmu.de). Please note that access to infants/an infant lab is **NOT** a prerequisite.
-
->Contributor list coming soon
-
-<!-- ### Publications -->
+* **Preregistration**: [OSF](https://osf.io/pfzub/overview)
