@@ -226,7 +226,7 @@
       {
         "name": "Paul Okyere Omane",
         "orcid": "https://orcid.org/0000-0002-0859-9826",
-        "institution": "University of Potsdam",
+        "institution": "Université Paris Cité",
         "email": null,
         "site": null
       },
@@ -280,7 +280,7 @@
     "issue": "5",
     "pages": "e70242",
     "nAuthors": 38,
-    "nCountries": 13,
+    "nCountries": 14,
     "journalLink": "https://doi.org/10.1111/desc.70242",
     "preprintLink": "https://doi.org/10.31234/osf.io/dc93n_v1",
     "logoPath": [
@@ -871,7 +871,7 @@
         "site": "https://jkosie.github.io/"
       },
       {
-        "name": "Monika Kučerová",
+        "name": "Monika Ku��erová",
         "orcid": "https://orcid.org/0009-0003-8551-5985",
         "institution": "Czech Academy of Sciences",
         "email": null,
@@ -2036,7 +2036,7 @@
       {
         "name": "Paul Okyere Omane",
         "orcid": "https://orcid.org/0000-0002-0859-9826",
-        "institution": "University of Potsdam",
+        "institution": "Université Paris Cité",
         "email": null,
         "site": null
       },
@@ -2090,7 +2090,7 @@
     "issue": "3",
     "pages": "354–373",
     "nAuthors": 14,
-    "nCountries": 7,
+    "nCountries": 8,
     "journalLink": "https://doi.org/10.1080/15248372.2024.2431106",
     "preprintLink": "https://doi.org/10.31234/osf.io/cz3bv",
     "logoPath": [
@@ -2139,7 +2139,7 @@
       {
         "name": "Paul Okyere Omane",
         "orcid": "https://orcid.org/0000-0002-0859-9826",
-        "institution": "University of Potsdam",
+        "institution": "Université Paris Cité",
         "email": null,
         "site": null
       },
@@ -2284,7 +2284,7 @@
     "issue": "2",
     "pages": "211–227",
     "nAuthors": 24,
-    "nCountries": 9,
+    "nCountries": 10,
     "journalLink": "https://doi.org/10.1037/dev0001623",
     "preprintLink": "https://doi.org/10.31234/osf.io/agt3d",
     "logoPath": [
@@ -3118,7 +3118,7 @@
       {
         "name": "Carmel Houston-Price",
         "orcid": "https://orcid.org/0000-0001-6368-142X",
-        "institution": "University of Reading",
+        "institution": null,
         "email": null,
         "site": null
       },
@@ -5889,7 +5889,7 @@
         "site": null
       },
       {
-        "name": "Katharina Menn",
+        "name": "Katharina H. Menn",
         "orcid": "https://orcid.org/0000-0002-9555-3788",
         "institution": "Radboud University",
         "email": null,
