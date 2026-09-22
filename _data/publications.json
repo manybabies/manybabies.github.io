@@ -871,7 +871,7 @@
         "site": "https://jkosie.github.io/"
       },
       {
-        "name": "Monika Ku��erová",
+        "name": "Monika Kučerová",
         "orcid": "https://orcid.org/0009-0003-8551-5985",
         "institution": "Czech Academy of Sciences",
         "email": null,
@@ -2395,8 +2395,8 @@
       },
       {
         "name": "Priya Silverstein",
-        "orcid": null,
-        "institution": "Ashland University",
+        "orcid": "https://orcid.org/0000-0003-0095-339X",
+        "institution": "University of Coimbra",
         "email": null,
         "site": null
       },
@@ -2422,7 +2422,7 @@
     "issue": "6",
     "pages": "e13551",
     "nAuthors": 16,
-    "nCountries": 6,
+    "nCountries": 7,
     "journalLink": "https://doi.org/10.1111/desc.13551",
     "preprintLink": "https://doi.org/10.31234/osf.io/uwche",
     "logoPath": [
