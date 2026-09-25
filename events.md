@@ -11,13 +11,13 @@ title: Events
 
 ##### <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NTBrbzJ1YW1waTNqNnA3YWJzcnIyZ210cGwgY185OGE5YzRmYTA3YmVhNjNiYmMzZmUxYzg4NjU4NzhlMDE4MTQ3MTU1ZDA2ZjcyNTVmYTY2OGM5MjZjNTZlYjYxQGc&amp;tmsrc=c_98a9c4fa07bea63bbc3fe1c8865878e018147155d06f7255fa668c926c56eb61%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 -->
-#### TBA, 2026 
+#### October 1, 2026 - 15:30-16:30 UTC on Zoom
 ### What is GitHub? A Brief Introduction
 #### A [BTSCON](https://bigteamscienceconference.github.io) pre-conference workshop
 
-In this 45-minute webinar, we will introduce GitHub as a resource for sharing project files and building research portfolios. This webinar is ideal for those who have heard of GitHub, but have never used it before. We will cover navigating and creating repositories, downloading files, creating a research portfolio, and releases.
+In this webinar, we will introduce GitHub as a resource for sharing project files and building research portfolios. This webinar is ideal for those who have heard of GitHub, but have never used it before. We will cover navigating and creating repositories, downloading files, creating a research portfolio, and releases.
 
-> More details coming soon!
+#### [REGISTER NOW](https://airtable.com/appRoqMKzcK3NsXt4/pagmxxD0uU987yIRO/form)
 
 <br>
 
