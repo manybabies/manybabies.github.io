@@ -46,7 +46,7 @@ async function getAllRecords(table) {
 
 function splitTopic(topic) {
   if (!topic) return { title: '', description: '' };
-  const [firstLine, ...rest] = topic.split('\n').filter(Boolean);
+  const [firstLine, ...rest] = topic.split(': ').filter(Boolean);
   return {
     title: firstLine ? firstLine.replace(/:$/, '') : '',
     description: rest.join(' ').trim()
