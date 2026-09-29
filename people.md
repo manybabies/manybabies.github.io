@@ -1,32 +1,31 @@
 ---
 layout: page
 title: People
-cover-img: /assets/img/MB_map.png
 ---
 
 
 **ManyBabies** is all about our amazing network of researchers from around the world. The **MB Contributor Dashboard** displays the geographical distribution of our contributors. It is an easy way to browse contributors by region, study, or institution and to get a sense of the MB Consortium's diversity and reach.
 
-<h3 align="center"> >>> <a href="{{site.baseurl}}/dashboard/" target="_blank">VIEW THE DASHBOARD</a> <<< </h3>
-
-#### To join ManyBabies:
-* **Check out ways to [get involved]({{site.baseurl}}/get_involved/)!**
-
-#### For Contributors:
-* **To request to be added to the MB Dashboard or to update your existing Dashboard information**: Fill out <a href="{{ site.data.global.link.dashboard-form }}" target="_blank"><b>this form</b></a>.
-* **Report MB-related activities**: Don't forget to keep an updated record of your MB-related activities and initiatives *(e.g., workshops, talks etc.)*. Please use <a href="https://forms.gle/qaynWvpYLP1J4eYd6" target="_blank"><b>this form</b></a> to help us keep track of all the amazing work you are doing for ManyBabies! Your reported activities will be added to this <a href="https://docs.google.com/spreadsheets/d/1esnJTsPB0NJ2PP0fwmWIhSxShKLIN99Ga8ehCDyz3rQ/edit?usp=sharing" target="_blank"><b>list of MB activities</b></a>.
+<div class="box-overview" style="background-color: #EAEAEA; width:75%; box-shadow: -10px 10px #AAD3DF; margin-bottom:50px;">
+  <div class="row justify-content-around">
+    <div class="col-lg-3" align="center">
+      <img src="/assets/img/pin.png" width="100" style="filter: drop-shadow(-5px 5px 3px #7F7F7F);margin-left:20px">
+    </div>
+    <div class="col-lg-9" align="left">
+      <h2 style="text-align:center; color: #9AD176; margin-top:35px;"><a href="{{site.baseurl}}/dashboard/" target="_blank">VIEW THE DASHBOARD</a></h2>
+    </div>
+  </div>
+</div>
 
 
 ***
 ## ManyBabies Contributors
 > NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field.
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrmAhZCMC9Bno7vF?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrmAhZCMC9Bno7vF?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="400" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 > <a href="{{ site.data.global.link.dashboard-form }}" target="_blank"><b>Update/add info</b></a>
 
-
-<br>
 
 ***
 ## ManyBabies Leadership
@@ -42,7 +41,7 @@ cover-img: /assets/img/MB_map.png
         <img src="/assets/img/networking.png" alt="project leaders" width="100" height="100">
       </div>
       <div class="col-sm-9">
-        Each project is led by a small group of researchers who are responsible for moving the project forward, delegating responsibilities, and finalizing consensus-based decisions. <b>Project Leads</b> are listed on the <b><a href="{{site.baseurl}}/projects/">Projects Overview Page</a></b>.
+        Each project is led by a small group of researchers who are responsible for moving the project forward, delegating responsibilities, and finalizing consensus-based decisions. <b>Project Leads</b> are listed on each <b><a href="{{site.baseurl}}/projects/">project's page</a></b>.
       </div>
     </div>
     <div class="col-sm-12">
@@ -234,14 +233,11 @@ cover-img: /assets/img/MB_map.png
 
 <br>
 
-<!--
 ***
-<h2 id="dashboardform">Contributor Dashboard Form</h2>
+#### To join ManyBabies:
+* **Check out ways to [get involved]({{site.baseurl}}/get_involved/)!**
 
-### To be added to the dashboard <i>(or to update your information)</i>, please fill out this form:
+#### For Contributors:
+* **To request to be added to the MB Dashboard or to update your existing Dashboard information**: Fill out <a href="{{ site.data.global.link.dashboard-form }}" target="_blank"><b>this form</b></a>.
+* **Report MB-related activities**: Don't forget to keep an updated record of your MB-related activities and initiatives *(e.g., workshops, talks etc.)*. Please use <a href="https://forms.gle/qaynWvpYLP1J4eYd6" target="_blank"><b>this form</b></a> to help us keep track of all the amazing work you are doing for ManyBabies! Your reported activities will be added to this <a href="https://docs.google.com/spreadsheets/d/1esnJTsPB0NJ2PP0fwmWIhSxShKLIN99Ga8ehCDyz3rQ/edit?usp=sharing" target="_blank"><b>list of MB activities</b></a>.
 
-> Please note that all responses to the Dashboard Form are moderated. Thanks for your patience! 
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8_SKJ0TD0MdRTNsf_f84olEc4MAxSFkA1BtAxDjX-OdlWuw/viewform?embedded=true" width="640" height="2089" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
--->
