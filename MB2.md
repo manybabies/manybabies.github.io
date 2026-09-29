@@ -1,7 +1,7 @@
 ---
 layout: project
 title: MB2
-subtitle: Theory of Mind in Infancy
+subtitle: Theory of Mind
 ---
 
 <p> In this project, we investigate a fundamental feature of human social cognition: Theory of Mind (ToM), the ability to ascribe mental states to agents. One of the central tests for ToM is the false belief task, which requires participants to predict an agent’s action based on her/his (mis)representation of the world. Using a false belief task implemented through 3D-animated videos, we examine whether toddlers (18- to 27-month-olds) and adults show anticipatory looking indicating false belief ascription to another agent. Our team includes the authors of the original studies as well as researchers who conducted previous replication attempts. Our consortium brings together scholars from a wide range of theoretical perspectives. </p>
@@ -17,7 +17,7 @@ subtitle: Theory of Mind in Infancy
 </div>
 
 ***
-### MB2.1: Knowledge / Ignorance (completed): 
+### MB2.1: Knowledge / Ignorance in Infancy (completed): 
 In a first step, we examined whether toddlers’ and adults’ anticipatory looks show that they distinguish between two basic forms of epistemic states: knowledge and ignorance. Adults (n = 703) clearly differentiated between those conditions and showed more anticipatory looking towards the target location in the knowledge than in the ignorance condition. Surprisingly, in toddlers (n = 521) this pattern was flipped: They showed more anticipatory looks towards the target location in the ignorance condition (see Figure 1).
 
 <div>
@@ -36,8 +36,8 @@ In a first step, we examined whether toddlers’ and adults’ anticipatory look
 </div>
 
 ***
-### MB2.2: Knowledge / Ignorance Adaption (ongoing):
-The next step for toddlers will now be to investigate more systematically the source of the puzzling findings and clarify whether they indicate competence or mere performance limitations.
+### MB2.2: Knowledge / Ignorance Adaptation in Infancy (ongoing):
+The next step for toddlers will now be to investigate more systematically the source of the puzzling findings from MB2.1 and clarify whether they indicate competence or mere performance limitations.
  
 ***
 ### MB2.3: False Belief in Adults (ongoing):
