@@ -6,7 +6,7 @@ title: People
 
 **ManyBabies** is all about our amazing network of researchers from around the world. The **MB Contributor Dashboard** displays the geographical distribution of our contributors. It is an easy way to browse contributors by region, study, or institution and to get a sense of the MB Consortium's diversity and reach.
 
-<div class="box-overview" style="background-color: #EAEAEA; width:75%; box-shadow: -10px 10px #AAD3DF; margin-bottom:50px;">
+<div class="box-overview" style="background-color: #EAEAEA; width:75%; box-shadow: -10px 10px #036C9A; margin-bottom:50px; padding:10px;">
   <div class="row justify-content-around">
     <div class="col-lg-3" align="center">
       <img src="/assets/img/pin.png" width="100" style="filter: drop-shadow(-5px 5px 3px #7F7F7F);margin-left:20px">
@@ -19,13 +19,12 @@ title: People
 
 
 ***
-## ManyBabies Contributors
-> NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field.
-
-<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrmAhZCMC9Bno7vF?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="400" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
-> <a href="{{ site.data.global.link.dashboard-form }}" target="_blank"><b>Update/add info</b></a>
-
+<div class="box-contribs" style="box-shadow: -5px 5px #036C9A;">
+  <h2 style="margin-top:0px;">ManyBabies Contributors</h2>
+  <blockquote style="margin-bottom:0px;">NOTE: Default table ordering is by contributor's first name. You can filter, group, and/or sort entries by any field.</blockquote>
+  <iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shrmAhZCMC9Bno7vF?backgroundColor=blueDusty&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="400" style="background: transparent; border: 1px solid #ccc;"></iframe>
+  <blockquote style="margin-bottom:0px;"><a href="{{ site.data.global.link.dashboard-form }}" target="_blank"><b>Update/add info</b></a></blockquote>
+</div>
 
 ***
 ## ManyBabies Leadership
