@@ -709,6 +709,119 @@
     "color": "#036C9A"
   },
   {
+    "id": "recmiJyjYYlp9lvZB",
+    "project": "MB2.2",
+    "mainProject": "MB2",
+    "title": "MB2.2",
+    "description": "Knowledge/Ignorance in Infancy (adaptation)",
+    "type": "Spin-off",
+    "category": "Empirical",
+    "status": "MB2.1: under review (Stage 2); MB2.2 and MB2.3: design",
+    "website": "manybabies.org/MB2",
+    "agreement": "https://docs.google.com/document/d/e/2PACX-1vTnk1Gl6yjtOTCcuEo01B-dEphM4cv852jymrMekurJ0A2TEYU87otWClkMsyCq_vS959vbyEm7xrs7/pub",
+    "manual": "https://docs.google.com/document/d/1xAw_EbmvRl1Rj3iAVASazyb4HPxoECfvKaf_7zfFi0o/edit?usp=sharing",
+    "labs": 45,
+    "nTested": 521,
+    "datapage": null,
+    "paper": "<a href=\"https://doi.org/10.31234/osf.io/x4jbm\" target=\"\\_blank\"><b>Stage 1 Registered Report</b></a> given 'In Principle Acceptance' at <i>Child Development</i>\n",
+    "leads": [
+      {
+        "name": "Tobias Schuwerk",
+        "orcid": "https://orcid.org/0000-0003-3720-7120",
+        "institution": "Ludwig-Maximilians-Universität München",
+        "email": "tobias.schuwerk@psy.lmu.de",
+        "site": "http://www.psy.lmu.de/epp/personen/wiss_ma/tobias_schuwerk/"
+      },
+      {
+        "name": "Dora Kampis",
+        "orcid": "https://orcid.org/0000-0003-1678-3874",
+        "institution": "University of Copenhagen",
+        "email": "dorka.kampis@gmail.com",
+        "site": "https://psychology.ku.dk/research/research_groups/cognition-and-clinical-neuropsychology/ecc-en/about/"
+      },
+      {
+        "name": "Hannes Rakoczy",
+        "orcid": "https://orcid.org/0000-0003-3296-0551",
+        "institution": "Georg-August-Universität Göttingen",
+        "email": "hannes.rakoczy@psych.uni-goettingen.de",
+        "site": "https://www.psych.uni-goettingen.de/en/development/team/rakoczy-hannes"
+      },
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": "Stanford University",
+        "email": "mcfrank@stanford.edu",
+        "site": "https://web.stanford.edu/~mcfrank/"
+      }
+    ],
+    "contributors": "https://airtable.com/embed/appRoqMKzcK3NsXt4/shreuAIHoALQreq3G?viewControls=on",
+    "logoPath": "/assets/img/mb2-logo.png",
+    "contact": "<a href=\"mailto:manybabies2@gmail.com\">manybabies2@gmail.com</a>",
+    "listservSub": "https://groups.google.com/a/manybabies.org/g/mb2-list",
+    "slack": "**_[#mb2-general](https://manybabies.slack.com/archives/C03U90GNJ03)_**\n**_[#mb2-analysis](https://manybabies.slack.com/archives/C04454VLG0J)_**",
+    "color": "#036C9A"
+  },
+  {
+    "id": "recQXRef9C4HCR8Nw",
+    "project": "MB2.3",
+    "mainProject": "MB2",
+    "title": "MB2.3",
+    "description": "False Belief in Adults",
+    "type": "Spin-off",
+    "category": "Empirical",
+    "status": "MB2.1: under review (Stage 2); MB2.2 and MB2.3: design",
+    "website": "manybabies.org/MB2",
+    "agreement": "https://docs.google.com/document/d/e/2PACX-1vTnk1Gl6yjtOTCcuEo01B-dEphM4cv852jymrMekurJ0A2TEYU87otWClkMsyCq_vS959vbyEm7xrs7/pub",
+    "manual": "https://docs.google.com/document/d/1xAw_EbmvRl1Rj3iAVASazyb4HPxoECfvKaf_7zfFi0o/edit?usp=sharing",
+    "labs": 45,
+    "nTested": 521,
+    "datapage": null,
+    "paper": "<a href=\"https://doi.org/10.31234/osf.io/x4jbm\" target=\"\\_blank\"><b>Stage 1 Registered Report</b></a> given 'In Principle Acceptance' at <i>Child Development</i>\n",
+    "leads": [
+      {
+        "name": "Tobias Schuwerk",
+        "orcid": "https://orcid.org/0000-0003-3720-7120",
+        "institution": "Ludwig-Maximilians-Universität München",
+        "email": "tobias.schuwerk@psy.lmu.de",
+        "site": "http://www.psy.lmu.de/epp/personen/wiss_ma/tobias_schuwerk/"
+      },
+      {
+        "name": "Dora Kampis",
+        "orcid": "https://orcid.org/0000-0003-1678-3874",
+        "institution": "University of Copenhagen",
+        "email": "dorka.kampis@gmail.com",
+        "site": "https://psychology.ku.dk/research/research_groups/cognition-and-clinical-neuropsychology/ecc-en/about/"
+      },
+      {
+        "name": "Hannes Rakoczy",
+        "orcid": "https://orcid.org/0000-0003-3296-0551",
+        "institution": "Georg-August-Universität Göttingen",
+        "email": "hannes.rakoczy@psych.uni-goettingen.de",
+        "site": "https://www.psych.uni-goettingen.de/en/development/team/rakoczy-hannes"
+      },
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": "Stanford University",
+        "email": "mcfrank@stanford.edu",
+        "site": "https://web.stanford.edu/~mcfrank/"
+      },
+      {
+        "name": "Anna Krämer",
+        "orcid": "https://orcid.org/0000-0002-0644-8207",
+        "institution": "Georg-August-Universität Göttingen",
+        "email": "anna.kraemer@uni-goettingen.de",
+        "site": null
+      }
+    ],
+    "contributors": "https://airtable.com/embed/appRoqMKzcK3NsXt4/shreuAIHoALQreq3G?viewControls=on",
+    "logoPath": "/assets/img/mb2-logo.png",
+    "contact": "<a href=\"mailto:manybabies2@gmail.com\">manybabies2@gmail.com</a>",
+    "listservSub": "https://groups.google.com/a/manybabies.org/g/mb2-list",
+    "slack": "**_[#mb2-general](https://manybabies.slack.com/archives/C03U90GNJ03)_**\n**_[#mb2-analysis](https://manybabies.slack.com/archives/C04454VLG0J)_**",
+    "color": "#036C9A"
+  },
+  {
     "id": "recqEwFPrFXwknTTF",
     "project": "MB2P",
     "mainProject": "MB2",
