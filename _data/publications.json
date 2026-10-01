@@ -4116,9 +4116,7 @@
   {
     "id": "rectNjhjoU3OInjrJ",
     "project": [
-      "MB2",
-      "MB2.2",
-      "MB2.3"
+      "MB2"
     ],
     "title": "Action anticipation based on an agent's epistemic state in toddlers and adults",
     "authors": [
@@ -4519,13 +4517,9 @@
     "journalLink": null,
     "preprintLink": "https://doi.org/10.31234/osf.io/x4jbm",
     "logoPath": [
-      "/assets/img/mb2-logo.png",
-      "/assets/img/mb2-logo.png",
       "/assets/img/mb2-logo.png"
     ],
     "website": [
-      "manybabies.org/MB2",
-      "manybabies.org/MB2",
       "manybabies.org/MB2"
     ],
     "fullCitation": "Schuwerk, T.\\*, Kampis, D.\\*, Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K., Dörrenberg, S., Fisher, C., Franchin, L., Fulcher, T., Garbisch, I., Geraci, A., Grosse Wiesmann, C., Hamlin, J. K., Haun, D. B. M., Hepach, R., Hunnius, S., Hyde, D. C., Karman, P., ... Rakoczy, H. (2022, August). Action anticipation based on an agent's epistemic state in toddlers and adults. _Child Development_. (\\*co-first authors). <https://doi.org/10.31234/osf.io/x4jbm>\n"
