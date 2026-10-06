@@ -775,7 +775,7 @@
     "website": "manybabies.org/MB2",
     "agreement": "https://docs.google.com/document/d/1vyT9ZqbIqtwrBJNub4dfvweU82EckzJHnorZrMN9Ehc/edit?usp=sharing",
     "manual": "https://docs.google.com/document/d/1YK_qdSZeM8rwOXrfr6joZmDSFeHaj8q5pwGc1zENvrM/edit?tab=t.0",
-    "labs": null,
+    "labs": 1,
     "nTested": null,
     "datapage": null,
     "paper": "\n",
