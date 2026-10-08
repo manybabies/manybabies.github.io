@@ -1317,7 +1317,7 @@
       {
         "name": "Yiyi Wang",
         "orcid": "https://orcid.org/0000-0003-1060-0862",
-        "institution": "University of Chicago",
+        "institution": "Beijing Normal University",
         "email": "yiyiwang@uchicago.edu",
         "site": "https://yiyiwang.webador.com/"
       },
@@ -2804,7 +2804,7 @@
       },
       {
         "name": "Rebecca A. Lundwall",
-        "orcid": "https://orcid.org/0000-0003-4036-9091",
+        "orcid": null,
         "institution": "Brigham Young University",
         "email": null,
         "site": null
@@ -5834,7 +5834,7 @@
       },
       {
         "name": "Rebecca A. Lundwall",
-        "orcid": "https://orcid.org/0000-0003-4036-9091",
+        "orcid": null,
         "institution": "Brigham Young University",
         "email": null,
         "site": null
