@@ -33,6 +33,21 @@ Ultimately, MB8 will establish an enduring international research infrastructure
 
 <p>MB8 comprises nearly 400 members and more than 150 data collection sites across approximately 60 countries. The project continues to expand its international network, with a particular focus on increasing representation from currently underrepresented regions. Researchers and research teams from countries not yet represented in MB8 are warmly encouraged to join the project!</p>
 
+<div>
+  <div class="container" style="width:90%; margin:0 auto;">
+    <div class="row">
+      <div class="col-sm-12" align=left>
+        <h4 style="margin-top:10px;">MB8 data collection countries (planned)<i></i></h4>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-12" align=center>
+        <img src="/assets/img/mb8-map.png"><br>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 <!--
 ## Links
