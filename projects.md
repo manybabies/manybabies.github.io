@@ -50,10 +50,10 @@ The broader goals of **ManyBabies** come together through collaborative projects
   <div class="container">
       <div class="row">
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{main.website }}"><img src="{{ main.logoPath }}" alt="{{ main.project}} logo" width="70" style="margin-top:4px;"></a>
+          <a href="https://{{main.website }}"><img src="{{ main.logoPath }}" alt="{{ main.project}} logo" width="80" style="margin-top:4px; filter: drop-shadow(-4px 4px 2px #7F7F7F);"></a>
         </div>
         <div class="col-sm-10">
-          <h3 style="margin-top:0em;"><a href=" https://{{main.website }}">{{ main.project }}</a>: {{ main.description }}</h3>
+          <h3 style="margin-top:0em;"><a href=" https://{{main.website }}">{{ main.project }}: {{ main.description }}</a></h3>
           <i>{{ main.tagline }}</i><br>
           <b>Status:</b> <code>{{ main.status }}</code><br>
         </div>
@@ -66,11 +66,11 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <div class="col-sm-1">  
         </div>
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="40" align="right" style="margin-top:27px;"></a>
+          <a href="https://{{ spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="45" align="right" style="margin-top:27px; filter: drop-shadow(-2px 2px 2px #7F7F7F);"></a>
         </div>
         <div class="col-sm-9">
           <hr style="margin-top:0.8em; margin-bottom:0.3em;">
-          <h4 style="margin-top:0.5em; margin-bottom:0.1em;"><a href=" https://{{spinoff.website }}">{{ spinoff.project }}</a>: {{ spinoff.description }}</h4>
+          <h4 style="margin-top:0.5em; margin-bottom:0.1em;"><a href=" https://{{ spinoff.website }}">{{ spinoff.project }}</a>: {{ spinoff.description }}</h4>
           <b>Status:</b> <code>{{ spinoff.status }}</code><br>
         </div>
       </div> 
@@ -83,7 +83,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <div class="col-sm-1">  
         </div>
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="40" align="right" style="margin-top:27px;"></a>
+          <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="45" align="right" style="margin-top:27px; filter: drop-shadow(-2px 2px 2px #7F7F7F);"></a>
         </div>
         <div class="col-sm-9">
           <hr style="margin-top:0.8em; margin-bottom:0.3em;">
@@ -103,10 +103,10 @@ The broader goals of **ManyBabies** come together through collaborative projects
   <div class="container">
       <div class="row">
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{main.website }}"><img src="{{ main.logoPath }}" alt="{{ main.project}} logo" width="70" style="margin-top:4px;"></a>
+          <a href="https://{{main.website }}"><img src="{{ main.logoPath }}" alt="{{ main.project}} logo" width="80" style="margin-top:4px; filter: drop-shadow(-4px 4px 2px #7F7F7F);"></a>
         </div>
         <div class="col-sm-10">
-          <h3 style="margin-top:0.1em;"><a href=" https://{{main.website }}">{{ main.project }}</a>: {{ main.description }}</h3>
+          <h3 style="margin-top:0.1em;"><a href=" https://{{main.website }}">{{ main.project }}: {{ main.description }}</a></h3>
           <i>{{ main.tagline }}</i><br>
           <b>Status:</b> <code>{{ main.status }}</code><br>
         </div>
@@ -119,7 +119,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <div class="col-sm-1">  
         </div>
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="40" align="right" style="margin-top:27px;"></a>
+          <a href="https://{{spinoff.website }}"><img src="{{ spinoff.logoPath }}" alt="{{ spinoff.project}} logo" width="45" align="right" style="margin-top:27px; filter: drop-shadow(-2px 2px 2px #7F7F7F);"></a>
         </div>
         <div class="col-sm-9">
           <hr style="margin-top:0.8em; margin-bottom:0.3em;">
@@ -136,7 +136,7 @@ The broader goals of **ManyBabies** come together through collaborative projects
         <div class="col-sm-1">  
         </div>
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="40" align="right" style="margin-top:27px;"></a>
+          <a href="https://{{item.website }}"><img src="{{ item.logoPath }}" alt="{{ item.project}} logo" width="45" align="right" style="margin-top:27px; filter: drop-shadow(-2px 2px 2px #7F7F7F);"></a>
         </div>
         <div class="col-sm-9">
           <hr style="margin-top:0.8em; margin-bottom:0.3em;">
@@ -156,10 +156,10 @@ The broader goals of **ManyBabies** come together through collaborative projects
   <div class="container">
       <div class="row">
         <div class="col-sm-2 col-xs-6" align="center">
-          <a href="https://{{affiliate.website }}" target="_blank"><img src="{{ affiliate.logoPath }}" alt="{{ affiliate.project}} logo" width="70" style="margin-top:4px;"></a>
+          <a href="https://{{affiliate.website }}" target="_blank"><img src="{{ affiliate.logoPath }}" alt="{{ affiliate.project}} logo" width="80" style="margin-top:4px; filter: drop-shadow(-4px 4px 2px #7F7F7F);"></a>
         </div>
         <div class="col-sm-10">
-          <h3 style="margin-top:0.1em;"><a href=" https://{{affiliate.website }}" target="_blank">{{ affiliate.project }}</a>: {{ affiliate.description }}</h3>
+          <h3 style="margin-top:0.1em;"><a href=" https://{{affiliate.website }}" target="_blank">{{ affiliate.project }}: {{ affiliate.description }}</a></h3>
           <i>{{ affiliate.tagline }}</i><br>
           <b>Go to the <a href="https://{{ affiliate.website }}" target="_blank">{{ affiliate.project }} website</a> for more info</b><br> 
         </div>
