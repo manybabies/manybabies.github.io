@@ -18,7 +18,7 @@
     "paper": null,
     "leads": [],
     "contributors": null,
-    "logoPath": "/assets/img/connect_logo.png",
+    "logoPath": "/assets/img/connect-logo.png",
     "contact": "<a href=\"mailto:\"></a>",
     "slack": null,
     "color": null
@@ -124,7 +124,7 @@
       }
     ],
     "contributors": "https://airtable.com/appRoqMKzcK3NsXt4/shrA1zGNiWg65itPH",
-    "logoPath": "/assets/img/mbah-logo.png",
+    "logoPath": "/assets/img/mbah-spinoff.png",
     "contact": "<a href=\"mailto:mbah1@manybabies.org\">mbah1@manybabies.org</a>",
     "listservSub": "https://groups.google.com/a/manybabies.org/g/mbah1-list",
     "slack": "**_[#mbah1-lwl-general](https://manybabies.slack.com/archives/C0BBXD0L0F3)_**",
@@ -148,7 +148,7 @@
     "paper": null,
     "leads": [],
     "contributors": null,
-    "logoPath": "/assets/img/mbah-logo.png",
+    "logoPath": "/assets/img/mbah-spinoff.png",
     "contact": "<a href=\"mailto:tsujish@gmail.com\">Sho Tsuji</a>",
     "slack": null,
     "color": "#F3AD00"
@@ -1735,7 +1735,7 @@
     "paper": null,
     "leads": [],
     "contributors": null,
-    "logoPath": "/assets/img/manymanys_logo.png",
+    "logoPath": "/assets/img/manymanys-logo.png",
     "contact": "<a href=\"mailto:\"></a>",
     "slack": null,
     "color": null
