@@ -179,7 +179,7 @@ async function main() {
       logoPath: f['Logo Path'] || null,
       website: f.Website,
       fullCitation: f['Full Citation'] ? f['Full Citation'].replace(/\\_/g, '_') : null   // ← updated
-  });
+  };
   
   publications.sort((a, b) => b.year - a.year);
 
