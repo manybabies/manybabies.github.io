@@ -7,6 +7,7 @@ subtitle: Screen Use
 <ul>
   <li><h3>Missed the launch events? View the <a href="https://drive.google.com/file/d/1MpXhiy4F3SVQG4-woO7j-7AUu3Qva-_9/view?usp=sharing" target="_blank">recording</a> and <a href="https://docs.google.com/presentation/d/1rR_bGjyWZ0UOvftkOBEFCU4ZYrrdlDAg/edit?pli=1" target="_blank">slides</a></h3></li>
   <li><h3><a href="https://calendar.app.google/w5kU1mFNAH1CwyHk6" target="_blank">Book a meeting</a> to discuss the project with a project lead</h3></li>
+  <li><h3>If you would like to join MB8, please contact the <a href="mailto:mb8@manybabies.org">project leads</a></h3></li>
 </ul>
 
 
