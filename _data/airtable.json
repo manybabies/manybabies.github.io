@@ -1739,5 +1739,33 @@
     "contact": "<a href=\"mailto:\"></a>",
     "slack": null,
     "color": null
+  },
+  {
+    "id": "recuCtcmh9Y6TKgPk",
+    "project": "validator",
+    "title": "A Shiny application for validating individual lab datasets against study-specific data specifications.\n",
+    "description": "",
+    "category": "Software",
+    "website": "manybabies.org/validator",
+    "agreement": null,
+    "manual": null,
+    "labs": null,
+    "nTested": null,
+    "datapage": null,
+    "paper": null,
+    "leads": [
+      {
+        "name": "Francis L. Yuen",
+        "orcid": "https://orcid.org/0000-0001-7570-123X",
+        "institution": "University of British Columbia",
+        "email": "francis.yuen@psych.ubc.ca",
+        "site": "https://cic.psych.ubc.ca/"
+      }
+    ],
+    "contributors": null,
+    "logoPath": "/assets/img/avatar-icon-2022.png",
+    "contact": "<a href=\"mailto:francis.yuen@psych.ubc.ca\">Francis L. Yuen</a>",
+    "slack": null,
+    "color": null
   }
 ]

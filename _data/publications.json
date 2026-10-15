@@ -1876,7 +1876,7 @@
     "website": [
       "manybabies.org/MB8"
     ],
-    "fullCitation": "Dimitrova, N., Kucker, S., Rocha-Hidalgo, J., Choi, K., Gago-Galvagno, L., Goldman, E. J., Kulke, L., Myers, L. J., Pila-Leiderman, S., Vales, C., Acem, E., Addabbo, M., Aktan-Erciyes, A., Al Salmi, L., Alamos, P., Alao, A. F., Alroqi, H., AL-Siyabi, M. S., Altin, B., … Barr, R. (2026). <b>Cross-country variation in early childhood family digital media ecology: A ManyBabies 8 registered report</b>. <i>PsyArXiv</i>. <a href=\"https://doi.org/10.31234/osf.io/fcpej_v1\" target=\"_blank\">https://doi.org/10.31234/osf.io/fcpej_v1</a>\n"
+    "fullCitation": "Dimitrova, N., Kucker, S., Rocha-Hidalgo, J., Choi, K., Gago-Galvagno, L., Goldman, E. J., Kulke, L., Myers, L. J., Pila-Leiderman, S., Vales, C., Acem, E., Addabbo, M., Aktan-Erciyes, A., Al Salmi, L., Alamos, P., Alao, A. F., Alroqi, H., AL-Siyabi, M. S., Altin, B., … Barr, R. (2026). **Cross-country variation in early childhood family digital media ecology: A ManyBabies 8 registered report**. _PsyArXiv_. <https://doi.org/10.31234/osf.io/fcpej_v1>\n"
   },
   {
     "id": "reciTSqXkqc7XaEfq",
@@ -2119,12 +2119,12 @@
     "website": [
       "manybabies.org/MB6"
     ],
-    "fullCitation": "Meltzoff, A. N., Farwaha, S., Slaughter, V., Simpson, E. A., Brooks, R., Nielsen, M., Baumgartner, H. A., Bayet, L., Benavides-Varela, S., Boyce, V., Byers-Heinlein, K., Dönicke, J., Flaherty, B. P., Forbes, S. H., Frank, M. C., Geraci, A., Hamlin, K., Heimann, M., Keven, N., … Zeng, G. (2026). ManyBabies 6: A Multi-Lab Investigation of Neonatal and Early Imitation (Fe7pj_v1). PsyArXiv. <https://osf.io/preprints/psyarxiv/fe7pj_v1/>\n"
+    "fullCitation": "Meltzoff, A. N., Farwaha, S., Slaughter, V., Simpson, E. A., Brooks, R., Nielsen, M., Baumgartner, H. A., Bayet, L., Benavides-Varela, S., Boyce, V., Byers-Heinlein, K., Dönicke, J., Flaherty, B. P., Forbes, S. H., Frank, M. C., Geraci, A., Hamlin, K., Heimann, M., Keven, N., … Zeng, G. (2026). **ManyBabies 6: A Multi-Lab Investigation of Neonatal and Early Imitation**. _PsyArXiv_. <https://osf.io/preprints/psyarxiv/fe7pj_v1/>\n"
   },
   {
     "id": "recjQtgPWrMqQmda3",
     "project": [
-      "ManyBabies"
+      "validator"
     ],
     "title": "ShinyValidator (Version v2.1.1)",
     "authors": [
@@ -2206,7 +2206,7 @@
       "/assets/img/avatar-icon-2022.png"
     ],
     "website": [
-      "manybabies.org"
+      "manybabies.org/validator"
     ],
     "fullCitation": "Yuen, F., Arab, A., Braginsky, M., Kline Struhl, M., Kosie, J., Zettersten, M., Soderstrom, M., Hamlin, J. K., & Frank, M. C. (2026). ShinyValidator (Version v2.1.1) [Computer software]. Zenodo. <https://doi.org/10.5281/zenodo.23350856>\n"
   },
