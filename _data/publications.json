@@ -2122,6 +2122,95 @@
     "fullCitation": "Meltzoff, A. N., Farwaha, S., Slaughter, V., Simpson, E. A., Brooks, R., Nielsen, M., Baumgartner, H. A., Bayet, L., Benavides-Varela, S., Boyce, V., Byers-Heinlein, K., Dönicke, J., Flaherty, B. P., Forbes, S. H., Frank, M. C., Geraci, A., Hamlin, K., Heimann, M., Keven, N., … Zeng, G. (2026). ManyBabies 6: A Multi-Lab Investigation of Neonatal and Early Imitation (Fe7pj_v1). PsyArXiv. <https://osf.io/preprints/psyarxiv/fe7pj_v1/>\n"
   },
   {
+    "id": "recjQtgPWrMqQmda3",
+    "project": [
+      "ManyBabies"
+    ],
+    "title": "ShinyValidator (Version v2.1.1)",
+    "authors": [
+      {
+        "name": "Francis L. Yuen",
+        "orcid": "https://orcid.org/0000-0001-7570-123X",
+        "institution": "University of British Columbia",
+        "email": "francis.yuen@psych.ubc.ca",
+        "site": "https://cic.psych.ubc.ca/"
+      },
+      {
+        "name": "Abteen Arab",
+        "orcid": null,
+        "institution": "University of British Columbia",
+        "email": null,
+        "site": null
+      },
+      {
+        "name": "Mika Braginsky",
+        "orcid": null,
+        "institution": null,
+        "email": null,
+        "site": null
+      },
+      {
+        "name": "Melissa Kline Struhl",
+        "orcid": "https://orcid.org/0000-0003-2217-9331",
+        "institution": "Massachusetts Institute of Technology",
+        "email": "mekline@mit.edu",
+        "site": "https://www.melissaklinestruhl.com/"
+      },
+      {
+        "name": "Jessica E. Kosie",
+        "orcid": "https://orcid.org/0000-0002-2390-0963",
+        "institution": "Arizona State University",
+        "email": "jkosie@asu.edu",
+        "site": "https://jkosie.github.io/"
+      },
+      {
+        "name": "Martin Zettersten",
+        "orcid": "https://orcid.org/0000-0002-0444-7059",
+        "institution": "University of California, San Diego",
+        "email": "mzettersten@ucsd.edu",
+        "site": "https://mzettersten.github.io/"
+      },
+      {
+        "name": "Melanie Soderstrom",
+        "orcid": "https://orcid.org/0000-0003-3212-5775",
+        "institution": "University of Manitoba",
+        "email": "M_Soderstrom@umanitoba.ca",
+        "site": "https://umanitoba.ca/arts/melanie-soderstrom"
+      },
+      {
+        "name": "J. Kiley Hamlin",
+        "orcid": "https://orcid.org/0000-0001-6173-9878",
+        "institution": "University of British Columbia",
+        "email": "kiley.hamlin@psych.ubc.ca",
+        "site": "https://cic.psych.ubc.ca/"
+      },
+      {
+        "name": "Michael C. Frank",
+        "orcid": "https://orcid.org/0000-0002-7551-4378",
+        "institution": "Stanford University",
+        "email": "mcfrank@stanford.edu",
+        "site": "https://web.stanford.edu/~mcfrank/"
+      }
+    ],
+    "authorsCondensed": "Yuen, F., Arab, A., Braginsky, M., Kline Struhl, M., Kosie, J., Zettersten, M., Soderstrom, M., Hamlin, J. K., & Frank, M. C. ",
+    "year": "2026",
+    "journal": "Zenodo",
+    "volume": null,
+    "issue": null,
+    "pages": null,
+    "nAuthors": 9,
+    "nCountries": 2,
+    "journalLink": null,
+    "preprintLink": "https://doi.org/10.5281/zenodo.23350856",
+    "logoPath": [
+      "/assets/img/avatar-icon-2022.png"
+    ],
+    "website": [
+      "manybabies.org"
+    ],
+    "fullCitation": "Yuen, F., Arab, A., Braginsky, M., Kline Struhl, M., Kosie, J., Zettersten, M., Soderstrom, M., Hamlin, J. K., & Frank, M. C. (2026). ShinyValidator (Version v2.1.1) [Computer software]. Zenodo. <https://doi.org/10.5281/zenodo.23350856>\n"
+  },
+  {
     "id": "reckI3Tk0CGd5eUnh",
     "project": [
       "MB3"
@@ -3562,7 +3651,7 @@
     "website": [
       "manybabies.org/MB4"
     ],
-    "fullCitation": "Lucca, K.\\*, Yuen, F.\\*, Capelier-Mourguy, A., Cirelli, L., Byers-Heinlein, K., Dal Ben, R., Frank, M. C., Henderson, A. M. E., Kominsky, J. F., Liberman, Z., Margoni, F., Reschke, P. J., Schlingloff, L., Scott, K., Soderstrom, M., Sommerville, J., Su, Y., Tatone, D., Uzefovsky, F., Wang, Y., & Hamlin, J. K. (2025). Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study. _Developmental Science, 28_(1). (\\*co-first authors) <https://doi.org/10.1111/desc.13581>\n"
+    "fullCitation": "Lucca, K.*, Yuen, F.*, Wang, Y., Alessandroni, N., Allison, O., Alvarez, M., Axelsson, E. L., Baumer, J., Baumgartner, H. A., Bertels, J., Bhavsar, M., Byers-Heinlein, K., Capelier-Mourguy, A., Chijiiwa, H., Chin, C. S.-S., Christner, N., Cirelli, L. K., Corbit, J., Daum, M. M., … Hamlin, J. K. (2025). Infants’ Social Evaluation of Helpers and Hinderers: A Large-Scale, Multi-Lab, Coordinated Replication Study. Developmental Science, 28(1), e13581. <https://doi.org/10.1111/desc.13581>\n"
   },
   {
     "id": "recCiTeBa8n5zF1Ep",
@@ -4469,7 +4558,7 @@
     "website": [
       "manybabies.org/MB1-Meta"
     ],
-    "fullCitation": "Zettersten, M.\\*, Cox, C. M. M.\\*, Bergmann, C.\\*, Tsui, A. S. M., Soderstrom, M., Mayor, J., Lundwall, R. A., Lewis, M., Kosie, J. E., Kartushina, N., Fusaroli, R., Frank, M. C., Byers-Heinlein, K., Black, A. K., & Mathur, M. B. (2024). Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis. _Open Mind: Discoveries in Cognitive Science, 8,_ 439–461. <https://doi.org/10.1162/opmi_a_00134>\n"
+    "fullCitation": "Zettersten, M.*, Cox, C. M. M.*, Bergmann, C.*, Tsui, A. S. M., Soderstrom, M., Mayor, J., Lundwall, R. A., Lewis, M., Kosie, J. E., Kartushina, N., Fusaroli, R., Frank, M. C., Byers-Heinlein, K., Black, A. K., & Mathur, M. B. (2024). Evidence for infant-directed speech preference is consistent across large-scale, multi-site replication and meta-analysis. _Open Mind: Discoveries in Cognitive Science, 8,_ 439–461. <https://doi.org/10.1162/opmi_a_00134>\n"
   },
   {
     "id": "recmK1mabSBhE71EE",
@@ -5041,7 +5130,7 @@
     "website": [
       "manybabies.org/MB5"
     ],
-    "fullCitation": "Kosie, J. E.\\*, Zettersten, M.\\*, Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H. A., Bazhydai, M., Belia, M., Benavides-Varela, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., ... Lew-Williams, C. (2024, March). ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time. _Nature Human Behaviour_. (\\*co-first authors). \n"
+    "fullCitation": "Kosie, J. E.*, Zettersten, M.*, Abu-Zhaya, R., Amso, D., Babineau, M., Baumgartner, H. A., Bazhydai, M., Belia, M., Benavides-Varela, S., Bergmann, C., Berteletti, I., Black, A. K., Borges, P., Borovsky, A., Byers-Heinlein, K., Cabrera, L., Calignano, G., Cao, A., Cox, C. M. M., ... Lew-Williams, C. (2024, March). ManyBabies 5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time. _Nature Human Behaviour_. (*co-first authors). \n"
   },
   {
     "id": "recn3yCvkG6CdejLD",
@@ -6109,7 +6198,7 @@
     "website": [
       "manybabies.org/MB2"
     ],
-    "fullCitation": "Schuwerk, T.\\*, Kampis, D.\\*, Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K., Dörrenberg, S., Fisher, C., Franchin, L., Fulcher, T., Garbisch, I., Geraci, A., Grosse Wiesmann, C., Hamlin, J. K., Haun, D. B. M., Hepach, R., Hunnius, S., Hyde, D. C., Karman, P., ... Rakoczy, H. (2022, August). Action anticipation based on an agent's epistemic state in toddlers and adults. _Child Development_. (\\*co-first authors). <https://doi.org/10.31234/osf.io/x4jbm>\n"
+    "fullCitation": "Schuwerk, T.*, Kampis, D.*, Baillargeon, R., Biro, S., Bohn, M., Byers-Heinlein, K., Dörrenberg, S., Fisher, C., Franchin, L., Fulcher, T., Garbisch, I., Geraci, A., Grosse Wiesmann, C., Hamlin, J. K., Haun, D. B. M., Hepach, R., Hunnius, S., Hyde, D. C., Karman, P., ... Rakoczy, H. (2022, August). Action anticipation based on an agent's epistemic state in toddlers and adults. _Child Development_. (*co-first authors). <https://doi.org/10.31234/osf.io/x4jbm>\n"
   },
   {
     "id": "rec0mdpjV6me6lpxk",
