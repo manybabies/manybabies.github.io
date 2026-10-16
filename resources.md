@@ -79,7 +79,7 @@ title: Resources
         <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrJf9UrBmq7S0xGg/tblxNS2o3vGoE4KoU"><img src="/assets/img/school.png" alt="school icon" width="50"></a><br>
       </div>
       <div class="col-sm-5" align="left">
-        <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrJf9UrBmq7S0xGg/tblxNS2o3vGoE4KoU"><b>Graduate opportunities</b></a>
+        <a href="https://airtable.com/appRoqMKzcK3NsXt4/shrJf9UrBmq7S0xGg/tblxNS2o3vGoE4KoU"><b>Graduate Training Opportunities</b></a>
       </div>
       <div class="col-sm-1 col-xs-6" align="left">
       </div>
