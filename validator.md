@@ -32,4 +32,9 @@ layout: page
 <br>
 <br>
 <br>
+<br>
+<br>
 <hr>
+
+If you use or repurpose the validator, please be sure to cite: 
+> Yuen, F., Arab, A., Braginsky, M., Kline Struhl, M., Kosie, J., Zettersten, M., Soderstrom, M., Hamlin, J. K., & Frank, M. C. (2026). ShinyValidator (Version v2.1.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23350856
