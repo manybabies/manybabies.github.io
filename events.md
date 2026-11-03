@@ -6,29 +6,24 @@ title: Events
 
 >Upcoming
 
-<!--
-### <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagerditmfV8arjEV/form" target="_blank">REGISTER NOW</a>
+#### November 10, 2026 - 18:30-19:30 UTC *([time converter](https://www.worldtimebuddy.com/?qm=1&lid=5368361,4887398,5128581,100,2643743,2759794,1261481,1850147,2147714,6077243&h=100&date=2026-11-10&sln=18.5-19.5&hf=0))*
+### Beyond Research Fit: Choosing the Right Graduate School Environment
 
-##### <a target="_blank" href="https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=NTBrbzJ1YW1waTNqNnA3YWJzcnIyZ210cGwgY185OGE5YzRmYTA3YmVhNjNiYmMzZmUxYzg4NjU4NzhlMDE4MTQ3MTU1ZDA2ZjcyNTVmYTY2OGM5MjZjNTZlYjYxQGc&amp;tmsrc=c_98a9c4fa07bea63bbc3fe1c8865878e018147155d06f7255fa668c926c56eb61%40group.calendar.google.com"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
--->
-#### October 1, 2026 - 15:30-16:30 UTC on Zoom
-### What is GitHub? A Brief Introduction
-#### A [BTSCON](https://bigteamscienceconference.github.io) pre-conference workshop
+Choosing a graduate program is about more than finding a match for your research interests. How can prospective students identify a supportive research environment, understand different mentorship styles, and find a program that aligns with their academic and professional goals?
 
-In this webinar, we will introduce GitHub as a resource for sharing project files and building research portfolios. This webinar is ideal for those who have heard of GitHub, but have never used it before. We will cover navigating and creating repositories, downloading files, creating a research portfolio, and releases.
+Join us for an informal conversation with faculty members from U.S. universities as they share their perspectives on graduate training, mentorship, and what students should consider when choosing a graduate program. This session will offer an opportunity to hear different perspectives, ask questions, and think beyond research fit when making graduate school decisions.
 
-#### [REGISTER NOW](https://airtable.com/appRoqMKzcK3NsXt4/pagmxxD0uU987yIRO/form)
+##### FACULTY DISCUSSANTS:
+* Brandon Woo, *University of California, Santa Barbara*
+* Adriana Weisleder, *Northwestern University*
+* Fan Yang, *University of Chicago*
 
-<br>
+##### GRADUATE DISCUSSANTS:
+* Nagihan Öztürk, Teruni Ahamat, & Sana Fekrazad
 
-***
+### <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagdSr60UAqPzphNW/form" target="_blank">REGISTER NOW</a>
 
-#### October 6-8, 2026 
-### 2026 Big Team Science Conference
-
-<a href="https://bigteamscienceconference.github.io" target="_blank"><img src="https://bigteamscienceconference.github.io/assets/img/BTSCon2026_logo.png" alt="2026 Big Team Science Conference, hosted virtually October 6-8" width="500"></a>
-
-#### [REGISTER NOW](https://bigteamscienceconference.github.io/registration) *(all fees are optional!)*
+##### <a target="_blank" href="https://calendar.google.com/calendar/u/0/r/eventedit/copy/NW9zMnZlMG1oZ2FhbjZtdTN0cjdoZzd1ZnMgY185OGE5YzRmYTA3YmVhNjNiYmMzZmUxYzg4NjU4NzhlMDE4MTQ3MTU1ZDA2ZjcyNTVmYTY2OGM5MjZjNTZlYjYxQGc"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
 
 <br>
 
@@ -36,6 +31,27 @@ In this webinar, we will introduce GitHub as a resource for sharing project file
 
 >Past Events
 
+#### October 6-8, 2026 
+### 2026 Big Team Science Conference
+
+<a href="https://bigteamscienceconference.github.io" target="_blank"><img src="https://bigteamscienceconference.github.io/assets/img/BTSCon2026_logo.png" alt="2026 Big Team Science Conference, hosted virtually October 6-8" width="500"></a>
+
+#### View recordings on the [BTSCON YouTube page](https://www.youtube.com/playlist?list=PLNpp0bcXCuwg)
+
+<br>
+
+***
+#### October 1, 2026 - 15:30-16:30 UTC on Zoom
+### What is GitHub? A Brief Introduction
+#### A [BTSCON](https://bigteamscienceconference.github.io) pre-conference workshop
+
+In this webinar, we introduce GitHub as a resource for sharing project files and building research portfolios. This webinar is ideal for those who have heard of GitHub, but have never used it before. We cover navigating and creating repositories, downloading files, creating a research portfolio, and releases.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GCKf3qF0a_0?si=nTVxiqXjol1w1ICC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+***
 #### April 23, 2026 - 15:00-16:30 UTC on Zoom  
 ##### Workshop: 
 ### Datapages

@@ -16,7 +16,7 @@ title: Get Involved!
       </div>
       <div class="col-sm-10">
         <br>
-        <b>Contact info:</b> <a href="mailto:{{ site.data.global.contact.general }}">General contact</a>, <a href="mailto:{{ site.data.global.contact.govboard }}">Governing Board</a>, 
+        <b>Contact info:</b> <a href="mailto:{{ site.data.global.contact.general }}">General</a>, <a href="mailto:{{ site.data.global.contact.govboard }}">Governing Board</a>, 
           <a href="mailto:{{ site.data.global.contact.director }}">Executive Director</a> <i><br>
           (more info available <a href="{{site.baseurl}}/people/">here</a>)</i><br>
         <b>General MB Listserv:</b> <a href="{{ site.data.global.listserv.general }}"><i>Subscribe</i></a><br> 
