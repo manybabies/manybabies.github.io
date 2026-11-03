@@ -18,9 +18,6 @@ Join us for an informal conversation with faculty members from U.S. universities
 * Adriana Weisleder, *Northwestern University*
 * Fan Yang, *University of Chicago*
 
-##### GRADUATE DISCUSSANTS:
-* Nagihan Öztürk, Teruni Ahamat, & Sana Fekrazad
-
 ### <a href="https://airtable.com/appRoqMKzcK3NsXt4/pagdSr60UAqPzphNW/form" target="_blank">REGISTER NOW</a>
 
 ##### <a target="_blank" href="https://calendar.google.com/calendar/u/0/r/eventedit/copy/NW9zMnZlMG1oZ2FhbjZtdTN0cjdoZzd1ZnMgY185OGE5YzRmYTA3YmVhNjNiYmMzZmUxYzg4NjU4NzhlMDE4MTQ3MTU1ZDA2ZjcyNTVmYTY2OGM5MjZjNTZlYjYxQGc"><img border="0" src="https://calendar.google.com/calendar/images/ext/gc_button1_en.gif" alt="Google Calendar"></a>
