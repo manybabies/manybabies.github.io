@@ -2119,7 +2119,7 @@
     "website": [
       "manybabies.org/MB6"
     ],
-    "fullCitation": "Meltzoff, A. N., Farwaha, S., Slaughter, V., Simpson, E. A., Brooks, R., Nielsen, M., Baumgartner, H. A., Bayet, L., Benavides-Varela, S., Boyce, V., Byers-Heinlein, K., Dönicke, J., Flaherty, B. P., Forbes, S. H., Frank, M. C., Geraci, A., Hamlin, K., Heimann, M., Keven, N., … Zeng, G. (2026). <b>ManyBabies 6: A multi-lab investigation of neonatal and early imitation</b>. <i>PsyArXiv</i>. <a href=\"https://doi.org/10.31234/osf.io/fe7pj_v1\" target=\"_blank\">https://doi.org/10.31234/osf.io/fe7pj_v1</a>"
+    "fullCitation": "Meltzoff, A. N., Farwaha, S., Slaughter, V., Simpson, E. A., Brooks, R., Nielsen, M., Baumgartner, H. A., Bayet, L., Benavides-Varela, S., Boyce, V., Byers-Heinlein, K., Dönicke, J., Flaherty, B. P., Forbes, S. H., Frank, M. C., Geraci, A., Hamlin, K., Heimann, M., Keven, N., … Zeng, G. (2026). <b>ManyBabies 6: A multi-lab investigation of neonatal and early imitation</b>. <i>Developmental Science (Stage 1 Registered Report)</i>. <a href=\"https://doi.org/10.31234/osf.io/fe7pj_v1\" target=\"_blank\">https://doi.org/10.31234/osf.io/fe7pj_v1</a>"
   },
   {
     "id": "recjQtgPWrMqQmda3",
@@ -2262,7 +2262,7 @@
       {
         "name": "Teruni Ahamat",
         "orcid": "https://orcid.org/0009-0009-3844-2537",
-        "institution": "University of Warwick",
+        "institution": null,
         "email": null,
         "site": null
       },
@@ -3663,7 +3663,7 @@
       {
         "name": "Leher Singh",
         "orcid": "https://orcid.org/0000-0001-9423-4956",
-        "institution": "University of Maryland",
+        "institution": "University of Maryland, Baltimore County",
         "email": "leher.singh.nus@gmail.com",
         "site": "https://blog.nus.edu.sg/babytalk/our-team/"
       },
@@ -3787,7 +3787,7 @@
       {
         "name": "Leher Singh",
         "orcid": "https://orcid.org/0000-0001-9423-4956",
-        "institution": "University of Maryland",
+        "institution": "University of Maryland, Baltimore County",
         "email": "leher.singh.nus@gmail.com",
         "site": "https://blog.nus.edu.sg/babytalk/our-team/"
       },
@@ -5004,7 +5004,7 @@
       {
         "name": "Leher Singh",
         "orcid": "https://orcid.org/0000-0001-9423-4956",
-        "institution": "University of Maryland",
+        "institution": "University of Maryland, Baltimore County",
         "email": "leher.singh.nus@gmail.com",
         "site": "https://blog.nus.edu.sg/babytalk/our-team/"
       },
@@ -5717,7 +5717,7 @@
       {
         "name": "Leher Singh",
         "orcid": "https://orcid.org/0000-0001-9423-4956",
-        "institution": "University of Maryland",
+        "institution": "University of Maryland, Baltimore County",
         "email": "leher.singh.nus@gmail.com",
         "site": "https://blog.nus.edu.sg/babytalk/our-team/"
       },
@@ -6434,7 +6434,7 @@
       {
         "name": "Leher Singh",
         "orcid": "https://orcid.org/0000-0001-9423-4956",
-        "institution": "University of Maryland",
+        "institution": "University of Maryland, Baltimore County",
         "email": "leher.singh.nus@gmail.com",
         "site": "https://blog.nus.edu.sg/babytalk/our-team/"
       },
@@ -6745,7 +6745,7 @@
       {
         "name": "Leher Singh",
         "orcid": "https://orcid.org/0000-0001-9423-4956",
-        "institution": "University of Maryland",
+        "institution": "University of Maryland, Baltimore County",
         "email": "leher.singh.nus@gmail.com",
         "site": "https://blog.nus.edu.sg/babytalk/our-team/"
       }
@@ -6855,7 +6855,7 @@
       {
         "name": "Leher Singh",
         "orcid": "https://orcid.org/0000-0001-9423-4956",
-        "institution": "University of Maryland",
+        "institution": "University of Maryland, Baltimore County",
         "email": "leher.singh.nus@gmail.com",
         "site": "https://blog.nus.edu.sg/babytalk/our-team/"
       },
@@ -7805,7 +7805,7 @@
       {
         "name": "Leher Singh",
         "orcid": "https://orcid.org/0000-0001-9423-4956",
-        "institution": "University of Maryland",
+        "institution": "University of Maryland, Baltimore County",
         "email": "leher.singh.nus@gmail.com",
         "site": "https://blog.nus.edu.sg/babytalk/our-team/"
       },
