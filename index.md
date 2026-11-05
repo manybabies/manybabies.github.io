@@ -95,7 +95,7 @@ The broader goals of <b>ManyBabies</b> come together in a set of collaborative p
     <hr>
     <div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
-        <a href="https://connect-btss.github.io/"><img src="/assets/img/connect_stacked_default.png" alt="CONNECT logo" width="125" style="margin-top:10px;"></a>
+        <a href="https://connect-btss.github.io/"><img src="/assets/img/connect-logo-blue.png" alt="CONNECT logo" width="100" style="margin-top:10px; filter: drop-shadow(-4px 4px 2px #7F7F7F);"></a>
       </div>
       <div class="col-sm-9">
         <h4><a href="https://connect-btss.github.io/">CONNECT</a></h4>
