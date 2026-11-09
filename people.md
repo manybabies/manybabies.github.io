@@ -180,18 +180,6 @@ title: People
 	</header>
 <br>
   <div class="container">
-    <div class="row">
-      <div class="col-sm-3 col-xs-6" align="center">
-        <img src="/assets/img/AbdellahElouatiq.jpg" alt="Abdellah Elouatiq" width="100" height="100" style="border-radius: 50%;">
-  	  </div>
-  	  <div class="col-sm-9">
-  	    <h4><a href="https://www.ru.nl/personen/elouatiq-a">Abdellah Elouatiq</a> [August 2024 - ] <a href="mailto:abdellah.elouatiq3@ru.nl" target="_blank">[email]</a></h4>
-        <i>Radboud University (Nijmegen, The Netherlands)</i>
-      </div>
-    </div>
-    <div class="col-sm-12">
-        <p>   </p>
-    </div>
 		<div class="row">
       <div class="col-sm-3 col-xs-6" align="center">
   	    <img src="/assets/img/TeruniAhamat.jpg" alt="Teruni Ahamat" width="100" height="100" style="border-radius: 50%; ">
@@ -213,6 +201,18 @@ title: People
         <i>Central European University (Vienna, Austria)</i>
       </div>
     </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <img src="/assets/img/SanaFekrazad.jpg" alt="Sana Fekrazad" width="100" height="100" style="border-radius: 50%; ">
+  	  </div>
+  	  <div class="col-sm-9">
+  	    <h4><a href="" target="_blank">Sana Fekrazad</a> [September 2026 - ] <a href="mailto:fekrazas@myumanitoba.ca">[email]</a></h4>
+        <i>University of Manitoba (Winnipeg, Canada)</i>
+      </div>
+    </div>
   </div>
 </section>
 <br>
@@ -226,6 +226,8 @@ title: People
 * [**Francis Yuen**](https://psych.ubc.ca/profile/francis-yuen/), *University of British Columbia, Vancouver, Canada* [2022-2023]
 * [**Magda Matetovici**](https://www.mpi.nl/people/matetovici-magda), *Max Planck Institute for Psycholinguistics, Nijmegen, The Netherlands* [2023-2025]
 * [**QueAnh (Quinn) Pham**](http://www.quinnpham.pro/), *University of Massachusetts, Boston, United States* [2023-2025]
+* [**Abdellah Elouatiq**](https://www.ru.nl/personen/elouatiq-a), *Radboud University, Nijmegen, The Netherlands* [2024-2026]
+
 
 #### Office Assistant
 * **Grace Zhou**, *University of Manitoba (Winnipeg, Canada)* [2021-2023]
