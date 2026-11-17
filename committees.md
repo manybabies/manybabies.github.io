@@ -39,11 +39,11 @@ Email committee chairs (see below) or the [MB Executive Director](mailto:contact
 * A Beginner's Guide to ManyBabies *(in development)*
 
 #### Committee Chairs
-* Nico Alessandroni, *Concordia University, Canada* [[email]](mailto:nicolas.alessandroni@concordia.ca)
+* Que Anh (Quinn) Pham, *University of Massachusetts Boston* [[email]](mailto:queanhpv@gmail.com)
 * Brianna McMillan, *Smith College, US* [[email]](mailto:bmcmillan@smith.edu)
 
 #### Committee Members
-> list to come!
+<iframe class="airtable-embed" src="https://airtable.com/embed/appRoqMKzcK3NsXt4/shryO35R6aQocuLS4?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="300" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 
 ***
