@@ -36,7 +36,6 @@ Email committee chairs (see below) or the [MB Executive Director](mailto:contact
 #### Example Committee Projects
 * ["What is ManyBabies" intro video](https://www.youtube.com/watch?v=EnI5sIZiwJE)
 * [ManyBabies Workshop Series](https://www.youtube.com/playlist?list=PLynqjZusW6nv30QKSo-I4CrI7Xsm2ph1D)
-* A Beginner's Guide to ManyBabies *(in development)*
 
 #### Committee Chairs
 * Que Anh (Quinn) Pham, *University of Massachusetts Boston* [[email]](mailto:queanhpv@gmail.com)
@@ -62,7 +61,7 @@ Email committee chairs (see below) or the [MB Executive Director](mailto:contact
 
 #### Committee Chairs
 * Casey Lew-Williams, *Princeton University, US* [[email]](mailto:caseylw@princeton.edu)
-* Jessica Kosie, *Princeton University, US* [[email]](mailto:jkosie@princeton.edu)
+* Jessica Kosie, *Arizona State University, US* [[email]](mailto:jkosie@asu.edu)
 
 #### Committee Members
 > list to come!

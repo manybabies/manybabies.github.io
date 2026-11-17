@@ -48,6 +48,6 @@ subtitle: Infant-Directed Speech Preference
 ***
 ## Links
 * **Protocols and Documentation**: [MB1-OSF](https://osf.io/re95x/)
-* **Data, analysis code, and study materials**: [MB1-OSF Registration](https://osf.io/gf7vh/resources?mode=&revisionId=&view_only=)
+* **Data, analysis code, and study materials**: [MB1-OSF Registration](https://osf.io/gf7vh/overview)
 * **Walkthrough videos**: [Databrary](https://nyu.databrary.org/volume/896)
 * **News**: [MB1-news]({{site.baseurl}}/tags/#MB1)
